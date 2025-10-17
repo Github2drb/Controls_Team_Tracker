@@ -1,7 +1,31 @@
 {
-  "exportDate": "2025-10-17T08:42:18.326Z",
-  "totalAssignments": 5,
+  "exportDate": "2025-10-17T09:15:23.678Z",
+  "totalAssignments": 7,
   "data": [
+    {
+      "id": 1760692436656,
+      "projectName": "A-GB1-25062_GE_Cold plate assembly station",
+      "engineerName": "Keerthi",
+      "startDate": "2025-10-06",
+      "endDate": "2025-11-29",
+      "totalDays": 55,
+      "assignedDays": 12,
+      "remainingDays": 43,
+      "status": "In Progress",
+      "notes": ""
+    },
+    {
+      "id": 1760692345342,
+      "projectName": "3A-GB1-25024-Coil soldering ",
+      "engineerName": "Eswanth Potnuri",
+      "startDate": "2025-10-07",
+      "endDate": "2025-10-31",
+      "totalDays": 25,
+      "assignedDays": 11,
+      "remainingDays": 14,
+      "status": "In Progress",
+      "notes": ""
+    },
     {
       "id": 1760690440088,
       "projectName": "13) 3A-GB1-25038_(Type-1) Pressure Tester Machine for Ultrasound Probes",
