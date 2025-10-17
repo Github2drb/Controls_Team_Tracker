@@ -20,149 +20,211 @@
 </head>
 <body class="bg-gradient-to-br from-slate-900 to-slate-800 min-h-screen p-6">
     <div class="max-w-7xl mx-auto">
-        <!-- Header -->
-        <div class="mb-8">
-            <h1 class="text-4xl font-bold text-white mb-2">Team Project Tracker</h1>
-            <p class="text-slate-300">Track project assignments and monitor team progress</p>
+        <!-- Header with Tabs -->
+        <div class="mb-8 flex justify-between items-center">
+            <div>
+                <h1 class="text-4xl font-bold text-white mb-2">Team Project Tracker</h1>
+                <p class="text-slate-300">Track project assignments and monitor team progress</p>
+            </div>
+            <button id="adminToggle" onclick="toggleAdminAuth()" class="px-4 py-2 bg-slate-700 text-white rounded-lg hover:bg-slate-600 transition font-medium text-sm">
+                🔐 Admin Panel
+            </button>
         </div>
 
-        <!-- Cloud Storage Section -->
-        <div class="bg-gradient-to-r from-purple-600 to-blue-600 rounded-lg shadow-lg p-6 mb-8 text-white">
-            <div class="flex items-start justify-between mb-6">
-                <div class="flex items-center gap-3">
-                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M15 13l-3-3m0 0l-3 3m3-3v12"></path>
-                    </svg>
+        <!-- Admin Auth Modal -->
+        <div id="adminAuthModal" class="hidden fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center p-4 z-50">
+            <div class="bg-white rounded-lg shadow-xl max-w-md w-full p-6">
+                <h2 class="text-2xl font-bold text-slate-900 mb-4">Admin Panel Access</h2>
+                <p class="text-slate-600 mb-4">Enter the admin password to access the admin panel</p>
+                <div class="mb-4">
+                    <label class="block text-sm font-medium text-slate-700 mb-2">Password</label>
+                    <input type="password" id="adminPassword" placeholder="Enter password" class="w-full px-4 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
+                </div>
+                <div class="flex gap-3">
+                    <button onclick="verifyAdminPassword()" class="flex-1 px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition font-medium">
+                        Access Admin
+                    </button>
+                    <button onclick="closeAdminAuth()" class="flex-1 px-4 py-2 bg-slate-600 text-white rounded-lg hover:bg-slate-700 transition font-medium">
+                        Cancel
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Main Content -->
+        <div id="mainContent">
+            <!-- Form Section -->
+            <div class="bg-white rounded-lg shadow-lg p-6 mb-8">
+                <h2 class="text-xl font-semibold text-slate-900 mb-4">Add New Project Assignment</h2>
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
                     <div>
-                        <h3 class="text-lg font-semibold">Live Data Sync</h3>
-                        <p class="text-sm text-purple-100">Data automatically syncs from JSON file on page load</p>
+                        <label class="block text-sm font-medium text-slate-700 mb-1">Project Name *</label>
+                        <input type="text" id="projectName" placeholder="e.g., Website Redesign" class="w-full px-3 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
+                    </div>
+                    <div>
+                        <label class="block text-sm font-medium text-slate-700 mb-1">Team Engineer Name *</label>
+                        <input type="text" id="engineerName" placeholder="e.g., John Doe" class="w-full px-3 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
+                    </div>
+                    <div>
+                        <label class="block text-sm font-medium text-slate-700 mb-1">Start Date *</label>
+                        <input type="date" id="startDate" class="w-full px-3 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
+                    </div>
+                    <div>
+                        <label class="block text-sm font-medium text-slate-700 mb-1">End Date *</label>
+                        <input type="date" id="endDate" class="w-full px-3 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
+                    </div>
+                    <div>
+                        <label class="block text-sm font-medium text-slate-700 mb-1">Status</label>
+                        <select id="status" class="w-full px-3 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
+                            <option>In Progress</option>
+                            <option>Completed</option>
+                            <option>On Hold</option>
+                            <option>At Risk</option>
+                        </select>
+                    </div>
+                    <div>
+                        <label class="block text-sm font-medium text-slate-700 mb-1">Notes</label>
+                        <input type="text" id="notes" placeholder="Additional notes" class="w-full px-3 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
+                    </div>
+                    <div class="md:col-span-2 lg:col-span-3 flex gap-3 pt-2">
+                        <button onclick="addProject()" class="flex items-center gap-2 px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition font-medium">
+                            ➕ Add Assignment
+                        </button>
                     </div>
                 </div>
-                <div class="text-right text-sm">
-                    <p class="font-medium"><span id="assignmentCount">0</span> active assignments</p>
-                    <p class="text-purple-100 mt-1 text-xs" id="syncStatus">Ready</p>
+            </div>
+
+            <!-- Filter Section -->
+            <div class="bg-white rounded-lg shadow-lg p-6 mb-8">
+                <h2 class="text-lg font-semibold text-slate-900 mb-4">🔍 View Active Assignments</h2>
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+                    <div>
+                        <label class="block text-sm font-medium text-slate-700 mb-2">Filter By</label>
+                        <select id="filterType" onchange="updateFilterOptions()" class="w-full px-3 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
+                            <option value="all">All Assignments</option>
+                            <option value="project">By Project</option>
+                            <option value="engineer">By Engineer</option>
+                        </select>
+                    </div>
+                    <div id="filterSelectContainer" class="hidden">
+                        <label class="block text-sm font-medium text-slate-700 mb-2">Select Option</label>
+                        <select id="filterValue" onchange="renderTable()" class="w-full px-3 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
+                            <option value="">Choose...</option>
+                        </select>
+                    </div>
+                    <div class="flex items-end">
+                        <button onclick="clearFilters()" class="w-full px-4 py-2 bg-slate-600 text-white rounded-lg hover:bg-slate-700 transition font-medium">
+                            Clear Filters
+                        </button>
+                    </div>
                 </div>
             </div>
-            <div class="grid grid-cols-1 md:grid-cols-3 gap-3">
-                <button onclick="downloadJSON()" class="bg-white bg-opacity-20 hover:bg-opacity-30 px-4 py-2 rounded-lg transition font-medium text-sm">
-                    📥 Download JSON
-                </button>
-                <button onclick="downloadCSV()" class="bg-white bg-opacity-20 hover:bg-opacity-30 px-4 py-2 rounded-lg transition font-medium text-sm">
-                    📊 Export to CSV
-                </button>
-                <button onclick="clearAllData()" class="bg-red-500 hover:bg-red-600 px-4 py-2 rounded-lg transition font-medium text-sm">
-                    🗑️ Clear All Data
-                </button>
-            </div>
-            <div class="mt-4 p-3 bg-white bg-opacity-10 rounded text-xs text-purple-100">
-                <p class="font-semibold mb-2">💡 How to use with GitHub:</p>
-                <p>1. Upload <span class="font-medium">project_tracker.html</span> and <span class="font-medium">data.json</span> to GitHub</p>
-                <p>2. Enable GitHub Pages in repository settings</p>
-                <p>3. Share the live link - data loads automatically from data.json</p>
-                <p>4. Update data.json in the repository to sync changes across all users</p>
+
+            <!-- Dashboard Section -->
+            <div class="bg-white rounded-lg shadow-lg overflow-hidden">
+                <div class="p-6 border-b border-slate-200">
+                    <h2 class="text-xl font-semibold text-slate-900">
+                        <span id="tableTitle">All Active Assignments</span>
+                        <span class="text-slate-500 text-lg ml-2">(<span id="tableCount">0</span>)</span>
+                    </h2>
+                </div>
+                <div class="overflow-x-auto">
+                    <table class="w-full" id="dataTable">
+                        <thead class="bg-slate-50 border-b border-slate-200">
+                            <tr>
+                                <th class="px-6 py-3 text-left text-sm font-semibold text-slate-900">Project Name</th>
+                                <th class="px-6 py-3 text-left text-sm font-semibold text-slate-900">Engineer</th>
+                                <th class="px-6 py-3 text-left text-sm font-semibold text-slate-900">Start Date</th>
+                                <th class="px-6 py-3 text-left text-sm font-semibold text-slate-900">End Date</th>
+                                <th class="px-6 py-3 text-center text-sm font-semibold text-slate-900">Days Assigned</th>
+                                <th class="px-6 py-3 text-center text-sm font-semibold text-slate-900">Remaining Days</th>
+                                <th class="px-6 py-3 text-center text-sm font-semibold text-slate-900">Status</th>
+                                <th class="px-6 py-3 text-left text-sm font-semibold text-slate-900">Notes</th>
+                                <th class="px-6 py-3 text-center text-sm font-semibold text-slate-900">Action</th>
+                            </tr>
+                        </thead>
+                        <tbody id="tableBody" class="divide-y divide-slate-200">
+                            <tr><td colspan="9" class="px-6 py-12 text-center text-slate-500 text-lg">No projects added yet. Start by adding a new project assignment above.</td></tr>
+                        </tbody>
+                    </table>
+                </div>
             </div>
         </div>
 
-        <!-- Form Section -->
-        <div class="bg-white rounded-lg shadow-lg p-6 mb-8">
-            <h2 class="text-xl font-semibold text-slate-900 mb-4">Add New Project Assignment</h2>
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-                <div>
-                    <label class="block text-sm font-medium text-slate-700 mb-1">Project Name *</label>
-                    <input type="text" id="projectName" placeholder="e.g., Website Redesign" class="w-full px-3 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
+        <!-- Admin Panel Content -->
+        <div id="adminPanel" class="hidden">
+            <!-- Cloud Storage Section -->
+            <div class="bg-gradient-to-r from-purple-600 to-blue-600 rounded-lg shadow-lg p-6 mb-8 text-white">
+                <div class="flex items-start justify-between mb-6">
+                    <div class="flex items-center gap-3">
+                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M15 13l-3-3m0 0l-3 3m3-3v12"></path>
+                        </svg>
+                        <div>
+                            <h3 class="text-lg font-semibold">Live Data Sync</h3>
+                            <p class="text-sm text-purple-100">Manage and sync data from JSON file</p>
+                        </div>
+                    </div>
+                    <div class="text-right text-sm">
+                        <p class="font-medium"><span id="adminAssignmentCount">0</span> active assignments</p>
+                        <p class="text-purple-100 mt-1 text-xs" id="adminSyncStatus">Ready</p>
+                    </div>
                 </div>
-                <div>
-                    <label class="block text-sm font-medium text-slate-700 mb-1">Team Engineer Name *</label>
-                    <input type="text" id="engineerName" placeholder="e.g., John Doe" class="w-full px-3 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
-                </div>
-                <div>
-                    <label class="block text-sm font-medium text-slate-700 mb-1">Start Date *</label>
-                    <input type="date" id="startDate" class="w-full px-3 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
-                </div>
-                <div>
-                    <label class="block text-sm font-medium text-slate-700 mb-1">End Date *</label>
-                    <input type="date" id="endDate" class="w-full px-3 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
-                </div>
-                <div>
-                    <label class="block text-sm font-medium text-slate-700 mb-1">Status</label>
-                    <select id="status" class="w-full px-3 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
-                        <option>In Progress</option>
-                        <option>Completed</option>
-                        <option>On Hold</option>
-                        <option>At Risk</option>
-                    </select>
-                </div>
-                <div>
-                    <label class="block text-sm font-medium text-slate-700 mb-1">Notes</label>
-                    <input type="text" id="notes" placeholder="Additional notes" class="w-full px-3 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
-                </div>
-                <div class="md:col-span-2 lg:col-span-3 flex gap-3 pt-2">
-                    <button onclick="addProject()" class="flex items-center gap-2 px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition font-medium">
-                        ➕ Add Assignment
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-3">
+                    <button onclick="downloadJSON()" class="bg-white bg-opacity-20 hover:bg-opacity-30 px-4 py-2 rounded-lg transition font-medium text-sm">
+                        📥 Download JSON
+                    </button>
+                    <button onclick="downloadCSV()" class="bg-white bg-opacity-20 hover:bg-opacity-30 px-4 py-2 rounded-lg transition font-medium text-sm">
+                        📊 Export to CSV
+                    </button>
+                    <button onclick="clearAllData()" class="bg-red-500 hover:bg-red-600 px-4 py-2 rounded-lg transition font-medium text-sm">
+                        🗑️ Clear All Data
                     </button>
                 </div>
+                <div class="mt-4 p-3 bg-white bg-opacity-10 rounded text-xs text-purple-100">
+                    <p class="font-semibold mb-2">💡 How to use with GitHub:</p>
+                    <p>1. Upload <span class="font-medium">index.html</span> and <span class="font-medium">data.json</span> to GitHub</p>
+                    <p>2. Enable GitHub Pages in repository settings</p>
+                    <p>3. Share the live link - data loads automatically from data.json</p>
+                    <p>4. Update data.json in the repository to sync changes across all users</p>
+                </div>
             </div>
-        </div>
 
-        <!-- Filter Section -->
-        <div class="bg-white rounded-lg shadow-lg p-6 mb-8">
-            <h2 class="text-lg font-semibold text-slate-900 mb-4">🔍 View Active Assignments</h2>
-            <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-                <div>
-                    <label class="block text-sm font-medium text-slate-700 mb-2">Filter By</label>
-                    <select id="filterType" onchange="updateFilterOptions()" class="w-full px-3 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
-                        <option value="all">All Assignments</option>
-                        <option value="project">By Project</option>
-                        <option value="engineer">By Engineer</option>
-                    </select>
+            <!-- Admin Options -->
+            <div class="bg-white rounded-lg shadow-lg p-6">
+                <h2 class="text-xl font-semibold text-slate-900 mb-4">⚙️ Admin Settings</h2>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                    <div class="bg-slate-50 p-4 rounded-lg">
+                        <h3 class="font-semibold text-slate-900 mb-2">Change Admin Password</h3>
+                        <div class="space-y-3">
+                            <div>
+                                <label class="block text-sm font-medium text-slate-700 mb-1">New Password</label>
+                                <input type="password" id="newPassword" placeholder="Enter new password" class="w-full px-3 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
+                            </div>
+                            <button onclick="changePassword()" class="w-full px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition font-medium">
+                                Update Password
+                            </button>
+                        </div>
+                    </div>
+                    <div class="bg-slate-50 p-4 rounded-lg">
+                        <h3 class="font-semibold text-slate-900 mb-2">Admin Actions</h3>
+                        <div class="space-y-2">
+                            <button onclick="exitAdmin()" class="w-full px-4 py-2 bg-slate-600 text-white rounded-lg hover:bg-slate-700 transition font-medium text-sm">
+                                Exit Admin Panel
+                            </button>
+                            <button onclick="showCurrentPassword()" class="w-full px-4 py-2 bg-slate-500 text-white rounded-lg hover:bg-slate-600 transition font-medium text-sm">
+                                View Current Password
+                            </button>
+                        </div>
+                    </div>
                 </div>
-                <div id="filterSelectContainer" class="hidden">
-                    <label class="block text-sm font-medium text-slate-700 mb-2">Select Option</label>
-                    <select id="filterValue" onchange="renderTable()" class="w-full px-3 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
-                        <option value="">Choose...</option>
-                    </select>
-                </div>
-                <div class="flex items-end">
-                    <button onclick="clearFilters()" class="w-full px-4 py-2 bg-slate-600 text-white rounded-lg hover:bg-slate-700 transition font-medium">
-                        Clear Filters
-                    </button>
-                </div>
-            </div>
-        </div>
-
-        <!-- Dashboard Section -->
-        <div class="bg-white rounded-lg shadow-lg overflow-hidden">
-            <div class="p-6 border-b border-slate-200">
-                <h2 class="text-xl font-semibold text-slate-900">
-                    <span id="tableTitle">All Active Assignments</span>
-                    <span class="text-slate-500 text-lg ml-2">(<span id="tableCount">0</span>)</span>
-                </h2>
-            </div>
-            <div class="overflow-x-auto">
-                <table class="w-full" id="dataTable">
-                    <thead class="bg-slate-50 border-b border-slate-200">
-                        <tr>
-                            <th class="px-6 py-3 text-left text-sm font-semibold text-slate-900">Project Name</th>
-                            <th class="px-6 py-3 text-left text-sm font-semibold text-slate-900">Engineer</th>
-                            <th class="px-6 py-3 text-left text-sm font-semibold text-slate-900">Start Date</th>
-                            <th class="px-6 py-3 text-left text-sm font-semibold text-slate-900">End Date</th>
-                            <th class="px-6 py-3 text-center text-sm font-semibold text-slate-900">Days Assigned</th>
-                            <th class="px-6 py-3 text-center text-sm font-semibold text-slate-900">Remaining Days</th>
-                            <th class="px-6 py-3 text-center text-sm font-semibold text-slate-900">Status</th>
-                            <th class="px-6 py-3 text-left text-sm font-semibold text-slate-900">Notes</th>
-                            <th class="px-6 py-3 text-center text-sm font-semibold text-slate-900">Action</th>
-                        </tr>
-                    </thead>
-                    <tbody id="tableBody" class="divide-y divide-slate-200">
-                        <tr><td colspan="9" class="px-6 py-12 text-center text-slate-500 text-lg">No projects added yet. Start by adding a new project assignment above.</td></tr>
-                    </tbody>
-                </table>
             </div>
         </div>
     </div>
 
     <script>
         let projects = [];
+        const DEFAULT_PASSWORD = 'admin123';
 
         // Load data from JSON file on page load
         async function loadDataFromJSON() {
@@ -172,16 +234,16 @@
                     const data = await response.json();
                     if (data.data && Array.isArray(data.data)) {
                         projects = data.data;
-                        document.getElementById('syncStatus').textContent = `✓ Synced at ${new Date().toLocaleTimeString()}`;
+                        document.getElementById('adminSyncStatus').textContent = `✓ Synced at ${new Date().toLocaleTimeString()}`;
                         renderTable();
                     }
                 } else {
                     console.log('data.json not found - starting fresh');
-                    document.getElementById('syncStatus').textContent = 'No data.json found';
+                    document.getElementById('adminSyncStatus').textContent = 'No data.json found';
                 }
             } catch (error) {
                 console.log('Could not load data.json:', error);
-                document.getElementById('syncStatus').textContent = 'Starting fresh';
+                document.getElementById('adminSyncStatus').textContent = 'Starting fresh';
             }
         }
 
@@ -273,8 +335,8 @@
         function renderTable() {
             const filtered = getFilteredProjects();
             const tbody = document.getElementById('tableBody');
-            document.getElementById('assignmentCount').textContent = projects.length;
             document.getElementById('tableCount').textContent = filtered.length;
+            document.getElementById('adminAssignmentCount').textContent = projects.length;
 
             if (filtered.length === 0) {
                 tbody.innerHTML = '<tr><td colspan="9" class="px-6 py-12 text-center text-slate-500 text-lg">No projects added yet. Start by adding a new project assignment above.</td></tr>';
@@ -389,9 +451,63 @@
                 projects = [];
                 renderTable();
                 updateFilterOptions();
-                document.getElementById('syncStatus').textContent = 'All data cleared';
+                document.getElementById('adminSyncStatus').textContent = 'All data cleared';
             }
         }
+
+        // Admin Panel Functions
+        function toggleAdminAuth() {
+            document.getElementById('adminAuthModal').classList.remove('hidden');
+            document.getElementById('adminPassword').value = '';
+            document.getElementById('adminPassword').focus();
+        }
+
+        function closeAdminAuth() {
+            document.getElementById('adminAuthModal').classList.add('hidden');
+        }
+
+        function verifyAdminPassword() {
+            const password = document.getElementById('adminPassword').value;
+            const storedPassword = localStorage.getItem('adminPassword') || DEFAULT_PASSWORD;
+
+            if (password === storedPassword) {
+                document.getElementById('adminAuthModal').classList.add('hidden');
+                document.getElementById('mainContent').classList.add('hidden');
+                document.getElementById('adminPanel').classList.remove('hidden');
+            } else {
+                alert('Incorrect password');
+            }
+        }
+
+        function exitAdmin() {
+            document.getElementById('adminPanel').classList.add('hidden');
+            document.getElementById('mainContent').classList.remove('hidden');
+        }
+
+        function changePassword() {
+            const newPassword = document.getElementById('newPassword').value;
+            
+            if (!newPassword) {
+                alert('Please enter a new password');
+                return;
+            }
+
+            localStorage.setItem('adminPassword', newPassword);
+            alert('Password changed successfully!');
+            document.getElementById('newPassword').value = '';
+        }
+
+        function showCurrentPassword() {
+            const storedPassword = localStorage.getItem('adminPassword') || DEFAULT_PASSWORD;
+            alert(`Current Admin Password: ${storedPassword}`);
+        }
+
+        // Allow Enter key to submit password
+        document.addEventListener('DOMContentLoaded', function() {
+            document.getElementById('adminPassword')?.addEventListener('keypress', function(e) {
+                if (e.key === 'Enter') verifyAdminPassword();
+            });
+        });
 
         // Load data on page load
         window.addEventListener('load', loadDataFromJSON);
