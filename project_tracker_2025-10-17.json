@@ -1,0 +1,18 @@
+{
+  "exportDate": "2025-10-17T07:30:59.847Z",
+  "totalAssignments": 1,
+  "data": [
+    {
+      "id": 1760686255234,
+      "projectName": "3A-SO1-25025_Bailer_Assembly",
+      "engineerName": "Susanth",
+      "startDate": "2025-09-01",
+      "endDate": "2025-10-31",
+      "totalDays": 61,
+      "assignedDays": 47,
+      "remainingDays": 14,
+      "status": "In Progress",
+      "notes": ""
+    }
+  ]
+}
