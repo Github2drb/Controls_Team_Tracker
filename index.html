@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Team Project Tracker</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lucide.js/0.263.1/umd/lucide.min.js"></script>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+        }
+        .icon-inline {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            margin-right: 0.5rem;
+        }
+    </style>
+</head>
+<body class="bg-gradient-to-br from-slate-900 to-slate-800 min-h-screen p-6">
+    <div class="max-w-7xl mx-auto">
+        <!-- Header -->
+        <div class="mb-8">
+            <h1 class="text-4xl font-bold text-white mb-2">Team Project Tracker</h1>
+            <p class="text-slate-300">Track project assignments and monitor team progress</p>
+        </div>
+
+        <!-- Cloud Storage Section -->
+        <div class="bg-gradient-to-r from-purple-600 to-blue-600 rounded-lg shadow-lg p-6 mb-8 text-white">
+            <div class="flex items-start justify-between mb-6">
+                <div class="flex items-center gap-3">
+                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M15 13l-3-3m0 0l-3 3m3-3v12"></path>
+                    </svg>
+                    <div>
+                        <h3 class="text-lg font-semibold">Live Data Sync</h3>
+                        <p class="text-sm text-purple-100">Data automatically syncs from JSON file on page load</p>
+                    </div>
+                </div>
+                <div class="text-right text-sm">
+                    <p class="font-medium"><span id="assignmentCount">0</span> active assignments</p>
+                    <p class="text-purple-100 mt-1 text-xs" id="syncStatus">Ready</p>
+                </div>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-3">
+                <button onclick="downloadJSON()" class="bg-white bg-opacity-20 hover:bg-opacity-30 px-4 py-2 rounded-lg transition font-medium text-sm">
+                    📥 Download JSON
+                </button>
+                <button onclick="downloadCSV()" class="bg-white bg-opacity-20 hover:bg-opacity-30 px-4 py-2 rounded-lg transition font-medium text-sm">
+                    📊 Export to CSV
+                </button>
+                <button onclick="clearAllData()" class="bg-red-500 hover:bg-red-600 px-4 py-2 rounded-lg transition font-medium text-sm">
+                    🗑️ Clear All Data
+                </button>
+            </div>
+            <div class="mt-4 p-3 bg-white bg-opacity-10 rounded text-xs text-purple-100">
+                <p class="font-semibold mb-2">💡 How to use with GitHub:</p>
+                <p>1. Upload <span class="font-medium">project_tracker.html</span> and <span class="font-medium">data.json</span> to GitHub</p>
+                <p>2. Enable GitHub Pages in repository settings</p>
+                <p>3. Share the live link - data loads automatically from data.json</p>
+                <p>4. Update data.json in the repository to sync changes across all users</p>
+            </div>
+        </div>
+
+        <!-- Form Section -->
+        <div class="bg-white rounded-lg shadow-lg p-6 mb-8">
+            <h2 class="text-xl font-semibold text-slate-900 mb-4">Add New Project Assignment</h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                <div>
+                    <label class="block text-sm font-medium text-slate-700 mb-1">Project Name *</label>
+                    <input type="text" id="projectName" placeholder="e.g., Website Redesign" class="w-full px-3 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
+                </div>
+                <div>
+                    <label class="block text-sm font-medium text-slate-700 mb-1">Team Engineer Name *</label>
+                    <input type="text" id="engineerName" placeholder="e.g., John Doe" class="w-full px-3 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
+                </div>
+                <div>
+                    <label class="block text-sm font-medium text-slate-700 mb-1">Start Date *</label>
+                    <input type="date" id="startDate" class="w-full px-3 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
+                </div>
+                <div>
+                    <label class="block text-sm font-medium text-slate-700 mb-1">End Date *</label>
+                    <input type="date" id="endDate" class="w-full px-3 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
+                </div>
+                <div>
+                    <label class="block text-sm font-medium text-slate-700 mb-1">Status</label>
+                    <select id="status" class="w-full px-3 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
+                        <option>In Progress</option>
+                        <option>Completed</option>
+                        <option>On Hold</option>
+                        <option>At Risk</option>
+                    </select>
+                </div>
+                <div>
+                    <label class="block text-sm font-medium text-slate-700 mb-1">Notes</label>
+                    <input type="text" id="notes" placeholder="Additional notes" class="w-full px-3 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
+                </div>
+                <div class="md:col-span-2 lg:col-span-3 flex gap-3 pt-2">
+                    <button onclick="addProject()" class="flex items-center gap-2 px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition font-medium">
+                        ➕ Add Assignment
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Filter Section -->
+        <div class="bg-white rounded-lg shadow-lg p-6 mb-8">
+            <h2 class="text-lg font-semibold text-slate-900 mb-4">🔍 View Active Assignments</h2>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+                <div>
+                    <label class="block text-sm font-medium text-slate-700 mb-2">Filter By</label>
+                    <select id="filterType" onchange="updateFilterOptions()" class="w-full px-3 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
+                        <option value="all">All Assignments</option>
+                        <option value="project">By Project</option>
+                        <option value="engineer">By Engineer</option>
+                    </select>
+                </div>
+                <div id="filterSelectContainer" class="hidden">
+                    <label class="block text-sm font-medium text-slate-700 mb-2">Select Option</label>
+                    <select id="filterValue" onchange="renderTable()" class="w-full px-3 py-2 border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
+                        <option value="">Choose...</option>
+                    </select>
+                </div>
+                <div class="flex items-end">
+                    <button onclick="clearFilters()" class="w-full px-4 py-2 bg-slate-600 text-white rounded-lg hover:bg-slate-700 transition font-medium">
+                        Clear Filters
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Dashboard Section -->
+        <div class="bg-white rounded-lg shadow-lg overflow-hidden">
+            <div class="p-6 border-b border-slate-200">
+                <h2 class="text-xl font-semibold text-slate-900">
+                    <span id="tableTitle">All Active Assignments</span>
+                    <span class="text-slate-500 text-lg ml-2">(<span id="tableCount">0</span>)</span>
+                </h2>
+            </div>
+            <div class="overflow-x-auto">
+                <table class="w-full" id="dataTable">
+                    <thead class="bg-slate-50 border-b border-slate-200">
+                        <tr>
+                            <th class="px-6 py-3 text-left text-sm font-semibold text-slate-900">Project Name</th>
+                            <th class="px-6 py-3 text-left text-sm font-semibold text-slate-900">Engineer</th>
+                            <th class="px-6 py-3 text-left text-sm font-semibold text-slate-900">Start Date</th>
+                            <th class="px-6 py-3 text-left text-sm font-semibold text-slate-900">End Date</th>
+                            <th class="px-6 py-3 text-center text-sm font-semibold text-slate-900">Days Assigned</th>
+                            <th class="px-6 py-3 text-center text-sm font-semibold text-slate-900">Remaining Days</th>
+                            <th class="px-6 py-3 text-center text-sm font-semibold text-slate-900">Status</th>
+                            <th class="px-6 py-3 text-left text-sm font-semibold text-slate-900">Notes</th>
+                            <th class="px-6 py-3 text-center text-sm font-semibold text-slate-900">Action</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tableBody" class="divide-y divide-slate-200">
+                        <tr><td colspan="9" class="px-6 py-12 text-center text-slate-500 text-lg">No projects added yet. Start by adding a new project assignment above.</td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let projects = [];
+
+        // Load data from JSON file on page load
+        async function loadDataFromJSON() {
+            try {
+                const response = await fetch('data.json');
+                if (response.ok) {
+                    const data = await response.json();
+                    if (data.data && Array.isArray(data.data)) {
+                        projects = data.data;
+                        document.getElementById('syncStatus').textContent = `✓ Synced at ${new Date().toLocaleTimeString()}`;
+                        renderTable();
+                    }
+                } else {
+                    console.log('data.json not found - starting fresh');
+                    document.getElementById('syncStatus').textContent = 'No data.json found';
+                }
+            } catch (error) {
+                console.log('Could not load data.json:', error);
+                document.getElementById('syncStatus').textContent = 'Starting fresh';
+            }
+        }
+
+        function calculateDays(startDate, endDate) {
+            const start = new Date(startDate);
+            const end = new Date(endDate);
+            const today = new Date();
+            today.setHours(0, 0, 0, 0);
+
+            const totalDays = Math.ceil((end - start) / (1000 * 60 * 60 * 24)) + 1;
+            const assignedDays = Math.ceil((today - start) / (1000 * 60 * 60 * 24)) + 1;
+            const remainingDays = Math.max(0, totalDays - assignedDays);
+
+            return {
+                total: totalDays,
+                assigned: Math.max(0, assignedDays),
+                remaining: remainingDays
+            };
+        }
+
+        function addProject() {
+            const projectName = document.getElementById('projectName').value;
+            const engineerName = document.getElementById('engineerName').value;
+            const startDate = document.getElementById('startDate').value;
+            const endDate = document.getElementById('endDate').value;
+            const status = document.getElementById('status').value;
+            const notes = document.getElementById('notes').value;
+
+            if (!projectName || !engineerName || !startDate || !endDate) {
+                alert('Please fill in all required fields');
+                return;
+            }
+
+            const days = calculateDays(startDate, endDate);
+            const newProject = {
+                id: Date.now(),
+                projectName,
+                engineerName,
+                startDate,
+                endDate,
+                totalDays: days.total,
+                assignedDays: days.assigned,
+                remainingDays: days.remaining,
+                status,
+                notes
+            };
+
+            projects.unshift(newProject);
+            
+            document.getElementById('projectName').value = '';
+            document.getElementById('engineerName').value = '';
+            document.getElementById('startDate').value = '';
+            document.getElementById('endDate').value = '';
+            document.getElementById('status').value = 'In Progress';
+            document.getElementById('notes').value = '';
+            
+            renderTable();
+            updateFilterOptions();
+        }
+
+        function deleteProject(id) {
+            if (confirm('Are you sure you want to delete this assignment?')) {
+                projects = projects.filter(p => p.id !== id);
+                renderTable();
+                updateFilterOptions();
+            }
+        }
+
+        function getStatusColor(status) {
+            const colors = {
+                'Completed': 'bg-green-100 text-green-800',
+                'On Hold': 'bg-yellow-100 text-yellow-800',
+                'At Risk': 'bg-red-100 text-red-800',
+                'In Progress': 'bg-blue-100 text-blue-800'
+            };
+            return colors[status] || colors['In Progress'];
+        }
+
+        function getFilteredProjects() {
+            const filterType = document.getElementById('filterType').value;
+            const filterValue = document.getElementById('filterValue').value;
+
+            if (filterType === 'all' || !filterValue) return projects;
+            if (filterType === 'project') return projects.filter(p => p.projectName === filterValue);
+            if (filterType === 'engineer') return projects.filter(p => p.engineerName === filterValue);
+            return projects;
+        }
+
+        function renderTable() {
+            const filtered = getFilteredProjects();
+            const tbody = document.getElementById('tableBody');
+            document.getElementById('assignmentCount').textContent = projects.length;
+            document.getElementById('tableCount').textContent = filtered.length;
+
+            if (filtered.length === 0) {
+                tbody.innerHTML = '<tr><td colspan="9" class="px-6 py-12 text-center text-slate-500 text-lg">No projects added yet. Start by adding a new project assignment above.</td></tr>';
+                return;
+            }
+
+            tbody.innerHTML = filtered.map(project => `
+                <tr class="hover:bg-slate-50 transition">
+                    <td class="px-6 py-4 text-sm font-medium text-slate-900">${project.projectName}</td>
+                    <td class="px-6 py-4 text-sm text-slate-700">${project.engineerName}</td>
+                    <td class="px-6 py-4 text-sm text-slate-700">${project.startDate}</td>
+                    <td class="px-6 py-4 text-sm text-slate-700">${project.endDate}</td>
+                    <td class="px-6 py-4 text-sm text-center font-semibold text-blue-600">${project.assignedDays}</td>
+                    <td class="px-6 py-4 text-sm text-center font-semibold text-orange-600">${project.remainingDays}</td>
+                    <td class="px-6 py-4 text-sm text-center">
+                        <span class="px-3 py-1 rounded-full text-xs font-semibold ${getStatusColor(project.status)}">
+                            ${project.status}
+                        </span>
+                    </td>
+                    <td class="px-6 py-4 text-sm text-slate-700 max-w-xs truncate">${project.notes || '-'}</td>
+                    <td class="px-6 py-4 text-center">
+                        <button onclick="deleteProject(${project.id})" class="text-red-600 hover:text-red-800 transition" title="Delete">
+                            🗑️
+                        </button>
+                    </td>
+                </tr>
+            `).join('');
+        }
+
+        function updateFilterOptions() {
+            const filterType = document.getElementById('filterType').value;
+            const filterContainer = document.getElementById('filterSelectContainer');
+            const filterValue = document.getElementById('filterValue');
+
+            if (filterType === 'all') {
+                filterContainer.classList.add('hidden');
+            } else {
+                filterContainer.classList.remove('hidden');
+                
+                let options = [];
+                if (filterType === 'project') {
+                    options = [...new Set(projects.map(p => p.projectName))].sort();
+                } else if (filterType === 'engineer') {
+                    options = [...new Set(projects.map(p => p.engineerName))].sort();
+                }
+
+                filterValue.innerHTML = '<option value="">Choose...</option>' + 
+                    options.map(opt => `<option value="${opt}">${opt}</option>`).join('');
+            }
+            renderTable();
+        }
+
+        function clearFilters() {
+            document.getElementById('filterType').value = 'all';
+            document.getElementById('filterValue').value = '';
+            document.getElementById('filterSelectContainer').classList.add('hidden');
+            renderTable();
+        }
+
+        function downloadJSON() {
+            if (projects.length === 0) {
+                alert('No assignments to export');
+                return;
+            }
+
+            const exportData = {
+                exportDate: new Date().toISOString(),
+                totalAssignments: projects.length,
+                data: projects
+            };
+
+            const blob = new Blob([JSON.stringify(exportData, null, 2)], { type: 'application/json' });
+            const url = window.URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `project_tracker_${new Date().toISOString().split('T')[0]}.json`;
+            document.body.appendChild(a);
+            a.click();
+            window.URL.revokeObjectURL(url);
+            document.body.removeChild(a);
+        }
+
+        function downloadCSV() {
+            if (projects.length === 0) {
+                alert('No assignments to export');
+                return;
+            }
+
+            const headers = ['Project Name', 'Team Engineer Name', 'Start Date', 'End Date', 'Total Days', 'Days Assigned', 'Remaining Days', 'Status', 'Notes'];
+            const rows = projects.map(p => [
+                p.projectName, p.engineerName, p.startDate, p.endDate, p.totalDays, p.assignedDays, p.remainingDays, p.status, p.notes || ''
+            ]);
+
+            const csvContent = [
+                headers.join(','),
+                ...rows.map(row => row.map(cell => `"${cell}"`).join(','))
+            ].join('\n');
+
+            const blob = new Blob([csvContent], { type: 'text/csv' });
+            const url = window.URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `project_tracker_${new Date().toISOString().split('T')[0]}.csv`;
+            document.body.appendChild(a);
+            a.click();
+            window.URL.revokeObjectURL(url);
+            document.body.removeChild(a);
+        }
+
+        function clearAllData() {
+            if (confirm('Are you sure you want to delete all data? This cannot be undone.')) {
+                projects = [];
+                renderTable();
+                updateFilterOptions();
+                document.getElementById('syncStatus').textContent = 'All data cleared';
+            }
+        }
+
+        // Load data on page load
+        window.addEventListener('load', loadDataFromJSON);
+    </script>
+</body>
+</html>
