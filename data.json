@@ -1,7 +1,55 @@
 {
-  "exportDate": "2025-10-17T09:15:23.678Z",
-  "totalAssignments": 7,
+  "exportDate": "2025-10-18T09:02:02.722Z",
+  "totalAssignments": 11,
   "data": [
+    {
+      "id": 1760777682651,
+      "projectName": "3DBTT202-TTIA-582D PROJECT WELDING FIXTURE & CELLS",
+      "engineerName": "Rajesh R",
+      "startDate": "2025-02-03",
+      "endDate": "2025-11-30",
+      "totalDays": 301,
+      "assignedDays": 258,
+      "remainingDays": 43,
+      "status": "In Progress",
+      "notes": ""
+    },
+    {
+      "id": 1760777639376,
+      "projectName": "3W2401 -560B Project MRA Roof spot welding line TKM",
+      "engineerName": "Rajesh R",
+      "startDate": "2024-11-11",
+      "endDate": "2026-01-31",
+      "totalDays": 447,
+      "assignedDays": 342,
+      "remainingDays": 105,
+      "status": "In Progress",
+      "notes": ""
+    },
+    {
+      "id": 1760777597075,
+      "projectName": "3W2401 -560B Project MRA Roof spot welding line TKM",
+      "engineerName": "Prakash",
+      "startDate": "2024-11-10",
+      "endDate": "2026-01-31",
+      "totalDays": 448,
+      "assignedDays": 343,
+      "remainingDays": 105,
+      "status": "In Progress",
+      "notes": ""
+    },
+    {
+      "id": 1760777547148,
+      "projectName": "3W-TT3-25051 - 560B Spot welding line",
+      "engineerName": "Deekshitha",
+      "startDate": "2025-08-11",
+      "endDate": "2025-10-31",
+      "totalDays": 82,
+      "assignedDays": 69,
+      "remainingDays": 13,
+      "status": "In Progress",
+      "notes": "HMI Development and Support"
+    },
     {
       "id": 1760692436656,
       "projectName": "A-GB1-25062_GE_Cold plate assembly station",
