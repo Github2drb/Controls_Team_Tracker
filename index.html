@@ -16,6 +16,17 @@
             height: 20px;
             margin-right: 0.5rem;
         }
+        .calendar-day {
+            min-height: 80px;
+            position: relative;
+        }
+        .project-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            display: inline-block;
+            margin: 1px;
+        }
     </style>
 </head>
 <body class="bg-gradient-to-br from-slate-900 to-slate-800 min-h-screen p-6">
@@ -85,6 +96,14 @@
                     📅 Week-wise Project Assignment for <span id="selectedEngineer" class="text-blue-600"></span>
                 </h2>
                 <div id="weekWiseContent" class="space-y-4"></div>
+            </div>
+
+            <!-- Calendar View (shown only when filtering by engineer) -->
+            <div id="calendarSection" class="hidden bg-white rounded-lg shadow-lg p-6 mb-8">
+                <h2 class="text-xl font-semibold text-slate-900 mb-4">
+                    🗓️ Calendar View - Project Timeline for <span id="calendarEngineer" class="text-blue-600"></span>
+                </h2>
+                <div id="calendarContent" class="space-y-6"></div>
             </div>
 
             <!-- Dashboard Section -->
@@ -449,6 +468,148 @@
             document.getElementById('selectedEngineer').textContent = engineerName;
         }
 
+        function generateCalendarView(engineerName) {
+            const engineerProjects = projects.filter(p => p.engineerName === engineerName);
+            
+            if (engineerProjects.length === 0) return;
+
+            const today = new Date();
+            const months = [];
+            
+            // Generate current month and next 2 months
+            for (let i = 0; i < 3; i++) {
+                const date = new Date(today.getFullYear(), today.getMonth() + i, 1);
+                months.push(date);
+            }
+
+            const calendarContent = document.getElementById('calendarContent');
+            calendarContent.innerHTML = months.map(monthDate => {
+                const year = monthDate.getFullYear();
+                const month = monthDate.getMonth();
+                const monthName = monthDate.toLocaleDateString('en-US', { month: 'long', year: 'numeric' });
+                
+                // Get first day of month and number of days
+                const firstDay = new Date(year, month, 1).getDay();
+                const daysInMonth = new Date(year, month + 1, 0).getDate();
+                
+                // Create calendar grid
+                const weeks = [];
+                let currentWeek = new Array(7).fill(null);
+                let dayCounter = 1;
+                
+                // Fill in the days
+                for (let i = 0; i < 42; i++) { // 6 weeks max
+                    const dayOfWeek = i % 7;
+                    
+                    if (i >= firstDay && dayCounter <= daysInMonth) {
+                        const currentDate = new Date(year, month, dayCounter);
+                        const dateStr = currentDate.toISOString().split('T')[0];
+                        
+                        // Find projects for this day
+                        const projectsForDay = engineerProjects.filter(project => {
+                            const start = new Date(project.startDate);
+                            const end = new Date(project.endDate);
+                            return currentDate >= start && currentDate <= end;
+                        });
+                        
+                        currentWeek[dayOfWeek] = {
+                            day: dayCounter,
+                            date: dateStr,
+                            projects: projectsForDay,
+                            isToday: dateStr === today.toISOString().split('T')[0]
+                        };
+                        dayCounter++;
+                    } else {
+                        currentWeek[dayOfWeek] = null;
+                    }
+                    
+                    if (dayOfWeek === 6) {
+                        weeks.push([...currentWeek]);
+                        currentWeek = new Array(7).fill(null);
+                    }
+                }
+                
+                return `
+                    <div class="border border-slate-200 rounded-lg overflow-hidden">
+                        <div class="bg-gradient-to-r from-purple-600 to-blue-600 px-4 py-3 text-white">
+                            <h3 class="font-semibold text-lg">${monthName}</h3>
+                        </div>
+                        <div class="p-4">
+                            <!-- Day headers -->
+                            <div class="grid grid-cols-7 gap-2 mb-2">
+                                ${['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'].map(day => 
+                                    `<div class="text-center text-xs font-semibold text-slate-600 py-2">${day}</div>`
+                                ).join('')}
+                            </div>
+                            
+                            <!-- Calendar grid -->
+                            <div class="grid grid-cols-7 gap-2">
+                                ${weeks.map(week => 
+                                    week.map(day => {
+                                        if (!day) {
+                                            return `<div class="calendar-day bg-slate-50 rounded"></div>`;
+                                        }
+                                        
+                                        const todayClass = day.isToday ? 'ring-2 ring-blue-500' : '';
+                                        const hasProjects = day.projects.length > 0;
+                                        
+                                        return `
+                                            <div class="calendar-day bg-white border border-slate-200 rounded p-2 ${todayClass} ${hasProjects ? 'bg-blue-50' : ''}" title="${day.projects.map(p => p.projectName).join(', ')}">
+                                                <div class="text-sm font-semibold text-slate-700 mb-1">${day.day}</div>
+                                                ${hasProjects ? `
+                                                    <div class="flex flex-wrap gap-1">
+                                                        ${day.projects.map(project => {
+                                                            let color = 'bg-blue-500';
+                                                            if (project.status === 'Completed') color = 'bg-green-500';
+                                                            else if (project.status === 'At Risk') color = 'bg-red-500';
+                                                            else if (project.status === 'On Hold') color = 'bg-yellow-500';
+                                                            return `<span class="project-dot ${color}" title="${project.projectName}"></span>`;
+                                                        }).join('')}
+                                                    </div>
+                                                    <div class="mt-1 text-xs text-slate-600 truncate">
+                                                        ${day.projects[0].projectName}
+                                                        ${day.projects.length > 1 ? `<span class="font-semibold text-blue-600">+${day.projects.length - 1}</span>` : ''}
+                                                    </div>
+                                                ` : ''}
+                                            </div>
+                                        `;
+                                    }).join('')
+                                ).join('')}
+                            </div>
+                        </div>
+                        
+                        <!-- Legend -->
+                        <div class="px-4 pb-4">
+                            <div class="bg-slate-50 rounded-lg p-3">
+                                <div class="text-xs font-semibold text-slate-700 mb-2">Project Status:</div>
+                                <div class="flex flex-wrap gap-3 text-xs">
+                                    <div class="flex items-center gap-1">
+                                        <span class="project-dot bg-blue-500"></span>
+                                        <span class="text-slate-600">In Progress</span>
+                                    </div>
+                                    <div class="flex items-center gap-1">
+                                        <span class="project-dot bg-green-500"></span>
+                                        <span class="text-slate-600">Completed</span>
+                                    </div>
+                                    <div class="flex items-center gap-1">
+                                        <span class="project-dot bg-yellow-500"></span>
+                                        <span class="text-slate-600">On Hold</span>
+                                    </div>
+                                    <div class="flex items-center gap-1">
+                                        <span class="project-dot bg-red-500"></span>
+                                        <span class="text-slate-600">At Risk</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+
+            document.getElementById('calendarSection').classList.remove('hidden');
+            document.getElementById('calendarEngineer').textContent = engineerName;
+        }
+
         function renderTable() {
             const filterType = document.getElementById('filterType').value;
             const filterValue = document.getElementById('filterValue').value;
@@ -460,8 +621,10 @@
             // Show week-wise breakdown only when filtering by engineer
             if (filterType === 'engineer' && filterValue) {
                 generateWeekWiseBreakdown(filterValue);
+                generateCalendarView(filterValue);
             } else {
                 document.getElementById('weekWiseSection').classList.add('hidden');
+                document.getElementById('calendarSection').classList.add('hidden');
             }
 
             if (filtered.length === 0) {
