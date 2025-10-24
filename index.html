@@ -88,7 +88,7 @@
                         </button>
                     </div>
                     <div class="flex items-end">
-                        <button onclick="toggleAllEngineersView()" class="w-full px-4 py-2 bg-purple-600 text-white rounded-lg hover:bg-purple-700 transition font-medium">
+                        <button id="allEngineersBtn" class="w-full px-4 py-2 bg-purple-600 text-white rounded-lg hover:bg-purple-700 transition font-medium">
                             📊 All Engineers Week View
                         </button>
                     </div>
@@ -628,6 +628,163 @@
             document.getElementById('calendarEngineer').textContent = engineerName;
         }
 
+        function generateAllEngineersWeekView() {
+            console.log('generateAllEngineersWeekView called, projects:', projects.length);
+            
+            if (projects.length === 0) {
+                alert('No projects available. Please add some projects first.');
+                return;
+            }
+
+            // Get all unique engineers
+            const engineers = [...new Set(projects.map(p => p.engineerName))].sort();
+            console.log('Engineers found:', engineers);
+            
+            // Collect all weeks across all projects
+            const allWeeks = new Set();
+            projects.forEach(project => {
+                const start = new Date(project.startDate);
+                const end = new Date(project.endDate);
+                let current = new Date(start);
+
+                while (current <= end) {
+                    allWeeks.add(getWeekNumber(current));
+                    current.setDate(current.getDate() + 7);
+                }
+            });
+
+            const sortedWeeks = Array.from(allWeeks).sort();
+
+            const allEngineersContent = document.getElementById('allEngineersContent');
+            
+            if (!allEngineersContent) {
+                console.error('allEngineersContent element not found');
+                return;
+            }
+            
+            allEngineersContent.innerHTML = engineers.map(engineer => {
+                const engineerProjects = projects.filter(p => p.engineerName === engineer);
+                
+                // Build week map for this engineer
+                const weekProjectMap = {};
+                engineerProjects.forEach(project => {
+                    const start = new Date(project.startDate);
+                    const end = new Date(project.endDate);
+                    let current = new Date(start);
+
+                    while (current <= end) {
+                        const weekKey = getWeekNumber(current);
+                        if (!weekProjectMap[weekKey]) {
+                            weekProjectMap[weekKey] = [];
+                        }
+                        if (!weekProjectMap[weekKey].find(p => p.id === project.id)) {
+                            weekProjectMap[weekKey].push(project);
+                        }
+                        current.setDate(current.getDate() + 7);
+                    }
+                });
+
+                const engineerWeeks = Object.keys(weekProjectMap).sort();
+                const totalProjects = engineerProjects.length;
+
+                return `
+                    <div class="border border-slate-200 rounded-lg overflow-hidden">
+                        <div class="bg-gradient-to-r from-indigo-600 to-purple-600 px-5 py-4 text-white">
+                            <div class="flex justify-between items-center">
+                                <div>
+                                    <h3 class="text-lg font-bold">${engineer}</h3>
+                                    <p class="text-sm text-indigo-100 mt-1">${totalProjects} Project${totalProjects > 1 ? 's' : ''} • ${engineerWeeks.length} Week${engineerWeeks.length > 1 ? 's' : ''}</p>
+                                </div>
+                                <div class="text-right">
+                                    <div class="text-2xl font-bold">${engineerWeeks.length}</div>
+                                    <div class="text-xs text-indigo-100">Active Weeks</div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="p-5">
+                            <div class="space-y-3">
+                                ${engineerWeeks.map(weekKey => {
+                                    const weekRange = getWeekDateRange(weekKey);
+                                    const projectsInWeek = weekProjectMap[weekKey];
+
+                                    return `
+                                        <div class="border border-slate-200 rounded-lg overflow-hidden hover:shadow-md transition">
+                                            <div class="bg-slate-50 px-4 py-2 border-b border-slate-200">
+                                                <div class="flex justify-between items-center">
+                                                    <div>
+                                                        <span class="font-semibold text-slate-900">${weekKey}</span>
+                                                        <span class="text-sm text-slate-600 ml-2">${weekRange.label}</span>
+                                                    </div>
+                                                    <span class="px-2 py-1 bg-indigo-100 text-indigo-800 rounded-full text-xs font-semibold">
+                                                        ${projectsInWeek.length} Project${projectsInWeek.length > 1 ? 's' : ''}
+                                                    </span>
+                                                </div>
+                                            </div>
+                                            <div class="p-3 bg-white">
+                                                <div class="space-y-2">
+                                                    ${projectsInWeek.map(project => `
+                                                        <div class="flex items-center gap-3 p-2 bg-slate-50 rounded hover:bg-slate-100 transition">
+                                                            <div class="flex-shrink-0 w-2 h-2 rounded-full ${project.status === 'Completed' ? 'bg-green-500' : project.status === 'At Risk' ? 'bg-red-500' : project.status === 'On Hold' ? 'bg-yellow-500' : 'bg-blue-500'}"></div>
+                                                            <div class="flex-1 min-w-0">
+                                                                <div class="flex items-center justify-between gap-2 flex-wrap">
+                                                                    <span class="font-medium text-slate-900 text-sm">${project.projectName}</span>
+                                                                    <span class="px-2 py-1 rounded-full text-xs font-semibold ${getStatusColor(project.status)} flex-shrink-0">
+                                                                        ${project.status}
+                                                                    </span>
+                                                                </div>
+                                                                <div class="flex flex-wrap gap-x-3 gap-y-1 text-xs text-slate-600 mt-1">
+                                                                    <span>📅 ${project.startDate} → ${project.endDate}</span>
+                                                                    <span>⏱️ ${project.assignedDays}d assigned</span>
+                                                                    <span>⏳ ${project.remainingDays}d left</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    `).join('')}
+                                                </div>
+                                            </div>
+                                        </div>
+                                    `;
+                                }).join('')}
+                            </div>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+
+            const section = document.getElementById('allEngineersSection');
+            if (section) {
+                section.classList.remove('hidden');
+                // Scroll to the section
+                setTimeout(() => {
+                    section.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                }, 100);
+            } else {
+                console.error('allEngineersSection element not found');
+            }
+        }
+
+        function toggleAllEngineersView() {
+            console.log('toggleAllEngineersView called');
+            const section = document.getElementById('allEngineersSection');
+            if (!section) {
+                console.error('allEngineersSection not found');
+                return;
+            }
+            
+            if (section.classList.contains('hidden')) {
+                generateAllEngineersWeekView();
+            } else {
+                section.classList.add('hidden');
+            }
+        }
+
+        function closeAllEngineersView() {
+            const section = document.getElementById('allEngineersSection');
+            if (section) {
+                section.classList.add('hidden');
+            }
+        }
+
         function renderTable() {
             const filterType = document.getElementById('filterType').value;
             const filterValue = document.getElementById('filterValue').value;
@@ -813,6 +970,11 @@
         document.addEventListener('DOMContentLoaded', function() {
             document.getElementById('adminPassword')?.addEventListener('keypress', function(e) {
                 if (e.key === 'Enter') verifyAdminPassword();
+            });
+            
+            // Add click handler for All Engineers button
+            document.getElementById('allEngineersBtn')?.addEventListener('click', function() {
+                toggleAllEngineersView();
             });
         });
 
