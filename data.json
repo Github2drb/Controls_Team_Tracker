@@ -1,7 +1,55 @@
 {
-  "exportDate": "2025-10-22T10:24:53.043Z",
-  "totalAssignments": 23,
+  "exportDate": "2025-11-19T04:39:34.978Z",
+  "totalAssignments": 27,
   "data": [
+    {
+      "id": 1763527172427,
+      "projectName": "3W-TT3-25051 - 560B Spot welding line",
+      "engineerName": "Keerthi",
+      "startDate": "2025-11-17",
+      "endDate": "2025-11-21",
+      "totalDays": 5,
+      "assignedDays": 3,
+      "remainingDays": 2,
+      "status": "In Progress",
+      "notes": ""
+    },
+    {
+      "id": 1763527154982,
+      "projectName": "3W-TT3-25051 - 560B Spot welding line",
+      "engineerName": "Eswanth",
+      "startDate": "2025-11-14",
+      "endDate": "2025-11-21",
+      "totalDays": 8,
+      "assignedDays": 6,
+      "remainingDays": 2,
+      "status": "In Progress",
+      "notes": "All Cells"
+    },
+    {
+      "id": 1763527128755,
+      "projectName": "3W-TT3-25051 - 560B Spot welding line",
+      "engineerName": "Dyumith",
+      "startDate": "2025-11-17",
+      "endDate": "2025-11-21",
+      "totalDays": 5,
+      "assignedDays": 3,
+      "remainingDays": 2,
+      "status": "In Progress",
+      "notes": "Cell2"
+    },
+    {
+      "id": 1763527106246,
+      "projectName": "3W-TT3-25051 - 560B Spot welding line",
+      "engineerName": "Susanth",
+      "startDate": "2025-11-17",
+      "endDate": "2025-11-21",
+      "totalDays": 5,
+      "assignedDays": 3,
+      "remainingDays": 2,
+      "status": "In Progress",
+      "notes": "Cell10"
+    },
     {
       "id": 1761128660454,
       "projectName": "3W2401_MRA ROOF SPOT WELDING LINE TKM",
