@@ -95,14 +95,6 @@
                 </div>
             </div>
 
-            <!-- Calendar View (shown only when filtering by engineer) - MOVED TO TOP -->
-            <div id="calendarSection" class="hidden bg-white rounded-lg shadow-lg p-6 mb-8">
-                <h2 class="text-xl font-semibold text-slate-900 mb-4">
-                    🗓️ Calendar View - Project Timeline for <span id="calendarEngineer" class="text-blue-600"></span>
-                </h2>
-                <div id="calendarContent" class="space-y-6"></div>
-            </div>
-
             <!-- All Engineers Week-wise View -->
             <div id="allEngineersSection" class="hidden bg-white rounded-lg shadow-lg p-6 mb-8">
                 <div class="flex justify-between items-center mb-4">
@@ -122,6 +114,14 @@
                     📅 Week-wise Project Assignment for <span id="selectedEngineer" class="text-blue-600"></span>
                 </h2>
                 <div id="weekWiseContent" class="space-y-4"></div>
+            </div>
+
+            <!-- Calendar View (shown only when filtering by engineer) -->
+            <div id="calendarSection" class="hidden bg-white rounded-lg shadow-lg p-6 mb-8">
+                <h2 class="text-xl font-semibold text-slate-900 mb-4">
+                    🗓️ Calendar View - Project Timeline for <span id="calendarEngineer" class="text-blue-600"></span>
+                </h2>
+                <div id="calendarContent" class="space-y-6"></div>
             </div>
 
             <!-- Dashboard Section -->
@@ -538,4 +538,448 @@
                         };
                         dayCounter++;
                     } else {
-                        currentWeek
+                        currentWeek[dayOfWeek] = null;
+                    }
+                    
+                    if (dayOfWeek === 6) {
+                        weeks.push([...currentWeek]);
+                        currentWeek = new Array(7).fill(null);
+                    }
+                }
+                
+                return `
+                    <div class="border border-slate-200 rounded-lg overflow-hidden">
+                        <div class="bg-gradient-to-r from-purple-600 to-blue-600 px-4 py-3 text-white">
+                            <h3 class="font-semibold text-lg">${monthName}</h3>
+                        </div>
+                        <div class="p-4">
+                            <!-- Day headers -->
+                            <div class="grid grid-cols-7 gap-2 mb-2">
+                                ${['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'].map(day => 
+                                    `<div class="text-center text-xs font-semibold text-slate-600 py-2">${day}</div>`
+                                ).join('')}
+                            </div>
+                            
+                            <!-- Calendar grid -->
+                            <div class="grid grid-cols-7 gap-2">
+                                ${weeks.map(week => 
+                                    week.map(day => {
+                                        if (!day) {
+                                            return `<div class="calendar-day bg-slate-50 rounded"></div>`;
+                                        }
+                                        
+                                        const todayClass = day.isToday ? 'ring-2 ring-blue-500' : '';
+                                        const hasProjects = day.projects.length > 0;
+                                        
+                                        return `
+                                            <div class="calendar-day bg-white border border-slate-200 rounded p-2 ${todayClass} ${hasProjects ? 'bg-blue-50' : ''}" title="${day.projects.map(p => p.projectName).join(', ')}">
+                                                <div class="text-sm font-semibold text-slate-700 mb-1">${day.day}</div>
+                                                ${hasProjects ? `
+                                                    <div class="flex flex-wrap gap-1">
+                                                        ${day.projects.map(project => {
+                                                            let color = 'bg-blue-500';
+                                                            if (project.status === 'Completed') color = 'bg-green-500';
+                                                            else if (project.status === 'At Risk') color = 'bg-red-500';
+                                                            else if (project.status === 'On Hold') color = 'bg-yellow-500';
+                                                            return `<span class="project-dot ${color}" title="${project.projectName}"></span>`;
+                                                        }).join('')}
+                                                    </div>
+                                                    <div class="mt-1 text-xs text-slate-600 truncate">
+                                                        ${day.projects[0].projectName}
+                                                        ${day.projects.length > 1 ? `<span class="font-semibold text-blue-600">+${day.projects.length - 1}</span>` : ''}
+                                                    </div>
+                                                ` : ''}
+                                            </div>
+                                        `;
+                                    }).join('')
+                                ).join('')}
+                            </div>
+                        </div>
+                        
+                        <!-- Legend -->
+                        <div class="px-4 pb-4">
+                            <div class="bg-slate-50 rounded-lg p-3">
+                                <div class="text-xs font-semibold text-slate-700 mb-2">Project Status:</div>
+                                <div class="flex flex-wrap gap-3 text-xs">
+                                    <div class="flex items-center gap-1">
+                                        <span class="project-dot bg-blue-500"></span>
+                                        <span class="text-slate-600">In Progress</span>
+                                    </div>
+                                    <div class="flex items-center gap-1">
+                                        <span class="project-dot bg-green-500"></span>
+                                        <span class="text-slate-600">Completed</span>
+                                    </div>
+                                    <div class="flex items-center gap-1">
+                                        <span class="project-dot bg-yellow-500"></span>
+                                        <span class="text-slate-600">On Hold</span>
+                                    </div>
+                                    <div class="flex items-center gap-1">
+                                        <span class="project-dot bg-red-500"></span>
+                                        <span class="text-slate-600">At Risk</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+
+            document.getElementById('calendarSection').classList.remove('hidden');
+            document.getElementById('calendarEngineer').textContent = engineerName;
+        }
+
+        function generateAllEngineersWeekView() {
+            console.log('generateAllEngineersWeekView called, projects:', projects.length);
+            
+            if (projects.length === 0) {
+                alert('No projects available. Please add some projects first.');
+                return;
+            }
+
+            // Get all unique engineers
+            const engineers = [...new Set(projects.map(p => p.engineerName))].sort();
+            console.log('Engineers found:', engineers);
+            
+            // Collect all weeks across all projects
+            const allWeeks = new Set();
+            projects.forEach(project => {
+                const start = new Date(project.startDate);
+                const end = new Date(project.endDate);
+                let current = new Date(start);
+
+                while (current <= end) {
+                    allWeeks.add(getWeekNumber(current));
+                    current.setDate(current.getDate() + 7);
+                }
+            });
+
+            const sortedWeeks = Array.from(allWeeks).sort();
+
+            const allEngineersContent = document.getElementById('allEngineersContent');
+            
+            if (!allEngineersContent) {
+                console.error('allEngineersContent element not found');
+                return;
+            }
+            
+            allEngineersContent.innerHTML = engineers.map(engineer => {
+                const engineerProjects = projects.filter(p => p.engineerName === engineer);
+                
+                // Build week map for this engineer
+                const weekProjectMap = {};
+                engineerProjects.forEach(project => {
+                    const start = new Date(project.startDate);
+                    const end = new Date(project.endDate);
+                    let current = new Date(start);
+
+                    while (current <= end) {
+                        const weekKey = getWeekNumber(current);
+                        if (!weekProjectMap[weekKey]) {
+                            weekProjectMap[weekKey] = [];
+                        }
+                        if (!weekProjectMap[weekKey].find(p => p.id === project.id)) {
+                            weekProjectMap[weekKey].push(project);
+                        }
+                        current.setDate(current.getDate() + 7);
+                    }
+                });
+
+                const engineerWeeks = Object.keys(weekProjectMap).sort();
+                const totalProjects = engineerProjects.length;
+
+                return `
+                    <div class="border border-slate-200 rounded-lg overflow-hidden">
+                        <div class="bg-gradient-to-r from-indigo-600 to-purple-600 px-5 py-4 text-white">
+                            <div class="flex justify-between items-center">
+                                <div>
+                                    <h3 class="text-lg font-bold">${engineer}</h3>
+                                    <p class="text-sm text-indigo-100 mt-1">${totalProjects} Project${totalProjects > 1 ? 's' : ''} • ${engineerWeeks.length} Week${engineerWeeks.length > 1 ? 's' : ''}</p>
+                                </div>
+                                <div class="text-right">
+                                    <div class="text-2xl font-bold">${engineerWeeks.length}</div>
+                                    <div class="text-xs text-indigo-100">Active Weeks</div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="p-5">
+                            <div class="space-y-3">
+                                ${engineerWeeks.map(weekKey => {
+                                    const weekRange = getWeekDateRange(weekKey);
+                                    const projectsInWeek = weekProjectMap[weekKey];
+
+                                    return `
+                                        <div class="border border-slate-200 rounded-lg overflow-hidden hover:shadow-md transition">
+                                            <div class="bg-slate-50 px-4 py-2 border-b border-slate-200">
+                                                <div class="flex justify-between items-center">
+                                                    <div>
+                                                        <span class="font-semibold text-slate-900">${weekKey}</span>
+                                                        <span class="text-sm text-slate-600 ml-2">${weekRange.label}</span>
+                                                    </div>
+                                                    <span class="px-2 py-1 bg-indigo-100 text-indigo-800 rounded-full text-xs font-semibold">
+                                                        ${projectsInWeek.length} Project${projectsInWeek.length > 1 ? 's' : ''}
+                                                    </span>
+                                                </div>
+                                            </div>
+                                            <div class="p-3 bg-white">
+                                                <div class="space-y-2">
+                                                    ${projectsInWeek.map(project => `
+                                                        <div class="flex items-center gap-3 p-2 bg-slate-50 rounded hover:bg-slate-100 transition">
+                                                            <div class="flex-shrink-0 w-2 h-2 rounded-full ${project.status === 'Completed' ? 'bg-green-500' : project.status === 'At Risk' ? 'bg-red-500' : project.status === 'On Hold' ? 'bg-yellow-500' : 'bg-blue-500'}"></div>
+                                                            <div class="flex-1 min-w-0">
+                                                                <div class="flex items-center justify-between gap-2 flex-wrap">
+                                                                    <span class="font-medium text-slate-900 text-sm">${project.projectName}</span>
+                                                                    <span class="px-2 py-1 rounded-full text-xs font-semibold ${getStatusColor(project.status)} flex-shrink-0">
+                                                                        ${project.status}
+                                                                    </span>
+                                                                </div>
+                                                                <div class="flex flex-wrap gap-x-3 gap-y-1 text-xs text-slate-600 mt-1">
+                                                                    <span>📅 ${project.startDate} → ${project.endDate}</span>
+                                                                    <span>⏱️ ${project.assignedDays}d assigned</span>
+                                                                    <span>⏳ ${project.remainingDays}d left</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    `).join('')}
+                                                </div>
+                                            </div>
+                                        </div>
+                                    `;
+                                }).join('')}
+                            </div>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+
+            const section = document.getElementById('allEngineersSection');
+            if (section) {
+                section.classList.remove('hidden');
+                // Scroll to the section
+                setTimeout(() => {
+                    section.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                }, 100);
+            } else {
+                console.error('allEngineersSection element not found');
+            }
+        }
+
+        function toggleAllEngineersView() {
+            console.log('toggleAllEngineersView called');
+            const section = document.getElementById('allEngineersSection');
+            if (!section) {
+                console.error('allEngineersSection not found');
+                return;
+            }
+            
+            if (section.classList.contains('hidden')) {
+                generateAllEngineersWeekView();
+            } else {
+                section.classList.add('hidden');
+            }
+        }
+
+        function closeAllEngineersView() {
+            const section = document.getElementById('allEngineersSection');
+            if (section) {
+                section.classList.add('hidden');
+            }
+        }
+
+        function renderTable() {
+            const filterType = document.getElementById('filterType').value;
+            const filterValue = document.getElementById('filterValue').value;
+            const filtered = getFilteredProjects();
+            const tbody = document.getElementById('tableBody');
+            document.getElementById('tableCount').textContent = filtered.length;
+            document.getElementById('adminAssignmentCount').textContent = projects.length;
+
+            // Show week-wise breakdown only when filtering by engineer
+            if (filterType === 'engineer' && filterValue) {
+                generateWeekWiseBreakdown(filterValue);
+                generateCalendarView(filterValue);
+            } else {
+                document.getElementById('weekWiseSection').classList.add('hidden');
+                document.getElementById('calendarSection').classList.add('hidden');
+            }
+
+            if (filtered.length === 0) {
+                tbody.innerHTML = '<tr><td colspan="9" class="px-6 py-12 text-center text-slate-500 text-lg">No projects added yet. Start by adding a new project assignment above.</td></tr>';
+                return;
+            }
+
+            tbody.innerHTML = filtered.map(project => `
+                <tr class="hover:bg-slate-50 transition">
+                    <td class="px-6 py-4 text-sm font-medium text-slate-900">${project.projectName}</td>
+                    <td class="px-6 py-4 text-sm text-slate-700">${project.engineerName}</td>
+                    <td class="px-6 py-4 text-sm text-slate-700">${project.startDate}</td>
+                    <td class="px-6 py-4 text-sm text-slate-700">${project.endDate}</td>
+                    <td class="px-6 py-4 text-sm text-center font-semibold text-blue-600">${project.assignedDays}</td>
+                    <td class="px-6 py-4 text-sm text-center font-semibold text-orange-600">${project.remainingDays}</td>
+                    <td class="px-6 py-4 text-sm text-center">
+                        <span class="px-3 py-1 rounded-full text-xs font-semibold ${getStatusColor(project.status)}">
+                            ${project.status}
+                        </span>
+                    </td>
+                    <td class="px-6 py-4 text-sm text-slate-700 max-w-xs truncate">${project.notes || '-'}</td>
+                    <td class="px-6 py-4 text-center">
+                        <button onclick="deleteProject(${project.id})" class="text-red-600 hover:text-red-800 transition" title="Delete">
+                            🗑️
+                        </button>
+                    </td>
+                </tr>
+            `).join('');
+        }
+
+        function updateFilterOptions() {
+            const filterType = document.getElementById('filterType').value;
+            const filterContainer = document.getElementById('filterSelectContainer');
+            const filterValue = document.getElementById('filterValue');
+
+            if (filterType === 'all') {
+                filterContainer.classList.add('hidden');
+            } else {
+                filterContainer.classList.remove('hidden');
+                
+                let options = [];
+                if (filterType === 'project') {
+                    options = [...new Set(projects.map(p => p.projectName))].sort();
+                } else if (filterType === 'engineer') {
+                    options = [...new Set(projects.map(p => p.engineerName))].sort();
+                }
+
+                filterValue.innerHTML = '<option value="">Choose...</option>' + 
+                    options.map(opt => `<option value="${opt}">${opt}</option>`).join('');
+            }
+            renderTable();
+        }
+
+        function clearFilters() {
+            document.getElementById('filterType').value = 'all';
+            document.getElementById('filterValue').value = '';
+            document.getElementById('filterSelectContainer').classList.add('hidden');
+            renderTable();
+        }
+
+        function downloadJSON() {
+            if (projects.length === 0) {
+                alert('No assignments to export');
+                return;
+            }
+
+            const exportData = {
+                exportDate: new Date().toISOString(),
+                totalAssignments: projects.length,
+                data: projects
+            };
+
+            const blob = new Blob([JSON.stringify(exportData, null, 2)], { type: 'application/json' });
+            const url = window.URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `project_tracker_${new Date().toISOString().split('T')[0]}.json`;
+            document.body.appendChild(a);
+            a.click();
+            window.URL.revokeObjectURL(url);
+            document.body.removeChild(a);
+        }
+
+        function downloadCSV() {
+            if (projects.length === 0) {
+                alert('No assignments to export');
+                return;
+            }
+
+            const headers = ['Project Name', 'Team Engineer Name', 'Start Date', 'End Date', 'Total Days', 'Days Assigned', 'Remaining Days', 'Status', 'Notes'];
+            const rows = projects.map(p => [
+                p.projectName, p.engineerName, p.startDate, p.endDate, p.totalDays, p.assignedDays, p.remainingDays, p.status, p.notes || ''
+            ]);
+
+            const csvContent = [
+                headers.join(','),
+                ...rows.map(row => row.map(cell => `"${cell}"`).join(','))
+            ].join('\n');
+
+            const blob = new Blob([csvContent], { type: 'text/csv' });
+            const url = window.URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `project_tracker_${new Date().toISOString().split('T')[0]}.csv`;
+            document.body.appendChild(a);
+            a.click();
+            window.URL.revokeObjectURL(url);
+            document.body.removeChild(a);
+        }
+
+        function clearAllData() {
+            if (confirm('Are you sure you want to delete all data? This cannot be undone.')) {
+                projects = [];
+                renderTable();
+                updateFilterOptions();
+                document.getElementById('adminSyncStatus').textContent = 'All data cleared';
+            }
+        }
+
+        // Admin Panel Functions
+        function toggleAdminAuth() {
+            document.getElementById('adminAuthModal').classList.remove('hidden');
+            document.getElementById('adminPassword').value = '';
+            document.getElementById('adminPassword').focus();
+        }
+
+        function closeAdminAuth() {
+            document.getElementById('adminAuthModal').classList.add('hidden');
+        }
+
+        function verifyAdminPassword() {
+            const password = document.getElementById('adminPassword').value;
+            const storedPassword = localStorage.getItem('adminPassword') || DEFAULT_PASSWORD;
+
+            if (password === storedPassword) {
+                document.getElementById('adminAuthModal').classList.add('hidden');
+                document.getElementById('mainContent').classList.add('hidden');
+                document.getElementById('adminPanel').classList.remove('hidden');
+            } else {
+                alert('Incorrect password');
+            }
+        }
+
+        function exitAdmin() {
+            document.getElementById('adminPanel').classList.add('hidden');
+            document.getElementById('mainContent').classList.remove('hidden');
+        }
+
+        function changePassword() {
+            const newPassword = document.getElementById('newPassword').value;
+            
+            if (!newPassword) {
+                alert('Please enter a new password');
+                return;
+            }
+
+            localStorage.setItem('adminPassword', newPassword);
+            alert('Password changed successfully!');
+            document.getElementById('newPassword').value = '';
+        }
+
+        function showCurrentPassword() {
+            const storedPassword = localStorage.getItem('adminPassword') || DEFAULT_PASSWORD;
+            alert(`Current Admin Password: ${storedPassword}`);
+        }
+
+        // Allow Enter key to submit password
+        document.addEventListener('DOMContentLoaded', function() {
+            document.getElementById('adminPassword')?.addEventListener('keypress', function(e) {
+                if (e.key === 'Enter') verifyAdminPassword();
+            });
+            
+            // Add click handler for All Engineers button
+            document.getElementById('allEngineersBtn')?.addEventListener('click', function() {
+                toggleAllEngineersView();
+            });
+        });
+
+        // Load data on page load
+        window.addEventListener('load', loadDataFromJSON);
+    </script>
+</body>
+</html>
