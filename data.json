@@ -1,11 +1,11 @@
 {
-  "exportDate": "2025-11-30T17:31:36.072Z",
+  "exportDate": "2025-11-30T23:27:16.545Z",
   "totalAssignments": 36,
   "data": [
     {
       "id": 1764523893401,
       "projectName": "DK1-25110- ODU Assembly auto line",
-      "engineerName": "Santhosh N",
+      "engineerName": "Santosh N",
       "startDate": "2025-10-27",
       "endDate": "2026-01-31",
       "totalDays": 97,
@@ -48,7 +48,7 @@
       "assignedDays": 35,
       "remainingDays": 6,
       "status": "In Progress",
-      "notes": ""
+      "notes": "Unit-1 Support"
     },
     {
       "id": 1764521277466,
@@ -60,7 +60,7 @@
       "assignedDays": 0,
       "remainingDays": 6,
       "status": "In Progress",
-      "notes": ""
+      "notes": "Unit-2 Support"
     },
     {
       "id": 1764519406234,
@@ -120,7 +120,7 @@
       "assignedDays": 3,
       "remainingDays": 2,
       "status": "In Progress",
-      "notes": ""
+      "notes": "Unit-2 Support"
     },
     {
       "id": 1763527154982,
@@ -143,7 +143,7 @@
       "totalDays": 5,
       "assignedDays": 3,
       "remainingDays": 2,
-      "status": "In Progress",
+      "status": "Completed",
       "notes": "Cell2"
     },
     {
@@ -155,7 +155,7 @@
       "totalDays": 5,
       "assignedDays": 3,
       "remainingDays": 2,
-      "status": "In Progress",
+      "status": "Completed",
       "notes": "Cell10"
     },
     {
@@ -324,7 +324,7 @@
       "assignedDays": 342,
       "remainingDays": 105,
       "status": "In Progress",
-      "notes": ""
+      "notes": "Inhouse Completed, Installation pending"
     },
     {
       "id": 1760777597075,
@@ -336,7 +336,7 @@
       "assignedDays": 343,
       "remainingDays": 105,
       "status": "In Progress",
-      "notes": ""
+      "notes": "Inhouse Completed, Installation pending"
     },
     {
       "id": 1760777547148,
@@ -372,7 +372,7 @@
       "assignedDays": 11,
       "remainingDays": 14,
       "status": "Completed",
-      "notes": ""
+      "notes": "Support Completed"
     },
     {
       "id": 1760690440088,
@@ -432,7 +432,7 @@
       "assignedDays": 47,
       "remainingDays": 14,
       "status": "In Progress",
-      "notes": ""
+      "notes": "Trial Support"
     }
   ]
 }
