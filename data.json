@@ -1,7 +1,43 @@
 {
-  "exportDate": "2025-11-30T13:40:21.091Z",
-  "totalAssignments": 28,
+  "exportDate": "2025-11-30T16:16:49.661Z",
+  "totalAssignments": 31,
   "data": [
+    {
+      "id": 1764519406234,
+      "projectName": " 3W-TK1-25102 (27 MC - Sensor addition & Logic Modification activity)",
+      "engineerName": "Shubam Shirke",
+      "startDate": "2025-11-03",
+      "endDate": "2026-02-28",
+      "totalDays": 118,
+      "assignedDays": 28,
+      "remainingDays": 90,
+      "status": "In Progress",
+      "notes": ""
+    },
+    {
+      "id": 1764519381020,
+      "projectName": " 3W-TK1-25102 (27 MC - Sensor addition & Logic Modification activity)",
+      "engineerName": "Prakash",
+      "startDate": "2025-11-03",
+      "endDate": "2026-02-28",
+      "totalDays": 118,
+      "assignedDays": 28,
+      "remainingDays": 90,
+      "status": "In Progress",
+      "notes": ""
+    },
+    {
+      "id": 1764519362290,
+      "projectName": " 3W-TK1-25102 (27 MC - Sensor addition & Logic Modification activity)",
+      "engineerName": "Rajesh",
+      "startDate": "2025-10-27",
+      "endDate": "2026-02-28",
+      "totalDays": 125,
+      "assignedDays": 35,
+      "remainingDays": 90,
+      "status": "In Progress",
+      "notes": ""
+    },
     {
       "id": 1764510013752,
       "projectName": "3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo",
