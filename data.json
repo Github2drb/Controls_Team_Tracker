@@ -1,7 +1,19 @@
 {
-  "exportDate": "2025-11-30T13:36:58.910Z",
-  "totalAssignments": 27,
+  "exportDate": "2025-11-30T13:40:21.091Z",
+  "totalAssignments": 28,
   "data": [
+    {
+      "id": 1764510013752,
+      "projectName": "3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo",
+      "engineerName": "Susanth",
+      "startDate": "2025-11-10",
+      "endDate": "2025-12-31",
+      "totalDays": 52,
+      "assignedDays": 21,
+      "remainingDays": 31,
+      "status": "In Progress",
+      "notes": ""
+    },
     {
       "id": 1763527172427,
       "projectName": "3W-TT3-25051 - 560B Spot welding line",
