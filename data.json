@@ -1,7 +1,19 @@
 {
-  "exportDate": "2025-11-30T16:49:05.347Z",
-  "totalAssignments": 33,
+  "exportDate": "2025-11-30T16:56:09.242Z",
+  "totalAssignments": 34,
   "data": [
+    {
+      "id": 1764521767232,
+      "projectName": "3W-TK1-25102 (27 MC - Sensor addition & Logic Modification activity)",
+      "engineerName": "Harikrishnan P R",
+      "startDate": "2025-10-27",
+      "endDate": "2026-02-28",
+      "totalDays": 125,
+      "assignedDays": 35,
+      "remainingDays": 90,
+      "status": "In Progress",
+      "notes": ""
+    },
     {
       "id": 1764521325907,
       "projectName": "3W-TT3-25051 - 560B Spot welding line",
