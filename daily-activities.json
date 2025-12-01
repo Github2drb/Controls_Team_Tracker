@@ -57,7 +57,12 @@
           "text": "MC27 Production trials"
         }
       ],
-      "completedActivities": []
+      "completedActivities": [
+        {
+          "id": "3s0fvj656",
+          "text": "Visited TKM,supported Production and returned"
+        }
+      ]
     },
     {
       "engineerName": "Prakash",
