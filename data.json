@@ -98,6 +98,17 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Anand",
+      "date": "2025-12-01",
+      "targetTasks": [
+        {
+          "id": "x5v3ty682",
+          "text": "CMD Error Project study"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
