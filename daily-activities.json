@@ -102,6 +102,17 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Anand",
+      "date": "2025-12-01",
+      "targetTasks": [
+        {
+          "id": "tk03dzcfw",
+          "text": "CMD_Project_Study"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
