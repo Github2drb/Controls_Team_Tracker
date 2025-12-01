@@ -60,6 +60,17 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Rajesh R",
+      "date": "2025-12-01",
+      "targetTasks": [
+        {
+          "id": "94osyxe1m",
+          "text": "MC27 Production Support"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
