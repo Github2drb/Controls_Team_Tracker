@@ -3,7 +3,12 @@
     {
       "engineerName": "Susanth",
       "date": "2025-12-01",
-      "targetTasks": [],
+      "targetTasks": [
+        {
+          "id": "xvzcsaryb",
+          "text": "D8 Conveyor Trials"
+        }
+      ],
       "completedActivities": []
     },
     {
