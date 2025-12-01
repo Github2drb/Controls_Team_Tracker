@@ -113,6 +113,17 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Shubam Shirke",
+      "date": "2025-12-01",
+      "targetTasks": [
+        {
+          "id": "fnfhbr6mk",
+          "text": "MC27_Visit to TKM for Technical Discussion and handover safety sticker to shrivantha"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
