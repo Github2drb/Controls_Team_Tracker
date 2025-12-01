@@ -10,6 +10,17 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Keerthi",
+      "date": "2025-12-01",
+      "targetTasks": [
+        {
+          "id": "akitwsa57",
+          "text": "3W-TT3-25051 - 560B Spot welding line_Unit2_Support"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
