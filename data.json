@@ -49,6 +49,17 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Dyumith",
+      "date": "2025-12-01",
+      "targetTasks": [
+        {
+          "id": "s90le0o0v",
+          "text": "Gantry Pick and Place Trials"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
