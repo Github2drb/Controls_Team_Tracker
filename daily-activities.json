@@ -91,6 +91,17 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Harikrishnan",
+      "date": "2025-12-01",
+      "targetTasks": [
+        {
+          "id": "m1kxok5hs",
+          "text": "3W-TT3-25051 - 560B Spot welding line_Unit1_Support"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
