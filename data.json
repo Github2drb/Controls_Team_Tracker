@@ -27,6 +27,17 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Keerthi",
+      "date": "2025-12-01",
+      "targetTasks": [
+        {
+          "id": "53r2hqn5v",
+          "text": "Unit-2 TTIN Project Support"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
