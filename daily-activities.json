@@ -36,6 +36,17 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Dyumith",
+      "date": "2025-12-01",
+      "targetTasks": [
+        {
+          "id": "7xn1x1cin",
+          "text": "All Gantry Pick and Place trials"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
