@@ -1,7 +1,29 @@
 {
-  "exportDate": "2025-11-30T23:27:16.545Z",
-  "totalAssignments": 36,
   "data": [
+    {
+      "id": 1764549694129,
+      "projectName": "3A2409 - GLASS TAPING AND O-CELL PICK & PLACE STATION (PA23 Phase -2)",
+      "engineerName": "Praveen Kumar",
+      "startDate": "2025-12-01",
+      "endDate": "2025-12-20",
+      "totalDays": 20,
+      "assignedDays": 1,
+      "remainingDays": 19,
+      "status": "In Progress",
+      "notes": ""
+    },
+    {
+      "id": 1764549643340,
+      "projectName": "3A-SO1-25025_Bailer_Assembly",
+      "engineerName": "Praveen Kumar",
+      "startDate": "2025-09-01",
+      "endDate": "2025-12-31",
+      "totalDays": 122,
+      "assignedDays": 92,
+      "remainingDays": 30,
+      "status": "In Progress",
+      "notes": ""
+    },
     {
       "id": 1764523893401,
       "projectName": "DK1-25110- ODU Assembly auto line",
