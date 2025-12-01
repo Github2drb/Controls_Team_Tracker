@@ -1,6 +1,30 @@
 {
   "data": [
     {
+      "id": 1764603042803,
+      "projectName": "3W-SA1-25067 & 3W-SA1-25078(R1J1) YFG Project Outer Plate Robotic Mig Welding Line",
+      "engineerName": "Veeresh",
+      "startDate": "2025-10-06",
+      "endDate": "2025-12-31",
+      "totalDays": 87,
+      "assignedDays": 57,
+      "remainingDays": 30,
+      "status": "In Progress",
+      "notes": ""
+    },
+    {
+      "id": 1764602995439,
+      "projectName": "3W-SA1-25061  YFG Project Robotic Mig welding cell & Fixtures",
+      "engineerName": "Veeresh",
+      "startDate": "2025-08-11",
+      "endDate": "2025-12-31",
+      "totalDays": 143,
+      "assignedDays": 113,
+      "remainingDays": 30,
+      "status": "In Progress",
+      "notes": ""
+    },
+    {
       "id": 1764549694129,
       "projectName": "3A2409 - GLASS TAPING AND O-CELL PICK & PLACE STATION (PA23 Phase -2)",
       "engineerName": "Praveen Kumar",
