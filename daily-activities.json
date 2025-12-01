@@ -47,6 +47,17 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Rajesh R",
+      "date": "2025-12-01",
+      "targetTasks": [
+        {
+          "id": "rbyfjwtzj",
+          "text": "MC27 Production trials"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
