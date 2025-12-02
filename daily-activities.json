@@ -248,6 +248,17 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Veeresh",
+      "date": "2025-12-02",
+      "targetTasks": [
+        {
+          "id": "pmrtbmoj4",
+          "text": "Surface hinge Assembly Eplan Pending Completion"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
