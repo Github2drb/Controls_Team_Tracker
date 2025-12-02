@@ -215,6 +215,17 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Harikrishnan",
+      "date": "2025-12-02",
+      "targetTasks": [
+        {
+          "id": "h5a1je9ox",
+          "text": "TTIN Unit-2 Bolting Jig Support"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
