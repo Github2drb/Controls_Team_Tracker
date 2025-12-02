@@ -134,6 +134,17 @@
           "text": "Visited TKM,collected details and shared with Prakash. Safety Sticker shared with Vijil"
         }
       ]
+    },
+    {
+      "engineerName": "Susanth",
+      "date": "2025-12-02",
+      "targetTasks": [
+        {
+          "id": "5pje3nqk5",
+          "text": "D8 Conveyor power on and trial running using sscnet"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
