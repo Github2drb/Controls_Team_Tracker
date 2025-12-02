@@ -265,7 +265,12 @@
           "text": "GE Visit for CSV Correction"
         }
       ],
-      "completedActivities": []
+      "completedActivities": [
+        {
+          "id": "9g51buf07",
+          "text": "CSV Decimal point issue in pressure resolved"
+        }
+      ]
     },
     {
       "engineerName": "Shubam Shirke",
