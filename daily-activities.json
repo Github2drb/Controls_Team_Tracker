@@ -144,7 +144,12 @@
           "text": "D8 Conveyor power on and trial running using sscnet"
         }
       ],
-      "completedActivities": []
+      "completedActivities": [
+        {
+          "id": "13ylid81d",
+          "text": "Dyumith,Prakash supported for SSCNET Drive Communication and conveyor movement"
+        }
+      ]
     },
     {
       "engineerName": "Keerthi",
