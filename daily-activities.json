@@ -292,7 +292,12 @@
           "text": "Surface hinge Assembly Eplan Pending Completion"
         }
       ],
-      "completedActivities": []
+      "completedActivities": [
+        {
+          "id": "fnh6hhst8",
+          "text": "Almost completed,except ksitler press drawing"
+        }
+      ]
     },
     {
       "engineerName": "Sachin",
