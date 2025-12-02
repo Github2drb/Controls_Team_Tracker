@@ -218,7 +218,12 @@
           "text": "TTIN HMI Screen Completion"
         }
       ],
-      "completedActivities": []
+      "completedActivities": [
+        {
+          "id": "xdbut5ojd",
+          "text": "Alarm still in progress"
+        }
+      ]
     },
     {
       "engineerName": "Praveen Kumar",
