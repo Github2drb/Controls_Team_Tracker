@@ -204,6 +204,17 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Praveen Kumar",
+      "date": "2025-12-02",
+      "targetTasks": [
+        {
+          "id": "bodsoefkd",
+          "text": "PA23 Phase-2 Support"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
