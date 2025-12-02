@@ -182,6 +182,17 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Prakash",
+      "date": "2025-12-02",
+      "targetTasks": [
+        {
+          "id": "pjh63fueo",
+          "text": "MC27 Sensor Matrix and Offline logic development support"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
