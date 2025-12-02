@@ -160,6 +160,17 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Dyumith",
+      "date": "2025-12-02",
+      "targetTasks": [
+        {
+          "id": "fgm17mamm",
+          "text": "D8 Weiss Table Power on and trials"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
