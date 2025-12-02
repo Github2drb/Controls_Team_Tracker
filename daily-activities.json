@@ -237,6 +237,17 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Shubam Shirke",
+      "date": "2025-12-02",
+      "targetTasks": [
+        {
+          "id": "xkcj7ishu",
+          "text": "27MC Project Offline Logic Development"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
