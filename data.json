@@ -1,6 +1,30 @@
 {
   "data": [
     {
+      "id": 1764662661172,
+      "projectName": "DK1-25110- ODU Assembly auto line",
+      "engineerName": "Susanth",
+      "startDate": "2025-12-16",
+      "endDate": "2026-01-17",
+      "totalDays": 33,
+      "assignedDays": 0,
+      "remainingDays": 46,
+      "status": "In Progress",
+      "notes": "Will be started after D8"
+    },
+    {
+      "id": 1764662639009,
+      "projectName": "DK1-25110- ODU Assembly auto line",
+      "engineerName": "Dyumith",
+      "startDate": "2025-12-16",
+      "endDate": "2026-02-21",
+      "totalDays": 68,
+      "assignedDays": 0,
+      "remainingDays": 81,
+      "status": "In Progress",
+      "notes": "Will be started after D8"
+    },
+    {
       "id": 1764646365386,
       "projectName": " 3W-TK1-25102 (27 MC - Sensor addition & Logic Modification activity)",
       "engineerName": "Prakash",
