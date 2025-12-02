@@ -145,6 +145,17 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Keerthi",
+      "date": "2025-12-02",
+      "targetTasks": [
+        {
+          "id": "1vlu82ims",
+          "text": "Cold Plate Assembly Offline Logic Development_IO_HMI"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
