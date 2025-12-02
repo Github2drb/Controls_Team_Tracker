@@ -202,7 +202,12 @@
           "text": "MC27 Sensor Matrix and Offline logic development support"
         }
       ],
-      "completedActivities": []
+      "completedActivities": [
+        {
+          "id": "atkyoof44",
+          "text": "Preparing DAP,Supported in D8 Conveyor "
+        }
+      ]
     },
     {
       "engineerName": "Deekshitha",
