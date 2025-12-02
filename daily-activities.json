@@ -186,7 +186,12 @@
           "text": "TKM visit for Induction and ID Card"
         }
       ],
-      "completedActivities": []
+      "completedActivities": [
+        {
+          "id": "c8qmpkeep",
+          "text": "Visited TKM,Completed induction training"
+        }
+      ]
     },
     {
       "engineerName": "Prakash",
