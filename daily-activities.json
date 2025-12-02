@@ -171,6 +171,17 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Rajesh R",
+      "date": "2025-12-02",
+      "targetTasks": [
+        {
+          "id": "i9t818rlb",
+          "text": "TKM visit for Induction and ID Card"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
