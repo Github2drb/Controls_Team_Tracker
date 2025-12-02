@@ -249,7 +249,12 @@
           "text": "Endurance Cycle Test in TTIN Cell"
         }
       ],
-      "completedActivities": []
+      "completedActivities": [
+        {
+          "id": "06nlgcl85",
+          "text": "Completed Auto Cycle and Endurance Cycle in two cells"
+        }
+      ]
     },
     {
       "engineerName": "Anand",
