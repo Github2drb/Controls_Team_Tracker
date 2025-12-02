@@ -1,6 +1,30 @@
 {
   "data": [
     {
+      "id": 1764645839575,
+      "projectName": "D8 Assembly line (3A-S01-25103)",
+      "engineerName": "Veeresh",
+      "startDate": "2025-11-03",
+      "endDate": "2026-01-02",
+      "totalDays": 61,
+      "assignedDays": 30,
+      "remainingDays": 31,
+      "status": "In Progress",
+      "notes": ""
+    },
+    {
+      "id": 1764645809349,
+      "projectName": "3A-S02-25054_Surface Hinge Assembly",
+      "engineerName": "Veeresh",
+      "startDate": "2025-10-06",
+      "endDate": "2026-01-02",
+      "totalDays": 89,
+      "assignedDays": 58,
+      "remainingDays": 31,
+      "status": "In Progress",
+      "notes": ""
+    },
+    {
       "id": 1764603132379,
       "projectName": "3A-BO1-25113 & 25114-CDM & Face error inspection unit with Robot system",
       "engineerName": "Anand",
