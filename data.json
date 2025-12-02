@@ -1,6 +1,30 @@
 {
   "data": [
     {
+      "id": 1764646075482,
+      "projectName": " GE_Cold plate assembly station A-GB1-25062",
+      "engineerName": "Santosh",
+      "startDate": "2025-11-04",
+      "endDate": "2025-12-20",
+      "totalDays": 47,
+      "assignedDays": 29,
+      "remainingDays": 18,
+      "status": "In Progress",
+      "notes": ""
+    },
+    {
+      "id": 1764646041086,
+      "projectName": " 3W-TK1-25102 (27 MC - Sensor addition & Logic Modification activity)",
+      "engineerName": "Rajesh R",
+      "startDate": "2025-11-03",
+      "endDate": "2026-02-28",
+      "totalDays": 118,
+      "assignedDays": 30,
+      "remainingDays": 88,
+      "status": "In Progress",
+      "notes": ""
+    },
+    {
       "id": 1764645839575,
       "projectName": "D8 Assembly line (3A-S01-25103)",
       "engineerName": "Veeresh",
