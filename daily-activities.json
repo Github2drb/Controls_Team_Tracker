@@ -342,6 +342,17 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Prakash",
+      "date": "2025-12-03",
+      "targetTasks": [
+        {
+          "id": "blt23hquy",
+          "text": "MC27 DAP Preparation"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
