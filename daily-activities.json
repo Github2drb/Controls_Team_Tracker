@@ -386,6 +386,17 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Shubam Shirke",
+      "date": "2025-12-03",
+      "targetTasks": [
+        {
+          "id": "qmoz8hs20",
+          "text": "MC27 Offline Logic Check"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
