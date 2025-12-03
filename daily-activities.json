@@ -309,6 +309,17 @@
           "text": "DAP at TKM for UB"
         }
       ]
+    },
+    {
+      "engineerName": "Susanth",
+      "date": "2025-12-03",
+      "targetTasks": [
+        {
+          "id": "01z9hp862",
+          "text": "Sangowoo project Support"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
