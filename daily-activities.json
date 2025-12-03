@@ -353,6 +353,17 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Deekshitha",
+      "date": "2025-12-03",
+      "targetTasks": [
+        {
+          "id": "vw9s5pchd",
+          "text": "Bolting Jig HMI Work"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
