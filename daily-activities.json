@@ -375,6 +375,17 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Harikrishnan",
+      "date": "2025-12-03",
+      "targetTasks": [
+        {
+          "id": "p6z5e4rmt",
+          "text": "Unit-1 TTIN PLC Support"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
