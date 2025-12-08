@@ -30,7 +30,12 @@
       "projectName": "DK1-25110- ODU Assembly auto line",
       "currentStatus": "Design Stage",
       "activities": {}
+    },
+    {
+      "projectName": "3A-S02-25054_Surface Hinge Assembly",
+      "currentStatus": "Mechanical Assembly Stage",
+      "activities": {}
     }
   ],
-  "lastUpdated": "2025-12-08T08:06:15.163Z"
+  "lastUpdated": "2025-12-08T08:06:16.325Z"
 }
