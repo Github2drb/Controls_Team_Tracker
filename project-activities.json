@@ -1,14 +1,14 @@
 {
   "projectActivities": [
     {
-      "projectName": " GE_Cold plate assembly station A-GB1-25062",
+      "projectName": " A-GB1-25062_GE_Cold plate assembly station",
       "currentStatus": "IO Check Stage",
       "activities": {
         "2025-12-08": "Universal Robot PLC COmmunication in progress"
       }
     },
     {
-      "projectName": "D8 Assembly line (3A-S01-25103)",
+      "projectName": "3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo",
       "currentStatus": "Electrical Assembly Stage",
       "activities": {
         "2025-12-08": "Field Wiring in progress"
