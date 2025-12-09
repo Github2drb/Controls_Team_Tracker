@@ -54,7 +54,9 @@
     {
       "projectName": "3A-SO1-25025_Bailer_Assembly",
       "currentStatus": "Trials Stage",
-      "activities": {}
+      "activities": {
+        "2025-12-08": "Trials in Progress."
+      }
     },
     {
       "projectName": "3A-DK1-25077-Dehydration Project",
@@ -91,5 +93,5 @@
       }
     }
   ],
-  "lastUpdated": "2025-12-09T04:53:37.045Z"
+  "lastUpdated": "2025-12-09T04:53:38.138Z"
 }
