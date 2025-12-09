@@ -1,45 +1,9 @@
 {
   "data": [
     {
-      "id": 1764662661172,
-      "projectName": "DK1-25110- ODU Assembly auto line",
-      "engineerName": "Susanth",
-      "startDate": "2025-12-16",
-      "endDate": "2026-01-17",
-      "totalDays": 33,
-      "assignedDays": 0,
-      "remainingDays": 46,
-      "status": "In Progress",
-      "notes": "Will be started after D8"
-    },
-    {
-      "id": 1764662639009,
-      "projectName": "DK1-25110- ODU Assembly auto line",
-      "engineerName": "Dyumith",
-      "startDate": "2025-12-16",
-      "endDate": "2026-02-21",
-      "totalDays": 68,
-      "assignedDays": 0,
-      "remainingDays": 81,
-      "status": "In Progress",
-      "notes": "Will be started after D8"
-    },
-    {
-      "id": 1764646365386,
-      "projectName": " 3W-TK1-25102 (27 MC - Sensor addition & Logic Modification activity)",
-      "engineerName": "Prakash",
-      "startDate": "2025-11-03",
-      "endDate": "2026-02-28",
-      "totalDays": 118,
-      "assignedDays": 30,
-      "remainingDays": 88,
-      "status": "In Progress",
-      "notes": "Project Management"
-    },
-    {
       "id": 1764646075482,
       "projectName": " GE_Cold plate assembly station A-GB1-25062",
-      "engineerName": "Santosh",
+      "engineerName": "Santosh N",
       "startDate": "2025-11-04",
       "endDate": "2025-12-20",
       "totalDays": 47,
@@ -62,7 +26,7 @@
     },
     {
       "id": 1764645839575,
-      "projectName": "D8 Assembly line (3A-S01-25103)",
+      "projectName": "3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo",
       "engineerName": "Veeresh",
       "startDate": "2025-11-03",
       "endDate": "2026-01-02",
@@ -554,7 +518,7 @@
     },
     {
       "id": 1760688216942,
-      "projectName": "9) 3A2409 - GLASS TAPING AND O-CELL PICK & PLACE STATION (PA23 Phase -2)",
+      "projectName": "3A2409 - GLASS TAPING AND O-CELL PICK & PLACE STATION (PA23 Phase -2)",
       "engineerName": "Praveen Kumar",
       "startDate": "2025-08-01",
       "endDate": "2025-11-30",
