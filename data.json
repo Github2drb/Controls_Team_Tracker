@@ -51,7 +51,7 @@
     {
       "id": 1764603132379,
       "projectName": "3A-BO1-25113 & 25114-CDM & Face error inspection unit with Robot system",
-      "engineerName": "Anand",
+      "engineerName": "Eswanth Potnuri",
       "startDate": "2025-11-17",
       "endDate": "2026-01-31",
       "totalDays": 76,
@@ -165,7 +165,7 @@
       "totalDays": 6,
       "assignedDays": 0,
       "remainingDays": 6,
-      "status": "In Progress",
+      "status": "Completed",
       "notes": "Unit-2 Support"
     },
     {
@@ -237,7 +237,7 @@
       "totalDays": 8,
       "assignedDays": 6,
       "remainingDays": 2,
-      "status": "In Progress",
+      "status": "Completed",
       "notes": "All Cells"
     },
     {
