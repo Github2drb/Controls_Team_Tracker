@@ -118,7 +118,7 @@
       "assignedDays": 92,
       "remainingDays": 30,
       "status": "In Progress",
-      "notes": ""
+      "notes": "Trial Support"
     },
     {
       "id": 1764523893401,
@@ -161,7 +161,7 @@
       "projectName": "3W-TT3-25051 - 560B Spot welding line",
       "engineerName": "Harikrishnan P R",
       "startDate": "2025-10-27",
-      "endDate": "2025-12-06",
+      "endDate": "2025-12-30",
       "totalDays": 41,
       "assignedDays": 35,
       "remainingDays": 6,
@@ -202,7 +202,7 @@
       "assignedDays": 28,
       "remainingDays": 90,
       "status": "In Progress",
-      "notes": ""
+      "notes": "Co-ordination with TKM"
     },
     {
       "id": 1764519362290,
@@ -226,7 +226,7 @@
       "assignedDays": 21,
       "remainingDays": 31,
       "status": "In Progress",
-      "notes": ""
+      "notes": "Conveyor and Bowl Feeder Support"
     },
     {
       "id": 1763527172427,
@@ -281,11 +281,11 @@
       "projectName": "3W2401_MRA ROOF SPOT WELDING LINE TKM",
       "engineerName": "Sachin",
       "startDate": "2024-12-11",
-      "endDate": "2025-11-20",
+      "endDate": "2025-12-01",
       "totalDays": 345,
       "assignedDays": 316,
       "remainingDays": 29,
-      "status": "In Progress",
+      "status": "Completed",
       "notes": ""
     },
     {
@@ -329,7 +329,7 @@
       "projectName": "3W-TT3-25051_ROBOTIC SPOT WELDING CELL R1J1,R1J2,BOLTING JIG ",
       "engineerName": "Sachin",
       "startDate": "2025-07-17",
-      "endDate": "2025-11-20",
+      "endDate": "2025-12-20",
       "totalDays": 127,
       "assignedDays": 98,
       "remainingDays": 29,
@@ -341,7 +341,7 @@
       "projectName": "3W-SA1-25078_R1J1 ROBOTIC CELL + JIG",
       "engineerName": "Sachin",
       "startDate": "2025-09-20",
-      "endDate": "2025-11-21",
+      "endDate": "2025-12-30",
       "totalDays": 63,
       "assignedDays": 33,
       "remainingDays": 30,
@@ -353,7 +353,7 @@
       "projectName": "3W-SA1-25068_R2J1 ROBOTIC CELL & JIG - 2 NOS",
       "engineerName": "Sachin",
       "startDate": "2025-07-30",
-      "endDate": "2025-11-14",
+      "endDate": "2025-12-30",
       "totalDays": 108,
       "assignedDays": 85,
       "remainingDays": 23,
@@ -365,7 +365,7 @@
       "projectName": "3W-SA1-25061_R1J2 ROBOTIC ARC WELDING CELL 4-NOS",
       "engineerName": "Sachin",
       "startDate": "2025-07-11",
-      "endDate": "2025-10-31",
+      "endDate": "2025-12-31",
       "totalDays": 113,
       "assignedDays": 104,
       "remainingDays": 9,
@@ -399,7 +399,7 @@
     {
       "id": 1761127392465,
       "projectName": "3W-UN1-25075_R1234 PROJECT APRON ROBOTIC WELDING FIXTURES",
-      "engineerName": "Sachin",
+      "engineerName": "Veeresh",
       "startDate": "2025-08-19",
       "endDate": "2025-10-27",
       "totalDays": 70,
@@ -461,7 +461,7 @@
       "projectName": "3W-TT3-25051 - 560B Spot welding line",
       "engineerName": "Deekshitha",
       "startDate": "2025-08-11",
-      "endDate": "2025-12-06",
+      "endDate": "2025-12-30",
       "totalDays": 82,
       "assignedDays": 69,
       "remainingDays": 13,
@@ -502,7 +502,7 @@
       "assignedDays": 17,
       "remainingDays": 14,
       "status": "Completed",
-      "notes": ""
+      "notes": "Site Installation Completed"
     },
     {
       "id": 1760688292626,
@@ -514,7 +514,7 @@
       "assignedDays": 17,
       "remainingDays": 14,
       "status": "Completed",
-      "notes": ""
+      "notes": "Site Installation Completed"
     },
     {
       "id": 1760688249484,
