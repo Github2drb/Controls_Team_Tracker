@@ -1,6 +1,30 @@
 {
   "data": [
     {
+      "id": 1765513686547,
+      "projectName": "3W-TK1-25135_TKM - TI Metal Robot Cell Integration",
+      "engineerName": "Sachin",
+      "startDate": "2025-12-15",
+      "endDate": "2026-01-31",
+      "totalDays": 48,
+      "assignedDays": 0,
+      "remainingDays": 50,
+      "status": "At Risk",
+      "notes": "Not Yet Started"
+    },
+    {
+      "id": 1765513644560,
+      "projectName": "3W-TK1-25135_TKM - TI Metal Robot Cell Integration",
+      "engineerName": "VNC Automation",
+      "startDate": "2025-12-15",
+      "endDate": "2026-01-31",
+      "totalDays": 48,
+      "assignedDays": 0,
+      "remainingDays": 50,
+      "status": "At Risk",
+      "notes": "Supplier not confirmed"
+    },
+    {
       "id": 1765364957177,
       "projectName": "3W-TK1-25135_TKM - TI Metal Robot Cell Integration",
       "engineerName": "Sachin",
