@@ -452,6 +452,17 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Keerthi",
+      "date": "2025-12-12",
+      "targetTasks": [
+        {
+          "id": "sdcoig71t",
+          "text": "Cold Plate Assembly Trials"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
