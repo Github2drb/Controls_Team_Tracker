@@ -526,6 +526,17 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Deekshitha",
+      "date": "2025-12-15",
+      "targetTasks": [
+        {
+          "id": "lpiq1nf8h",
+          "text": "TTIN Unit1 Cell HMI Activties"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
