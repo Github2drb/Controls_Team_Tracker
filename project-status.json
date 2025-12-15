@@ -22,7 +22,7 @@
       }
     },
     {
-      "engineerName": "Santosh",
+      "engineerName": "Santosh N",
       "projectName": " GE_Cold plate assembly station A-GB1-25062",
       "statuses": {
         "2024-12-05": "In Progress"
@@ -154,13 +154,7 @@
         "2024-12-05": "Completed"
       }
     },
-    {
-      "engineerName": "Keerthi",
-      "projectName": "A-GB1-25062_GE_Cold plate assembly station",
-      "statuses": {
-        "2024-12-05": "In Progress"
-      }
-    },
+    
     {
       "engineerName": "Deekshitha",
       "projectName": "3W-TT3-25051 - 560B Spot welding line",
@@ -204,7 +198,7 @@
       }
     },
     {
-      "engineerName": "Rajesh R",
+      "engineerName": "Prakash",
       "projectName": "3DBTT202-TTIA-582D PROJECT WELDING FIXTURE & CELLS",
       "statuses": {
         "2024-12-05": "Not Started"
