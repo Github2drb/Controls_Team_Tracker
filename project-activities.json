@@ -129,7 +129,12 @@
       "projectName": "3W-SA1-25061_R1J2 ROBOTIC ARC WELDING CELL 4-NOS",
       "currentStatus": "PLC Power Up Stage",
       "activities": {}
+    },
+    {
+      "projectName": "3W-SA1-25068_R2J1 ROBOTIC CELL & JIG - 2 NOS",
+      "currentStatus": "PLC Power Up Stage",
+      "activities": {}
     }
   ],
-  "lastUpdated": "2025-12-15T08:43:40.594Z"
+  "lastUpdated": "2025-12-15T08:43:41.659Z"
 }
