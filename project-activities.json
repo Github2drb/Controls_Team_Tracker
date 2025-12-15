@@ -149,7 +149,12 @@
       "projectName": "3DBTT202_JIG MODIFICATION AND 48605 CELL INSTALLTION",
       "currentStatus": "Mechanical Assembly Stage",
       "activities": {}
+    },
+    {
+      "projectName": "3W-TK1-25135_TKM - TI Metal Robot Cell Integration",
+      "currentStatus": "Design Stage",
+      "activities": {}
     }
   ],
-  "lastUpdated": "2025-12-15T08:43:44.912Z"
+  "lastUpdated": "2025-12-15T08:43:46.155Z"
 }
