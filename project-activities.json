@@ -124,7 +124,12 @@
       "projectName": "3W-TK1-25102_27 MC SENSOR ADDITION & LOGIC MODIFICATION",
       "currentStatus": "Trials Stage",
       "activities": {}
+    },
+    {
+      "projectName": "3W-SA1-25061_R1J2 ROBOTIC ARC WELDING CELL 4-NOS",
+      "currentStatus": "PLC Power Up Stage",
+      "activities": {}
     }
   ],
-  "lastUpdated": "2025-12-15T08:43:39.317Z"
+  "lastUpdated": "2025-12-15T08:43:40.594Z"
 }
