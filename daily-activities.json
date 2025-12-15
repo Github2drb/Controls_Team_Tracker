@@ -497,6 +497,10 @@
         {
           "id": "0zs9hnrcx",
           "text": "D8 Robot Gantry Merge with Auto test"
+        },
+        {
+          "id": "2yf94xpw5",
+          "text": "Robot Sequence after Gantry Pick and Place"
         }
       ],
       "completedActivities": []
