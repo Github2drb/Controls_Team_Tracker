@@ -1,6 +1,30 @@
 {
   "data": [
     {
+      "id": 1765779846762,
+      "projectName": "3W-TK1-25102 (27 MC - Sensor addition & Logic Modification activity)",
+      "engineerName": "Rajesh M",
+      "startDate": "2025-12-15",
+      "endDate": "2026-02-28",
+      "totalDays": 76,
+      "assignedDays": 1,
+      "remainingDays": 75,
+      "status": "In Progress",
+      "notes": ""
+    },
+    {
+      "id": 1765779020858,
+      "projectName": "3A-S02-25054_Surface Hinge Assembly",
+      "engineerName": "Ramkumar Annamalai",
+      "startDate": "2025-12-15",
+      "endDate": "2026-01-31",
+      "totalDays": 48,
+      "assignedDays": 1,
+      "remainingDays": 47,
+      "status": "In Progress",
+      "notes": ""
+    },
+    {
       "id": 1765513883341,
       "projectName": "3A-BO1-25113 & 25114-CDM & Face error inspection unit with Robot system",
       "engineerName": "Eswanth Potnuri",
