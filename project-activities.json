@@ -114,7 +114,12 @@
       "projectName": "3S-TK1-25084_OBSOLUTE ROBOT REPLACEMENT",
       "currentStatus": "IO Check Stage",
       "activities": {}
+    },
+    {
+      "projectName": "3W-TT4-25093_ARC WELDING JIG & R1J2 ROBOTIC CELL",
+      "currentStatus": "Trials Stage",
+      "activities": {}
     }
   ],
-  "lastUpdated": "2025-12-15T08:43:37.156Z"
+  "lastUpdated": "2025-12-15T08:43:38.259Z"
 }
