@@ -63,7 +63,7 @@
     {
       "id": 1765789105364,
       "projectName": "3W-TT4-25074 TTIA-582D PROJECT MAUAL JIGS NUT CHECKING POKA YOKE",
-      "engineerName": "Rajesh R",
+      "engineerName": "Rajesh M",
       "startDate": "2025-12-15",
       "endDate": "2026-01-31",
       "totalDays": 48,
@@ -111,7 +111,7 @@
     {
       "id": 1765513864860,
       "projectName": "3A-BO1-25113 & 25114-CDM & Face error inspection unit with Robot system",
-      "engineerName": "Santosh",
+      "engineerName": "Santosh N",
       "startDate": "2025-12-08",
       "endDate": "2026-01-24",
       "totalDays": 48,
@@ -178,7 +178,7 @@
       "assignedDays": 58,
       "remainingDays": 31,
       "status": "In Progress",
-      "notes": ""
+      "notes": "Electrical Confirmation from Southco pending"
     },
     {
       "id": 1764603132379,
@@ -357,7 +357,7 @@
       "totalDays": 5,
       "assignedDays": 3,
       "remainingDays": 2,
-      "status": "In Progress",
+      "status": "Completed",
       "notes": "Unit-2 Support"
     },
     {
@@ -405,7 +405,7 @@
       "totalDays": 345,
       "assignedDays": 316,
       "remainingDays": 29,
-      "status": "Completed",
+      "status": "Completed,Installation Pending",
       "notes": ""
     },
     {
@@ -422,7 +422,7 @@
     },
     {
       "id": 1761128436133,
-      "projectName": "3W-TT4-25073_EXISTINH JIG POKAYOKE ADDITION",
+      "projectName": "3W-TT4-25073_EXISTING JIG POKAYOKE ADDITION",
       "engineerName": "Sachin",
       "startDate": "2025-07-22",
       "endDate": "2025-10-17",
@@ -537,13 +537,13 @@
       "totalDays": 141,
       "assignedDays": 71,
       "remainingDays": 70,
-      "status": "In Progress",
+      "status": "Completed",
       "notes": ""
     },
     {
       "id": 1760777682651,
       "projectName": "3DBTT202-TTIA-582D PROJECT WELDING FIXTURE & CELLS",
-      "engineerName": "Rajesh R",
+      "engineerName": "Rajesh M",
       "startDate": "2025-02-03",
       "endDate": "2025-11-30",
       "totalDays": 301,
@@ -573,7 +573,7 @@
       "totalDays": 448,
       "assignedDays": 343,
       "remainingDays": 105,
-      "status": "In Progress",
+      "status": "Completed",
       "notes": "Inhouse Completed, Installation pending"
     },
     {
@@ -585,7 +585,7 @@
       "totalDays": 82,
       "assignedDays": 69,
       "remainingDays": 13,
-      "status": "In Progress",
+      "status": "Completed",
       "notes": "HMI Development and Support"
     },
     {
@@ -657,7 +657,7 @@
       "totalDays": 99,
       "assignedDays": 78,
       "remainingDays": 21,
-      "status": "In Progress",
+      "status": "Completed",
       "notes": ""
     },
     {
