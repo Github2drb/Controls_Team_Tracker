@@ -603,6 +603,17 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Praveen Kumar",
+      "date": "2025-12-19",
+      "targetTasks": [
+        {
+          "id": "u7gd21h63",
+          "text": "Sangwoo R1J1 HMI Support"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
