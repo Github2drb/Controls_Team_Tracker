@@ -73,7 +73,8 @@
       "projectName": "3A-SO1-25025_Bailer_Assembly",
       "currentStatus": "Trials Stage",
       "activities": {
-        "2025-12-08": "Trials in Progress."
+        "2025-12-08": "Trials in Progress.",
+        "2025-12-23": "@sushanth \nlogic modification as new cyl added on the index table"
       }
     },
     {
@@ -172,5 +173,5 @@
       "activities": {}
     }
   ],
-  "lastUpdated": "2025-12-24T05:09:55.820Z"
+  "lastUpdated": "2025-12-24T06:55:17.823Z"
 }
