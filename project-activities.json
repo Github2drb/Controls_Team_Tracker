@@ -80,7 +80,9 @@
     {
       "projectName": "3A-DK1-25077-Dehydration Project",
       "currentStatus": "Procurement Stage",
-      "activities": {}
+      "activities": {
+        "2025-12-22": "@sushanth\nelco configuration and hmi development for POC"
+      }
     },
     {
       "projectName": "3A2409 - GLASS TAPING AND O-CELL PICK & PLACE STATION (PA23 Phase -2)",
@@ -173,5 +175,5 @@
       "activities": {}
     }
   ],
-  "lastUpdated": "2025-12-24T06:55:17.823Z"
+  "lastUpdated": "2025-12-24T06:55:19.157Z"
 }
