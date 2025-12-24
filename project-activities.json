@@ -81,7 +81,8 @@
       "projectName": "3A-DK1-25077-Dehydration Project",
       "currentStatus": "Procurement Stage",
       "activities": {
-        "2025-12-22": "@sushanth\nelco configuration and hmi development for POC"
+        "2025-12-22": "@sushanth\nelco configuration and hmi development for POC",
+        "2025-12-23": "@sushanth\nelco configuration"
       }
     },
     {
@@ -175,5 +176,5 @@
       "activities": {}
     }
   ],
-  "lastUpdated": "2025-12-24T06:55:19.157Z"
+  "lastUpdated": "2025-12-24T06:55:20.455Z"
 }
