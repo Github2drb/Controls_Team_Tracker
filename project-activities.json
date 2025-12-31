@@ -94,7 +94,8 @@
       "currentStatus": "Procurement Stage",
       "activities": {
         "2025-12-22": "@sushanth\nelco configuration and hmi development for POC",
-        "2025-12-23": "@sushanth\nelco configuration"
+        "2025-12-23": "@sushanth\nelco configuration",
+        "2025-12-30": "@SANTHOSH.N \n1.ODU ASSEMBLY DAP DOCUMENT PREPARATION,MOM POINTS DISCSSION 2.3A-DK1-2077 EPLAN DRAWING"
       }
     },
     {
@@ -191,5 +192,5 @@
       "activities": {}
     }
   ],
-  "lastUpdated": "2025-12-31T04:00:27.543Z"
+  "lastUpdated": "2025-12-31T04:00:28.759Z"
 }
