@@ -192,7 +192,12 @@
       "projectName": "3W-TK1-25135_TKM - TI Metal Robot Cell Integration",
       "currentStatus": "Design Stage",
       "activities": {}
+    },
+    {
+      "projectName": "IMTEX-2026",
+      "currentStatus": "Trials Stage",
+      "activities": {}
     }
   ],
-  "lastUpdated": "2025-12-31T13:36:29.507Z"
+  "lastUpdated": "2025-12-31T15:22:54.903Z"
 }
