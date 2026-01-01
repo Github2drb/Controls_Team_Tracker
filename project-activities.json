@@ -45,7 +45,8 @@
         "2025-12-22": "@Ramkumar Annamalai,\nFound Laptop was problem for communication with PLC. Weiss communication with PLC was completed. Tomorrow planned Wiring for the drive & with IO from PLC and programming need to done as per weiss instruction.\n@Deekshitha, \nHMI SCREEN DEVELOPING",
         "2025-12-23": "@Ramkumar Annamalai,\nWeiss Lenze Drive wiring for trial was completed, PLC wiring for drive communication was completed. Weiss communication with PLC, running was checked. @Deekshitha",
         "2025-12-24": "@Ramkumar Annamalai,\nWorked for weiss 2 rotary table programming and conveyor servo programming for trials was completed. ",
-        "2025-12-29": "@deekshitha\n1.hmi development stage\n2."
+        "2025-12-29": "@deekshitha\n1.hmi development stage\n2.",
+        "2025-12-31": "@ DEEKSHITHA\n1.HMI TAG ASSIGNING"
       }
     },
     {
@@ -210,5 +211,5 @@
       "activities": {}
     }
   ],
-  "lastUpdated": "2026-01-01T04:13:39.879Z"
+  "lastUpdated": "2026-01-01T04:18:30.808Z"
 }
