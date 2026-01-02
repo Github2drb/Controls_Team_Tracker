@@ -1,21 +1,10 @@
 {
   "projectActivities": [
     {
-      "projectName": " A-GB1-25062_GE_Cold plate assembly station",
-      "currentStatus": "IO Check Stage",
-      "activities": {
-        "2025-12-08": "Universal Robot PLC COmmunication in progress"
-      }
-    },
-    {
       "projectName": "3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo",
       "currentStatus": "Electrical Assembly Stage",
       "activities": {
-        "2025-12-08": "Field Wiring in progress",
-        "2025-12-23": "@dyumith\n",
-        "2025-12-24": "@sushanth\nmanual operation testing and logic development at slave station",
-        "2025-12-31": "@SUSHANTH\nINDIVIDUAL TEST TRIALS AND DRY RUN OF ALL GANTRY AND CONVEYOR",
-        "2026-01-01": "@SUSHANTH\nINDIVIDUAL TEST TRIALS AND DRY RUN OF ALL GANTRY AND CONVEYOR\nCONVEYOR FINE TUNING"
+        "2025-12-08": "Field Wiring in progress,Trials in Progress"
       }
     },
     {
@@ -26,34 +15,22 @@
       }
     },
     {
-      "projectName": " 3W-TK1-25102 (27 MC - Sensor addition & Logic Modification activity)",
+      "projectName": "DK1-25110- ODU Assembly auto line",
       "currentStatus": "Design Stage",
       "activities": {}
     },
     {
-      "projectName": "DK1-25110- ODU Assembly auto line",
-      "currentStatus": "Design Stage",
-      "activities": {
-        "2025-12-30": "@SANTHOSH.N 1.ODU ASSEMBLY DAP DOCUMENT PREPARATION,MOM POINTS DISCSSION 2.3A-DK1-2077 EPLAN DRAWING"
-      }
-    },
-    {
       "projectName": "3A-S02-25054_Surface Hinge Assembly",
-      "currentStatus": "Electrical Assembly Stage",
+      "currentStatus": "Mechanical Assembly Stage",
       "activities": {
         "2025-12-15": "@Ramkumar Annamalai,\nAfter Joining formalities was completed. PLC configuration was done in sysmac studio. After that Rotary Table lenze ESI file was checked and working. Found Power module need to add in configuration. Power Module additional informed to Ramesh Sir",
         "2025-12-16": "@Ramkumar Annamalai\nI/O List preparation for the machine from schematic drawing.\nTomorrow(17/12/2025) planned for communication of lenze drive and omron plc with weiss automation. Separate program was prepared for lenze drive which consists of omron plc with one input module and one output module, with lenze drive communication for Jog and Move function working.",
-        "2025-12-17": "@Ramkumar Annamalai,\nSysmac Studio was installed in laptop and Programming work was started, I/O Mapping in programming was completed. After 3 pm Lenze Drive communication with nx plc tried to communicate. But PLC communication with laptop not working, Pinging also not working in PLC. ",
-        "2025-12-22": "@Ramkumar Annamalai,\nFound Laptop was problem for communication with PLC. Weiss communication with PLC was completed. Tomorrow planned Wiring for the drive & with IO from PLC and programming need to done as per weiss instruction.\n@Deekshitha, \nHMI SCREEN DEVELOPING",
-        "2025-12-23": "@Ramkumar Annamalai,\nWeiss Lenze Drive wiring for trial was completed, PLC wiring for drive communication was completed. Weiss communication with PLC, running was checked. @Deekshitha",
-        "2025-12-24": "@Ramkumar Annamalai,\nWorked for weiss 2 rotary table programming and conveyor servo programming for trials was completed. ",
-        "2025-12-29": "@deekshitha\n1.hmi development stage\n2.",
-        "2025-12-31": "@ DEEKSHITHA\n1.HMI TAG ASSIGNING"
+        "2025-12-17": "@Ramkumar Annamalai,\nSysmac Studio was installed in laptop and Programming work was started, I/O Mapping in programming was completed. After 3 pm Lenze Drive communication with nx plc tried to communicate. But PLC communication with laptop not working, Pinging also not working in PLC. "
       }
     },
     {
       "projectName": "3A-BO1-25113 & 25114-CDM & Face error inspection unit with Robot system",
-      "currentStatus": "PLC Power Up Stage",
+      "currentStatus": "Design Stage",
       "activities": {}
     },
     {
@@ -64,18 +41,7 @@
         "2025-12-15": "@Eswanth Potnuri (3DCADVS0183) _ 3W-SA1-25078 R1J1\nPLC Auto and Manual Logic Completed Successfully.\nAuto Trials taken for the Robot for the Model Main Muffler(SG510 & SG530)\nManual Logic Checked for Wire Replacement , Tip Exchange, Point Check and Wire Inching.",
         "2025-12-16": "@Eswanth Potnuri (3DCADVS0183)_3W-SA1-25078 R1J1\nPLC Auto Logic Modification and New Sequence implementation as per customer requirement.\nRobot IO Handshake signals correction and mapping done.",
         "2025-12-17": "@Eswanth Potnuri (3DCADVS0183)_3W-SA1-25078 R1J1\nMachine Safety Logic Improvements and HMI Corrections and Modifications.",
-        "2025-12-18": "@Eswanth Potnuri (3DCADVS0183)_3W-SA1-25078 R1J1\nPLC Safety Logic Corrections and Modifications.\nHMI Corrections . \nTrails taken need some final modifications.",
-        "2025-12-19": "@Eswanth Potnuri (3DCADVS0183)_3W-SA1-25078 R1J1\nPLC Safety and Manual program modification and HMI Modifications.\nRobot trials and Gas, Wire Presence Sensor Wiring and Installation.",
-        "2025-12-20": "@Eswanth Potnuri (3DCADVS0183)_3W-SA1-25078 R1J1\nTip Change Program Logic Development and Wire Inching Logic Prepared and Tested .\nRobot Trials completed for Wire Inching and Manual Tip Change program from HMI performed and tested Ok.",
-        "2025-12-22": "@Prakash @Eswanth Potnuri (3DCADVS0183)_ 3W-SA1-25078 R1J1\nTip Change Auto Cut off Logic development and testing .\nAuto trial program.",
-        "2025-12-23": "@Prakash @Eswanth Potnuri (3DCADVS0183) @Rajesh M _ 3W-SA1-25078 R1J1\nFinal Manual Program. Gas Flow Sensor Configuration Done.\nAuto trail completed, HMI Activity Completed,\nError generated pending ",
-        "2025-12-24": " @Eswanth Potnuri (3DCADVS0183) @Sushanth K M @Keerthi B H_3W-SA1-25078 R1J1\nHMI Alarms Logic Development and Testing.\nAuto/Manual Interchange logic for Unclamp.",
-        "2025-12-25": "@Keerthi B H @Prakash N @ Rajesh M @ Eswanth Potnuri (3DCADVS0183)_3W-SA1-25078 R1J1\nHMI Alarms Completed and Final Auto Trials completed.",
-        "2025-12-26": "@Prakash N@ Rajesh M @Eswanth Potnuri(3DCADVS0183) _3W-SA1-25078 R1J1\nPLC and HMI Final Modifications as per the customer requirement.\nCustomer Poison Test Taken for 1 Part.",
-        "2025-12-27": "@Eswanth Potnuri (3DCADVS0183)_3W-SA1-25078 R1J1\nPLC and HMI Robot Speed Logic Development, MIMIC Jig Sensor logic done.",
-        "2025-12-29": "@Eswanth Potnuri (3DCADVS0183)_3W-SA1-25078 R1J1 \nMIMIC Screens Development and Other Alarms Logic Generated and Developed and Tested.",
-        "2025-12-30": "@Eswanth Potnuri (3DCADVS0183)_3W-SA1-25078 R1J1 \nPunch Points cleared and tested.",
-        "2025-12-31": "@Eswanth Potnuri (3DCADVS0183)_3W-SA1-25061_R1J2\nSupport for Cell-2 and Cell-3\n3W-SA1-25067_R2J1\nProject Created and Logic Implementation Started. CC Link Configuration Done.\nManual Logic Offline Programming Done."
+        "2025-12-18": "@Eswanth Potnuri (3DCADVS0183)_3W-SA1-25078 R1J1\nPLC Safety Logic Corrections and Modifications.\nHMI Corrections . \nTrails taken need some final modifications."
       }
     },
     {
@@ -90,21 +56,13 @@
       "projectName": "3A-SO1-25025_Bailer_Assembly",
       "currentStatus": "Trials Stage",
       "activities": {
-        "2025-12-08": "Trials in Progress.",
-        "2025-12-23": "@sushanth \nlogic modification as new cyl added on the index table",
-        "2025-12-31": "@SUSHANTH \nTRAILS SUPPORT",
-        "2026-01-01": "@SUSHANTH \nTRAILS SUPPORT"
+        "2025-12-08": "Trials in Progress."
       }
     },
     {
       "projectName": "3A-DK1-25077-Dehydration Project",
       "currentStatus": "Procurement Stage",
-      "activities": {
-        "2025-12-22": "@sushanth\nelco configuration and hmi development for POC",
-        "2025-12-23": "@sushanth\nelco configuration",
-        "2025-12-30": "@SANTHOSH.N \n1.ODU ASSEMBLY DAP DOCUMENT PREPARATION,MOM POINTS DISCSSION 2.3A-DK1-2077 EPLAN DRAWING",
-        "2025-12-31": "@HARSHA K A\nPROJECT PHD STUDY"
-      }
+      "activities": {}
     },
     {
       "projectName": "3A2409 - GLASS TAPING AND O-CELL PICK & PLACE STATION (PA23 Phase -2)",
@@ -132,19 +90,10 @@
       "projectName": "A-GB1-25062_GE_Cold plate assembly station",
       "currentStatus": "Trials Stage",
       "activities": {
-        "2025-12-08": "Universal Robot IO Mapping Completed",
-        "2025-12-22": "@keerthi \nhmi related screen modification \nplc logic with robot communication\nscrew machine i/o checking and trail",
-        "2025-12-23": "@keerthi\nHMI Screen modification & download \nPLC  Dry Run logic modification \nRobot I/O mapping completed ",
-        "2025-12-25": "@keerthi \n1.SANGO HMI Support\n2.ColdPlate program modification\n3.screw gun i/o check with robotics team\n",
-        "2025-12-29": "@keerthi\n1.Sango plc & hmi support\n",
-        "2025-12-31": "@ KEERTHI \n1.PLC MODIFICATION\n2.HMI MODIFICATION"
+        "2025-12-08": "Universal Robot IO Mapping Completed"
       }
     },
-    {
-      "projectName": " GE_Cold plate assembly station A-GB1-25062",
-      "currentStatus": "Trials Stage",
-      "activities": {}
-    },
+    
     {
       "projectName": "3W2401 -560B Project MRA Roof spot welding line TKM",
       "currentStatus": "Dispatch Stage",
@@ -199,22 +148,7 @@
       "projectName": "3W-TK1-25135_TKM - TI Metal Robot Cell Integration",
       "currentStatus": "Design Stage",
       "activities": {}
-    },
-    {
-      "projectName": "IMTEX-2026",
-      "currentStatus": "Trials Stage",
-      "activities": {}
-    },
-    {
-      "projectName": "3W-TK1-25135-TI Metal Robot Cell Integration",
-      "currentStatus": "Procurement Stage",
-      "activities": {}
-    },
-    {
-      "projectName": "3W-TT4-25074 TTIA-582D PROJECT MAUAL JIGS NUT CHECKING POKA YOKE",
-      "currentStatus": "Procurement Stage",
-      "activities": {}
     }
   ],
-  "lastUpdated": "2026-01-02T04:16:41.964Z"
+  "lastUpdated": "2025-12-18T13:38:50.462Z"
 }
