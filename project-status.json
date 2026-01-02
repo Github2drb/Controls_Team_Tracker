@@ -1,19 +1,14 @@
 {
   "projectStatuses": [
     {
-      "engineerName": "Susanth",
+      "engineerName": "Harsha",
       "projectName": "DK1-25110- ODU Assembly auto line",
       "statuses": {
         "2024-12-05": "Not Started"
       }
     },
-    {
-      "engineerName": "Dyumith",
-      "projectName": "DK1-25110- ODU Assembly auto line",
-      "statuses": {
-        "2024-12-05": "Not Started"
-      }
-    },
+    
+    
     {
       "engineerName": "Prakash",
       "projectName": " 3W-TK1-25102 (27 MC - Sensor addition & Logic Modification activity)",
@@ -50,7 +45,7 @@
       }
     },
     {
-      "engineerName": "Eswanth Potnuri",
+      "engineerName": "Ramkumar Annamalai",
       "projectName": "3A-BO1-25113 & 25114-CDM & Face error inspection unit with Robot system",
       "statuses": {
         "2024-12-05": "Not Started"
@@ -159,7 +154,7 @@
       "engineerName": "Deekshitha",
       "projectName": "3W-TT3-25051 - 560B Spot welding line",
       "statuses": {
-        "2024-12-05": "Completed"
+        "2024-12-05": "Completed,Installation Pending"
       }
     },
     {
@@ -169,13 +164,7 @@
         "2024-12-05": "In Progress"
       }
     },
-    {
-      "engineerName": "Praveen Kumar",
-      "projectName": "9) 3A2409 - GLASS TAPING AND O-CELL PICK & PLACE STATION (PA23 Phase -2)",
-      "statuses": {
-        "2024-12-05": "In Progress"
-      }
-    },
+    
     {
       "engineerName": "Susanth",
       "projectName": "3A-SO1-25025_Bailer_Assembly",
@@ -187,14 +176,14 @@
       "engineerName": "Prakash",
       "projectName": "3W2401 -560B Project MRA Roof spot welding line TKM",
       "statuses": {
-        "2024-12-05": "Completed"
+        "2024-12-05": "Completed,Installation Pending"
       }
     },
     {
       "engineerName": "Rajesh R",
       "projectName": "3W2401 -560B Project MRA Roof spot welding line TKM",
       "statuses": {
-        "2024-12-05": "Completed"
+        "2024-12-05": "Completed,Installation Pending"
       }
     },
     {
