@@ -93,7 +93,6 @@
         "2025-12-08": "Universal Robot IO Mapping Completed"
       }
     },
-    
     {
       "projectName": "3W2401 -560B Project MRA Roof spot welding line TKM",
       "currentStatus": "Dispatch Stage",
@@ -148,7 +147,12 @@
       "projectName": "3W-TK1-25135_TKM - TI Metal Robot Cell Integration",
       "currentStatus": "Design Stage",
       "activities": {}
+    },
+    {
+      "projectName": "IMTEX-2026",
+      "currentStatus": "Trials Stage",
+      "activities": {}
     }
   ],
-  "lastUpdated": "2025-12-18T13:38:50.462Z"
+  "lastUpdated": "2026-01-02T12:10:37.129Z"
 }
