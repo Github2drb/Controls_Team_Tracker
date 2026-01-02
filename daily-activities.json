@@ -658,6 +658,17 @@
           "text": "D8 Pending drawing completion"
         }
       ]
+    },
+    {
+      "engineerName": "Susanth",
+      "date": "2026-01-02",
+      "targetTasks": [
+        {
+          "id": "8xx404nfi",
+          "text": "Washer Gantry Communication and Movement along with Index motor Communication and logic integration"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
