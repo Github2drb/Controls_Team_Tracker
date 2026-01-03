@@ -58,7 +58,11 @@
         }
       ],
       "currentStatus": "in_progress",
-      "notes": "R1J2 IO MAPPING,EIP CONFIGURATION,ROBOT MAPPING,IO CHECK"
+      "notes": "R1J2 IO MAPPING,EIP CONFIGURATION,ROBOT MAPPING,IO CHECK",
+      "resourceLockedFrom": "2026-01-01",
+      "resourceLockedTill": "2026-01-07",
+      "internalTarget": "2026-01-04",
+      "customerTarget": "2026-01-05"
     },
     {
       "id": "Prakash-2025-12-29-1767171115664",
@@ -164,5 +168,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-01-03T03:05:43.817Z"
+  "lastUpdated": "2026-01-03T03:06:19.132Z"
 }
