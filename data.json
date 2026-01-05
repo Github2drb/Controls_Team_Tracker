@@ -25,6 +25,18 @@
       "notes": "Project not yet started"
     },
     {
+      "id": 1766126555371,
+      "projectName": "3W-TK1-25135-TI Metal Robot Cell Integration",
+      "engineerName": "Nilesh Kohli",
+      "startDate": "2026-01-12",
+      "endDate": "2026-01-30",
+      "totalDays": 45,
+      "assignedDays": 3,
+      "remainingDays": 42,
+      "status": "At Risk",
+      "notes": "Project not yet started"
+    },
+    {
       "id": 1765796247607,
       "projectName": "3DBTT202-TTIA-582D PROJECT WELDING FIXTURE & CELLS",
       "engineerName": "Harikrishnan P R",
@@ -82,7 +94,7 @@
       "assignedDays": 1,
       "remainingDays": 75,
       "status": "In Progress",
-      "notes": ""
+      "notes": "Encopa Completed,MB Tack Pending"
     },
     {
       "id": 1765779020858,
@@ -94,12 +106,12 @@
       "assignedDays": 1,
       "remainingDays": 47,
       "status": "In Progress",
-      "notes": ""
+      "notes": "Hardware Integration in Progress"
     },
     {
       "id": 1765513883341,
       "projectName": "3A-BO1-25113 & 25114-CDM & Face error inspection unit with Robot system",
-      "engineerName": "Eswanth Potnuri",
+      "engineerName": "Ramkumar Annamalai",
       "startDate": "2025-12-08",
       "endDate": "2026-01-31",
       "totalDays": 55,
@@ -123,7 +135,7 @@
     {
       "id": 1765364957177,
       "projectName": "3W-TK1-25135_TKM - TI Metal Robot Cell Integration",
-      "engineerName": "Sachin",
+      "engineerName": "Veeresh",
       "startDate": "2025-12-09",
       "endDate": "2026-01-31",
       "totalDays": 54,
@@ -134,7 +146,7 @@
     },
     {
       "id": 1764646075482,
-      "projectName": " GE_Cold plate assembly station A-GB1-25062",
+      "projectName": " A-GB1-25062_GE_Cold plate assembly station",
       "engineerName": "Santosh N",
       "startDate": "2025-11-04",
       "endDate": "2025-12-20",
@@ -154,7 +166,7 @@
       "assignedDays": 30,
       "remainingDays": 88,
       "status": "In Progress",
-      "notes": ""
+      "notes": "Encopa Completed,MB Tack Pending"
     },
     {
       "id": 1764645839575,
@@ -181,18 +193,6 @@
       "notes": "Electrical Confirmation from Southco pending"
     },
     {
-      "id": 1764603132379,
-      "projectName": "3A-BO1-25113 & 25114-CDM & Face error inspection unit with Robot system",
-      "engineerName": "Eswanth Potnuri",
-      "startDate": "2025-11-17",
-      "endDate": "2026-01-31",
-      "totalDays": 76,
-      "assignedDays": 15,
-      "remainingDays": 61,
-      "status": "In Progress",
-      "notes": ""
-    },
-    {
       "id": 1764603042803,
       "projectName": "3W-SA1-25067 & 3W-SA1-25078(R1J1) YFG Project Outer Plate Robotic Mig Welding Line",
       "engineerName": "Veeresh",
@@ -215,6 +215,30 @@
       "remainingDays": 30,
       "status": "In Progress",
       "notes": ""
+    },
+    {
+      "id": 1764602995440,
+      "projectName": "3W-SA1-25061  YFG Project Robotic Mig welding cell & Fixtures",
+      "engineerName": "Sasi-Kaga",
+      "startDate": "2025-12-12",
+      "endDate": "2026-01-07",
+      "totalDays": 143,
+      "assignedDays": 113,
+      "remainingDays": 30,
+      "status": "Cell-1",
+      "notes": "Auto Cycle Completed"
+    },
+    {
+      "id": 1764602995441,
+      "projectName": "3W-SA1-25061  YFG Project Robotic Mig welding cell & Fixtures",
+      "engineerName": "Sasi-Kaga",
+      "startDate": "2025-12-12",
+      "endDate": "2026-01-07",
+      "totalDays": 143,
+      "assignedDays": 113,
+      "remainingDays": 30,
+      "status": "Cell-4",
+      "notes": "IO Check Completed"
     },
     {
       "id": 1764549694129,
@@ -253,6 +277,18 @@
       "notes": ""
     },
     {
+      "id": 1764523893402,
+      "projectName": "DK1-25110- ODU Assembly auto line",
+      "engineerName": "Harsha",
+      "startDate": "2026-01-05",
+      "endDate": "2026-02-28",
+      "totalDays": 97,
+      "assignedDays": 35,
+      "remainingDays": 62,
+      "status": "In Progress",
+      "notes": ""
+    },
+    {
       "id": 1764523867743,
       "projectName": "3A-DK1-25077-Dehydration Project",
       "engineerName": "Santosh N",
@@ -265,28 +301,41 @@
       "notes": ""
     },
     {
-      "id": 1764521767232,
-      "projectName": "3W-TK1-25102 (27 MC - Sensor addition & Logic Modification activity)",
-      "engineerName": "Harikrishnan P R",
-      "startDate": "2025-10-27",
-      "endDate": "2026-02-28",
-      "totalDays": 125,
-      "assignedDays": 35,
-      "remainingDays": 90,
+      "id": 1764523867744,
+      "projectName": "3A-DK1-25077-Dehydration Project",
+      "engineerName": "Ampere Service Engineer",
+      "startDate": "2026-01-02",
+      "endDate": "2026-01-15",
+      "totalDays": 124,
+      "assignedDays": 63,
+      "remainingDays": 61,
       "status": "In Progress",
       "notes": ""
     },
+    {
+      "id": 1764523867744,
+      "projectName": "3A-DK1-25077-Dehydration Project",
+      "engineerName": "Harsha",
+      "startDate": "2026-01-02",
+      "endDate": "2026-01-15",
+      "totalDays": 124,
+      "assignedDays": 63,
+      "remainingDays": 61,
+      "status": "In Progress",
+      "notes": ""
+    },
+    
     {
       "id": 1764521325907,
       "projectName": "3W-TT3-25051 - 560B Spot welding line",
       "engineerName": "Harikrishnan P R",
       "startDate": "2025-10-27",
-      "endDate": "2025-12-30",
+      "endDate": "2026-01-30",
       "totalDays": 41,
       "assignedDays": 35,
       "remainingDays": 6,
       "status": "Completed",
-      "notes": "Unit-1 Support"
+      "notes": "Unit-1 Support,Installation Pending"
     },
     {
       "id": 1764521277466,
@@ -298,7 +347,7 @@
       "assignedDays": 0,
       "remainingDays": 6,
       "status": "Completed",
-      "notes": "Unit-2 Support"
+      "notes": "Unit-1,2 Support"
     },
     {
       "id": 1764519406234,
@@ -341,7 +390,7 @@
       "projectName": "3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo",
       "engineerName": "Susanth",
       "startDate": "2025-11-10",
-      "endDate": "2025-12-31",
+      "endDate": "2026-01-31",
       "totalDays": 52,
       "assignedDays": 21,
       "remainingDays": 31,
