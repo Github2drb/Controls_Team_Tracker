@@ -23,7 +23,7 @@
     },
     {
       "projectName": "3A-S02-25054_Surface Hinge Assembly",
-      "currentStatus": "Mechanical Assembly Stage",
+      "currentStatus": "Electrical Assembly Stage",
       "activities": {
         "2025-12-15": "@Ramkumar Annamalai,\nAfter Joining formalities was completed. PLC configuration was done in sysmac studio. After that Rotary Table lenze ESI file was checked and working. Found Power module need to add in configuration. Power Module additional informed to Ramesh Sir",
         "2025-12-16": "@Ramkumar Annamalai\nI/O List preparation for the machine from schematic drawing.\nTomorrow(17/12/2025) planned for communication of lenze drive and omron plc with weiss automation. Separate program was prepared for lenze drive which consists of omron plc with one input module and one output module, with lenze drive communication for Jog and Move function working.",
@@ -201,5 +201,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-01-08T07:25:14.537Z"
+  "lastUpdated": "2026-01-08T07:25:15.744Z"
 }
