@@ -37,7 +37,7 @@
     },
     {
       "projectName": "3A-BO1-25113 & 25114-CDM & Face error inspection unit with Robot system",
-      "currentStatus": "Design Stage",
+      "currentStatus": "IO Check Stage",
       "activities": {}
     },
     {
@@ -201,5 +201,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-01-08T07:13:47.514Z"
+  "lastUpdated": "2026-01-08T07:25:13.048Z"
 }
