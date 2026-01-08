@@ -28,7 +28,8 @@
         "2025-12-15": "@Ramkumar Annamalai,\nAfter Joining formalities was completed. PLC configuration was done in sysmac studio. After that Rotary Table lenze ESI file was checked and working. Found Power module need to add in configuration. Power Module additional informed to Ramesh Sir",
         "2025-12-16": "@Ramkumar Annamalai\nI/O List preparation for the machine from schematic drawing.\nTomorrow(17/12/2025) planned for communication of lenze drive and omron plc with weiss automation. Separate program was prepared for lenze drive which consists of omron plc with one input module and one output module, with lenze drive communication for Jog and Move function working.",
         "2025-12-17": "@Ramkumar Annamalai,\nSysmac Studio was installed in laptop and Programming work was started, I/O Mapping in programming was completed. After 3 pm Lenze Drive communication with nx plc tried to communicate. But PLC communication with laptop not working, Pinging also not working in PLC. ",
-        "2026-01-01": "@ deekshitha Hmi development i/o monitor screen"
+        "2026-01-01": "@ deekshitha Hmi development i/o monitor screen",
+        "2026-01-02": "@ deekshitha Hmi development i/o monitor screen"
       }
     },
     {
@@ -197,5 +198,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-01-08T07:13:42.339Z"
+  "lastUpdated": "2026-01-08T07:13:43.635Z"
 }
