@@ -185,7 +185,7 @@
     },
     {
       "projectName": " A-GB1-25062_GE_Cold plate assembly station",
-      "currentStatus": "In Progress",
+      "currentStatus": "Trials Stage",
       "activities": {
         "2025-12-31": "@keerthi\n1) PLC LOGIC MODIFICATION\n2)HMI IMPLIMENTION\n3)SANGO SUPPORT",
         "2026-01-01": "@KEERTHI\n1)PLC IMPIMENTION \n2)HMI MODIFICATION\n3)AUTO TRAILS TAKEN ",
@@ -196,5 +196,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-01-08T06:49:33.519Z"
+  "lastUpdated": "2026-01-08T06:55:34.908Z"
 }
