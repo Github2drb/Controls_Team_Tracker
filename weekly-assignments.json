@@ -169,11 +169,11 @@
       "currentStatus": "in_progress",
       "notes": "",
       "resourceLockedFrom": "2026-01-09",
-      "resourceLockedTill": "2026-01-11",
+      "resourceLockedTill": "2026-01-15",
       "internalTarget": "2026-01-08",
       "customerTarget": "2026-01-12",
       "constraint": "Auto,Manual Completed. \nHMI Alarm messages Pending\nSafety Interlock need to be validated\nLDM Sensor Logic need to be included and validated\nVoltmeter and Ammeter display logic need to be included and validated.\nPrakash not available between 12-01 to 17-01"
     }
   ],
-  "lastUpdated": "2026-01-12T13:06:17.231Z"
+  "lastUpdated": "2026-01-12T13:06:29.256Z"
 }
