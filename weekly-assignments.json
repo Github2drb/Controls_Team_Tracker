@@ -60,7 +60,7 @@
       "currentStatus": "in_progress",
       "notes": "R1J2 IO MAPPING,EIP CONFIGURATION,ROBOT MAPPING,IO CHECK",
       "resourceLockedFrom": "2026-01-01",
-      "resourceLockedTill": "2026-01-07",
+      "resourceLockedTill": "2026-01-15",
       "internalTarget": "2026-01-04",
       "customerTarget": "2026-01-08",
       "constraint": "Auto,Manual Completed. \nHMI Alarm messages Pending\nSafety Interlock need to be validated\nLDM Sensor Logic need to be included and validated\nVoltmeter and Ammeter display logic need to be included and validated"
@@ -175,5 +175,5 @@
       "constraint": "Auto,Manual Completed. \nHMI Alarm messages Pending\nSafety Interlock need to be validated\nLDM Sensor Logic need to be included and validated\nVoltmeter and Ammeter display logic need to be included and validated.\nPrakash not available between 12-01 to 17-01"
     }
   ],
-  "lastUpdated": "2026-01-12T12:59:55.923Z"
+  "lastUpdated": "2026-01-12T13:06:17.231Z"
 }
