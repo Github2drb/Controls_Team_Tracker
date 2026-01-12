@@ -207,9 +207,10 @@
         "2026-01-02": "@KEERTHI \n1)HMI MODIFICATION\n2)PLC MODIFICATION\n3) SANGO LOGIC SUPPORT",
         "2026-01-05": "@keerthi \n1.plc modification(safety logic implement,auto logic checking and auto trail taken)\n2.HMI main screen modification,igbt vaule showing page implemention,)",
         "2026-01-06": "@keerthi\n1.auto trail taken without gun \n2.plc logic checking with robotics team\nHMI resistor indication screen developing and alarms added",
-        "2026-01-07": "@KEERTHI\nPLC:-dry cycle complete with safety related checking and waiting for gun \nHMI:-hmi modification"
+        "2026-01-07": "@KEERTHI\nPLC:-dry cycle complete with safety related checking and waiting for gun \nHMI:-hmi modification",
+        "2026-01-08": "@keerthi \n1.screw tighting values showing page devo\n2.plc logic modification"
       }
     }
   ],
-  "lastUpdated": "2026-01-10T12:56:15.004Z"
+  "lastUpdated": "2026-01-12T03:52:56.810Z"
 }
