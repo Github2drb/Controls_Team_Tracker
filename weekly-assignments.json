@@ -62,7 +62,8 @@
       "resourceLockedFrom": "2026-01-01",
       "resourceLockedTill": "2026-01-07",
       "internalTarget": "2026-01-04",
-      "customerTarget": "2026-01-05"
+      "customerTarget": "2026-01-08",
+      "constraint": "Auto,Manual Completed. LDM Sensor need to be validated by customer.\nVoltmeter and Ammeter data to be transferred from Robot"
     },
     {
       "id": "Prakash-2025-12-29-1767171115664",
@@ -169,5 +170,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-01-12T12:42:44.345Z"
+  "lastUpdated": "2026-01-12T12:43:53.925Z"
 }
