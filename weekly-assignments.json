@@ -66,7 +66,7 @@
     },
     {
       "id": "Prakash-2025-12-29-1767171115664",
-      "engineerName": "Kaga Sasi",
+      "engineerName": "Ampere Chiranjeevi",
       "weekStart": "2025-12-29",
       "projectName": "3W_SA1-25061_YFG_CELL4",
       "projectTargetDate": "2026-01-05",
@@ -114,12 +114,13 @@
           "status": "not_started"
         }
       ],
-      "currentStatus": "not_started",
+      "currentStatus": "in_progress",
       "notes": "",
       "resourceLockedFrom": "2026-01-05",
-      "resourceLockedTill": "2026-01-05",
-      "internalTarget": "2026-01-04",
-      "customerTarget": "2026-01-04"
+      "resourceLockedTill": "2026-01-15",
+      "internalTarget": "2026-01-05",
+      "customerTarget": "2026-01-08",
+      "constraint": "HMI Alarm messages need to be validated by customer.\nVoltmeter and Ammeter display need to be updated based on Robot Data Transfer.\nLDM Sensor logic need to be validated by customer"
     },
     {
       "id": "Prakash-2025-12-29-1767171383913",
@@ -168,5 +169,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-01-03T03:06:19.132Z"
+  "lastUpdated": "2026-01-12T12:42:44.345Z"
 }
