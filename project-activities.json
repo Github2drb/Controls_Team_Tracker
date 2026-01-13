@@ -211,7 +211,9 @@
     {
       "projectName": " 3W-TK1-25102 (27 MC - Sensor addition & Logic Modification activity)",
       "currentStatus": "Trials Stage",
-      "activities": {}
+      "activities": {
+        "2026-01-13": "Material Follow up "
+      }
     },
     {
       "projectName": " A-GB1-25062_GE_Cold plate assembly station",
@@ -230,5 +232,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-01-13T13:24:04.082Z"
+  "lastUpdated": "2026-01-13T13:24:39.497Z"
 }
