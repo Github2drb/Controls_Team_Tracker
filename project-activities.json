@@ -122,7 +122,9 @@
     {
       "projectName": "3W2401_MRA ROOF SPOT WELDING LINE TKM",
       "currentStatus": "Dispatch Stage",
-      "activities": {}
+      "activities": {
+        "2026-01-13": "@SACHIN N Bom raised for missing and Site Requirement Materials as per electrical team feedback "
+      }
     },
     {
       "projectName": "A-GB1-25062_GE_Cold plate assembly station",
@@ -233,5 +235,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-01-13T13:25:59.006Z"
+  "lastUpdated": "2026-01-13T13:27:17.437Z"
 }
