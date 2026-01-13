@@ -197,7 +197,9 @@
     {
       "projectName": "3W-TK1-25135-TI Metal Robot Cell Integration",
       "currentStatus": "Electrical Assembly Stage",
-      "activities": {}
+      "activities": {
+        "2026-01-13": "@sachin N Name plates drawing done and E plan Raised the Bom in Odoo Balluff Material follow-up"
+      }
     },
     {
       "projectName": "3W-TT4-25074 TTIA-582D PROJECT MAUAL JIGS NUT CHECKING POKA YOKE",
@@ -226,5 +228,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-01-13T13:23:01.738Z"
+  "lastUpdated": "2026-01-13T13:23:02.923Z"
 }
