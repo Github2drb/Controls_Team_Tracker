@@ -23,7 +23,8 @@
       "currentStatus": "Design Stage",
       "activities": {
         "2026-01-05": "@santhosh. n3A-DK1-25110 ODU I/O list preparation and DAP review with customer.",
-        "2026-01-12": "@santhosh.n  3A-DK1-25110 ODU DAP document preparation and "
+        "2026-01-12": "@santhosh.n  3A-DK1-25110 ODU DAP document preparation and ",
+        "2026-01-13": "@santhosh.n  I/O list preparation"
       }
     },
     {
@@ -224,5 +225,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-01-13T13:21:50.997Z"
+  "lastUpdated": "2026-01-13T13:21:52.507Z"
 }
