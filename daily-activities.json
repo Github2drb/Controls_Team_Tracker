@@ -14,6 +14,17 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Keerthi",
+      "date": "2026-01-16",
+      "targetTasks": [
+        {
+          "id": "ax812wksw",
+          "text": "R2J1 HMI Screens Completion"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
