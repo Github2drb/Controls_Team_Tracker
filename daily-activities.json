@@ -40,6 +40,17 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Harikrishnan",
+      "date": "2026-01-16",
+      "targetTasks": [
+        {
+          "id": "1omw5dziv",
+          "text": "R2J1 Cell1 Pending Points close"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
