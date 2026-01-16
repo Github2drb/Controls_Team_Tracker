@@ -121,7 +121,7 @@
       "resourceLockedTill": "2026-01-15",
       "internalTarget": "2026-01-05",
       "customerTarget": "2026-01-08",
-      "constraint": "HMI Alarm messages need to be validated by customer.\nVoltmeter and Ammeter display need to be updated based on Robot Data Transfer.\nLDM Sensor logic need to be validated by customer"
+      "constraint": "HMI Alarm messages need to be validated by customer.\nVoltmeter and Ammeter display need to be updated based on Robot Data Transfer.\nLDM Sensor logic need to be validated by customer\nCustomer Punch Points to be cleared"
     },
     {
       "id": "Prakash-2025-12-29-1767171383913",
@@ -188,5 +188,5 @@
       "constraint": "Voltmeter, Ammeter Display, Customer Punch Points"
     }
   ],
-  "lastUpdated": "2026-01-16T05:12:47.478Z"
+  "lastUpdated": "2026-01-16T05:13:39.126Z"
 }
