@@ -186,7 +186,20 @@
       "tasks": [],
       "currentStatus": "in_progress",
       "constraint": "Voltmeter, Ammeter Display, Customer Punch Points"
+    },
+    {
+      "id": "Ramkumar Annamalai-2026-01-12-1768540539666",
+      "engineerName": "Ramkumar Annamalai",
+      "weekStart": "2026-01-12",
+      "projectName": "3A-S02-25054_Surface Hinge Assembly",
+      "resourceLockedFrom": "2026-01-05",
+      "resourceLockedTill": "2026-01-31",
+      "internalTarget": "2026-01-18",
+      "customerTarget": "2026-01-26",
+      "tasks": [],
+      "currentStatus": "in_progress",
+      "constraint": "1. Stage-1 Trials\n2.Stage-2 Trials\n3.Stage-3 Trials\n4.Bowlfeeder Slave->Master PLC handshaking"
     }
   ],
-  "lastUpdated": "2026-01-16T05:13:39.126Z"
+  "lastUpdated": "2026-01-16T05:15:39.971Z"
 }
