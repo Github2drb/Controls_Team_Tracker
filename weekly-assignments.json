@@ -199,7 +199,20 @@
       "tasks": [],
       "currentStatus": "in_progress",
       "constraint": "1. Stage-1 Trials\n2.Stage-2 Trials\n3.Stage-3 Trials\n4.Bowlfeeder Slave->Master PLC handshaking"
+    },
+    {
+      "id": "Susanth-2026-01-12-1768540705283",
+      "engineerName": "Susanth",
+      "weekStart": "2026-01-12",
+      "projectName": "D8 Assembly line (3A-S01-25103)",
+      "resourceLockedFrom": "2025-12-29",
+      "resourceLockedTill": "2026-01-31",
+      "internalTarget": "2026-01-19",
+      "customerTarget": "2026-01-21",
+      "tasks": [],
+      "currentStatus": "in_progress",
+      "constraint": "1.Marking Gantry Check after installation\n2.Index Table<->Conveyor Pick and Place validation\n3.Safety Interlock Check\n4.Auto Initialization\n5.HMI Alarm Message validation"
     }
   ],
-  "lastUpdated": "2026-01-16T05:15:39.971Z"
+  "lastUpdated": "2026-01-16T05:18:25.563Z"
 }
