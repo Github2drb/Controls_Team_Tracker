@@ -66,12 +66,7 @@
     {
       "engineerName": "Ramkumar Annamalai",
       "date": "2026-01-21",
-      "targetTasks": [
-        {
-          "id": "ou1mk7xbw",
-          "text": "Conveyor Power On,Indexing Check"
-        }
-      ],
+      "targetTasks": [],
       "completedActivities": []
     }
   ]
