@@ -35,7 +35,8 @@
         "2026-01-14": "@santhosh.n ODU assembly I/O list preparation",
         "2026-01-16": "@santhosh.n I/O list preparation and power calculation ",
         "2026-01-19": "@santhosh.n Mitsubishi BOM preparation and PLC panel and servo panel G. Long lead item discussion",
-        "2026-01-20": "@santhosh.n control panel-2 GA drawing, Electrical BOM preparation DAP document update  "
+        "2026-01-20": "@santhosh.n control panel-2 GA drawing, Electrical BOM preparation DAP document update  ",
+        "2026-01-21": "@santhosh.n DAP document V4 preparation and \n@Ories MBR-25 preparation for Interview"
       }
     },
     {
@@ -252,5 +253,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-01-21T12:35:07.397Z"
+  "lastUpdated": "2026-01-21T12:35:08.720Z"
 }
