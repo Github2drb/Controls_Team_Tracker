@@ -232,11 +232,19 @@
       "weekStart": "2026-01-19",
       "projectName": "D8 Assembly line (3A-S01-25103)",
       "projectTargetDate": "2026-02-06",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "task-1769302384290",
+          "taskName": "Washer Bowl Feeder Logic Completion and Trial Prove",
+          "targetDate": "2026-01-28",
+          "completionDate": "",
+          "status": "in_progress"
+        }
+      ],
       "currentStatus": "in_progress",
       "notes": "Use Master HMI for all controls except setting mode. Check variant selection and parameters updation.",
       "constraint": "Communication between two PLC and one HMI"
     }
   ],
-  "lastUpdated": "2026-01-25T00:51:50.288Z"
+  "lastUpdated": "2026-01-25T00:53:04.598Z"
 }
