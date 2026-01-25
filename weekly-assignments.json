@@ -225,7 +225,18 @@
       "tasks": [],
       "currentStatus": "in_progress",
       "constraint": "1. IO Link Master Slave Communication\n2.FX5U PLC IO Link Master Communication\n3.IO Mapping"
+    },
+    {
+      "id": "Susanth-2026-01-19-1769302310012",
+      "engineerName": "Susanth",
+      "weekStart": "2026-01-19",
+      "projectName": "D8 Assembly line (3A-S01-25103)",
+      "projectTargetDate": "2026-02-06",
+      "tasks": [],
+      "currentStatus": "in_progress",
+      "notes": "Use Master HMI for all controls except setting mode. Check variant selection and parameters updation.",
+      "constraint": "Communication between two PLC and one HMI"
     }
   ],
-  "lastUpdated": "2026-01-20T05:54:15.690Z"
+  "lastUpdated": "2026-01-25T00:51:50.288Z"
 }
