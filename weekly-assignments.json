@@ -246,6 +246,13 @@
           "targetDate": "2026-01-30",
           "completionDate": "",
           "status": "not_started"
+        },
+        {
+          "id": "task-1769302483502",
+          "taskName": "IO Link Communication between PLC and Banner Lamp",
+          "targetDate": "2026-01-28",
+          "completionDate": "",
+          "status": "not_started"
         }
       ],
       "currentStatus": "in_progress",
@@ -253,5 +260,5 @@
       "constraint": "Communication between two PLC and one HMI"
     }
   ],
-  "lastUpdated": "2026-01-25T00:53:53.932Z"
+  "lastUpdated": "2026-01-25T00:54:43.839Z"
 }
