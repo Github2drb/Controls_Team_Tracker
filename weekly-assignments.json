@@ -239,6 +239,13 @@
           "targetDate": "2026-01-28",
           "completionDate": "",
           "status": "in_progress"
+        },
+        {
+          "id": "task-1769302433683",
+          "taskName": "STO Signal Check and Safety Logic Check",
+          "targetDate": "2026-01-30",
+          "completionDate": "",
+          "status": "not_started"
         }
       ],
       "currentStatus": "in_progress",
@@ -246,5 +253,5 @@
       "constraint": "Communication between two PLC and one HMI"
     }
   ],
-  "lastUpdated": "2026-01-25T00:53:04.598Z"
+  "lastUpdated": "2026-01-25T00:53:53.932Z"
 }
