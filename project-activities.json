@@ -57,7 +57,8 @@
         "2026-01-09": "@deekshitha hmi development remote i/o mapping",
         "2026-01-21": "1.HMI manual conveyor screen tested",
         "2026-01-22": "1.MANUAL SCREEN DONE\n",
-        "2026-01-23": "@deekshitha\n1. REMOTE I/O CHECKED IN HMI AND PLC"
+        "2026-01-23": "@deekshitha\n1. REMOTE I/O CHECKED IN HMI AND PLC",
+        "2026-01-26": "@Ramkumar Annamalai,\nStage1, Stage2, Stage3, off-line sequence completed.\nI/O wiring need to vertify and Bowl feeder communication with sequence need to check.\nOn last time customer discussion, Kistler Press Ethernet/IP communication need to check.\nRobot Communication need to check."
       }
     },
     {
@@ -262,5 +263,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-01-24T07:40:13.411Z"
+  "lastUpdated": "2026-01-26T14:04:34.605Z"
 }
