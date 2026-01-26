@@ -258,7 +258,20 @@
       "currentStatus": "in_progress",
       "notes": "Use Master HMI for all controls except setting mode. Check variant selection and parameters updation.",
       "constraint": "Communication between two PLC and one HMI"
+    },
+    {
+      "id": "Santhosh-2026-01-26-1769434471160",
+      "engineerName": "Santhosh",
+      "weekStart": "2026-01-26",
+      "projectName": "DK1-25110- ODU Assembly auto line",
+      "resourceLockedFrom": "2026-01-01",
+      "resourceLockedTill": "2026-03-30",
+      "internalTarget": "2026-02-14",
+      "customerTarget": "2026-02-18",
+      "tasks": [],
+      "currentStatus": "in_progress",
+      "constraint": "DAP Submitted. Material Recheck"
     }
   ],
-  "lastUpdated": "2026-01-26T05:54:53.037Z"
+  "lastUpdated": "2026-01-26T13:34:31.425Z"
 }
