@@ -154,7 +154,8 @@
       "password": "drb@123",
       "role": "engineer",
       "isActive": true,
-      "createdAt": "2026-01-25T01:20:43.699Z"
+      "createdAt": "2026-01-25T01:20:43.699Z",
+      "lastLogin": "2026-01-26T14:03:12.869Z"
     },
     {
       "id": "eng-17",
