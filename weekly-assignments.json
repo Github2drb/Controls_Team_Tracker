@@ -189,13 +189,13 @@
     },
     {
       "id": "Ramkumar Annamalai-2026-01-12-1768540539666",
-      "engineerName": "Ramkumar Annamalai",
+      "engineerName": "Ramkumar Annamalai,Deekshitha",
       "weekStart": "2026-01-12",
       "projectName": "3A-S02-25054_Surface Hinge Assembly",
       "resourceLockedFrom": "2026-01-05",
-      "resourceLockedTill": "2026-01-31",
+      "resourceLockedTill": "2026-02-20",
       "internalTarget": "2026-01-18",
-      "customerTarget": "2026-01-26",
+      "customerTarget": "2026-02-21",
       "tasks": [],
       "currentStatus": "in_progress",
       "constraint": "1. Stage-1 Trials\n2.Stage-2 Trials\n3.Stage-3 Trials\n4.Bowlfeeder Slave->Master PLC handshaking"
@@ -273,5 +273,5 @@
       "constraint": "DAP Submitted. Material Recheck"
     }
   ],
-  "lastUpdated": "2026-01-26T13:36:18.801Z"
+  "lastUpdated": "2026-01-26T13:36:47.747Z"
 }
