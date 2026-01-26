@@ -20,6 +20,16 @@
       "lastLogin": "2026-01-26T05:52:45.171Z"
     },
     {
+      "id": "eng-25",
+      "name": "Deekshitha",
+      "username": "Deekshitha",
+      "password": "drb@123",
+      "role": "engineer",
+      "company": "3DCAD",
+      "isActive": true,
+      "createdAt": "2026-01-25T01:20:43.699Z"
+    },
+    {
       "id": "eng-3",
       "name": "Praveen Kumar C",
       "username": "praveen.kumar.c",
