@@ -215,16 +215,16 @@
     },
     {
       "id": "Harsha-2026-01-12-1768541251715",
-      "engineerName": "Harsha",
+      "engineerName": "Harsha,Santhosh",
       "weekStart": "2026-01-12",
       "projectName": "3A-DK1-25077-Dehydration Project",
       "resourceLockedFrom": "2026-01-06",
-      "resourceLockedTill": "2026-01-31",
+      "resourceLockedTill": "2026-02-14",
       "internalTarget": "2026-01-19",
-      "customerTarget": "2026-01-20",
+      "customerTarget": "2026-02-14",
       "tasks": [],
       "currentStatus": "in_progress",
-      "constraint": "1. IO Link Master Slave Communication\n2.FX5U PLC IO Link Master Communication\n3.IO Mapping"
+      "constraint": "1. IO Link Master Slave Communication\n2.FX5U PLC IO Link Master Communication\n3.IO Mapping\n4.Main power Disconnection\n5.10\" HMI Mounting\n6.FX5U PLC for Final Assembly"
     },
     {
       "id": "Susanth-2026-01-19-1769302310012",
@@ -273,5 +273,5 @@
       "constraint": "DAP Submitted. Material Recheck"
     }
   ],
-  "lastUpdated": "2026-01-26T13:34:31.425Z"
+  "lastUpdated": "2026-01-26T13:35:53.019Z"
 }
