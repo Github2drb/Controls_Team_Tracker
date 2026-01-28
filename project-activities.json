@@ -210,7 +210,8 @@
       "projectName": "3DBTT202_JIG MODIFICATION AND 48605 CELL INSTALLTION",
       "currentStatus": "Mechanical Assembly Stage",
       "activities": {
-        "2026-01-27": "@JAYAAN Initiate the communication configuration among the PLC, HMI, and NS modules"
+        "2026-01-27": "@JAYAAN Initiate the communication configuration among the PLC, HMI, and NS modules",
+        "2026-01-28": "@Jayaan PLC communication configuration has been completed, and the input and output conditions were verified on JIG-A."
       }
     },
     {
@@ -265,5 +266,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-01-28T13:18:05.507Z"
+  "lastUpdated": "2026-01-28T13:18:06.885Z"
 }
