@@ -209,7 +209,9 @@
     {
       "projectName": "3DBTT202_JIG MODIFICATION AND 48605 CELL INSTALLTION",
       "currentStatus": "Mechanical Assembly Stage",
-      "activities": {}
+      "activities": {
+        "2026-01-27": "@JAYAAN Initiate the communication configuration among the PLC, HMI, and NS modules"
+      }
     },
     {
       "projectName": "3W-TK1-25135_TKM - TI Metal Robot Cell Integration",
@@ -263,5 +265,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-01-26T14:04:34.605Z"
+  "lastUpdated": "2026-01-28T13:18:05.507Z"
 }
