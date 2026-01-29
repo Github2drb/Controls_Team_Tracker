@@ -295,7 +295,19 @@
       "customerTarget": "2026-02-18",
       "tasks": [],
       "currentStatus": "not_started"
+    },
+    {
+      "id": "Veeresh,Nilesh Kohli,Dhanesh-2026-01-26-1769672062115",
+      "engineerName": "Veeresh,Nilesh Kohli,Dhanesh",
+      "weekStart": "2026-01-26",
+      "projectName": "3W-TK1-25135_TKM - TI Metal Robot Cell Integration",
+      "resourceLockedFrom": "2026-01-01",
+      "resourceLockedTill": "2026-03-30",
+      "internalTarget": "2026-02-14",
+      "customerTarget": "2026-02-10",
+      "tasks": [],
+      "currentStatus": "in_progress"
     }
   ],
-  "lastUpdated": "2026-01-29T07:32:43.030Z"
+  "lastUpdated": "2026-01-29T07:34:22.432Z"
 }
