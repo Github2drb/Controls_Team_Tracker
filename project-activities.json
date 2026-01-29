@@ -221,7 +221,7 @@
     },
     {
       "projectName": "3W-TK1-25135_TKM - TI Metal Robot Cell Integration",
-      "currentStatus": "Design Stage",
+      "currentStatus": "Trials Stage",
       "activities": {
         "2026-01-29": "@veeresh I/O list Prepare ",
         "2026-01-28": "@veeresh 58709 spot welding Jig drawing"
@@ -274,5 +274,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-01-29T10:00:39.143Z"
+  "lastUpdated": "2026-01-29T10:00:40.819Z"
 }
