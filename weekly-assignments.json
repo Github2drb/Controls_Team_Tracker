@@ -319,7 +319,20 @@
       "customerTarget": "2026-01-07",
       "tasks": [],
       "currentStatus": "in_progress"
+    },
+    {
+      "id": "Sachin,Rajesh R-2026-01-26-1769674570585",
+      "engineerName": "Sachin,Rajesh R",
+      "weekStart": "2026-01-26",
+      "projectName": "3W2401 -560B Project MRA Roof spot welding line TKM",
+      "resourceLockedFrom": "2025-06-06",
+      "resourceLockedTill": "2026-02-28",
+      "internalTarget": "2026-02-21",
+      "customerTarget": "2026-02-21",
+      "tasks": [],
+      "currentStatus": "in_progress",
+      "constraint": "Installation in progress"
     }
   ],
-  "lastUpdated": "2026-01-29T07:35:33.833Z"
+  "lastUpdated": "2026-01-29T08:16:10.788Z"
 }
