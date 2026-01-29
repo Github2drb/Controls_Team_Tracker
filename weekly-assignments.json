@@ -307,7 +307,19 @@
       "customerTarget": "2026-02-10",
       "tasks": [],
       "currentStatus": "in_progress"
+    },
+    {
+      "id": "Veeresh,Eswanth Potnuri-2026-01-26-1769672133569",
+      "engineerName": "Veeresh,Eswanth Potnuri",
+      "weekStart": "2026-01-26",
+      "projectName": "3A-BO1-25113 & 25114-CDM & Face error inspection unit with Robot system",
+      "resourceLockedFrom": "2026-12-01",
+      "resourceLockedTill": "2026-02-14",
+      "internalTarget": "2026-01-07",
+      "customerTarget": "2026-01-07",
+      "tasks": [],
+      "currentStatus": "in_progress"
     }
   ],
-  "lastUpdated": "2026-01-29T07:34:22.432Z"
+  "lastUpdated": "2026-01-29T07:35:33.833Z"
 }
