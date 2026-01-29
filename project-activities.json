@@ -68,7 +68,7 @@
       "projectName": "3A-BO1-25113 & 25114-CDM & Face error inspection unit with Robot system",
       "currentStatus": "IO Check Stage",
       "activities": {
-        "2026-01-29": "@veeresh Robo Controller circuit Drawing\nBOM material Checking ",
+        "2026-01-29": "@veeresh Robo Controller circuit Drawing\nBOM material Checking \n@Eswanth Potnuri(3DCADVS0183) _ ET200SP Hardware and Software Configuration Updated, System Sequence Flow requirement and Study from the client and our design team.",
         "2026-01-27": "@Eswanth Potnuri(3DCADVS0183) _ Siemens TIA Portal V20 Software and GSD Files Installation.",
         "2026-01-28": "@Eswanth Potnuri(3DCADVS0183) _ PLC Backup Retrieved and ET200SP Power Up."
       }
@@ -276,5 +276,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-01-29T14:02:51.886Z"
+  "lastUpdated": "2026-01-29T14:02:53.784Z"
 }
