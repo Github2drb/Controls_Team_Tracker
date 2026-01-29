@@ -332,7 +332,20 @@
       "tasks": [],
       "currentStatus": "in_progress",
       "constraint": "Installation in progress"
+    },
+    {
+      "id": "Sachin,Rajesh R,Subham Shirkey,Shrivantha-2026-01-26-1769677447175",
+      "engineerName": "Sachin,Rajesh R,Subham Shirkey,Shrivantha",
+      "weekStart": "2026-01-26",
+      "projectName": "3W-TK1-25102_27 MC SENSOR ADDITION & LOGIC MODIFICATION",
+      "resourceLockedFrom": "2026-12-26",
+      "resourceLockedTill": "2026-02-28",
+      "internalTarget": "2026-02-14",
+      "customerTarget": "2026-02-18",
+      "tasks": [],
+      "currentStatus": "in_progress",
+      "constraint": "MB Tack,Dash and SM RH pending"
     }
   ],
-  "lastUpdated": "2026-01-29T08:16:10.788Z"
+  "lastUpdated": "2026-01-29T09:04:07.478Z"
 }
