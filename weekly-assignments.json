@@ -271,7 +271,19 @@
       "tasks": [],
       "currentStatus": "in_progress",
       "constraint": "DAP Submitted. Material Recheck"
+    },
+    {
+      "id": "Sachin-2026-01-26-1769655919817",
+      "engineerName": "Sachin",
+      "weekStart": "2026-01-26",
+      "projectName": "3DBTT202-TTIA-582D PROJECT WELDING FIXTURE & CELLS",
+      "resourceLockedFrom": "2026-01-01",
+      "resourceLockedTill": "2026-01-28",
+      "internalTarget": "2026-02-14",
+      "customerTarget": "2026-02-14",
+      "tasks": [],
+      "currentStatus": "not_started"
     }
   ],
-  "lastUpdated": "2026-01-26T13:36:47.747Z"
+  "lastUpdated": "2026-01-29T03:05:20.184Z"
 }
