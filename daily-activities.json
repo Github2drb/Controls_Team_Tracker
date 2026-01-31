@@ -79,6 +79,17 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Eswanth Potnuri",
+      "date": "2026-01-31",
+      "targetTasks": [
+        {
+          "id": "x3lfp8z8c",
+          "text": "Profinet Encoder Configuration,Robot IO Mapping and Robot Sequence check"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
