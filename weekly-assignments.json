@@ -261,7 +261,7 @@
     },
     {
       "id": "Santhosh-2026-01-26-1769434471160",
-      "engineerName": "Santhosh,Praveen Kumar C",
+      "engineerName": "Praveen Kumar",
       "weekStart": "2026-01-26",
       "projectName": "DK1-25110- ODU Assembly auto line",
       "resourceLockedFrom": "2026-01-01",
@@ -270,7 +270,9 @@
       "customerTarget": "2026-02-18",
       "tasks": [],
       "currentStatus": "in_progress",
-      "constraint": "DAP Submitted. Material Recheck"
+      "constraint": "DAP Submitted. Material Recheck",
+      "projectTargetDate": "2026-02-28",
+      "notes": "Offline Logic Development need to start"
     },
     {
       "id": "Sachin-2026-01-26-1769655919817",
@@ -358,5 +360,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-01-31T04:27:57.976Z"
+  "lastUpdated": "2026-01-31T04:35:21.906Z"
 }
