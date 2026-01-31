@@ -320,7 +320,8 @@
       "internalTarget": "2026-01-07",
       "customerTarget": "2026-01-07",
       "tasks": [],
-      "currentStatus": "in_progress"
+      "currentStatus": "in_progress",
+      "constraint": "Remote IO Module Error, Profinet Encoder Configuration in progress"
     },
     {
       "id": "Sachin,Rajesh R-2026-01-26-1769674570585",
@@ -360,5 +361,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-01-31T04:36:02.360Z"
+  "lastUpdated": "2026-01-31T04:48:36.368Z"
 }
