@@ -345,7 +345,18 @@
       "tasks": [],
       "currentStatus": "in_progress",
       "constraint": "MB Tack,Dash and SM RH pending"
+    },
+    {
+      "id": "Eswanth-2026-01-26-1769833677736",
+      "engineerName": "Eswanth",
+      "weekStart": "2026-01-26",
+      "projectName": "3A-BO1-25113 & 25114-CDM & Face error inspection unit with Robot system",
+      "projectTargetDate": "2026-02-03",
+      "tasks": [],
+      "currentStatus": "in_progress",
+      "notes": "",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-01-31T04:26:31.331Z"
+  "lastUpdated": "2026-01-31T04:27:57.976Z"
 }
