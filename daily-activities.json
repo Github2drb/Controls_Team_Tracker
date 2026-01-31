@@ -68,6 +68,17 @@
       "date": "2026-01-21",
       "targetTasks": [],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Rajesh M",
+      "date": "2026-01-31",
+      "targetTasks": [
+        {
+          "id": "r36e4477f",
+          "text": "IHTM PLC power up and IO Check"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
