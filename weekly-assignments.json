@@ -284,7 +284,7 @@
       "internalTarget": "2026-02-14",
       "customerTarget": "2026-02-14",
       "tasks": [],
-      "currentStatus": "not_started"
+      "currentStatus": "in_progress"
     },
     {
       "id": "Veeresh-2026-01-26-1769670295677",
@@ -361,5 +361,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-01-31T04:49:11.421Z"
+  "lastUpdated": "2026-01-31T04:49:17.147Z"
 }
