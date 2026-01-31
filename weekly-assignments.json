@@ -269,7 +269,7 @@
       "internalTarget": "2026-02-14",
       "customerTarget": "2026-02-18",
       "tasks": [],
-      "currentStatus": "in_progress",
+      "currentStatus": "not_started",
       "constraint": "DAP Submitted. Material Recheck",
       "projectTargetDate": "2026-02-28",
       "notes": "Offline Logic Development need to start"
@@ -361,5 +361,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-01-31T04:48:36.368Z"
+  "lastUpdated": "2026-01-31T04:49:11.421Z"
 }
