@@ -141,7 +141,8 @@
         "2026-01-20": "@santhosh.n 37pin D-SUB connector wiring details preparation ",
         "2026-01-21": "@Santhosh.N electrical wiring support for final line conveyor",
         "2026-01-22": "@Santhosh.N electrical wiring support for unloading station",
-        "2026-01-29": "@santhosh.n ELEC PR-13 preparation and release  3A-GB1-26007 DAP Document preparation"
+        "2026-01-29": "@santhosh.n ELEC PR-13 preparation and release  3A-GB1-26007 DAP Document preparation",
+        "2026-02-02": "@harasha ka, Frontend program for HMI (in setting mode for dehydration individual 20 station)"
       }
     },
     {
@@ -288,5 +289,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-01-31T17:30:14.254Z"
+  "lastUpdated": "2026-02-02T10:01:43.469Z"
 }
