@@ -90,6 +90,17 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Rajesh R",
+      "date": "2026-02-02",
+      "targetTasks": [],
+      "completedActivities": [
+        {
+          "id": "y716qoo8n",
+          "text": "DASH line manual jig program activity"
+        }
+      ]
     }
   ]
 }
