@@ -57,7 +57,7 @@
           "status": "not_started"
         }
       ],
-      "currentStatus": "in_progress",
+      "currentStatus": "completed",
       "notes": "R1J2 IO MAPPING,EIP CONFIGURATION,ROBOT MAPPING,IO CHECK",
       "resourceLockedFrom": "2026-01-01",
       "resourceLockedTill": "2026-01-15",
@@ -361,5 +361,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-03-21T03:35:06.734Z"
+  "lastUpdated": "2026-03-21T03:35:18.818Z"
 }
