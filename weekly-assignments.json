@@ -255,7 +255,7 @@
           "status": "not_started"
         }
       ],
-      "currentStatus": "in_progress",
+      "currentStatus": "completed",
       "notes": "Use Master HMI for all controls except setting mode. Check variant selection and parameters updation.",
       "constraint": "Communication between two PLC and one HMI"
     },
@@ -362,5 +362,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-03-21T11:36:13.223Z"
+  "lastUpdated": "2026-03-21T11:36:32.678Z"
 }
