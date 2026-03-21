@@ -126,7 +126,7 @@
     },
     {
       "projectName": "3A-DK1-25077-Dehydration Project",
-      "currentStatus": "IO Check Stage",
+      "currentStatus": "Trials Stage",
       "activities": {
         "2026-01-05": "@santhosh. n3A-DK1-25077 brandings preparation and wiring support.",
         "2026-01-03": "@santhosh.n Aditya Birla site visit update 3A-DK1-25077 drawing and wiring support",
@@ -289,5 +289,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-03-21T03:49:54.322Z"
+  "lastUpdated": "2026-03-21T03:49:55.429Z"
 }
