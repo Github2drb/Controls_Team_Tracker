@@ -265,12 +265,12 @@
       "weekStart": "2026-01-26",
       "projectName": "DK1-25110- ODU Assembly auto line",
       "resourceLockedFrom": "2026-01-01",
-      "resourceLockedTill": "2026-03-30",
-      "internalTarget": "2026-02-14",
-      "customerTarget": "2026-02-18",
+      "resourceLockedTill": "2026-05-31",
+      "internalTarget": "2026-04-15",
+      "customerTarget": "2026-04-30",
       "tasks": [],
       "currentStatus": "not_started",
-      "constraint": "DAP Submitted. Material Recheck",
+      "constraint": "Electrical E-Plan Design in Progress.\nMaterial Procurement in Progress",
       "projectTargetDate": "2026-02-28",
       "notes": "Offline Logic Development need to start"
     },
@@ -362,5 +362,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-03-21T11:22:59.678Z"
+  "lastUpdated": "2026-03-21T11:28:01.665Z"
 }
