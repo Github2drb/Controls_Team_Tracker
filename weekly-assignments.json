@@ -206,8 +206,8 @@
       "weekStart": "2026-01-12",
       "projectName": "D8 Assembly line (3A-S01-25103)",
       "resourceLockedFrom": "2025-12-29",
-      "resourceLockedTill": "2026-01-31",
-      "internalTarget": "2026-01-19",
+      "resourceLockedTill": "2026-03-31",
+      "internalTarget": "2026-03-30",
       "customerTarget": "2026-01-21",
       "tasks": [],
       "currentStatus": "in_progress",
@@ -362,5 +362,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-03-21T03:36:44.479Z"
+  "lastUpdated": "2026-03-21T03:37:08.520Z"
 }
