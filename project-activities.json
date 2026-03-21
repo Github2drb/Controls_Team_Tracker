@@ -255,7 +255,7 @@
     },
     {
       "projectName": "3W-TK1-25135-TI Metal Robot Cell Integration",
-      "currentStatus": "Trials Stage",
+      "currentStatus": "Completed",
       "activities": {
         "2026-01-13": "@sachin N Name plates drawing done and E plan Raised the Bom in Odoo Balluff Material follow-up"
       }
@@ -289,5 +289,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-02-02T10:01:43.469Z"
+  "lastUpdated": "2026-03-21T03:49:51.733Z"
 }
