@@ -101,6 +101,17 @@
           "text": "DASH line manual jig program activity"
         }
       ]
+    },
+    {
+      "engineerName": "Harikrishnan P R",
+      "date": "2026-03-21",
+      "targetTasks": [
+        {
+          "id": "kjuw66e7n",
+          "text": "AGBL Zone-5 Communication"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
