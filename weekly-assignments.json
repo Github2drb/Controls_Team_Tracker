@@ -330,9 +330,9 @@
       "weekStart": "2026-01-26",
       "projectName": "3W2401 -560B Project MRA Roof spot welding line TKM",
       "resourceLockedFrom": "2025-06-06",
-      "resourceLockedTill": "2026-02-28",
-      "internalTarget": "2026-02-21",
-      "customerTarget": "2026-02-21",
+      "resourceLockedTill": "2026-03-31",
+      "internalTarget": "2026-03-27",
+      "customerTarget": "2026-03-27",
       "tasks": [],
       "currentStatus": "in_progress",
       "constraint": "Installation in progress"
@@ -362,5 +362,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-03-21T03:36:11.624Z"
+  "lastUpdated": "2026-03-21T03:36:44.479Z"
 }
