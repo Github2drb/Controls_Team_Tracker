@@ -304,11 +304,12 @@
       "weekStart": "2026-01-26",
       "projectName": "3W-TK1-25135_TKM - TI Metal Robot Cell Integration",
       "resourceLockedFrom": "2026-01-01",
-      "resourceLockedTill": "2026-03-30",
-      "internalTarget": "2026-02-14",
-      "customerTarget": "2026-02-10",
+      "resourceLockedTill": "2026-03-31",
+      "internalTarget": "2026-03-20",
+      "customerTarget": "2026-03-20",
       "tasks": [],
-      "currentStatus": "in_progress"
+      "currentStatus": "in_progress",
+      "constraint": "Installation at TI Metal Pending"
     },
     {
       "id": "Veeresh,Eswanth Potnuri-2026-01-26-1769672133569",
@@ -361,5 +362,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-03-21T03:35:29.474Z"
+  "lastUpdated": "2026-03-21T03:36:11.624Z"
 }
