@@ -21,7 +21,7 @@
       "totalDays": 45,
       "assignedDays": 3,
       "remainingDays": 42,
-      "status": "IN Progress",
+      "status": "In Progress",
       "notes": "Chennai Installation Pending
     },
     
@@ -287,7 +287,7 @@
       "totalDays": 345,
       "assignedDays": 316,
       "remainingDays": 29,
-      "status": "Completed,Installation Pending",
+      "status": "Completed",
       "notes": ""
     },
     
