@@ -21,58 +21,12 @@
       "totalDays": 45,
       "assignedDays": 3,
       "remainingDays": 42,
-      "status": "At Risk",
+      "status": "IN Progress",
       "notes": "Chennai Installation Pending
     },
     
-    {
-      "id": 1765796247607,
-      "projectName": "3DBTT202-TTIA-582D PROJECT WELDING FIXTURE & CELLS",
-      "engineerName": "Harikrishnan P R",
-      "startDate": "2025-12-28",
-      "endDate": "2025-12-31",
-      "totalDays": 4,
-      "assignedDays": 0,
-      "remainingDays": 16,
-      "status": "At Risk",
-      "notes": ""
-    },
-    {
-      "id": 1765796234767,
-      "projectName": "3DBTT202-TTIA-582D PROJECT WELDING FIXTURE & CELLS",
-      "engineerName": "Prakash",
-      "startDate": "2025-12-28",
-      "endDate": "2025-12-31",
-      "totalDays": 4,
-      "assignedDays": 0,
-      "remainingDays": 16,
-      "status": "At Risk",
-      "notes": ""
-    },
-    {
-      "id": 1765789121849,
-      "projectName": "3W-TT4-25074 TTIA-582D PROJECT MAUAL JIGS NUT CHECKING POKA YOKE",
-      "engineerName": "Sachin",
-      "startDate": "2025-12-15",
-      "endDate": "2026-01-31",
-      "totalDays": 48,
-      "assignedDays": 1,
-      "remainingDays": 47,
-      "status": "At Risk",
-      "notes": ""
-    },
-    {
-      "id": 1765789105364,
-      "projectName": "3W-TT4-25074 TTIA-582D PROJECT MAUAL JIGS NUT CHECKING POKA YOKE",
-      "engineerName": "Rajesh M",
-      "startDate": "2025-12-15",
-      "endDate": "2026-01-31",
-      "totalDays": 48,
-      "assignedDays": 1,
-      "remainingDays": 47,
-      "status": "At Risk",
-      "notes": ""
-    },
+   
+    
     {
       "id": 1765779846762,
       "projectName": "3W-TK1-25102 (27 MC - Sensor addition & Logic Modification activity)",
@@ -181,7 +135,7 @@
       "totalDays": 143,
       "assignedDays": 113,
       "remainingDays": 30,
-      "status": "Cell-1",
+      "status": "Completed",
       "notes": "Auto Cycle Completed"
     },
     {
@@ -232,18 +186,7 @@
       "status": "In Progress",
       "notes": ""
     },
-    {
-      "id": 1764523893402,
-      "projectName": "DK1-25110- ODU Assembly auto line",
-      "engineerName": "Outsource",
-      "startDate": "2026-01-05",
-      "endDate": "2026-02-28",
-      "totalDays": 97,
-      "assignedDays": 35,
-      "remainingDays": 62,
-      "status": "Not Yet Started",
-      "notes": ""
-    },
+    
     {
       "id": 1764523867743,
       "projectName": "3A-DK1-25077-Dehydration Project",
@@ -293,18 +236,7 @@
       "status": "Completed",
       "notes": "Unit-1 Support,Installation Pending"
     },
-    {
-      "id": 1764521277466,
-      "projectName": "3W-TT3-25051 - 560B Spot welding line",
-      "engineerName": "Eswanth Potnuri",
-      "startDate": "2025-12-01",
-      "endDate": "2025-12-06",
-      "totalDays": 6,
-      "assignedDays": 0,
-      "remainingDays": 6,
-      "status": "Completed",
-      "notes": "Unit-1,2 Support"
-    },
+    
     {
       "id": 1764519406234,
       "projectName": " 3W-TK1-25102 (27 MC - Sensor addition & Logic Modification activity)",
@@ -317,18 +249,7 @@
       "status": "In Progress",
       "notes": ""
     },
-    {
-      "id": 1764519381020,
-      "projectName": " 3W-TK1-25102 (27 MC - Sensor addition & Logic Modification activity)",
-      "engineerName": "Prakash",
-      "startDate": "2025-11-03",
-      "endDate": "2026-02-28",
-      "totalDays": 118,
-      "assignedDays": 28,
-      "remainingDays": 90,
-      "status": "In Progress",
-      "notes": "Co-ordination with TKM"
-    },
+    
     {
       "id": 1764519362290,
       "projectName": " 3W-TK1-25102 (27 MC - Sensor addition & Logic Modification activity)",
@@ -353,54 +274,10 @@
       "status": "In Progress",
       "notes": "Conveyor and Bowl Feeder Support"
     },
-    {
-      "id": 1763527172427,
-      "projectName": "3W-TT3-25051 - 560B Spot welding line",
-      "engineerName": "Keerthi",
-      "startDate": "2025-11-17",
-      "endDate": "2025-11-21",
-      "totalDays": 5,
-      "assignedDays": 3,
-      "remainingDays": 2,
-      "status": "Completed",
-      "notes": "Unit-2 Support"
-    },
-    {
-      "id": 1763527154982,
-      "projectName": "3W-TT3-25051 - 560B Spot welding line",
-      "engineerName": "Eswanth Potnuri",
-      "startDate": "2025-11-14",
-      "endDate": "2025-11-21",
-      "totalDays": 8,
-      "assignedDays": 6,
-      "remainingDays": 2,
-      "status": "Completed",
-      "notes": "All Cells"
-    },
-    {
-      "id": 1763527128755,
-      "projectName": "3W-TT3-25051 - 560B Spot welding line",
-      "engineerName": "Dyumith",
-      "startDate": "2025-11-17",
-      "endDate": "2025-11-21",
-      "totalDays": 5,
-      "assignedDays": 3,
-      "remainingDays": 2,
-      "status": "Completed",
-      "notes": "Cell2"
-    },
-    {
-      "id": 1763527106246,
-      "projectName": "3W-TT3-25051 - 560B Spot welding line",
-      "engineerName": "Susanth",
-      "startDate": "2025-11-17",
-      "endDate": "2025-11-21",
-      "totalDays": 5,
-      "assignedDays": 3,
-      "remainingDays": 2,
-      "status": "Completed",
-      "notes": "Cell10"
-    },
+    
+
+    
+    
     {
       "id": 1761128660454,
       "projectName": "3W2401_MRA ROOF SPOT WELDING LINE TKM",
@@ -413,78 +290,12 @@
       "status": "Completed,Installation Pending",
       "notes": ""
     },
-    {
-      "id": 1761128595614,
-      "projectName": "3DBTT202_JIG MODIFICATION AND 48605 CELL INSTALLTION",
-      "engineerName": "Sachin",
-      "startDate": "2024-10-10",
-      "endDate": "2026-01-21",
-      "totalDays": 469,
-      "assignedDays": 378,
-      "remainingDays": 91,
-      "status": "In Progress",
-      "notes": ""
-    },
-    {
-      "id": 1761128436133,
-      "projectName": "3W-TT4-25073_EXISTING JIG POKAYOKE ADDITION",
-      "engineerName": "Sachin",
-      "startDate": "2025-07-22",
-      "endDate": "2025-10-17",
-      "totalDays": 88,
-      "assignedDays": 93,
-      "remainingDays": 0,
-      "status": "Completed",
-      "notes": ""
-    },
-    {
-      "id": 1761128342670,
-      "projectName": "3W-TT4-25072_NOZZLE CLEANER INSTALLATION ",
-      "engineerName": "Sachin",
-      "startDate": "2025-07-07",
-      "endDate": "2025-09-22",
-      "totalDays": 78,
-      "assignedDays": 108,
-      "remainingDays": 0,
-      "status": "Completed",
-      "notes": ""
-    },
-    {
-      "id": 1761128240889,
-      "projectName": "3W-TT3-25051_ROBOTIC SPOT WELDING CELL R1J1,R1J2,BOLTING JIG ",
-      "engineerName": "Sachin",
-      "startDate": "2025-07-17",
-      "endDate": "2025-12-20",
-      "totalDays": 127,
-      "assignedDays": 98,
-      "remainingDays": 29,
-      "status": "In Progress",
-      "notes": ""
-    },
-    {
-      "id": 1761128077884,
-      "projectName": "3W-SA1-25078_R1J1 ROBOTIC CELL + JIG",
-      "engineerName": "Sachin",
-      "startDate": "2025-09-20",
-      "endDate": "2025-12-30",
-      "totalDays": 63,
-      "assignedDays": 33,
-      "remainingDays": 30,
-      "status": "In Progress",
-      "notes": ""
-    },
-    {
-      "id": 1761128029724,
-      "projectName": "3W-SA1-25068_R2J1 ROBOTIC CELL & JIG - 2 NOS",
-      "engineerName": "Sachin",
-      "startDate": "2025-07-30",
-      "endDate": "2025-12-30",
-      "totalDays": 108,
-      "assignedDays": 85,
-      "remainingDays": 23,
-      "status": "In Progress",
-      "notes": ""
-    },
+    
+   
+    
+    
+    
+  
     {
       "id": 1761127927197,
       "projectName": "3W-SA1-25061_R1J2 ROBOTIC ARC WELDING CELL 4-NOS",
