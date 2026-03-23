@@ -120,6 +120,10 @@
         {
           "id": "jltdc8a9j",
           "text": "Torque Control for Gripper Check"
+        },
+        {
+          "id": "g7qykwvuf",
+          "text": "D8 Stepper Torque mode Check for Gripper"
         }
       ],
       "completedActivities": []
