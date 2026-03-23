@@ -112,6 +112,17 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Susanth K M",
+      "date": "2026-03-23",
+      "targetTasks": [
+        {
+          "id": "jltdc8a9j",
+          "text": "Torque Control for Gripper Check"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
