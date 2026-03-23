@@ -9,7 +9,7 @@
       "totalDays": 56,
       "assignedDays": 18,
       "remainingDays": 38,
-      "status": "In Progress",
+      "status": "Completed",
       "notes": ""
     },
     {
@@ -22,20 +22,9 @@
       "assignedDays": 3,
       "remainingDays": 42,
       "status": "At Risk",
-      "notes": "Project not yet started"
+      "notes": "Chennai Installation Pending
     },
-    {
-      "id": 1766126555371,
-      "projectName": "3W-TK1-25135-TI Metal Robot Cell Integration",
-      "engineerName": "Nilesh Kohli",
-      "startDate": "2026-01-12",
-      "endDate": "2026-01-30",
-      "totalDays": 45,
-      "assignedDays": 3,
-      "remainingDays": 42,
-      "status": "At Risk",
-      "notes": "Project not yet started"
-    },
+    
     {
       "id": 1765796247607,
       "projectName": "3DBTT202-TTIA-582D PROJECT WELDING FIXTURE & CELLS",
@@ -94,14 +83,14 @@
       "assignedDays": 1,
       "remainingDays": 75,
       "status": "In Progress",
-      "notes": "Encopa Completed,MB Tack Pending"
+      "notes": "Production Trials"
     },
     {
       "id": 1765779020858,
       "projectName": "3A-S02-25054_Surface Hinge Assembly",
       "engineerName": "Ramkumar Annamalai",
       "startDate": "2025-12-15",
-      "endDate": "2026-01-31",
+      "endDate": "2026-03-31",
       "totalDays": 48,
       "assignedDays": 1,
       "remainingDays": 47,
@@ -111,39 +100,17 @@
     {
       "id": 1765513883341,
       "projectName": "3A-BO1-25113 & 25114-CDM & Face error inspection unit with Robot system",
-      "engineerName": "Ramkumar Annamalai",
+      "engineerName": "Eswanth Potnuri",
       "startDate": "2025-12-08",
       "endDate": "2026-01-31",
       "totalDays": 55,
       "assignedDays": 5,
       "remainingDays": 50,
-      "status": "In Progress",
+      "status": "Completed",
       "notes": ""
     },
-    {
-      "id": 1765513864860,
-      "projectName": "3A-BO1-25113 & 25114-CDM & Face error inspection unit with Robot system",
-      "engineerName": "Santosh N",
-      "startDate": "2025-12-08",
-      "endDate": "2026-01-24",
-      "totalDays": 48,
-      "assignedDays": 5,
-      "remainingDays": 43,
-      "status": "In Progress",
-      "notes": ""
-    },
-    {
-      "id": 1765364957177,
-      "projectName": "3W-TK1-25135_TKM - TI Metal Robot Cell Integration",
-      "engineerName": "Veeresh",
-      "startDate": "2025-12-09",
-      "endDate": "2026-01-31",
-      "totalDays": 54,
-      "assignedDays": 2,
-      "remainingDays": 52,
-      "status": "In Progress",
-      "notes": "IHTM Project"
-    },
+    
+    
     {
       "id": 1764646075482,
       "projectName": " A-GB1-25062_GE_Cold plate assembly station",
@@ -153,27 +120,16 @@
       "totalDays": 47,
       "assignedDays": 29,
       "remainingDays": 18,
-      "status": "In Progress",
+      "status": "Completed",
       "notes": ""
     },
-    {
-      "id": 1764646041086,
-      "projectName": " 3W-TK1-25102 (27 MC - Sensor addition & Logic Modification activity)",
-      "engineerName": "Rajesh R",
-      "startDate": "2025-11-03",
-      "endDate": "2026-02-28",
-      "totalDays": 118,
-      "assignedDays": 30,
-      "remainingDays": 88,
-      "status": "In Progress",
-      "notes": "Encopa Completed,MB Tack Pending"
-    },
+    
     {
       "id": 1764645839575,
       "projectName": "3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo",
       "engineerName": "Veeresh",
       "startDate": "2025-11-03",
-      "endDate": "2026-01-02",
+      "endDate": "2026-03-31",
       "totalDays": 61,
       "assignedDays": 30,
       "remainingDays": 31,
@@ -190,7 +146,7 @@
       "assignedDays": 58,
       "remainingDays": 31,
       "status": "In Progress",
-      "notes": "Electrical Confirmation from Southco pending"
+      "notes": "Safety Wiring Drawing in Pending"
     },
     {
       "id": 1764603042803,
@@ -201,7 +157,7 @@
       "totalDays": 87,
       "assignedDays": 57,
       "remainingDays": 30,
-      "status": "In Progress",
+      "status": "Completed",
       "notes": ""
     },
     {
@@ -213,7 +169,7 @@
       "totalDays": 143,
       "assignedDays": 113,
       "remainingDays": 30,
-      "status": "In Progress",
+      "status": "Completed",
       "notes": ""
     },
     {
@@ -237,7 +193,7 @@
       "totalDays": 143,
       "assignedDays": 113,
       "remainingDays": 30,
-      "status": "Cell-4",
+      "status": "Completed",
       "notes": "IO Check Completed"
     },
     {
@@ -279,13 +235,13 @@
     {
       "id": 1764523893402,
       "projectName": "DK1-25110- ODU Assembly auto line",
-      "engineerName": "Harsha",
+      "engineerName": "Outsource",
       "startDate": "2026-01-05",
       "endDate": "2026-02-28",
       "totalDays": 97,
       "assignedDays": 35,
       "remainingDays": 62,
-      "status": "In Progress",
+      "status": "Not Yet Started",
       "notes": ""
     },
     {
