@@ -145,11 +145,7 @@
         "2026-02-02": "@harasha ka, Frontend program for HMI (in setting mode for dehydration individual 20 station)"
       }
     },
-    {
-      "projectName": "3A2409 - GLASS TAPING AND O-CELL PICK & PLACE STATION (PA23 Phase -2)",
-      "currentStatus": "Trials Stage",
-      "activities": {}
-    },
+    
    
     {
       "projectName": "3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo",
@@ -172,11 +168,7 @@
         "2025-12-08": "Universal Robot IO Mapping Completed"
       }
     },
-    {
-      "projectName": "3W2401 -560B Project MRA Roof spot welding line TKM",
-      "currentStatus": "Dispatch Stage",
-      "activities": {}
-    },
+  
     {
       "projectName": "3DBTT202-TTIA-582D PROJECT WELDING FIXTURE & CELLS",
       "currentStatus": "Electrical Assembly Stage",
@@ -184,21 +176,7 @@
         "2026-01-13": "@sachin Merged all Bom and handed over all Bom to electrical Team (Prasanna)"
       }
     },
-    {
-      "projectName": "3S-TK1-25084_OBSOLUTE ROBOT REPLACEMENT",
-      "currentStatus": "Completed",
-      "activities": {}
-    },
-    {
-      "projectName": "3W-TT4-25093_ARC WELDING JIG & R1J2 ROBOTIC CELL",
-      "currentStatus": "Trials Stage",
-      "activities": {}
-    },
-    {
-      "projectName": "3W-TK1-25102_27 MC SENSOR ADDITION & LOGIC MODIFICATION",
-      "currentStatus": "Trials Stage",
-      "activities": {}
-    },
+    
     {
       "projectName": "3W-SA1-25061_R1J2 ROBOTIC ARC WELDING CELL 4-NOS",
       "currentStatus": "PLC Power Up Stage",
@@ -206,21 +184,8 @@
         "2026-01-22": "@Jayaan_Developing the HMI screen and supporting future development efforts."
       }
     },
-    {
-      "projectName": "3W-SA1-25068_R2J1 ROBOTIC CELL & JIG - 2 NOS",
-      "currentStatus": "PLC Power Up Stage",
-      "activities": {}
-    },
-    {
-      "projectName": "3W-TT3-25051_ROBOTIC SPOT WELDING CELL R1J1,R1J2,BOLTING JIG ",
-      "currentStatus": "Dispatch Stage",
-      "activities": {}
-    },
-    {
-      "projectName": "3W-SA1-25078_R1J1 ROBOTIC CELL + JIG",
-      "currentStatus": "IO Check Stage",
-      "activities": {}
-    },
+    
+    
     {
       "projectName": "3DBTT202_JIG MODIFICATION AND 48605 CELL INSTALLTION",
       "currentStatus": "Mechanical Assembly Stage",
