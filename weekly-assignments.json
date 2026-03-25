@@ -395,7 +395,19 @@
       "tasks": [],
       "currentStatus": "in_progress",
       "constraint": "DAP Completed"
+    },
+    {
+      "id": "Praveen Kumar C,Anand-2026-03-23-1774400251067",
+      "engineerName": "Praveen Kumar C,Anand",
+      "weekStart": "2026-03-23",
+      "projectName": "Gen6 EV Charge Port E-Lock Assembly Machine - 3S-SO1-26025",
+      "resourceLockedFrom": "2026-03-24",
+      "resourceLockedTill": "2026-05-31",
+      "internalTarget": "2026-04-30",
+      "customerTarget": "2026-05-13",
+      "tasks": [],
+      "currentStatus": "not_started"
     }
   ],
-  "lastUpdated": "2026-03-25T00:55:37.657Z"
+  "lastUpdated": "2026-03-25T00:57:31.246Z"
 }
