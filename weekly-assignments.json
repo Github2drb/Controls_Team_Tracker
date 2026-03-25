@@ -370,7 +370,11 @@
       "tasks": [],
       "currentStatus": "not_started",
       "notes": "",
-      "constraint": ""
+      "constraint": "",
+      "resourceLockedFrom": "2026-03-16",
+      "resourceLockedTill": "2026-05-31",
+      "internalTarget": "2026-04-30",
+      "customerTarget": "2026-05-04"
     },
     {
       "id": "Susanth K M-2026-03-23-1774226270837",
@@ -409,5 +413,5 @@
       "currentStatus": "not_started"
     }
   ],
-  "lastUpdated": "2026-03-25T00:57:31.246Z"
+  "lastUpdated": "2026-03-25T07:03:30.845Z"
 }
