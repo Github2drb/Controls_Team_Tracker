@@ -169,7 +169,7 @@
     },
     {
       "projectName": "3DBTT202-TTIA-582D PROJECT WELDING FIXTURE & CELLS",
-      "currentStatus": "Electrical Assembly Stage",
+      "currentStatus": "Completed",
       "activities": {
         "2026-01-13": "@sachin Merged all Bom and handed over all Bom to electrical Team (Prasanna)"
       }
@@ -255,5 +255,5 @@
       "activities": {}
     }
   ],
-  "lastUpdated": "2026-03-25T07:29:04.131Z"
+  "lastUpdated": "2026-03-25T07:29:05.700Z"
 }
