@@ -382,7 +382,20 @@
       "currentStatus": "not_started",
       "notes": "",
       "constraint": "Hardware Configuration,IO Mapping"
+    },
+    {
+      "id": "Veeresh,Eswanth Potnuri-2026-03-23-1774400137443",
+      "engineerName": "Veeresh,Eswanth Potnuri",
+      "weekStart": "2026-03-23",
+      "projectName": "3A-SS1-26012-Sartorius- Glass bead blasting automation",
+      "resourceLockedFrom": "2026-03-02",
+      "resourceLockedTill": "2026-05-31",
+      "internalTarget": "2026-04-30",
+      "customerTarget": "2026-05-06",
+      "tasks": [],
+      "currentStatus": "in_progress",
+      "constraint": "DAP Completed"
     }
   ],
-  "lastUpdated": "2026-03-23T10:01:26.995Z"
+  "lastUpdated": "2026-03-25T00:55:37.657Z"
 }
