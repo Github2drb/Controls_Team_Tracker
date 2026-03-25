@@ -343,12 +343,12 @@
       "weekStart": "2026-01-26",
       "projectName": "3W-TK1-25102_27 MC SENSOR ADDITION & LOGIC MODIFICATION",
       "resourceLockedFrom": "2026-12-26",
-      "resourceLockedTill": "2026-03-31",
+      "resourceLockedTill": "2026-04-06",
       "internalTarget": "2026-03-23",
       "customerTarget": "2026-03-21",
       "tasks": [],
       "currentStatus": "in_progress",
-      "constraint": "MB Tack,Encopa Endurance and Part test in progress"
+      "constraint": "HMI Activity Pending"
     },
     {
       "id": "Eswanth-2026-01-26-1769833677736",
@@ -413,5 +413,5 @@
       "currentStatus": "not_started"
     }
   ],
-  "lastUpdated": "2026-03-25T07:03:30.845Z"
+  "lastUpdated": "2026-03-25T07:04:17.024Z"
 }
