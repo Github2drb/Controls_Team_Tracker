@@ -382,7 +382,15 @@
       "weekStart": "2026-03-23",
       "projectName": "3A-DK2-25142_STEP 4 - Dehydration",
       "projectTargetDate": "2026-04-30",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "task-1774425936181",
+          "taskName": "Hardware Configuration in GXworks3",
+          "targetDate": "2026-03-27",
+          "completionDate": "",
+          "status": "not_started"
+        }
+      ],
       "currentStatus": "not_started",
       "notes": "",
       "constraint": "Hardware Configuration,IO Mapping"
@@ -413,5 +421,5 @@
       "currentStatus": "not_started"
     }
   ],
-  "lastUpdated": "2026-03-25T07:38:22.461Z"
+  "lastUpdated": "2026-03-25T08:05:36.550Z"
 }
