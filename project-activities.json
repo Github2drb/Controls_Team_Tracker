@@ -142,11 +142,10 @@
         "2026-01-21": "@Santhosh.N electrical wiring support for final line conveyor",
         "2026-01-22": "@Santhosh.N electrical wiring support for unloading station",
         "2026-01-29": "@santhosh.n ELEC PR-13 preparation and release  3A-GB1-26007 DAP Document preparation",
-        "2026-02-02": "@harasha ka, Frontend program for HMI (in setting mode for dehydration individual 20 station)"
+        "2026-02-02": "@harasha ka, Frontend program for HMI (in setting mode for dehydration individual 20 station)",
+        "2026-03-24": "#drb\nLoadcell value in swap byte position has been displayed in HMI"
       }
     },
-    
-   
     {
       "projectName": "3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo",
       "currentStatus": "Electrical Assembly Stage",
@@ -168,7 +167,6 @@
         "2025-12-08": "Universal Robot IO Mapping Completed"
       }
     },
-  
     {
       "projectName": "3DBTT202-TTIA-582D PROJECT WELDING FIXTURE & CELLS",
       "currentStatus": "Electrical Assembly Stage",
@@ -176,7 +174,6 @@
         "2026-01-13": "@sachin Merged all Bom and handed over all Bom to electrical Team (Prasanna)"
       }
     },
-    
     {
       "projectName": "3W-SA1-25061_R1J2 ROBOTIC ARC WELDING CELL 4-NOS",
       "currentStatus": "PLC Power Up Stage",
@@ -184,8 +181,6 @@
         "2026-01-22": "@Jayaan_Developing the HMI screen and supporting future development efforts."
       }
     },
-    
-    
     {
       "projectName": "3DBTT202_JIG MODIFICATION AND 48605 CELL INSTALLTION",
       "currentStatus": "Mechanical Assembly Stage",
@@ -250,5 +245,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-03-21T03:49:55.429Z"
+  "lastUpdated": "2026-03-25T00:51:46.131Z"
 }
