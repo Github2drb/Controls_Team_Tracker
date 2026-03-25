@@ -176,7 +176,7 @@
     },
     {
       "projectName": "3W-SA1-25061_R1J2 ROBOTIC ARC WELDING CELL 4-NOS",
-      "currentStatus": "Completed",
+      "currentStatus": "PLC Power Up Stage",
       "activities": {
         "2026-01-22": "@Jayaan_Developing the HMI screen and supporting future development efforts."
       }
@@ -243,7 +243,12 @@
         "2026-01-12": "@keerthi\nchecking auto trails",
         "2026-01-13": "@santhosh.n robot remote on wiring & gate plug wiring eplan"
       }
+    },
+    {
+      "projectName": "3W-TK1-25102_27 MC SENSOR ADDITION & LOGIC MODIFICATION",
+      "currentStatus": "Completed",
+      "activities": {}
     }
   ],
-  "lastUpdated": "2026-03-25T07:29:00.472Z"
+  "lastUpdated": "2026-03-25T07:29:02.316Z"
 }
