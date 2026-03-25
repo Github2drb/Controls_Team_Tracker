@@ -85,7 +85,7 @@
     },
     {
       "projectName": "3W-SA1-25067 & 3W-SA1-25078(R1J1) YFG Project Outer Plate Robotic Mig Welding Line",
-      "currentStatus": "Trials Stage",
+      "currentStatus": "Completed",
       "activities": {
         "2025-12-12": "@Eswanth Potnuri (3DCADVS0183) _ 3W-SA1-25078 R1J1\nPLC Auto Logic Done for Weld Program Tested and Checked Ok. Safety Logic implementation done.",
         "2025-12-15": "@Eswanth Potnuri (3DCADVS0183) _ 3W-SA1-25078 R1J1\nPLC Auto and Manual Logic Completed Successfully.\nAuto Trials taken for the Robot for the Model Main Muffler(SG510 & SG530)\nManual Logic Checked for Wire Replacement , Tip Exchange, Point Check and Wire Inching.",
@@ -255,5 +255,5 @@
       "activities": {}
     }
   ],
-  "lastUpdated": "2026-03-25T07:29:51.905Z"
+  "lastUpdated": "2026-03-25T07:29:53.761Z"
 }
