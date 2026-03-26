@@ -27,14 +27,14 @@
     },
     {
       "projectName": "3W-TK1-25102 (27 MC - Sensor addition & Logic Modification activity)",
-      "currentStatus": "Completed",
+      "currentStatus": "Trials Stage",
       "activities": {
         "2025-12-08": "Subham and Rajesh has been to TKM for Technical Discussion"
       }
     },
     {
       "projectName": "DK1-25110- ODU Assembly auto line",
-      "currentStatus": "Design Stage",
+      "currentStatus": "Procurement Stage",
       "activities": {
         "2026-01-05": "@santhosh. n3A-DK1-25110 ODU I/O list preparation and DAP review with customer.",
         "2026-01-12": "@santhosh.n  3A-DK1-25110 ODU DAP document preparation and ",
@@ -260,5 +260,5 @@
       "activities": {}
     }
   ],
-  "lastUpdated": "2026-03-26T03:13:09.283Z"
+  "lastUpdated": "2026-03-26T03:13:10.365Z"
 }
