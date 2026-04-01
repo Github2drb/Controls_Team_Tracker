@@ -184,6 +184,13 @@
           "targetDate": "2026-04-27",
           "completionDate": "",
           "status": "not_started"
+        },
+        {
+          "id": "task-1775041656124",
+          "taskName": "Material Availablity and Integration",
+          "targetDate": "2026-04-20",
+          "completionDate": "",
+          "status": "not_started"
         }
       ],
       "currentStatus": "not_started",
@@ -195,5 +202,5 @@
       "customerTarget": "2026-07-29"
     }
   ],
-  "lastUpdated": "2026-04-01T11:06:58.833Z"
+  "lastUpdated": "2026-04-01T11:07:36.327Z"
 }
