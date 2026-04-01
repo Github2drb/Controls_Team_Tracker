@@ -38,8 +38,12 @@
       ],
       "currentStatus": "not_started",
       "notes": "",
-      "constraint": ""
+      "constraint": "",
+      "resourceLockedFrom": "2026-03-25",
+      "resourceLockedTill": "2026-07-31",
+      "internalTarget": "2026-05-28",
+      "customerTarget": "2026-06-01"
     }
   ],
-  "lastUpdated": "2026-04-01T10:28:01.062Z"
+  "lastUpdated": "2026-04-01T10:28:47.717Z"
 }
