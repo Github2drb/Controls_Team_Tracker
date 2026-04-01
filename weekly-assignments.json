@@ -197,7 +197,15 @@
       "resourceLockedTill": "2026-06-30",
       "internalTarget": "2026-06-10",
       "customerTarget": "2026-06-30",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "task-1775034761689",
+          "taskName": "Hardware Listing",
+          "targetDate": "2026-04-17",
+          "completionDate": "",
+          "status": "not_started"
+        }
+      ],
       "currentStatus": "not_started",
       "constraint": "Hardware Configuration,\nIO Mapping"
     },
@@ -228,5 +236,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-04-01T09:12:24.935Z"
+  "lastUpdated": "2026-04-01T09:12:41.882Z"
 }
