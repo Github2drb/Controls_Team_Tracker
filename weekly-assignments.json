@@ -122,7 +122,7 @@
     },
     {
       "id": "Eswanth Potnuri, Veeresh, Anand-2026-03-30-1775039981894",
-      "engineerName": "Eswanth Potnuri, Veeresh, Anand",
+      "engineerName": "Eswanth Potnuri",
       "weekStart": "2026-03-30",
       "projectName": "3A-SS1-26012-Sartorius- Glass bead blasting automation",
       "resourceLockedFrom": "2026-03-17",
@@ -130,8 +130,9 @@
       "internalTarget": "2026-04-30",
       "customerTarget": "2026-05-14",
       "tasks": [],
-      "currentStatus": "not_started"
+      "currentStatus": "not_started",
+      "projectTargetDate": "2026-04-03"
     }
   ],
-  "lastUpdated": "2026-04-01T10:39:42.102Z"
+  "lastUpdated": "2026-04-01T10:40:11.901Z"
 }
