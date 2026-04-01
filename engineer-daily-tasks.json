@@ -25,16 +25,7 @@
       "name": "Sachin",
       "initials": "S"
     },
-    {
-      "id": "6",
-      "name": "Rajesh",
-      "initials": "RR"
-    },
-    {
-      "id": "7",
-      "name": "Prakash",
-      "initials": "P"
-    },
+   
     {
       "id": "8",
       "name": "Deekshitha",
@@ -45,21 +36,13 @@
       "name": "Praveen",
       "initials": "PK"
     },
-    {
-      "id": "10",
-      "name": "Harikrishnan",
-      "initials": "H"
-    },
+    
     {
       "id": "11",
       "name": "Anand",
       "initials": "A"
     },
-    {
-      "id": "12",
-      "name": "Shubam",
-      "initials": "SS"
-    },
+   
     {
       "id": "13",
       "name": "Veeresh",
