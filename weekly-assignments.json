@@ -203,7 +203,7 @@
     },
     {
       "id": "Harsha-2026-03-30-1775042956583",
-      "engineerName": "Harsha",
+      "engineerName": "Harsha,Santosh N, Rahul(Ampere)",
       "weekStart": "2026-03-30",
       "projectName": "3A-DK1-25077-Dehydration Project",
       "projectTargetDate": "2026-04-16",
@@ -232,8 +232,12 @@
       ],
       "currentStatus": "in_progress",
       "notes": "",
-      "constraint": "Pallet Sensor,Handy HMI"
+      "constraint": "Pallet Sensor,Handy HMI",
+      "resourceLockedFrom": "2026-01-05",
+      "resourceLockedTill": "2026-04-30",
+      "internalTarget": "2026-04-09",
+      "customerTarget": "2026-04-11"
     }
   ],
-  "lastUpdated": "2026-04-01T11:30:13.972Z"
+  "lastUpdated": "2026-04-01T11:31:16.685Z"
 }
