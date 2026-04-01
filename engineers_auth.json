@@ -1,25 +1,6 @@
 {
   "engineers": [
-    {
-      "id": "eng-1",
-      "name": "Rajesh R",
-      "username": "rajesh.r",
-      "password": "drb@123",
-      "role": "engineer",
-      "isActive": true,
-      "createdAt": "2026-01-25T01:20:43.699Z",
-      "lastLogin": "2026-02-02T04:30:22.485Z"
-    },
-    {
-      "id": "eng-2",
-      "name": "Prakash N",
-      "username": "prakash.n",
-      "password": "drb@123",
-      "role": "engineer",
-      "isActive": true,
-      "createdAt": "2026-01-25T01:20:43.699Z",
-      "lastLogin": "2026-01-26T05:52:45.171Z"
-    },
+    
     {
       "id": "eng-3",
       "name": "Praveen Kumar C",
@@ -29,16 +10,7 @@
       "isActive": true,
       "createdAt": "2026-01-25T01:20:43.699Z"
     },
-    {
-      "id": "eng-4",
-      "name": "Sachin N",
-      "username": "sachin.n",
-      "password": "drb@123",
-      "role": "engineer",
-      "isActive": true,
-      "createdAt": "2026-01-25T01:20:43.699Z",
-      "lastLogin": "2026-01-29T03:06:06.215Z"
-    },
+    
     {
       "id": "eng-5",
       "name": "Santhosh N",
@@ -67,24 +39,8 @@
       "isActive": true,
       "createdAt": "2026-01-25T01:20:43.699Z"
     },
-    {
-      "id": "eng-8",
-      "name": "Harikrishnan P R",
-      "username": "harikrishnan.p.r",
-      "password": "drb@123",
-      "role": "engineer",
-      "isActive": true,
-      "createdAt": "2026-01-25T01:20:43.699Z"
-    },
-    {
-      "id": "eng-9",
-      "name": "Rajesh M",
-      "username": "rajesh.m",
-      "password": "drb@123",
-      "role": "engineer",
-      "isActive": true,
-      "createdAt": "2026-01-25T01:20:43.699Z"
-    },
+   
+   
     {
       "id": "eng-10",
       "name": "Dhanesh M",
@@ -132,15 +88,7 @@
       "isActive": true,
       "createdAt": "2026-01-25T01:20:43.699Z"
     },
-    {
-      "id": "eng-15",
-      "name": "Jayaan M",
-      "username": "jayaan.m",
-      "password": "drb@123",
-      "role": "engineer",
-      "isActive": true,
-      "createdAt": "2026-01-25T01:20:43.699Z"
-    },
+   
     {
       "id": "eng-16",
       "name": "Ramkumar Annamalai",
