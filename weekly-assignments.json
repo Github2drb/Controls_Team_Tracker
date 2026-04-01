@@ -221,6 +221,13 @@
           "targetDate": "2026-04-04",
           "completionDate": "",
           "status": "not_started"
+        },
+        {
+          "id": "task-1775043013780",
+          "taskName": "Auto Pop up Cylinder down in Weighing station after checking weight",
+          "targetDate": "2026-04-02",
+          "completionDate": "",
+          "status": "not_started"
         }
       ],
       "currentStatus": "in_progress",
@@ -228,5 +235,5 @@
       "constraint": "Pallet Sensor,Handy HMI"
     }
   ],
-  "lastUpdated": "2026-04-01T11:29:50.135Z"
+  "lastUpdated": "2026-04-01T11:30:13.972Z"
 }
