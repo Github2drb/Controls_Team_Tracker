@@ -214,6 +214,13 @@
           "targetDate": "2026-04-04",
           "completionDate": "",
           "status": "not_started"
+        },
+        {
+          "id": "task-1775042989954",
+          "taskName": "Auto Recipe Load based on Barcode scan",
+          "targetDate": "2026-04-04",
+          "completionDate": "",
+          "status": "not_started"
         }
       ],
       "currentStatus": "in_progress",
@@ -221,5 +228,5 @@
       "constraint": "Pallet Sensor,Handy HMI"
     }
   ],
-  "lastUpdated": "2026-04-01T11:29:35.208Z"
+  "lastUpdated": "2026-04-01T11:29:50.135Z"
 }
