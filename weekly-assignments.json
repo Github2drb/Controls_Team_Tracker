@@ -170,11 +170,19 @@
       "weekStart": "2026-03-30",
       "projectName": "STEP 4 - Dehydration_3A-DK2-25142",
       "projectTargetDate": "2026-06-30",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "task-1775041402211",
+          "taskName": "Offline Logic Preperation for POC",
+          "targetDate": "2026-04-17",
+          "completionDate": "",
+          "status": "not_started"
+        }
+      ],
       "currentStatus": "not_started",
       "notes": "",
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-04-01T11:03:04.587Z"
+  "lastUpdated": "2026-04-01T11:03:22.449Z"
 }
