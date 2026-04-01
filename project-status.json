@@ -68,20 +68,8 @@
         "2024-12-05": "In Progress"
       }
     },
-    {
-      "engineerName": "Harikrishnan P R",
-      "projectName": "3W-TK1-25102 (27 MC - Sensor addition & Logic Modification activity)",
-      "statuses": {
-        "2024-12-05": "Not Started"
-      }
-    },
-    {
-      "engineerName": "Harikrishnan P R",
-      "projectName": "3W-TT3-25051 - 560B Spot welding line",
-      "statuses": {
-        "2024-12-05": "Completed,Installation Pending"
-      }
-    },
+    
+   
     {
       "engineerName": "Eswanth Potnuri",
       "projectName": "3W-TT3-25051 - 560B Spot welding line",
@@ -89,13 +77,7 @@
         "2024-12-05": "Completed,Installation Pending"
       }
     },
-    {
-      "engineerName": "Shubam Shirke",
-      "projectName": " 3W-TK1-25102 (27 MC - Sensor addition & Logic Modification activity)",
-      "statuses": {
-        "2024-12-05": "In Progress"
-      }
-    },
+   
     {
       "engineerName": "Susanth",
       "projectName": "3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo",
@@ -110,20 +92,8 @@
         "2024-12-05": "Completed"
       }
     },
-    {
-      "engineerName": "Sachin",
-      "projectName": "3W2401_MRA ROOF SPOT WELDING LINE TKM",
-      "statuses": {
-        "2024-12-05": "Completed,Installation Pending"
-      }
-    },
-    {
-      "engineerName": "Sachin",
-      "projectName": "3S-TK1-25084_OBSOLUTE ROBOT REPLACEMENT",
-      "statuses": {
-        "2024-12-05": "Completed"
-      }
-    },
+    
+   
     
     {
       "engineerName": "Deekshitha",
@@ -147,27 +117,9 @@
         "2024-12-05": "In Progress"
       }
     },
-    {
-      "engineerName": "Prakash",
-      "projectName": "3W2401 -560B Project MRA Roof spot welding line TKM",
-      "statuses": {
-        "2024-12-05": "Completed,Installation Pending"
-      }
-    },
-    {
-      "engineerName": "Rajesh R",
-      "projectName": "3W2401 -560B Project MRA Roof spot welding line TKM",
-      "statuses": {
-        "2024-12-05": "Completed,Installation Pending"
-      }
-    },
-    {
-      "engineerName": "Prakash",
-      "projectName": "3DBTT202-TTIA-582D PROJECT WELDING FIXTURE & CELLS",
-      "statuses": {
-        "2024-12-05": "Not Started"
-      }
-    }
+    
+    
+    
   ],
   "lastUpdated": "2025-12-05T15:23:21.117Z"
 }
