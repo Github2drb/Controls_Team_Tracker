@@ -1,6 +1,5 @@
 {
   "assignments": [
-   
     {
       "id": "Ramkumar Annamalai-2026-01-12-1768540539666",
       "engineerName": "Veeresh,Ramkumar Annamalai,Deekshitha",
@@ -34,11 +33,11 @@
       "projectName": "3A-DK1-25077-Dehydration Project",
       "resourceLockedFrom": "2026-01-06",
       "resourceLockedTill": "2026-04-30",
-      "internalTarget": "2026-03-30",
-      "customerTarget": "2026-03-31",
+      "internalTarget": "2026-04-16",
+      "customerTarget": "2026-04-03",
       "tasks": [],
       "currentStatus": "in_progress",
-      "constraint": "1.rfid tracking\n2.loadcell value in hmi\n3.HMI alarms\n4.Variant selection\n5.Safety PLC Check\n6.IOT Support"
+      "constraint": "1.rfid tracking\n2.HMI alarms\n3.Safety PLC Check\n4.IOT Support\n5.Datalogging"
     },
     {
       "id": "Susanth-2026-01-19-1769302310012",
@@ -88,8 +87,6 @@
       "projectTargetDate": "2026-02-28",
       "notes": "Offline Logic Development need to start"
     },
-    
-  
     {
       "id": "Veeresh,Nilesh Kohli,Dhanesh-2026-01-26-1769672062115",
       "engineerName": "Dhanesh M",
@@ -116,7 +113,6 @@
       "currentStatus": "completed",
       "constraint": "All Part trials completed"
     },
-    
     {
       "id": "Eswanth-2026-01-26-1769833677736",
       "engineerName": "Eswanth",
@@ -205,5 +201,5 @@
       "currentStatus": "not_started"
     }
   ],
-  "lastUpdated": "2026-04-01T07:23:41.296Z"
+  "lastUpdated": "2026-04-01T09:07:22.761Z"
 }
