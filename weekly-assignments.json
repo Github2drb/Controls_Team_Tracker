@@ -39,20 +39,7 @@
       "currentStatus": "in_progress",
       "constraint": "1.rfid tracking\n2.HMI alarms\n3.Safety PLC Check\n4.IOT Support\n5.Datalogging"
     },
-    {
-      "id": "Susanth-2026-01-19-1769302310012",
-      "engineerName": "Susanth",
-      "weekStart": "2026-01-19",
-      "projectName": "D8 Assembly line (3A-S01-25103)",
-      "projectTargetDate": "2026-02-06",
-      "tasks": [
-        {
-          "id": "task-1769302384290",
-          "taskName": "Washer Bowl Feeder Logic Completion and Trial Prove",
-          "targetDate": "2026-01-28",
-          "completionDate": "",
-          "status": "in_progress"
-        },
+   
         {
           "id": "task-1769302433683",
           "taskName": "STO Signal Check and Safety Logic Check",
