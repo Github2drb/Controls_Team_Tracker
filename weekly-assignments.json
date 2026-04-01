@@ -80,10 +80,10 @@
       "resourceLockedFrom": "2026-01-01",
       "resourceLockedTill": "2026-05-31",
       "internalTarget": "2026-04-15",
-      "customerTarget": "2026-04-30",
+      "customerTarget": "2026-05-31",
       "tasks": [],
       "currentStatus": "in_progress",
-      "constraint": "Electrical E-Plan Design in Progress.\nMaterial Procurement in Progress",
+      "constraint": "Electrical E-Plan Design Completed.\nMaterial Procurement in Progress\nOffline PLC Program Development Not yet started",
       "projectTargetDate": "2026-02-28",
       "notes": "Offline Logic Development need to start"
     },
@@ -202,5 +202,5 @@
       "constraint": "Hardware Configuration,\nIO Mapping"
     }
   ],
-  "lastUpdated": "2026-04-01T09:08:54.224Z"
+  "lastUpdated": "2026-04-01T09:09:44.384Z"
 }
