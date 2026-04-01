@@ -198,8 +198,9 @@
       "internalTarget": "2026-06-10",
       "customerTarget": "2026-06-30",
       "tasks": [],
-      "currentStatus": "not_started"
+      "currentStatus": "not_started",
+      "constraint": "Hardware Configuration,\nIO Mapping"
     }
   ],
-  "lastUpdated": "2026-04-01T09:07:22.761Z"
+  "lastUpdated": "2026-04-01T09:07:50.962Z"
 }
