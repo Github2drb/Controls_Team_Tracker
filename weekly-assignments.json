@@ -393,7 +393,11 @@
       ],
       "currentStatus": "not_started",
       "notes": "",
-      "constraint": "Hardware Configuration,IO Mapping"
+      "constraint": "Hardware Configuration,IO Mapping",
+      "resourceLockedFrom": "2026-03-23",
+      "resourceLockedTill": "2026-07-31",
+      "internalTarget": "2026-06-19",
+      "customerTarget": "2026-06-30"
     },
     {
       "id": "Veeresh,Eswanth Potnuri-2026-03-23-1774400137443",
@@ -422,5 +426,5 @@
       "constraint": "DAP Submitted"
     }
   ],
-  "lastUpdated": "2026-04-01T07:20:28.661Z"
+  "lastUpdated": "2026-04-01T07:21:38.647Z"
 }
