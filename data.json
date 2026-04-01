@@ -76,7 +76,7 @@
       "totalDays": 61,
       "assignedDays": 30,
       "remainingDays": 31,
-      "status": "In Progress",
+      "status": "Completed",
       "notes": ""
     },
     {
@@ -89,7 +89,7 @@
       "assignedDays": 58,
       "remainingDays": 31,
       "status": "In Progress",
-      "notes": "Safety Wiring Drawing in Pending"
+      "notes": "Safety PLC Wiring Drawing in Pending"
     },
     
    
@@ -124,7 +124,7 @@
       "projectName": "DK1-25110- ODU Assembly auto line",
       "engineerName": "Santosh N",
       "startDate": "2025-10-27",
-      "endDate": "2026-01-31",
+      "endDate": "2026-04-30",
       "totalDays": 97,
       "assignedDays": 35,
       "remainingDays": 62,
@@ -137,7 +137,7 @@
       "projectName": "3A-DK1-25077-Dehydration Project",
       "engineerName": "Santosh N",
       "startDate": "2025-09-29",
-      "endDate": "2026-01-30",
+      "endDate": "2026-05-30",
       "totalDays": 124,
       "assignedDays": 63,
       "remainingDays": 61,
@@ -149,7 +149,7 @@
       "projectName": "3A-DK1-25077-Dehydration Project",
       "engineerName": "Rahul",
       "startDate": "2026-01-02",
-      "endDate": "2026-01-15",
+      "endDate": "2026-05-15",
       "totalDays": 124,
       "assignedDays": 63,
       "remainingDays": 61,
@@ -161,7 +161,7 @@
       "projectName": "3A-DK1-25077-Dehydration Project",
       "engineerName": "Harsha",
       "startDate": "2026-01-02",
-      "endDate": "2026-01-15",
+      "endDate": "2026-05-15",
       "totalDays": 124,
       "assignedDays": 63,
       "remainingDays": 61,
@@ -179,7 +179,7 @@
       "projectName": "3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo",
       "engineerName": "Susanth",
       "startDate": "2025-11-10",
-      "endDate": "2026-01-31",
+      "endDate": "2026-05-31",
       "totalDays": 52,
       "assignedDays": 21,
       "remainingDays": 31,
@@ -192,7 +192,7 @@
       "projectName": "A-GB1-25062_GE_Cold plate assembly station",
       "engineerName": "Keerthi",
       "startDate": "2025-10-06",
-      "endDate": "2025-12-29",
+      "endDate": "2026-05-29",
       "totalDays": 55,
       "assignedDays": 12,
       "remainingDays": 43,
