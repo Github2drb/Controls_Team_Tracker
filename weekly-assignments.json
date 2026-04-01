@@ -300,13 +300,13 @@
     },
     {
       "id": "Veeresh,Nilesh Kohli,Dhanesh-2026-01-26-1769672062115",
-      "engineerName": "Veeresh,Nilesh Kohli,Dhanesh",
+      "engineerName": "Dhanesh M",
       "weekStart": "2026-01-26",
       "projectName": "3W-TK1-25135_TKM - TI Metal Robot Cell Integration",
       "resourceLockedFrom": "2026-01-01",
-      "resourceLockedTill": "2026-03-31",
+      "resourceLockedTill": "2026-05-31",
       "internalTarget": "2026-03-20",
-      "customerTarget": "2026-03-20",
+      "customerTarget": "2026-05-14",
       "tasks": [],
       "currentStatus": "in_progress",
       "constraint": "Installation at TI Metal Pending"
@@ -422,5 +422,5 @@
       "constraint": "DAP Submitted"
     }
   ],
-  "lastUpdated": "2026-04-01T07:19:52.004Z"
+  "lastUpdated": "2026-04-01T07:20:28.661Z"
 }
