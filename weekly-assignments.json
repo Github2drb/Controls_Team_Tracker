@@ -424,7 +424,19 @@
       "tasks": [],
       "currentStatus": "not_started",
       "constraint": "DAP Submitted"
+    },
+    {
+      "id": "Dyumith NV-2026-03-30-1775028221104",
+      "engineerName": "Dyumith NV",
+      "weekStart": "2026-03-30",
+      "projectName": "3A-DK2-25143_STEP 4-Leak Testing Machine",
+      "resourceLockedFrom": "2026-03-24",
+      "resourceLockedTill": "2026-06-30",
+      "internalTarget": "2026-06-10",
+      "customerTarget": "2026-06-30",
+      "tasks": [],
+      "currentStatus": "not_started"
     }
   ],
-  "lastUpdated": "2026-04-01T07:22:26.570Z"
+  "lastUpdated": "2026-04-01T07:23:41.296Z"
 }
