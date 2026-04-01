@@ -269,7 +269,7 @@
       "internalTarget": "2026-04-15",
       "customerTarget": "2026-04-30",
       "tasks": [],
-      "currentStatus": "not_started",
+      "currentStatus": "in_progress",
       "constraint": "Electrical E-Plan Design in Progress.\nMaterial Procurement in Progress",
       "projectTargetDate": "2026-02-28",
       "notes": "Offline Logic Development need to start"
@@ -426,5 +426,5 @@
       "constraint": "DAP Submitted"
     }
   ],
-  "lastUpdated": "2026-04-01T07:22:00.547Z"
+  "lastUpdated": "2026-04-01T07:22:26.570Z"
 }
