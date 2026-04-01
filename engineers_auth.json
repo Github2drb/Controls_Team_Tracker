@@ -106,9 +106,9 @@
     },
     {
       "id": "eng-18",
-      "name": "Chiranjeevi (Ampere)",
-      "username": "chiranjeevi",
-      "password": "drb@123",
+      "name": "Rahul (Ampere)",
+      "username": "Rahul",
+      "password": "",
       "role": "engineer",
       "company": "Ampere",
       "isActive": true,
@@ -185,5 +185,5 @@
       "lastLogin": "2026-04-01T06:56:37.397Z"
     }
   ],
-  "lastUpdated": "2026-03-21T11:10:04.317Z"
+  "lastUpdated": "2026-04-01T07:28:02.843Z"
 }
