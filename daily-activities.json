@@ -168,6 +168,17 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Harsha (Ampere)",
+      "date": "2026-04-01",
+      "targetTasks": [
+        {
+          "id": "aa1zzfm0y",
+          "text": "Dehydration Auto Production trials"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
