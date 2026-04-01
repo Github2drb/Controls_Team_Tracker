@@ -207,11 +207,19 @@
       "weekStart": "2026-03-30",
       "projectName": "Gen6 EV Charge Port E-Lock Assembly Machine - 3S-SO1-26025",
       "projectTargetDate": "2026-07-31",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "task-1775034730108",
+          "taskName": "Hardware Listing",
+          "targetDate": "2026-04-10",
+          "completionDate": "",
+          "status": "not_started"
+        }
+      ],
       "currentStatus": "not_started",
       "notes": "Hardware Configuration and Validation",
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-04-01T09:11:45.675Z"
+  "lastUpdated": "2026-04-01T09:12:10.316Z"
 }
