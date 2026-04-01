@@ -218,9 +218,9 @@
     },
     {
       "id": "Praveen Kumar C-2026-03-30-1775034705499",
-      "engineerName": "Praveen Kumar C",
+      "engineerName": "Dhanesh M",
       "weekStart": "2026-03-30",
-      "projectName": "Gen6 EV Charge Port E-Lock Assembly Machine - 3S-SO1-26025",
+      "projectName": "3A-VA1-26035-Varroc-Stator Housing Shrink Fitting",
       "projectTargetDate": "2026-07-31",
       "tasks": [
         {
@@ -240,7 +240,11 @@
       ],
       "currentStatus": "not_started",
       "notes": "Hardware Configuration and Validation",
-      "constraint": ""
+      "constraint": "",
+      "resourceLockedFrom": "2026-04-01",
+      "resourceLockedTill": "2026-06-30",
+      "internalTarget": "2026-04-07",
+      "customerTarget": "2026-05-28"
     },
     {
       "id": "Dhanesh M-2026-03-30-1775035150655",
@@ -255,5 +259,5 @@
       "currentStatus": "not_started"
     }
   ],
-  "lastUpdated": "2026-04-01T09:19:10.810Z"
+  "lastUpdated": "2026-04-01T09:20:15.852Z"
 }
