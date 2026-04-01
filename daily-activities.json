@@ -153,6 +153,17 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Susanth K M",
+      "date": "2026-04-01",
+      "targetTasks": [
+        {
+          "id": "tc3c8ybnp",
+          "text": "Washer Bowl Feeder Sequence Modification and trials"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
