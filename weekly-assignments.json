@@ -1,192 +1,6 @@
 {
   "assignments": [
-    {
-      "id": "Eswanth-2025-12-29-1767167076520",
-      "engineerName": "Prakash,Eswanth,Keerthi,Harikrishna",
-      "weekStart": "2025-12-29",
-      "projectName": "3W-SA1-25067_R2J1_CELL1",
-      "projectTargetDate": "2026-01-03",
-      "tasks": [
-        {
-          "id": "task-1767167099021",
-          "taskName": "IO CHECK",
-          "targetDate": "2025-12-31",
-          "completionDate": "2026-01-01",
-          "status": "in_progress"
-        },
-        {
-          "id": "task-1767167116766",
-          "taskName": "EIP CONFIGURATION",
-          "targetDate": "2025-12-31",
-          "completionDate": "",
-          "status": "not_started"
-        },
-        {
-          "id": "task-1767167134051",
-          "taskName": "ROBOT COMMUNICATION",
-          "targetDate": "2026-01-01",
-          "completionDate": "",
-          "status": "not_started"
-        },
-        {
-          "id": "task-1767167145124",
-          "taskName": "IO CHECK",
-          "targetDate": "2026-01-01",
-          "completionDate": "",
-          "status": "not_started"
-        },
-        {
-          "id": "task-1767167170714",
-          "taskName": "MANUAL SEQUENCE CHECK",
-          "targetDate": "2026-01-01",
-          "completionDate": "",
-          "status": "not_started"
-        },
-        {
-          "id": "task-1767167185807",
-          "taskName": "AUTO TEST CHECK",
-          "targetDate": "2026-01-02",
-          "completionDate": "",
-          "status": "not_started"
-        },
-        {
-          "id": "task-1767167201121",
-          "taskName": "ALARMS AND MESSAGES,INTERLOCKS",
-          "targetDate": "2026-01-03",
-          "completionDate": "",
-          "status": "not_started"
-        }
-      ],
-      "currentStatus": "completed",
-      "notes": "R1J2 IO MAPPING,EIP CONFIGURATION,ROBOT MAPPING,IO CHECK",
-      "resourceLockedFrom": "2026-01-01",
-      "resourceLockedTill": "2026-01-15",
-      "internalTarget": "2026-01-04",
-      "customerTarget": "2026-01-08",
-      "constraint": "Auto,Manual Completed. \nHMI Alarm messages Pending\nSafety Interlock need to be validated\nLDM Sensor Logic need to be included and validated\nVoltmeter and Ammeter display logic need to be included and validated"
-    },
-    {
-      "id": "Prakash-2025-12-29-1767171115664",
-      "engineerName": "Ampere Chiranjeevi",
-      "weekStart": "2025-12-29",
-      "projectName": "3W_SA1-25061_YFG_CELL4",
-      "projectTargetDate": "2026-01-05",
-      "tasks": [
-        {
-          "id": "task-1767171136021",
-          "taskName": "IO MAPPING",
-          "targetDate": "2026-01-01",
-          "completionDate": "",
-          "status": "not_started"
-        },
-        {
-          "id": "task-1767171155362",
-          "taskName": "ROBOT COMMUNICATION,EDS LOADING",
-          "targetDate": "2026-01-01",
-          "completionDate": "",
-          "status": "not_started"
-        },
-        {
-          "id": "task-1767171166744",
-          "taskName": "IO CHECK",
-          "targetDate": "2026-01-01",
-          "completionDate": "",
-          "status": "not_started"
-        },
-        {
-          "id": "task-1767171186527",
-          "taskName": "MANUAL CHECK",
-          "targetDate": "2026-01-02",
-          "completionDate": "",
-          "status": "not_started"
-        },
-        {
-          "id": "task-1767171198544",
-          "taskName": "AUTO TEST",
-          "targetDate": "2026-01-02",
-          "completionDate": "",
-          "status": "not_started"
-        },
-        {
-          "id": "task-1767171216394",
-          "taskName": "ALARMS,SAFETY INTERLOCK CHECK,MESSAGES",
-          "targetDate": "2026-01-03",
-          "completionDate": "",
-          "status": "not_started"
-        }
-      ],
-      "currentStatus": "completed",
-      "notes": "",
-      "resourceLockedFrom": "2026-01-05",
-      "resourceLockedTill": "2026-01-15",
-      "internalTarget": "2026-01-05",
-      "customerTarget": "2026-01-08",
-      "constraint": "HMI Alarm messages need to be validated by customer.\nVoltmeter and Ammeter display need to be updated based on Robot Data Transfer.\nLDM Sensor logic need to be validated by customer\nCustomer Punch Points to be cleared"
-    },
-    {
-      "id": "Prakash-2025-12-29-1767171383913",
-      "engineerName": "Prakash,Eswanth,Keerthi,Harikrishna",
-      "weekStart": "2025-12-29",
-      "projectName": "3W-SA1-25067_R2J1_CELL2",
-      "projectTargetDate": "2026-01-05",
-      "tasks": [
-        {
-          "id": "task-1767171438460",
-          "taskName": "IO MAPPING AND CHECK",
-          "targetDate": "2026-01-03",
-          "completionDate": "",
-          "status": "not_started"
-        },
-        {
-          "id": "task-1767171462600",
-          "taskName": "ROBOT COMMUNICATION AND MAPPING",
-          "targetDate": "2026-01-03",
-          "completionDate": "",
-          "status": "not_started"
-        },
-        {
-          "id": "task-1767171476040",
-          "taskName": "MANUAL CHECK",
-          "targetDate": "2026-01-03",
-          "completionDate": "",
-          "status": "not_started"
-        },
-        {
-          "id": "task-1767171499828",
-          "taskName": "AUTO TEST CHECK",
-          "targetDate": "2026-01-03",
-          "completionDate": "",
-          "status": "not_started"
-        },
-        {
-          "id": "task-1767171521732",
-          "taskName": "ALARMS,SAFETY INTERLOCK",
-          "targetDate": "2026-01-03",
-          "completionDate": "",
-          "status": "not_started"
-        }
-      ],
-      "currentStatus": "completed",
-      "notes": "",
-      "resourceLockedFrom": "2026-01-09",
-      "resourceLockedTill": "2026-01-15",
-      "internalTarget": "2026-01-08",
-      "customerTarget": "2026-01-12",
-      "constraint": "Auto,Manual Completed. \nHMI Alarm messages Pending\nSafety Interlock need to be validated\nLDM Sensor Logic need to be included and validated\nVoltmeter and Ammeter display logic need to be included and validated.\nPrakash not available between 12-01 to 17-01"
-    },
-    {
-      "id": "Rajesh M-2026-01-12-1768540367216",
-      "engineerName": "Rajesh M",
-      "weekStart": "2026-01-12",
-      "projectName": "3W_SA1-25061_YFG_CELL2",
-      "resourceLockedFrom": "2026-01-16",
-      "resourceLockedTill": "2026-01-16",
-      "internalTarget": "2026-01-15",
-      "customerTarget": "2026-01-18",
-      "tasks": [],
-      "currentStatus": "completed",
-      "constraint": "Voltmeter, Ammeter Display, Customer Punch Points"
-    },
+   
     {
       "id": "Ramkumar Annamalai-2026-01-12-1768540539666",
       "engineerName": "Veeresh,Ramkumar Annamalai,Deekshitha",
@@ -261,7 +75,7 @@
     },
     {
       "id": "Santhosh-2026-01-26-1769434471160",
-      "engineerName": "Process Automation",
+      "engineerName": "Meghana_Process Automation",
       "weekStart": "2026-01-26",
       "projectName": "DK1-25110- ODU Assembly auto line",
       "resourceLockedFrom": "2026-01-01",
@@ -274,18 +88,7 @@
       "projectTargetDate": "2026-02-28",
       "notes": "Offline Logic Development need to start"
     },
-    {
-      "id": "Sachin-2026-01-26-1769655919817",
-      "engineerName": "Sachin",
-      "weekStart": "2026-01-26",
-      "projectName": "3DBTT202-TTIA-582D PROJECT WELDING FIXTURE & CELLS",
-      "resourceLockedFrom": "2026-01-01",
-      "resourceLockedTill": "2026-01-28",
-      "internalTarget": "2026-02-14",
-      "customerTarget": "2026-02-14",
-      "tasks": [],
-      "currentStatus": "in_progress"
-    },
+    
     {
       "id": "Veeresh-2026-01-26-1769670295677",
       "engineerName": "Veeresh",
@@ -324,32 +127,7 @@
       "currentStatus": "completed",
       "constraint": "All Part trials completed"
     },
-    {
-      "id": "Sachin,Rajesh R-2026-01-26-1769674570585",
-      "engineerName": "Sachin,Rajesh R",
-      "weekStart": "2026-01-26",
-      "projectName": "3W2401 -560B Project MRA Roof spot welding line TKM",
-      "resourceLockedFrom": "2025-06-06",
-      "resourceLockedTill": "2026-03-31",
-      "internalTarget": "2026-03-27",
-      "customerTarget": "2026-03-27",
-      "tasks": [],
-      "currentStatus": "in_progress",
-      "constraint": "Installation in progress"
-    },
-    {
-      "id": "Sachin,Rajesh R,Subham Shirkey,Shrivantha-2026-01-26-1769677447175",
-      "engineerName": "Sachin,Rajesh R,Subham Shirkey,Shrivantha,Sakthivel",
-      "weekStart": "2026-01-26",
-      "projectName": "3W-TK1-25102_27 MC SENSOR ADDITION & LOGIC MODIFICATION",
-      "resourceLockedFrom": "2026-12-26",
-      "resourceLockedTill": "2026-04-06",
-      "internalTarget": "2026-03-23",
-      "customerTarget": "2026-03-21",
-      "tasks": [],
-      "currentStatus": "in_progress",
-      "constraint": "HMI Activity Pending"
-    },
+    
     {
       "id": "Eswanth-2026-01-26-1769833677736",
       "engineerName": "Eswanth",
