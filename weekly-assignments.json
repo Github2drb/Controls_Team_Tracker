@@ -89,18 +89,7 @@
       "notes": "Offline Logic Development need to start"
     },
     
-    {
-      "id": "Veeresh-2026-01-26-1769670295677",
-      "engineerName": "Veeresh",
-      "weekStart": "2026-01-26",
-      "projectName": "3W-TT4-25093-ARC WELDING JIG & R1J2 ROBOTIC ARC WELDING CELL - 48605.6-KK040",
-      "resourceLockedFrom": "2026-01-01",
-      "resourceLockedTill": "2026-02-28",
-      "internalTarget": "2026-02-14",
-      "customerTarget": "2026-02-18",
-      "tasks": [],
-      "currentStatus": "completed"
-    },
+  
     {
       "id": "Veeresh,Nilesh Kohli,Dhanesh-2026-01-26-1769672062115",
       "engineerName": "Dhanesh M",
