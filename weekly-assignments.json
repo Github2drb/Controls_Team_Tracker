@@ -147,11 +147,19 @@
       "weekStart": "2026-03-30",
       "projectName": "3A-VA1-26035-Varroc-Stator Housing Shrink Fitting",
       "projectTargetDate": "2026-05-31",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "task-1775041035540",
+          "taskName": "Hardware Listing",
+          "targetDate": "2026-04-30",
+          "completionDate": "",
+          "status": "not_started"
+        }
+      ],
       "currentStatus": "not_started",
       "notes": "",
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-04-01T10:56:59.975Z"
+  "lastUpdated": "2026-04-01T10:57:15.708Z"
 }
