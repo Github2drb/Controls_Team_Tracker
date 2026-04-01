@@ -200,7 +200,18 @@
       "tasks": [],
       "currentStatus": "not_started",
       "constraint": "Hardware Configuration,\nIO Mapping"
+    },
+    {
+      "id": "Praveen Kumar C-2026-03-30-1775034705499",
+      "engineerName": "Praveen Kumar C",
+      "weekStart": "2026-03-30",
+      "projectName": "Gen6 EV Charge Port E-Lock Assembly Machine - 3S-SO1-26025",
+      "projectTargetDate": "2026-07-31",
+      "tasks": [],
+      "currentStatus": "not_started",
+      "notes": "Hardware Configuration and Validation",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-04-01T09:09:44.384Z"
+  "lastUpdated": "2026-04-01T09:11:45.675Z"
 }
