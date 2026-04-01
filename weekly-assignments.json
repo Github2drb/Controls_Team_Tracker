@@ -177,6 +177,13 @@
           "targetDate": "2026-04-17",
           "completionDate": "",
           "status": "not_started"
+        },
+        {
+          "id": "task-1775041618654",
+          "taskName": "POC Trials",
+          "targetDate": "2026-04-27",
+          "completionDate": "",
+          "status": "not_started"
         }
       ],
       "currentStatus": "not_started",
@@ -188,5 +195,5 @@
       "customerTarget": "2026-07-29"
     }
   ],
-  "lastUpdated": "2026-04-01T11:06:06.596Z"
+  "lastUpdated": "2026-04-01T11:06:58.833Z"
 }
