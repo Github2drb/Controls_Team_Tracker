@@ -93,9 +93,9 @@
       "notes": "",
       "constraint": "",
       "resourceLockedFrom": "2026-03-23",
-      "resourceLockedTill": "2026-06-30",
-      "internalTarget": "2026-06-09",
-      "customerTarget": "2026-06-29"
+      "resourceLockedTill": "2026-08-08",
+      "internalTarget": "2026-07-30",
+      "customerTarget": "2026-08-05"
     },
     {
       "id": "Eswanth Potnuri-2026-03-30-1775039664482",
@@ -188,5 +188,5 @@
       "customerTarget": "2026-06-25"
     }
   ],
-  "lastUpdated": "2026-04-01T11:04:13.339Z"
+  "lastUpdated": "2026-04-01T11:05:26.108Z"
 }
