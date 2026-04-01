@@ -1,25 +1,12 @@
 {
   "engineers": [
-    {
-      "id": "eng-1",
-      "name": "Rajesh R",
-      "initials": "RR"
-    },
-    {
-      "id": "eng-2",
-      "name": "Prakash N",
-      "initials": "PN"
-    },
+    
     {
       "id": "eng-3",
       "name": "Praveen Kumar C",
       "initials": "PKC"
     },
-    {
-      "id": "eng-4",
-      "name": "Sachin N",
-      "initials": "SN"
-    },
+   
     {
       "id": "eng-5",
       "name": "Santhosh N",
@@ -35,16 +22,8 @@
       "name": "Susanth K M",
       "initials": "SKM"
     },
-    {
-      "id": "eng-8",
-      "name": "Harikrishnan P R",
-      "initials": "HPR"
-    },
-    {
-      "id": "eng-9",
-      "name": "Rajesh M",
-      "initials": "RM"
-    },
+   
+    
     {
       "id": "eng-10",
       "name": "Dhanesh M",
@@ -70,11 +49,7 @@
       "name": "Deekshitha HC",
       "initials": "DH"
     },
-    {
-      "id": "eng-15",
-      "name": "Jayaan M",
-      "initials": "JM"
-    },
+    
     {
       "id": "eng-16",
       "name": "Ramkumar Annamalai",
