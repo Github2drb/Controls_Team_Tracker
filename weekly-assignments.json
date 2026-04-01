@@ -365,7 +365,7 @@
       "id": "Susanth-2026-03-16-1774093823182",
       "engineerName": "Susanth",
       "weekStart": "2026-03-16",
-      "projectName": "",
+      "projectName": "DK1-25110- ODU Assembly auto line",
       "projectTargetDate": "2026-05-31",
       "tasks": [],
       "currentStatus": "not_started",
@@ -426,5 +426,5 @@
       "constraint": "DAP Submitted"
     }
   ],
-  "lastUpdated": "2026-04-01T07:21:38.647Z"
+  "lastUpdated": "2026-04-01T07:22:00.547Z"
 }
