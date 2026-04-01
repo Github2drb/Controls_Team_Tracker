@@ -43,7 +43,18 @@
       "resourceLockedTill": "2026-07-31",
       "internalTarget": "2026-05-28",
       "customerTarget": "2026-06-01"
+    },
+    {
+      "id": "Susanth K M-2026-03-30-1775039380674",
+      "engineerName": "Susanth K M",
+      "weekStart": "2026-03-30",
+      "projectName": "DK1-25110- ODU Assembly auto line",
+      "projectTargetDate": "2026-05-31",
+      "tasks": [],
+      "currentStatus": "not_started",
+      "notes": "",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-04-01T10:29:00.927Z"
+  "lastUpdated": "2026-04-01T10:29:40.838Z"
 }
