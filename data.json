@@ -27,18 +27,7 @@
     
    
     
-    {
-      "id": 1765779846762,
-      "projectName": "3W-TK1-25102 (27 MC - Sensor addition & Logic Modification activity)",
-      "engineerName": "Rajesh M",
-      "startDate": "2025-12-15",
-      "endDate": "2026-02-28",
-      "totalDays": 76,
-      "assignedDays": 1,
-      "remainingDays": 75,
-      "status": "In Progress",
-      "notes": "Production Trials"
-    },
+    
     {
       "id": 1765779020858,
       "projectName": "3A-S02-25054_Surface Hinge Assembly",
@@ -102,54 +91,10 @@
       "status": "In Progress",
       "notes": "Safety Wiring Drawing in Pending"
     },
-    {
-      "id": 1764603042803,
-      "projectName": "3W-SA1-25067 & 3W-SA1-25078(R1J1) YFG Project Outer Plate Robotic Mig Welding Line",
-      "engineerName": "Veeresh",
-      "startDate": "2025-10-06",
-      "endDate": "2025-12-31",
-      "totalDays": 87,
-      "assignedDays": 57,
-      "remainingDays": 30,
-      "status": "Completed",
-      "notes": ""
-    },
-    {
-      "id": 1764602995439,
-      "projectName": "3W-SA1-25061  YFG Project Robotic Mig welding cell & Fixtures",
-      "engineerName": "Veeresh",
-      "startDate": "2025-08-11",
-      "endDate": "2025-12-31",
-      "totalDays": 143,
-      "assignedDays": 113,
-      "remainingDays": 30,
-      "status": "Completed",
-      "notes": ""
-    },
-    {
-      "id": 1764602995440,
-      "projectName": "3W-SA1-25061  YFG Project Robotic Mig welding cell & Fixtures",
-      "engineerName": "Sasi-Kaga",
-      "startDate": "2025-12-12",
-      "endDate": "2026-01-07",
-      "totalDays": 143,
-      "assignedDays": 113,
-      "remainingDays": 30,
-      "status": "Completed",
-      "notes": "Auto Cycle Completed"
-    },
-    {
-      "id": 1764602995441,
-      "projectName": "3W-SA1-25061  YFG Project Robotic Mig welding cell & Fixtures",
-      "engineerName": "Sasi-Kaga",
-      "startDate": "2025-12-12",
-      "endDate": "2026-01-07",
-      "totalDays": 143,
-      "assignedDays": 113,
-      "remainingDays": 30,
-      "status": "Completed",
-      "notes": "IO Check Completed"
-    },
+    
+   
+    
+    
     {
       "id": 1764549694129,
       "projectName": "3A2409 - GLASS TAPING AND O-CELL PICK & PLACE STATION (PA23 Phase -2)",
@@ -202,7 +147,7 @@
     {
       "id": 1764523867744,
       "projectName": "3A-DK1-25077-Dehydration Project",
-      "engineerName": "Ampere Service Engineer",
+      "engineerName": "Rahul",
       "startDate": "2026-01-02",
       "endDate": "2026-01-15",
       "totalDays": 124,
@@ -224,44 +169,11 @@
       "notes": ""
     },
     
-    {
-      "id": 1764521325907,
-      "projectName": "3W-TT3-25051 - 560B Spot welding line",
-      "engineerName": "Harikrishnan P R",
-      "startDate": "2025-10-27",
-      "endDate": "2026-01-30",
-      "totalDays": 41,
-      "assignedDays": 35,
-      "remainingDays": 6,
-      "status": "Completed",
-      "notes": "Unit-1 Support,Installation Pending"
-    },
     
-    {
-      "id": 1764519406234,
-      "projectName": " 3W-TK1-25102 (27 MC - Sensor addition & Logic Modification activity)",
-      "engineerName": "Shubam Shirke",
-      "startDate": "2025-11-03",
-      "endDate": "2026-02-28",
-      "totalDays": 118,
-      "assignedDays": 28,
-      "remainingDays": 90,
-      "status": "In Progress",
-      "notes": ""
-    },
     
-    {
-      "id": 1764519362290,
-      "projectName": " 3W-TK1-25102 (27 MC - Sensor addition & Logic Modification activity)",
-      "engineerName": "Rajesh R",
-      "startDate": "2025-10-27",
-      "endDate": "2026-02-28",
-      "totalDays": 125,
-      "assignedDays": 35,
-      "remainingDays": 90,
-      "status": "In Progress",
-      "notes": ""
-    },
+    
+    
+   
     {
       "id": 1764510013752,
       "projectName": "3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo",
@@ -275,135 +187,6 @@
       "notes": "Conveyor and Bowl Feeder Support"
     },
     
-
-    
-    
-    {
-      "id": 1761128660454,
-      "projectName": "3W2401_MRA ROOF SPOT WELDING LINE TKM",
-      "engineerName": "Sachin",
-      "startDate": "2024-12-11",
-      "endDate": "2025-12-01",
-      "totalDays": 345,
-      "assignedDays": 316,
-      "remainingDays": 29,
-      "status": "Completed",
-      "notes": ""
-    },
-    
-   
-    
-    
-    
-  
-    {
-      "id": 1761127927197,
-      "projectName": "3W-SA1-25061_R1J2 ROBOTIC ARC WELDING CELL 4-NOS",
-      "engineerName": "Sachin",
-      "startDate": "2025-07-11",
-      "endDate": "2025-12-31",
-      "totalDays": 113,
-      "assignedDays": 104,
-      "remainingDays": 9,
-      "status": "In Progress",
-      "notes": ""
-    },
-    {
-      "id": 1761127725124,
-      "projectName": "3W-TK1-25102_27 MC SENSOR ADDITION & LOGIC MODIFICATION",
-      "engineerName": "Sachin",
-      "startDate": "2025-09-30",
-      "endDate": "2026-01-21",
-      "totalDays": 114,
-      "assignedDays": 23,
-      "remainingDays": 91,
-      "status": "In Progress",
-      "notes": ""
-    },
-    {
-      "id": 1761127533166,
-      "projectName": "3W-TT4-25093_ARC WELDING JIG & R1J2 ROBOTIC CELL",
-      "engineerName": "Sachin",
-      "startDate": "2025-09-23",
-      "endDate": "2026-01-05",
-      "totalDays": 105,
-      "assignedDays": 30,
-      "remainingDays": 75,
-      "status": "In Progress",
-      "notes": ""
-    },
-    {
-      "id": 1761127392465,
-      "projectName": "3W-UN1-25075_R1234 PROJECT APRON ROBOTIC WELDING FIXTURES",
-      "engineerName": "Veeresh",
-      "startDate": "2025-08-19",
-      "endDate": "2025-10-27",
-      "totalDays": 70,
-      "assignedDays": 65,
-      "remainingDays": 5,
-      "status": "Completed",
-      "notes": ""
-    },
-    {
-      "id": 1761127289208,
-      "projectName": "3S-TK1-25084_OBSOLUTE ROBOT REPLACEMENT",
-      "engineerName": "Sachin",
-      "startDate": "2025-08-13",
-      "endDate": "2025-12-31",
-      "totalDays": 141,
-      "assignedDays": 71,
-      "remainingDays": 70,
-      "status": "Completed",
-      "notes": ""
-    },
-    {
-      "id": 1760777682651,
-      "projectName": "3DBTT202-TTIA-582D PROJECT WELDING FIXTURE & CELLS",
-      "engineerName": "Rajesh M",
-      "startDate": "2025-02-03",
-      "endDate": "2025-11-30",
-      "totalDays": 301,
-      "assignedDays": 258,
-      "remainingDays": 43,
-      "status": "In Progress",
-      "notes": ""
-    },
-    {
-      "id": 1760777639376,
-      "projectName": "3W2401 -560B Project MRA Roof spot welding line TKM",
-      "engineerName": "Rajesh R",
-      "startDate": "2024-11-11",
-      "endDate": "2025-11-28",
-      "totalDays": 447,
-      "assignedDays": 342,
-      "remainingDays": 105,
-      "status": "In Progress",
-      "notes": "Inhouse Completed, Installation pending"
-    },
-    {
-      "id": 1760777597075,
-      "projectName": "3W2401 -560B Project MRA Roof spot welding line TKM",
-      "engineerName": "Prakash",
-      "startDate": "2024-11-10",
-      "endDate": "2025-11-28",
-      "totalDays": 448,
-      "assignedDays": 343,
-      "remainingDays": 105,
-      "status": "Completed",
-      "notes": "Inhouse Completed, Installation pending"
-    },
-    {
-      "id": 1760777547148,
-      "projectName": "3W-TT3-25051 - 560B Spot welding line",
-      "engineerName": "Deekshitha",
-      "startDate": "2025-08-11",
-      "endDate": "2025-12-30",
-      "totalDays": 82,
-      "assignedDays": 69,
-      "remainingDays": 13,
-      "status": "Completed",
-      "notes": "HMI Development and Support"
-    },
     {
       "id": 1760692436656,
       "projectName": "A-GB1-25062_GE_Cold plate assembly station",
