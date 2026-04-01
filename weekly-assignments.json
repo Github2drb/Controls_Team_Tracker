@@ -99,11 +99,19 @@
       "weekStart": "2026-03-30",
       "projectName": "3A-GB1-26007_GE_Pressure Tester",
       "projectTargetDate": "2026-04-30",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "task-1775039701882",
+          "taskName": "PLC and HMI Availablity Followup",
+          "targetDate": "2026-04-03",
+          "completionDate": "",
+          "status": "not_started"
+        }
+      ],
       "currentStatus": "not_started",
       "notes": "",
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-04-01T10:34:30.484Z"
+  "lastUpdated": "2026-04-01T10:35:02.062Z"
 }
