@@ -9,13 +9,7 @@
     },
     
     
-    {
-      "engineerName": "Prakash",
-      "projectName": " 3W-TK1-25102 (27 MC - Sensor addition & Logic Modification activity)",
-      "statuses": {
-        "2024-12-05": "In Progress"
-      }
-    },
+    
     {
       "engineerName": "Santosh N",
       "projectName": " GE_Cold plate assembly station A-GB1-25062",
@@ -23,13 +17,7 @@
         "2024-12-05": "In Progress"
       }
     },
-    {
-      "engineerName": "Rajesh R",
-      "projectName": " 3W-TK1-25102 (27 MC - Sensor addition & Logic Modification activity)",
-      "statuses": {
-        "2024-12-05": "In Progress"
-      }
-    },
+    
     {
       "engineerName": "Veeresh",
       "projectName": "D8 Assembly line (3A-S01-25103)",
@@ -51,20 +39,7 @@
         "2024-12-05": "Not Started"
       }
     },
-    {
-      "engineerName": "Veeresh",
-      "projectName": "3W-SA1-25067 & 3W-SA1-25078(R1J1) YFG Project Outer Plate Robotic Mig Welding Line",
-      "statuses": {
-        "2024-12-05": "Completed"
-      }
-    },
-    {
-      "engineerName": "Veeresh",
-      "projectName": "3W-SA1-25061  YFG Project Robotic Mig welding cell & Fixtures",
-      "statuses": {
-        "2024-12-05": "Completed"
-      }
-    },
+    
     {
       "engineerName": "Praveen Kumar",
       "projectName": "3A2409 - GLASS TAPING AND O-CELL PICK & PLACE STATION (PA23 Phase -2)",
