@@ -89,7 +89,7 @@
           "status": "not_started"
         }
       ],
-      "currentStatus": "not_started",
+      "currentStatus": "in_progress",
       "notes": "",
       "constraint": "",
       "resourceLockedFrom": "2026-03-23",
@@ -239,5 +239,5 @@
       "customerTarget": "2026-04-11"
     }
   ],
-  "lastUpdated": "2026-04-02T01:49:56.549Z"
+  "lastUpdated": "2026-04-02T01:50:12.126Z"
 }
