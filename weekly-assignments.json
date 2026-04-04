@@ -80,13 +80,6 @@
           "targetDate": "2026-04-30",
           "completionDate": "",
           "status": "not_started"
-        },
-        {
-          "id": "task-1775039615194",
-          "taskName": "Hardware Configuration",
-          "targetDate": "",
-          "completionDate": "",
-          "status": "not_started"
         }
       ],
       "currentStatus": "in_progress",
@@ -239,5 +232,5 @@
       "customerTarget": "2026-04-11"
     }
   ],
-  "lastUpdated": "2026-04-04T18:34:28.331Z"
+  "lastUpdated": "2026-04-04T18:34:57.158Z"
 }
