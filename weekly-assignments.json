@@ -237,7 +237,19 @@
       "resourceLockedTill": "2026-04-30",
       "internalTarget": "2026-04-09",
       "customerTarget": "2026-04-11"
+    },
+    {
+      "id": "Eswanth Potnuri-2026-04-06-1775547430327",
+      "engineerName": "Eswanth Potnuri",
+      "weekStart": "2026-04-06",
+      "projectName": "3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector",
+      "resourceLockedFrom": "2026-04-08",
+      "resourceLockedTill": "2026-06-30",
+      "internalTarget": "2026-05-20",
+      "customerTarget": "2026-06-01",
+      "tasks": [],
+      "currentStatus": "not_started"
     }
   ],
-  "lastUpdated": "2026-04-04T18:35:23.773Z"
+  "lastUpdated": "2026-04-07T07:37:10.556Z"
 }
