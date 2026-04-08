@@ -227,7 +227,7 @@
           "taskName": "Auto Pop up Cylinder down in Weighing station after checking weight",
           "targetDate": "2026-04-02",
           "completionDate": "",
-          "status": "not_started"
+          "status": "in_progress"
         }
       ],
       "currentStatus": "in_progress",
@@ -285,5 +285,5 @@
       "constraint": "RFID,Servo Press"
     }
   ],
-  "lastUpdated": "2026-04-08T08:51:06.123Z"
+  "lastUpdated": "2026-04-08T08:51:13.402Z"
 }
