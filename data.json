@@ -161,7 +161,7 @@
     },
     {
       "id": 1764523867747,
-      "projectName": "STEP 4 - Dehydration_3A-DK2-25142",
+      "projectName": "3A-DK2-25142_STEP 4 - Dehydration",
       "engineerName": "Santosh N",
       "startDate": "2026-04-02",
       "endDate": "2026-07-30",
@@ -173,8 +173,32 @@
     },
     {
       "id": 1764523867748,
-      "projectName": "STEP 4 - Dehydration_3A-DK2-25142",
+      "projectName": "3A-DK2-25142_STEP 4 - Dehydration",
       "engineerName": "Susanth K M",
+      "startDate": "2026-04-02",
+      "endDate": "2026-07-30",
+      "totalDays": 124,
+      "assignedDays": 63,
+      "remainingDays": 61,
+      "status": "In Progress",
+      "notes": "Hardware Configuration"
+    },
+    {
+      "id": 1764523867749,
+      "projectName": "3A-DK2-25143_STEP 4-Leak Testing Machine",
+      "engineerName": "Santosh N",
+      "startDate": "2026-04-02",
+      "endDate": "2026-07-30",
+      "totalDays": 124,
+      "assignedDays": 63,
+      "remainingDays": 61,
+      "status": "In Progress",
+      "notes": "Electrical Drawing Verification"
+    },
+    {
+      "id": 1764523867750,
+      "projectName": "3A-DK2-25143_STEP 4-Leak Testing Machine",
+      "engineerName": "Dyumith NV",
       "startDate": "2026-04-02",
       "endDate": "2026-07-30",
       "totalDays": 124,
@@ -350,7 +374,7 @@
       "totalDays": 61,
       "assignedDays": 47,
       "remainingDays": 14,
-      "status": "In Progress",
+      "status": "Completed",
       "notes": "Trial Support"
     }
   ]
