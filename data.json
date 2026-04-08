@@ -11,7 +11,19 @@
       "assignedDays": 78,
       "remainingDays": 21,
       "status": "In progress",
-      "notes": "PLC hardware Finalization from Customer"
+      "notes": "Mitsubishi PLC has been finalised"
+    },
+     {
+      "id": 1760688227943,
+      "projectName": "3A-SS1-26012-Sartorius- Glass bead blasting automation",
+      "engineerName": "Santosh N",
+      "startDate": "2026-03-20",
+      "endDate": "2026-06-30",
+      "totalDays": 99,
+      "assignedDays": 78,
+      "remainingDays": 21,
+      "status": "In progress",
+      "notes": "BOM Generation to be started"
     },
     {
       "id": 1766126555370,
