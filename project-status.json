@@ -14,7 +14,7 @@
       "engineerName": "Santosh N",
       "projectName": " GE_Cold plate assembly station A-GB1-25062",
       "statuses": {
-        "2024-12-05": "In Progress"
+        "2024-12-05": "Comepleted"
       }
     },
     
@@ -22,7 +22,7 @@
       "engineerName": "Veeresh",
       "projectName": "D8 Assembly line (3A-S01-25103)",
       "statuses": {
-        "2024-12-05": "In Progress"
+        "2024-12-05": "Completed"
       }
     },
     {
@@ -33,10 +33,10 @@
       }
     },
     {
-      "engineerName": "Ramkumar Annamalai",
+      "engineerName": "Eswanth Potnuri",
       "projectName": "3A-BO1-25113 & 25114-CDM & Face error inspection unit with Robot system",
       "statuses": {
-        "2024-12-05": "Not Started"
+        "2024-12-05": "Completed"
       }
     },
     
