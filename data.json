@@ -13,6 +13,18 @@
       "notes": ""
     },
     {
+      "id": 1760688227942,
+      "projectName": "3A-SS1-26012-Sartorius- Glass bead blasting automation",
+      "engineerName": "Eswanth Potnuri",
+      "startDate": "2026-03-20",
+      "endDate": "2026-06-30",
+      "totalDays": 99,
+      "assignedDays": 78,
+      "remainingDays": 21,
+      "status": "In progress",
+      "notes": "PLC hardware Finalization from Customer"
+    },
+    {
       "id": 1766126555370,
       "projectName": "3W-TK1-25135-TI Metal Robot Cell Integration",
       "engineerName": "Dhanesh",
@@ -260,15 +272,27 @@
     },
     {
       "id": 1760688217942,
-      "projectName": "3A-SS1-26012-Sartorius- Glass bead blasting automation",
-      "engineerName": "Eswanth Potnuri",
+      "projectName": "3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine",
+      "engineerName": "Praveen Kumar C",
       "startDate": "2026-03-20",
-      "endDate": "2026-06-30",
+      "endDate": "2026-08-30",
       "totalDays": 99,
       "assignedDays": 78,
       "remainingDays": 21,
       "status": "In progress",
-      "notes": "PLC hardware Finalization from Customer"
+      "notes": "Stationwise HMI Development"
+    },
+    {
+      "id": 1760688237942,
+      "projectName": "3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector",
+      "engineerName": "Eswanth Potnuri",
+      "startDate": "2026-04-07",
+      "endDate": "2026-08-30",
+      "totalDays": 99,
+      "assignedDays": 78,
+      "remainingDays": 21,
+      "status": "In progress",
+      "notes": "Hardware Configuration"
     },
     {
       "id": 1760686255234,
