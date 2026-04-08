@@ -302,7 +302,18 @@
       "currentStatus": "not_started",
       "notes": "",
       "constraint": "Siemens Hardware and Servo"
+    },
+    {
+      "id": "Eswanth Potnuri-2026-04-06-1775644421232",
+      "engineerName": "Eswanth Potnuri",
+      "weekStart": "2026-04-06",
+      "projectName": "3A-GB1-26007_GE_Pressure Tester",
+      "projectTargetDate": "2026-05-31",
+      "tasks": [],
+      "currentStatus": "in_progress",
+      "notes": "",
+      "constraint": "S7-1200 instead of Smart S7-200"
     }
   ],
-  "lastUpdated": "2026-04-08T09:15:05.129Z"
+  "lastUpdated": "2026-04-08T10:33:41.423Z"
 }
