@@ -271,6 +271,13 @@
           "targetDate": "2026-04-10",
           "completionDate": "",
           "status": "not_started"
+        },
+        {
+          "id": "task-1775624394518",
+          "taskName": "EDS file for all Ethernet/Ip Devices",
+          "targetDate": "2026-04-10",
+          "completionDate": "",
+          "status": "not_started"
         }
       ],
       "currentStatus": "not_started",
@@ -278,5 +285,5 @@
       "constraint": "RFID,Servo Press"
     }
   ],
-  "lastUpdated": "2026-04-08T04:59:36.871Z"
+  "lastUpdated": "2026-04-08T04:59:54.729Z"
 }
