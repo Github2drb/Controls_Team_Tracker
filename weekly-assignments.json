@@ -270,7 +270,7 @@
           "taskName": "Complete Hardware Configuration in GX Works3",
           "targetDate": "2026-04-10",
           "completionDate": "",
-          "status": "not_started"
+          "status": "in_progress"
         },
         {
           "id": "task-1775624394518",
@@ -304,5 +304,5 @@
       "constraint": "Siemens Hardware and Servo"
     }
   ],
-  "lastUpdated": "2026-04-08T09:14:43.952Z"
+  "lastUpdated": "2026-04-08T09:15:05.129Z"
 }
