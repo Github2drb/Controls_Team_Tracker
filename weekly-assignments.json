@@ -7,34 +7,10 @@
       "projectName": "3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine",
       "projectTargetDate": "2026-05-31",
       "tasks": [
-        {
-          "id": "task-1775039188938",
-          "taskName": "Hardware Listing(PLC,Servo,HMI,Robots,Vision)",
-          "targetDate": "2026-04-03",
-          "completionDate": "",
-          "status": "not_started"
-        },
-        {
-          "id": "task-1775039211761",
-          "taskName": "Mitsubishi Hardware Discussion with Mitsubishi Team",
-          "targetDate": "2026-04-03",
-          "completionDate": "",
-          "status": "not_started"
-        },
-        {
-          "id": "task-1775039227221",
-          "taskName": "Hardware Configuration",
-          "targetDate": "2026-04-06",
-          "completionDate": "",
-          "status": "not_started"
-        },
-        {
-          "id": "task-1775039280891",
-          "taskName": "Zonewise Categorisation",
-          "targetDate": "2026-04-07",
-          "completionDate": "",
-          "status": "not_started"
-        }
+        { "id": "task-1775039188938", "taskName": "Hardware Listing(PLC,Servo,HMI,Robots,Vision)", "targetDate": "2026-04-03", "completionDate": "", "status": "not_started" },
+        { "id": "task-1775039211761", "taskName": "Mitsubishi Hardware Discussion with Mitsubishi Team", "targetDate": "2026-04-03", "completionDate": "", "status": "not_started" },
+        { "id": "task-1775039227221", "taskName": "Hardware Configuration", "targetDate": "2026-04-06", "completionDate": "", "status": "not_started" },
+        { "id": "task-1775039280891", "taskName": "Zonewise Categorisation", "targetDate": "2026-04-07", "completionDate": "", "status": "not_started" }
       ],
       "currentStatus": "in_progress",
       "notes": "",
@@ -51,13 +27,7 @@
       "projectName": "DK1-25110- ODU Assembly auto line",
       "projectTargetDate": "2026-05-31",
       "tasks": [
-        {
-          "id": "task-1775039395451",
-          "taskName": "Hardware Listing",
-          "targetDate": "2026-04-07",
-          "completionDate": "",
-          "status": "not_started"
-        }
+        { "id": "task-1775039395451", "taskName": "Hardware Listing", "targetDate": "2026-04-07", "completionDate": "", "status": "not_started" }
       ],
       "currentStatus": "in_progress",
       "notes": "",
@@ -74,20 +44,8 @@
       "projectName": "3A-DK2-25143_STEP 4-Leak Testing Machine",
       "projectTargetDate": "2026-06-30",
       "tasks": [
-        {
-          "id": "task-1775039603335",
-          "taskName": "Hardware Listing",
-          "targetDate": "2026-04-30",
-          "completionDate": "",
-          "status": "not_started"
-        },
-        {
-          "id": "task-1775327712002",
-          "taskName": "Hardware Configuration",
-          "targetDate": "2026-04-09",
-          "completionDate": "",
-          "status": "not_started"
-        }
+        { "id": "task-1775039603335", "taskName": "Hardware Listing", "targetDate": "2026-04-30", "completionDate": "", "status": "not_started" },
+        { "id": "task-1775327712002", "taskName": "Hardware Configuration", "targetDate": "2026-04-09", "completionDate": "", "status": "not_started" }
       ],
       "currentStatus": "in_progress",
       "notes": "",
@@ -104,13 +62,7 @@
       "projectName": "3A-GB1-26007_GE_Pressure Tester",
       "projectTargetDate": "2026-04-30",
       "tasks": [
-        {
-          "id": "task-1775039701882",
-          "taskName": "PLC and HMI Availablity Followup",
-          "targetDate": "2026-04-03",
-          "completionDate": "",
-          "status": "not_started"
-        }
+        { "id": "task-1775039701882", "taskName": "PLC and HMI Availablity Followup", "targetDate": "2026-04-03", "completionDate": "", "status": "not_started" }
       ],
       "currentStatus": "in_progress",
       "notes": "",
@@ -125,21 +77,17 @@
       "engineerName": "Eswanth Potnuri,Veeresh",
       "weekStart": "2026-03-30",
       "projectName": "3A-SS1-26012-Sartorius- Glass bead blasting automation",
+      "projectTargetDate": "2026-06-30",
+      "tasks": [
+        { "id": "task-1775040026430", "taskName": "Schedule Check for Controls", "targetDate": "2026-04-03", "completionDate": "", "status": "not_started" }
+      ],
+      "currentStatus": "in_progress",
+      "notes": "",
+      "constraint": "",
       "resourceLockedFrom": "2026-03-17",
       "resourceLockedTill": "2026-06-30",
       "internalTarget": "2026-04-30",
-      "customerTarget": "2026-05-14",
-      "tasks": [
-        {
-          "id": "task-1775040026430",
-          "taskName": "Schedule Check for Controls",
-          "targetDate": "2026-04-03",
-          "completionDate": "",
-          "status": "not_started"
-        }
-      ],
-      "currentStatus": "in_progress",
-      "projectTargetDate": "2026-06-30"
+      "customerTarget": "2026-05-14"
     },
     {
       "id": "Dhanesh M-2026-03-30-1775041019818",
@@ -148,13 +96,7 @@
       "projectName": "3A-VA1-26035-Varroc-Stator Housing Shrink Fitting",
       "projectTargetDate": "2026-05-31",
       "tasks": [
-        {
-          "id": "task-1775041035540",
-          "taskName": "Hardware Listing",
-          "targetDate": "2026-04-30",
-          "completionDate": "",
-          "status": "not_started"
-        }
+        { "id": "task-1775041035540", "taskName": "Hardware Listing", "targetDate": "2026-04-30", "completionDate": "", "status": "not_started" }
       ],
       "currentStatus": "in_progress",
       "notes": "",
@@ -171,27 +113,9 @@
       "projectName": "STEP 4 - Dehydration_3A-DK2-25142",
       "projectTargetDate": "2026-06-30",
       "tasks": [
-        {
-          "id": "task-1775041402211",
-          "taskName": "Offline Logic Preperation for POC",
-          "targetDate": "2026-04-17",
-          "completionDate": "",
-          "status": "not_started"
-        },
-        {
-          "id": "task-1775041618654",
-          "taskName": "POC Trials",
-          "targetDate": "2026-04-27",
-          "completionDate": "",
-          "status": "not_started"
-        },
-        {
-          "id": "task-1775041656124",
-          "taskName": "Material Availablity and Integration",
-          "targetDate": "2026-04-20",
-          "completionDate": "",
-          "status": "not_started"
-        }
+        { "id": "task-1775041402211", "taskName": "Offline Logic Preperation for POC", "targetDate": "2026-04-17", "completionDate": "", "status": "not_started" },
+        { "id": "task-1775041618654", "taskName": "POC Trials", "targetDate": "2026-04-27", "completionDate": "", "status": "not_started" },
+        { "id": "task-1775041656124", "taskName": "Material Availablity and Integration", "targetDate": "2026-04-20", "completionDate": "", "status": "not_started" }
       ],
       "currentStatus": "in_progress",
       "notes": "",
@@ -208,27 +132,9 @@
       "projectName": "3A-DK1-25077-Dehydration Project",
       "projectTargetDate": "2026-04-16",
       "tasks": [
-        {
-          "id": "task-1775042975027",
-          "taskName": "Data Log in HMI",
-          "targetDate": "2026-04-04",
-          "completionDate": "2026-04-07",
-          "status": "completed"
-        },
-        {
-          "id": "task-1775042989954",
-          "taskName": "Auto Recipe Load based on Barcode scan",
-          "targetDate": "2026-04-04",
-          "completionDate": "",
-          "status": "in_progress"
-        },
-        {
-          "id": "task-1775043013780",
-          "taskName": "Auto Pop up Cylinder down in Weighing station after checking weight",
-          "targetDate": "2026-04-02",
-          "completionDate": "",
-          "status": "in_progress"
-        }
+        { "id": "task-1775042975027", "taskName": "Data Log in HMI", "targetDate": "2026-04-04", "completionDate": "2026-04-07", "status": "completed" },
+        { "id": "task-1775042989954", "taskName": "Auto Recipe Load based on Barcode scan", "targetDate": "2026-04-04", "completionDate": "", "status": "in_progress" },
+        { "id": "task-1775043013780", "taskName": "Auto Pop up Cylinder down in Weighing station after checking weight", "targetDate": "2026-04-02", "completionDate": "", "status": "in_progress" }
       ],
       "currentStatus": "in_progress",
       "notes": "",
@@ -243,62 +149,65 @@
       "engineerName": "Eswanth Potnuri",
       "weekStart": "2026-04-06",
       "projectName": "3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector",
+      "projectTargetDate": "2026-06-30",
       "resourceLockedFrom": "2026-04-08",
       "resourceLockedTill": "2026-06-30",
       "internalTarget": "2026-05-20",
       "customerTarget": "2026-06-01",
       "tasks": [
-        {
-          "id": "task-1775624060388",
-          "taskName": "Hardware Configuration ",
-          "targetDate": "2026-04-11",
-          "completionDate": "",
-          "status": "not_started"
-        }
-      ],
-      "currentStatus": "not_started"
-    },
-    
-        {
-          "id": "task-1775624394518",
-          "taskName": "EDS file for all Ethernet/Ip Devices",
-          "targetDate": "2026-04-10",
-          "completionDate": "",
-          "status": "not_started"
-        }
+        { "id": "task-1775624060388", "taskName": "Hardware Configuration", "targetDate": "2026-04-11", "completionDate": "", "status": "not_started" }
       ],
       "currentStatus": "not_started",
       "notes": "Hardware Configuration",
       "constraint": "RFID,Servo Press"
     },
-    
-        {
-          "id": "task-1775644886858",
-          "taskName": "Gather Complete Hardware Details and verify",
-          "targetDate": "2026-04-10",
-          "completionDate": "",
-          "status": "not_started"
-        },
-        {
-          "id": "task-1775644935269",
-          "taskName": "Get EDS for Robot and Assign it in GX Works3",
-          "targetDate": "2026-04-13",
-          "completionDate": "",
-          "status": "not_started"
-        }
+    {
+      "id": "assignment-reconstructed-1",
+      "engineerName": "Unknown",
+      "weekStart": "Unknown",
+      "projectName": "Unknown",
+      "projectTargetDate": "Unknown",
+      "resourceLockedFrom": "Unknown",
+      "resourceLockedTill": "Unknown",
+      "internalTarget": "Unknown",
+      "customerTarget": "Unknown",
+      "tasks": [
+        { "id": "task-1775624394518", "taskName": "EDS file for all Ethernet/Ip Devices", "targetDate": "2026-04-10", "completionDate": "", "status": "not_started" }
       ],
       "currentStatus": "not_started",
       "notes": "",
       "constraint": "Siemens Hardware and Servo"
     },
-   
-        {
-          "id": "task-1775644467327",
-          "taskName": "Change Hardware Part number in exsisting logic",
-          "targetDate": "",
-          "completionDate": "",
-          "status": "not_started"
-        }
+    {
+      "id": "assignment-reconstructed-2",
+      "engineerName": "Unknown",
+      "weekStart": "Unknown",
+      "projectName": "Unknown",
+      "projectTargetDate": "Unknown",
+      "resourceLockedFrom": "Unknown",
+      "resourceLockedTill": "Unknown",
+      "internalTarget": "Unknown",
+      "customerTarget": "Unknown",
+      "tasks": [
+        { "id": "task-1775644886858", "taskName": "Gather Complete Hardware Details and verify", "targetDate": "2026-04-10", "completionDate": "", "status": "not_started" },
+        { "id": "task-1775644935269", "taskName": "Get EDS for Robot and Assign it in GX Works3", "targetDate": "2026-04-13", "completionDate": "", "status": "not_started" }
+      ],
+      "currentStatus": "not_started",
+      "notes": "",
+      "constraint": "Siemens Hardware and Servo"
+    },
+    {
+      "id": "assignment-reconstructed-3",
+      "engineerName": "Unknown",
+      "weekStart": "Unknown",
+      "projectName": "Unknown",
+      "projectTargetDate": "Unknown",
+      "resourceLockedFrom": "Unknown",
+      "resourceLockedTill": "Unknown",
+      "internalTarget": "Unknown",
+      "customerTarget": "Unknown",
+      "tasks": [
+        { "id": "task-1775644467327", "taskName": "Change Hardware Part number in exsisting logic", "targetDate": "", "completionDate": "", "status": "not_started" }
       ],
       "currentStatus": "in_progress",
       "notes": "",
