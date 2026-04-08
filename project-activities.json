@@ -258,7 +258,12 @@
       "projectName": "3A2409 - GLASS TAPING AND O-CELL PICK & PLACE STATION (PA23 Phase -2)",
       "currentStatus": "Completed",
       "activities": {}
+    },
+    {
+      "projectName": "3A-SS1-26012-Sartorius- Glass bead blasting automation",
+      "currentStatus": "Design Stage",
+      "activities": {}
     }
   ],
-  "lastUpdated": "2026-03-26T03:13:10.365Z"
+  "lastUpdated": "2026-04-08T10:29:52.318Z"
 }
