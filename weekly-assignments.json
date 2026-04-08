@@ -283,7 +283,18 @@
       "currentStatus": "not_started",
       "notes": "Hardware Configuration",
       "constraint": "RFID,Servo Press"
+    },
+    {
+      "id": "Eswanth Potnuri-2026-04-06-1775639652414",
+      "engineerName": "Eswanth Potnuri",
+      "weekStart": "2026-04-06",
+      "projectName": "3A-SS1-26012-Sartorius- Glass bead blasting automation",
+      "projectTargetDate": "2026-06-30",
+      "tasks": [],
+      "currentStatus": "not_started",
+      "notes": "",
+      "constraint": "Siemens Hardware and Servo"
     }
   ],
-  "lastUpdated": "2026-04-08T08:51:27.167Z"
+  "lastUpdated": "2026-04-08T09:14:12.637Z"
 }
