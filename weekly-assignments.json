@@ -309,11 +309,19 @@
       "weekStart": "2026-04-06",
       "projectName": "3A-GB1-26007_GE_Pressure Tester",
       "projectTargetDate": "2026-05-31",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "task-1775644443294",
+          "taskName": "BOM Raise Support",
+          "targetDate": "2026-04-10",
+          "completionDate": "",
+          "status": "not_started"
+        }
+      ],
       "currentStatus": "in_progress",
       "notes": "",
       "constraint": "S7-1200 instead of Smart S7-200"
     }
   ],
-  "lastUpdated": "2026-04-08T10:33:41.423Z"
+  "lastUpdated": "2026-04-08T10:34:03.454Z"
 }
