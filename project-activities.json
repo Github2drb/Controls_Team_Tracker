@@ -283,7 +283,12 @@
       "projectName": "3A-DK2-25143_STEP 4-Leak Testing Machine",
       "currentStatus": "Procurement Stage",
       "activities": {}
+    },
+    {
+      "projectName": "3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine",
+      "currentStatus": "Design Stage",
+      "activities": {}
     }
   ],
-  "lastUpdated": "2026-04-08T10:29:57.494Z"
+  "lastUpdated": "2026-04-08T10:29:58.789Z"
 }
