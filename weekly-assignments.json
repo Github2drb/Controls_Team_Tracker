@@ -264,11 +264,19 @@
       "weekStart": "2026-04-06",
       "projectName": "DK1-25110- ODU Assembly auto line",
       "projectTargetDate": "2026-04-30",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "task-1775624376669",
+          "taskName": "Complete Hardware Configuration in GX Works3",
+          "targetDate": "2026-04-10",
+          "completionDate": "",
+          "status": "not_started"
+        }
+      ],
       "currentStatus": "not_started",
       "notes": "Hardware Configuration",
       "constraint": "RFID,Servo Press"
     }
   ],
-  "lastUpdated": "2026-04-08T04:59:11.655Z"
+  "lastUpdated": "2026-04-08T04:59:36.871Z"
 }
