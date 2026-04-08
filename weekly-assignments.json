@@ -74,12 +74,12 @@
     },
     {
       "id": "Eswanth Potnuri, Santosh N, Anand-2026-03-30-1775039981894",
-      "engineerName": "Eswanth Potnuri,Veeresh",
+      "engineerName": "Eswanth Potnuri,Santosh N",
       "weekStart": "2026-03-30",
       "projectName": "3A-SS1-26012-Sartorius- Glass bead blasting automation",
       "projectTargetDate": "2026-06-30",
       "tasks": [
-        { "id": "task-1775040026430", "taskName": "Schedule Check for Controls", "targetDate": "2026-04-03", "completionDate": "", "status": "not_started" }
+        { "id": "task-1775040026430", "taskName": "Schedule Check for Controls", "targetDate": "2026-04-03", "completionDate": "", "status": "in progress" }
       ],
       "currentStatus": "in_progress",
       "notes": "",
