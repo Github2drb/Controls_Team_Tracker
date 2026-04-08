@@ -100,7 +100,7 @@
       "notes": "Hardware Verification for Procurement"
     },
     {
-      "id": 1764523893501,
+      "id": 1764523893502,
       "projectName": "3A-GB1-26007_GE_Pressure Tester",
       "engineerName": "Santhosh N",
       "startDate": "2026-04-01",
@@ -136,7 +136,7 @@
       "notes": ""
     },
     {
-      "id": 1764523867744,
+      "id": 1764523867745,
       "projectName": "3A-DK1-25077-Dehydration Project",
       "engineerName": "Harsha",
       "startDate": "2026-01-02",
@@ -147,7 +147,42 @@
       "status": "In Progress",
       "notes": ""
     },
-    
+     {
+      "id": 1764523867746,
+      "projectName": "3A-VA1-26035-Varroc-Stator Housing Shrink Fitting",
+      "engineerName": "Santosh N",
+      "startDate": "2026-04-02",
+      "endDate": "2026-06-30",
+      "totalDays": 124,
+      "assignedDays": 63,
+      "remainingDays": 61,
+      "status": "In Progress",
+      "notes": "BOM Summarization in progress"
+    },
+    {
+      "id": 1764523867747,
+      "projectName": "STEP 4 - Dehydration_3A-DK2-25142",
+      "engineerName": "Santosh N",
+      "startDate": "2026-04-02",
+      "endDate": "2026-07-30",
+      "totalDays": 124,
+      "assignedDays": 63,
+      "remainingDays": 61,
+      "status": "In Progress",
+      "notes": "DAP Completed"
+    },
+    {
+      "id": 1764523867748,
+      "projectName": "STEP 4 - Dehydration_3A-DK2-25142",
+      "engineerName": "Susanth K M",
+      "startDate": "2026-04-02",
+      "endDate": "2026-07-30",
+      "totalDays": 124,
+      "assignedDays": 63,
+      "remainingDays": 61,
+      "status": "In Progress",
+      "notes": "Hardware Configuration"
+    },
     {
       "id": 1764510013752,
       "projectName": "3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo",
