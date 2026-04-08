@@ -1,17 +1,6 @@
 {
   "data": [
-    {
-      "id": 1766126593869,
-      "projectName": "IMTEX-2026",
-      "engineerName": "Santhosh N",
-      "startDate": "2025-12-02",
-      "endDate": "2026-01-26",
-      "totalDays": 56,
-      "assignedDays": 18,
-      "remainingDays": 38,
-      "status": "Completed",
-      "notes": ""
-    },
+    
     {
       "id": 1760688227942,
       "projectName": "3A-SS1-26012-Sartorius- Glass bead blasting automation",
@@ -50,44 +39,6 @@
       "notes": "Hardware Integration in Progress"
     },
     {
-      "id": 1765513883341,
-      "projectName": "3A-BO1-25113 & 25114-CDM & Face error inspection unit with Robot system",
-      "engineerName": "Eswanth Potnuri",
-      "startDate": "2025-12-08",
-      "endDate": "2026-01-31",
-      "totalDays": 55,
-      "assignedDays": 5,
-      "remainingDays": 50,
-      "status": "Completed",
-      "notes": ""
-    },
-    
-    {
-      "id": 1764646075482,
-      "projectName": " A-GB1-25062_GE_Cold plate assembly station",
-      "engineerName": "Santhosh N",
-      "startDate": "2025-11-04",
-      "endDate": "2025-12-20",
-      "totalDays": 47,
-      "assignedDays": 29,
-      "remainingDays": 18,
-      "status": "Completed",
-      "notes": ""
-    },
-    
-    {
-      "id": 1764645839575,
-      "projectName": "3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo",
-      "engineerName": "Veeresh",
-      "startDate": "2025-11-03",
-      "endDate": "2026-03-31",
-      "totalDays": 61,
-      "assignedDays": 30,
-      "remainingDays": 31,
-      "status": "Completed",
-      "notes": ""
-    },
-    {
       "id": 1764645809349,
       "projectName": "3A-S02-25054_Surface Hinge Assembly",
       "engineerName": "Veeresh",
@@ -103,7 +54,7 @@
     {
       "id": 1764549694129,
       "projectName": "3A2409 - GLASS TAPING AND O-CELL PICK & PLACE STATION (PA23 Phase -2)",
-      "engineerName": "Praveen Kumar",
+      "engineerName": "Praveen Kumar C",
       "startDate": "2025-12-01",
       "endDate": "2025-12-20",
       "totalDays": 20,
@@ -115,7 +66,7 @@
     {
       "id": 1764549643340,
       "projectName": "3A-SO1-25025_Bailer_Assembly",
-      "engineerName": "Praveen Kumar",
+      "engineerName": "Praveen Kumar C",
       "startDate": "2025-09-01",
       "endDate": "2025-12-31",
       "totalDays": 122,
@@ -140,6 +91,18 @@
       "id": 1764523893501,
       "projectName": "3A-GB1-26007_GE_Pressure Tester",
       "engineerName": "Eswanth Potnuri",
+      "startDate": "2026-04-01",
+      "endDate": "2026-06-30",
+      "totalDays": 97,
+      "assignedDays": 35,
+      "remainingDays": 62,
+      "status": "In Progress",
+      "notes": "Hardware Verification for Procurement"
+    },
+    {
+      "id": 1764523893501,
+      "projectName": "3A-GB1-26007_GE_Pressure Tester",
+      "engineerName": "Santhosh N",
       "startDate": "2026-04-01",
       "endDate": "2026-06-30",
       "totalDays": 97,
@@ -198,18 +161,7 @@
       "notes": "Bowl Feeder Prove Pending"
     },
     
-    {
-      "id": 1760692436656,
-      "projectName": "A-GB1-25062_GE_Cold plate assembly station",
-      "engineerName": "Keerthi",
-      "startDate": "2025-10-06",
-      "endDate": "2026-05-29",
-      "totalDays": 55,
-      "assignedDays": 12,
-      "remainingDays": 43,
-      "status": "Completed",
-      "notes": ""
-    },
+    
     {
       "id": 1760692345342,
       "projectName": "3A-GB1-25024-Coil soldering ",
@@ -261,7 +213,7 @@
     {
       "id": 1760688216942,
       "projectName": "3A2409 - GLASS TAPING AND O-CELL PICK & PLACE STATION (PA23 Phase -2)",
-      "engineerName": "Praveen Kumar",
+      "engineerName": "Praveen Kumar C",
       "startDate": "2025-08-01",
       "endDate": "2025-11-30",
       "totalDays": 99,
@@ -293,6 +245,66 @@
       "remainingDays": 21,
       "status": "In progress",
       "notes": "Hardware Configuration"
+    },
+    {
+      "id": 1766126593869,
+      "projectName": "IMTEX-2026",
+      "engineerName": "Santhosh N",
+      "startDate": "2025-12-02",
+      "endDate": "2026-01-26",
+      "totalDays": 56,
+      "assignedDays": 18,
+      "remainingDays": 38,
+      "status": "Completed",
+      "notes": ""
+    },
+    {
+      "id": 1765513883341,
+      "projectName": "3A-BO1-25113 & 25114-CDM & Face error inspection unit with Robot system",
+      "engineerName": "Eswanth Potnuri",
+      "startDate": "2025-12-08",
+      "endDate": "2026-01-31",
+      "totalDays": 55,
+      "assignedDays": 5,
+      "remainingDays": 50,
+      "status": "Completed",
+      "notes": ""
+    },
+    {
+      "id": 1764646075482,
+      "projectName": " A-GB1-25062_GE_Cold plate assembly station",
+      "engineerName": "Santhosh N",
+      "startDate": "2025-11-04",
+      "endDate": "2025-12-20",
+      "totalDays": 47,
+      "assignedDays": 29,
+      "remainingDays": 18,
+      "status": "Completed",
+      "notes": ""
+    },
+    {
+      "id": 1764645839575,
+      "projectName": "3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo",
+      "engineerName": "Veeresh",
+      "startDate": "2025-11-03",
+      "endDate": "2026-03-31",
+      "totalDays": 61,
+      "assignedDays": 30,
+      "remainingDays": 31,
+      "status": "Completed",
+      "notes": ""
+    },
+    {
+      "id": 1760692436656,
+      "projectName": "A-GB1-25062_GE_Cold plate assembly station",
+      "engineerName": "Keerthi",
+      "startDate": "2025-10-06",
+      "endDate": "2026-05-29",
+      "totalDays": 55,
+      "assignedDays": 12,
+      "remainingDays": 43,
+      "status": "Completed",
+      "notes": ""
     },
     {
       "id": 1760686255234,
