@@ -304,6 +304,13 @@
           "targetDate": "2026-04-10",
           "completionDate": "",
           "status": "not_started"
+        },
+        {
+          "id": "task-1775644902989",
+          "taskName": "Get EDS for Robot",
+          "targetDate": "2026-04-13",
+          "completionDate": "",
+          "status": "not_started"
         }
       ],
       "currentStatus": "not_started",
@@ -337,5 +344,5 @@
       "constraint": "S7-1200 instead of Smart S7-200"
     }
   ],
-  "lastUpdated": "2026-04-08T10:41:27.040Z"
+  "lastUpdated": "2026-04-08T10:41:43.374Z"
 }
