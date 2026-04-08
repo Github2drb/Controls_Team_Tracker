@@ -259,6 +259,18 @@
       "notes": ""
     },
     {
+      "id": 1760688217942,
+      "projectName": "3A-SS1-26012-Sartorius- Glass bead blasting automation",
+      "engineerName": "Eswanth Potnuri",
+      "startDate": "2026-03-20",
+      "endDate": "2026-06-30",
+      "totalDays": 99,
+      "assignedDays": 78,
+      "remainingDays": 21,
+      "status": "In progress",
+      "notes": "PLC hardware Finalization from Customer"
+    },
+    {
       "id": 1760686255234,
       "projectName": "3A-SO1-25025_Bailer_Assembly",
       "engineerName": "Susanth K M",
