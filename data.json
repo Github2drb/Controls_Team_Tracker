@@ -126,27 +126,27 @@
     },
      {
       "id": 1764523893501,
-      "projectName": "DK1-25110- ODU Assembly auto line",
-      "engineerName": "Santhosh N",
-      "startDate": "2025-10-27",
-      "endDate": "2026-04-30",
+      "projectName": "3A-GB1-26007_GE_Pressure Tester",
+      "engineerName": "Eswanth Potnuri",
+      "startDate": "2026-04-01",
+      "endDate": "2026-06-30",
       "totalDays": 97,
       "assignedDays": 35,
       "remainingDays": 62,
       "status": "In Progress",
-      "notes": "Handed over to anand"
+      "notes": "Hardware Verification for Procurement"
     },
     {
       "id": 1764523867743,
-      "projectName": "3A-DK1-25077-Dehydration Project",
+      "projectName": "DK1-25110- ODU Assembly auto line",
       "engineerName": "Susanth K M",
-      "startDate": "2025-09-29",
-      "endDate": "2026-05-30",
+      "startDate": "2026-04-01",
+      "endDate": "2026-06-30",
       "totalDays": 124,
       "assignedDays": 63,
       "remainingDays": 61,
       "status": "In Progress",
-      "notes": "Pending Material listing and Drawing Updation and Documentation"
+      "notes": "Hardware IO Configuration and EDS Loading"
     },
     {
       "id": 1764523867744,
