@@ -268,7 +268,12 @@
       "projectName": "3A-GB1-26007_GE_Pressure Tester",
       "currentStatus": "Design Stage",
       "activities": {}
+    },
+    {
+      "projectName": "3A-VA1-26035-Varroc-Stator Housing Shrink Fitting",
+      "currentStatus": "Design Stage",
+      "activities": {}
     }
   ],
-  "lastUpdated": "2026-04-08T10:29:53.812Z"
+  "lastUpdated": "2026-04-08T10:29:55.091Z"
 }
