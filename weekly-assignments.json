@@ -121,7 +121,7 @@
       "customerTarget": "2026-05-11"
     },
     {
-      "id": "Eswanth Potnuri, Veeresh, Anand-2026-03-30-1775039981894",
+      "id": "Eswanth Potnuri, Santosh N, Anand-2026-03-30-1775039981894",
       "engineerName": "Eswanth Potnuri,Veeresh",
       "weekStart": "2026-03-30",
       "projectName": "3A-SS1-26012-Sartorius- Glass bead blasting automation",
@@ -258,20 +258,7 @@
       ],
       "currentStatus": "not_started"
     },
-    {
-      "id": "Susanth K M-2026-04-06-1775624346611",
-      "engineerName": "Susanth K M",
-      "weekStart": "2026-04-06",
-      "projectName": "DK1-25110- ODU Assembly auto line",
-      "projectTargetDate": "2026-04-30",
-      "tasks": [
-        {
-          "id": "task-1775624376669",
-          "taskName": "Complete Hardware Configuration in GX Works3",
-          "targetDate": "2026-04-10",
-          "completionDate": "",
-          "status": "in_progress"
-        },
+    
         {
           "id": "task-1775624394518",
           "taskName": "EDS file for all Ethernet/Ip Devices",
@@ -284,20 +271,7 @@
       "notes": "Hardware Configuration",
       "constraint": "RFID,Servo Press"
     },
-    {
-      "id": "Eswanth Potnuri-2026-04-06-1775639652414",
-      "engineerName": "Eswanth Potnuri",
-      "weekStart": "2026-04-06",
-      "projectName": "3A-SS1-26012-Sartorius- Glass bead blasting automation",
-      "projectTargetDate": "2026-06-30",
-      "tasks": [
-        {
-          "id": "task-1775639677553",
-          "taskName": "Servo Motor Congfiguration and hardware details",
-          "targetDate": "2026-04-15",
-          "completionDate": "",
-          "status": "not_started"
-        },
+    
         {
           "id": "task-1775644886858",
           "taskName": "Gather Complete Hardware Details and verify",
@@ -317,20 +291,7 @@
       "notes": "",
       "constraint": "Siemens Hardware and Servo"
     },
-    {
-      "id": "Eswanth Potnuri-2026-04-06-1775644421232",
-      "engineerName": "Eswanth Potnuri",
-      "weekStart": "2026-04-06",
-      "projectName": "3A-GB1-26007_GE_Pressure Tester",
-      "projectTargetDate": "2026-05-31",
-      "tasks": [
-        {
-          "id": "task-1775644443294",
-          "taskName": "BOM Raise Support",
-          "targetDate": "2026-04-10",
-          "completionDate": "",
-          "status": "not_started"
-        },
+   
         {
           "id": "task-1775644467327",
           "taskName": "Change Hardware Part number in exsisting logic",
