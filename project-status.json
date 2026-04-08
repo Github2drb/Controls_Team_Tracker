@@ -1,7 +1,7 @@
 {
   "projectStatuses": [
     {
-      "engineerName": "Harsha",
+      "engineerName": "Susanth",
       "projectName": "DK1-25110- ODU Assembly auto line",
       "statuses": {
         "2024-12-05": "Not Started"
@@ -41,14 +41,14 @@
     },
     
     {
-      "engineerName": "Praveen Kumar",
+      "engineerName": "Praveen Kumar C",
       "projectName": "3A2409 - GLASS TAPING AND O-CELL PICK & PLACE STATION (PA23 Phase -2)",
       "statuses": {
         "2024-12-05": "Completed"
       }
     },
     {
-      "engineerName": "Praveen Kumar",
+      "engineerName": "Praveen Kumar C",
       "projectName": "3A-SO1-25025_Bailer_Assembly",
       "statuses": {
         "2024-12-05": "In Progress"
@@ -73,7 +73,7 @@
     
    
     {
-      "engineerName": "Susanth",
+      "engineerName": "Susanth K M",
       "projectName": "3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo",
       "statuses": {
         "2024-12-05": "In Progress"
@@ -94,12 +94,12 @@
       "engineerName": "Dyumith NV",
       "projectName": "3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo",
       "statuses": {
-        "2024-12-05": "In Progress"
+        "2024-12-05": "Completed"
       }
     },
     
     {
-      "engineerName": "Susanth",
+      "engineerName": "Susanth K M",
       "projectName": "3A-SO1-25025_Bailer_Assembly",
       "statuses": {
         "2024-12-05": "In Progress"
