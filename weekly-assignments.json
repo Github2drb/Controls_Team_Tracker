@@ -316,6 +316,13 @@
           "targetDate": "2026-04-10",
           "completionDate": "",
           "status": "not_started"
+        },
+        {
+          "id": "task-1775644467327",
+          "taskName": "Change Hardware Part number in exsisting logic",
+          "targetDate": "",
+          "completionDate": "",
+          "status": "not_started"
         }
       ],
       "currentStatus": "in_progress",
@@ -323,5 +330,5 @@
       "constraint": "S7-1200 instead of Smart S7-200"
     }
   ],
-  "lastUpdated": "2026-04-08T10:34:03.454Z"
+  "lastUpdated": "2026-04-08T10:34:27.540Z"
 }
