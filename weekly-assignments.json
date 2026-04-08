@@ -290,11 +290,19 @@
       "weekStart": "2026-04-06",
       "projectName": "3A-SS1-26012-Sartorius- Glass bead blasting automation",
       "projectTargetDate": "2026-06-30",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "task-1775639677553",
+          "taskName": "Servo Motor Congfiguration and hardware details",
+          "targetDate": "2026-04-15",
+          "completionDate": "",
+          "status": "not_started"
+        }
+      ],
       "currentStatus": "not_started",
       "notes": "",
       "constraint": "Siemens Hardware and Servo"
     }
   ],
-  "lastUpdated": "2026-04-08T09:14:12.637Z"
+  "lastUpdated": "2026-04-08T09:14:37.727Z"
 }
