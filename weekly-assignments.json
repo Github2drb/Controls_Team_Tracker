@@ -304,6 +304,13 @@
           "targetDate": "2026-04-10",
           "completionDate": "",
           "status": "not_started"
+        },
+        {
+          "id": "task-1775644935269",
+          "taskName": "Get EDS for Robot and Assign it in GX Works3",
+          "targetDate": "2026-04-13",
+          "completionDate": "",
+          "status": "not_started"
         }
       ],
       "currentStatus": "not_started",
@@ -337,5 +344,5 @@
       "constraint": "S7-1200 instead of Smart S7-200"
     }
   ],
-  "lastUpdated": "2026-04-08T10:41:49.798Z"
+  "lastUpdated": "2026-04-08T10:42:15.477Z"
 }
