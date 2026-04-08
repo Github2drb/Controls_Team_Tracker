@@ -98,7 +98,7 @@
       "assignedDays": 1,
       "remainingDays": 19,
       "status": "In Progress",
-      "notes": ""
+      "notes": "Handshake with chinese line pending"
     },
     {
       "id": 1764549643340,
@@ -122,7 +122,7 @@
       "assignedDays": 35,
       "remainingDays": 62,
       "status": "In Progress",
-      "notes": ""
+      "notes": "Handed over to anand"
     },
     
     {
@@ -135,7 +135,7 @@
       "assignedDays": 63,
       "remainingDays": 61,
       "status": "In Progress",
-      "notes": ""
+      "notes": "Pending Material listing and Drawing Updation and Documentation"
     },
     {
       "id": 1764523867744,
@@ -172,7 +172,7 @@
       "assignedDays": 21,
       "remainingDays": 31,
       "status": "In Progress",
-      "notes": "Conveyor and Bowl Feeder Support"
+      "notes": "Bowl Feeder Prove Pending"
     },
     
     {
@@ -184,7 +184,7 @@
       "totalDays": 55,
       "assignedDays": 12,
       "remainingDays": 43,
-      "status": "In Progress",
+      "status": "Completed",
       "notes": ""
     },
     {
@@ -232,8 +232,8 @@
       "totalDays": 49,
       "assignedDays": 5,
       "remainingDays": 44,
-      "status": "In Progress",
-      "notes": ""
+      "status": "Completed",
+      "notes": "will be taken over by susanth"
     },
     {
       "id": 1760688216942,
