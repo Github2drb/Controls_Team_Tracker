@@ -247,9 +247,17 @@
       "resourceLockedTill": "2026-06-30",
       "internalTarget": "2026-05-20",
       "customerTarget": "2026-06-01",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "task-1775624060388",
+          "taskName": "Hardware Configuration ",
+          "targetDate": "2026-04-11",
+          "completionDate": "",
+          "status": "not_started"
+        }
+      ],
       "currentStatus": "not_started"
     }
   ],
-  "lastUpdated": "2026-04-08T04:30:28.524Z"
+  "lastUpdated": "2026-04-08T04:54:20.567Z"
 }
