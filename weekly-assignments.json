@@ -262,83 +262,8 @@
       "currentStatus": "in_progress",
       "notes": "Hardware Configuration",
       "constraint": "RFID,Servo Press"
-    },
-    {
-      "id": "assignment-reconstructed-1",
-      "engineerName": "Unknown",
-      "weekStart": "Unknown",
-      "projectName": "Unknown",
-      "projectTargetDate": "Unknown",
-      "resourceLockedFrom": "Unknown",
-      "resourceLockedTill": "Unknown",
-      "internalTarget": "Unknown",
-      "customerTarget": "Unknown",
-      "tasks": [
-        {
-          "id": "task-1775624394518",
-          "taskName": "EDS file for all Ethernet/Ip Devices",
-          "targetDate": "2026-04-10",
-          "completionDate": "",
-          "status": "not_started"
-        }
-      ],
-      "currentStatus": "not_started",
-      "notes": "",
-      "constraint": "Siemens Hardware and Servo"
-    },
-    {
-      "id": "assignment-reconstructed-2",
-      "engineerName": "Unknown",
-      "weekStart": "Unknown",
-      "projectName": "Unknown",
-      "projectTargetDate": "Unknown",
-      "resourceLockedFrom": "Unknown",
-      "resourceLockedTill": "Unknown",
-      "internalTarget": "Unknown",
-      "customerTarget": "Unknown",
-      "tasks": [
-        {
-          "id": "task-1775644886858",
-          "taskName": "Gather Complete Hardware Details and verify",
-          "targetDate": "2026-04-10",
-          "completionDate": "",
-          "status": "not_started"
-        },
-        {
-          "id": "task-1775644935269",
-          "taskName": "Get EDS for Robot and Assign it in GX Works3",
-          "targetDate": "2026-04-13",
-          "completionDate": "",
-          "status": "not_started"
-        }
-      ],
-      "currentStatus": "not_started",
-      "notes": "",
-      "constraint": "Siemens Hardware and Servo"
-    },
-    {
-      "id": "assignment-reconstructed-3",
-      "engineerName": "Unknown",
-      "weekStart": "Unknown",
-      "projectName": "Unknown",
-      "projectTargetDate": "Unknown",
-      "resourceLockedFrom": "Unknown",
-      "resourceLockedTill": "Unknown",
-      "internalTarget": "Unknown",
-      "customerTarget": "Unknown",
-      "tasks": [
-        {
-          "id": "task-1775644467327",
-          "taskName": "Change Hardware Part number in exsisting logic",
-          "targetDate": "",
-          "completionDate": "",
-          "status": "not_started"
-        }
-      ],
-      "currentStatus": "in_progress",
-      "notes": "",
-      "constraint": "S7-1200 instead of Smart S7-200"
     }
+    
   ],
   "lastUpdated": "2026-04-08T12:39:34.656Z"
 }
