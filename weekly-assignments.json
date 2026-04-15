@@ -262,8 +262,18 @@
       "currentStatus": "in_progress",
       "notes": "Hardware Configuration",
       "constraint": "RFID,Servo Press"
+    },
+    {
+      "id": "wa-1776270909606",
+      "engineerName": "Susanth K M",
+      "weekStart": "2026-04-13",
+      "projectName": "DK1-25110- ODU Assembly auto line",
+      "projectTargetDate": "2026-04-17",
+      "tasks": [],
+      "currentStatus": "in_progress",
+      "notes": "Hardware Configuration",
+      "constraint": "Architechture still yet to send"
     }
-    
   ],
-  "lastUpdated": "2026-04-08T12:39:34.656Z"
+  "lastUpdated": "2026-04-15T16:35:09.606Z"
 }
