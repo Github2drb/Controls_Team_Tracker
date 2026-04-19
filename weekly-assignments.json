@@ -276,6 +276,13 @@
           "targetDate": "2026-04-24",
           "completionDate": "",
           "status": "in_progress"
+        },
+        {
+          "id": "task-1776615342766",
+          "taskName": "Add DTE-102 EDS and Function Block to Logic",
+          "targetDate": "2026-04-24",
+          "completionDate": "",
+          "status": "not_started"
         }
       ],
       "currentStatus": "in_progress",
@@ -283,5 +290,5 @@
       "constraint": "Architechture still yet to send"
     }
   ],
-  "lastUpdated": "2026-04-19T16:15:19.189Z"
+  "lastUpdated": "2026-04-19T16:15:42.766Z"
 }
