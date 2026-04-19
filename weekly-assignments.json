@@ -108,7 +108,7 @@
           "id": "task-1775039701882",
           "taskName": "PLC and HMI Availablity Followup",
           "targetDate": "2026-04-03",
-          "completionDate": "",
+          "completionDate": "2026-04-23",
           "status": "not_started"
         }
       ],
@@ -290,5 +290,5 @@
       "constraint": "Architechture still yet to send"
     }
   ],
-  "lastUpdated": "2026-04-19T16:15:42.766Z"
+  "lastUpdated": "2026-04-19T16:17:07.327Z"
 }
