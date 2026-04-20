@@ -227,32 +227,6 @@
       "constraint": "RFID,Servo Press"
     },
     {
-      "id": "wa-1776270909606",
-      "engineerName": "Susanth K M",
-      "weekStart": "2026-04-13",
-      "projectName": "DK1-25110- ODU Assembly auto line",
-      "projectTargetDate": "2026-04-17",
-      "tasks": [
-        {
-          "id": "task-1776615319189",
-          "taskName": "Change in Solenoid Actuation",
-          "targetDate": "2026-04-24",
-          "completionDate": "",
-          "status": "in_progress"
-        },
-        {
-          "id": "task-1776615342766",
-          "taskName": "Add DTE-102 EDS and Function Block to Logic",
-          "targetDate": "2026-04-24",
-          "completionDate": "",
-          "status": "not_started"
-        }
-      ],
-      "currentStatus": "in_progress",
-      "notes": "Hardware Configuration",
-      "constraint": "Architechture still yet to send"
-    },
-    {
       "id": "wa-1776664930168",
       "engineerName": "Susanth K M",
       "weekStart": "2026-04-20",
@@ -264,5 +238,5 @@
       "constraint": "Homing Condition on Power Failure"
     }
   ],
-  "lastUpdated": "2026-04-20T06:03:03.355Z"
+  "lastUpdated": "2026-04-20T06:03:16.675Z"
 }
