@@ -289,6 +289,72 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Susanth K M",
+      "date": "2026-04-20",
+      "targetTasks": [
+        {
+          "id": "wa-1776664931012-dvcp",
+          "text": "[3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo] Washer Gantry Pick and Place and All gantry Initialization"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Susanth K M",
+      "date": "2026-04-21",
+      "targetTasks": [
+        {
+          "id": "wa-1776664931012-hed0",
+          "text": "[3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo] Washer Gantry Pick and Place and All gantry Initialization"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Susanth K M",
+      "date": "2026-04-22",
+      "targetTasks": [
+        {
+          "id": "wa-1776664931012-vml3",
+          "text": "[3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo] Washer Gantry Pick and Place and All gantry Initialization"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Susanth K M",
+      "date": "2026-04-23",
+      "targetTasks": [
+        {
+          "id": "wa-1776664931012-tdt7",
+          "text": "[3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo] Washer Gantry Pick and Place and All gantry Initialization"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Susanth K M",
+      "date": "2026-04-24",
+      "targetTasks": [
+        {
+          "id": "wa-1776664931012-8zmn",
+          "text": "[3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo] Washer Gantry Pick and Place and All gantry Initialization"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Susanth K M",
+      "date": "2026-04-25",
+      "targetTasks": [
+        {
+          "id": "wa-1776664931012-81fe",
+          "text": "[3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo] Washer Gantry Pick and Place and All gantry Initialization"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
