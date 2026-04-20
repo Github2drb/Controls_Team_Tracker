@@ -167,43 +167,6 @@
       "customerTarget": "2026-06-10"
     },
     {
-      "id": "Susanth K M-2026-03-30-1775041333945",
-      "engineerName": "Susanth K M, Santosh N",
-      "weekStart": "2026-03-30",
-      "projectName": "STEP 4 - Dehydration_3A-DK2-25142",
-      "projectTargetDate": "2026-06-30",
-      "tasks": [
-        {
-          "id": "task-1775041402211",
-          "taskName": "Offline Logic Preperation for POC",
-          "targetDate": "2026-04-17",
-          "completionDate": "",
-          "status": "not_started"
-        },
-        {
-          "id": "task-1775041618654",
-          "taskName": "POC Trials",
-          "targetDate": "2026-04-27",
-          "completionDate": "",
-          "status": "not_started"
-        },
-        {
-          "id": "task-1775041656124",
-          "taskName": "Material Availablity and Integration",
-          "targetDate": "2026-04-20",
-          "completionDate": "",
-          "status": "not_started"
-        }
-      ],
-      "currentStatus": "in_progress",
-      "notes": "",
-      "constraint": "",
-      "resourceLockedFrom": "2026-03-30",
-      "resourceLockedTill": "2026-08-14",
-      "internalTarget": "2026-07-20",
-      "customerTarget": "2026-07-29"
-    },
-    {
       "id": "Harsha-2026-03-30-1775042956583",
       "engineerName": "Harsha,Santosh N,Rahul(Ampere)",
       "weekStart": "2026-03-30",
@@ -301,5 +264,5 @@
       "constraint": "Homing Condition on Power Failure"
     }
   ],
-  "lastUpdated": "2026-04-20T06:02:10.168Z"
+  "lastUpdated": "2026-04-20T06:03:03.355Z"
 }
