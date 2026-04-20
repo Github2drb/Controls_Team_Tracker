@@ -288,7 +288,18 @@
       "currentStatus": "in_progress",
       "notes": "Hardware Configuration",
       "constraint": "Architechture still yet to send"
+    },
+    {
+      "id": "wa-1776664930168",
+      "engineerName": "Susanth K M",
+      "weekStart": "2026-04-20",
+      "projectName": "3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo",
+      "projectTargetDate": "2026-04-21",
+      "tasks": [],
+      "currentStatus": "in_progress",
+      "notes": "Washer Gantry Pick and Place and All gantry Initialization",
+      "constraint": "Homing Condition on Power Failure"
     }
   ],
-  "lastUpdated": "2026-04-19T16:17:48.629Z"
+  "lastUpdated": "2026-04-20T06:02:10.168Z"
 }
