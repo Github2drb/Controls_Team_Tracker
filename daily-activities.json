@@ -363,6 +363,10 @@
         {
           "id": "wa-1776787634252-l5u9",
           "text": "[3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station] Weekly project task"
+        },
+        {
+          "id": "wa-1776788006463-rncr",
+          "text": "[TE_46P and 6P Assembly_3A-TC1-26039] Weekly project task"
         }
       ],
       "completedActivities": []
@@ -374,6 +378,10 @@
         {
           "id": "wa-1776787634252-pqg1",
           "text": "[3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station] Weekly project task"
+        },
+        {
+          "id": "wa-1776788006463-2ne8",
+          "text": "[TE_46P and 6P Assembly_3A-TC1-26039] Weekly project task"
         }
       ],
       "completedActivities": []
@@ -385,6 +393,10 @@
         {
           "id": "wa-1776787634252-g4hq",
           "text": "[3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station] Weekly project task"
+        },
+        {
+          "id": "wa-1776788006463-l6me",
+          "text": "[TE_46P and 6P Assembly_3A-TC1-26039] Weekly project task"
         }
       ],
       "completedActivities": []
@@ -396,6 +408,10 @@
         {
           "id": "wa-1776787634252-b36c",
           "text": "[3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station] Weekly project task"
+        },
+        {
+          "id": "wa-1776788006463-t0in",
+          "text": "[TE_46P and 6P Assembly_3A-TC1-26039] Weekly project task"
         }
       ],
       "completedActivities": []
@@ -407,6 +423,10 @@
         {
           "id": "wa-1776787634252-ci3w",
           "text": "[3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station] Weekly project task"
+        },
+        {
+          "id": "wa-1776788006463-7ax2",
+          "text": "[TE_46P and 6P Assembly_3A-TC1-26039] Weekly project task"
         }
       ],
       "completedActivities": []
@@ -418,6 +438,10 @@
         {
           "id": "wa-1776787634252-g9w9",
           "text": "[3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station] Weekly project task"
+        },
+        {
+          "id": "wa-1776788006463-reii",
+          "text": "[TE_46P and 6P Assembly_3A-TC1-26039] Weekly project task"
         }
       ],
       "completedActivities": []
@@ -484,6 +508,72 @@
         {
           "id": "wa-1776787634252-3jxh",
           "text": "[3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Eswanth Potnuri",
+      "date": "2026-04-20",
+      "targetTasks": [
+        {
+          "id": "wa-1776788006463-nhu9",
+          "text": "[TE_46P and 6P Assembly_3A-TC1-26039] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Eswanth Potnuri",
+      "date": "2026-04-21",
+      "targetTasks": [
+        {
+          "id": "wa-1776788006463-bhd8",
+          "text": "[TE_46P and 6P Assembly_3A-TC1-26039] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Eswanth Potnuri",
+      "date": "2026-04-22",
+      "targetTasks": [
+        {
+          "id": "wa-1776788006463-kyp0",
+          "text": "[TE_46P and 6P Assembly_3A-TC1-26039] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Eswanth Potnuri",
+      "date": "2026-04-23",
+      "targetTasks": [
+        {
+          "id": "wa-1776788006463-5c51",
+          "text": "[TE_46P and 6P Assembly_3A-TC1-26039] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Eswanth Potnuri",
+      "date": "2026-04-24",
+      "targetTasks": [
+        {
+          "id": "wa-1776788006463-8dv2",
+          "text": "[TE_46P and 6P Assembly_3A-TC1-26039] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Eswanth Potnuri",
+      "date": "2026-04-25",
+      "targetTasks": [
+        {
+          "id": "wa-1776788006463-hr6q",
+          "text": "[TE_46P and 6P Assembly_3A-TC1-26039] Weekly project task"
         }
       ],
       "completedActivities": []
