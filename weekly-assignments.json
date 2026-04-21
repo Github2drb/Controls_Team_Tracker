@@ -144,29 +144,6 @@
       "customerTarget": "2026-05-14"
     },
     {
-      "id": "Dhanesh M-2026-03-30-1775041019818",
-      "engineerName": "Dhanesh M,Santosh N",
-      "weekStart": "2026-03-30",
-      "projectName": "3A-VA1-26035-Varroc-Stator Housing Shrink Fitting",
-      "projectTargetDate": "2026-05-31",
-      "tasks": [
-        {
-          "id": "task-1775041035540",
-          "taskName": "Hardware Listing",
-          "targetDate": "2026-04-30",
-          "completionDate": "",
-          "status": "not_started"
-        }
-      ],
-      "currentStatus": "in_progress",
-      "notes": "",
-      "constraint": "",
-      "resourceLockedFrom": "2026-03-30",
-      "resourceLockedTill": "2026-06-30",
-      "internalTarget": "2026-05-20",
-      "customerTarget": "2026-06-10"
-    },
-    {
       "id": "Harsha-2026-03-30-1775042956583",
       "engineerName": "Harsha,Santosh N,Rahul(Ampere)",
       "weekStart": "2026-03-30",
@@ -263,5 +240,5 @@
       "currentStatus": "in_progress"
     }
   ],
-  "lastUpdated": "2026-04-21T16:13:25.339Z"
+  "lastUpdated": "2026-04-21T16:13:52.834Z"
 }
