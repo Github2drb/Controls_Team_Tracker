@@ -249,7 +249,19 @@
       "internalTarget": "2026-05-28",
       "customerTarget": "2026-05-31",
       "constraint": "Engineers Assigned Today"
+    },
+    {
+      "id": "wa-1776788005339",
+      "engineerName": "Santhosh N, Eswanth Potnuri",
+      "weekStart": "2026-04-20",
+      "projectName": "TE_46P and 6P Assembly_3A-TC1-26039",
+      "resourceLockedFrom": "2026-04-16",
+      "resourceLockedTill": "2026-06-30",
+      "internalTarget": "2026-06-30",
+      "customerTarget": "2026-06-30",
+      "tasks": [],
+      "currentStatus": "in_progress"
     }
   ],
-  "lastUpdated": "2026-04-21T16:08:02.106Z"
+  "lastUpdated": "2026-04-21T16:13:25.339Z"
 }
