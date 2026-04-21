@@ -174,7 +174,7 @@
       ],
       "currentStatus": "in_progress",
       "notes": "",
-      "constraint": "Pallet Sensor,Handy HMI",
+      "constraint": "Pallet Sensor,Handy HMI Integration in Process",
       "resourceLockedFrom": "2026-01-05",
       "resourceLockedTill": "2026-04-30",
       "internalTarget": "2026-04-09",
@@ -240,5 +240,5 @@
       "currentStatus": "in_progress"
     }
   ],
-  "lastUpdated": "2026-04-21T16:13:52.834Z"
+  "lastUpdated": "2026-04-21T16:15:18.674Z"
 }
