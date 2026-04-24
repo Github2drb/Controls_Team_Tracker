@@ -238,7 +238,19 @@
       "customerTarget": "2026-06-30",
       "tasks": [],
       "currentStatus": "in_progress"
+    },
+    {
+      "id": "wa-1777017351622",
+      "engineerName": "Harsha",
+      "weekStart": "2026-04-20",
+      "projectName": "3A-VA1-26035-Varroc-Stator Housing Shrink Fitting",
+      "resourceLockedFrom": "2026-05-01",
+      "resourceLockedTill": "2026-07-31",
+      "internalTarget": "2026-06-17",
+      "customerTarget": "2026-06-26",
+      "tasks": [],
+      "currentStatus": "in_progress"
     }
   ],
-  "lastUpdated": "2026-04-24T07:54:34.918Z"
+  "lastUpdated": "2026-04-24T07:55:51.622Z"
 }
