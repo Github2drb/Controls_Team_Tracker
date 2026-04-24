@@ -226,7 +226,19 @@
       "internalTarget": "2026-05-28",
       "customerTarget": "2026-05-31",
       "constraint": "Engineers Assigned Today"
+    },
+    {
+      "id": "wa-1777017274918",
+      "engineerName": "Harsha",
+      "weekStart": "2026-04-20",
+      "projectName": "3A-VA1-26001-LN2 Shrink fitting & Stator housing assembly new variant addition - AE110E",
+      "resourceLockedFrom": "2026-04-09",
+      "resourceLockedTill": "2026-07-30",
+      "internalTarget": "2026-06-10",
+      "customerTarget": "2026-06-30",
+      "tasks": [],
+      "currentStatus": "in_progress"
     }
   ],
-  "lastUpdated": "2026-04-21T16:16:01.072Z"
+  "lastUpdated": "2026-04-24T07:54:34.918Z"
 }
