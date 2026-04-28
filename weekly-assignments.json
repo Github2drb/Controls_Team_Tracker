@@ -61,7 +61,7 @@
       ],
       "currentStatus": "in_progress",
       "notes": "",
-      "constraint": "",
+      "constraint": "Mechanical Assembly in Progress",
       "resourceLockedFrom": "2026-03-30",
       "resourceLockedTill": "2026-06-30",
       "internalTarget": "2026-05-20",
@@ -256,5 +256,5 @@
       "currentStatus": "in_progress"
     }
   ],
-  "lastUpdated": "2026-04-28T07:32:04.705Z"
+  "lastUpdated": "2026-04-28T07:32:55.640Z"
 }
