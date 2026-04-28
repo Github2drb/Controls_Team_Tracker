@@ -1083,6 +1083,72 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Eswanth Potnuri",
+      "date": "2026-04-06",
+      "targetTasks": [
+        {
+          "id": "wa-1777361601958-15aw",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Hardware Configuration"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Eswanth Potnuri",
+      "date": "2026-04-07",
+      "targetTasks": [
+        {
+          "id": "wa-1777361601958-bmfe",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Hardware Configuration"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Eswanth Potnuri",
+      "date": "2026-04-08",
+      "targetTasks": [
+        {
+          "id": "wa-1777361601958-64cp",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Hardware Configuration"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Eswanth Potnuri",
+      "date": "2026-04-09",
+      "targetTasks": [
+        {
+          "id": "wa-1777361601958-d8s3",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Hardware Configuration"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Eswanth Potnuri",
+      "date": "2026-04-10",
+      "targetTasks": [
+        {
+          "id": "wa-1777361601958-l6bn",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Hardware Configuration"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Eswanth Potnuri",
+      "date": "2026-04-11",
+      "targetTasks": [
+        {
+          "id": "wa-1777361601959-n0rr",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Hardware Configuration"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
