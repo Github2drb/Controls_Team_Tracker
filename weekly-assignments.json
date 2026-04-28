@@ -176,9 +176,9 @@
       "notes": "",
       "constraint": "Pallet Sensor,Handy HMI Integration Completed.\nSafety Dog Proximity installation pending",
       "resourceLockedFrom": "2026-01-05",
-      "resourceLockedTill": "2026-04-30",
+      "resourceLockedTill": "2026-06-10",
       "internalTarget": "2026-04-09",
-      "customerTarget": "2026-04-11"
+      "customerTarget": "2026-04-29"
     },
     {
       "id": "Eswanth Potnuri-2026-04-06-1775547430327",
@@ -252,5 +252,5 @@
       "currentStatus": "in_progress"
     }
   ],
-  "lastUpdated": "2026-04-28T07:30:35.373Z"
+  "lastUpdated": "2026-04-28T07:30:59.838Z"
 }
