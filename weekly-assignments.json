@@ -116,7 +116,7 @@
       "notes": "",
       "constraint": "",
       "resourceLockedFrom": "2026-03-30",
-      "resourceLockedTill": "2026-05-20",
+      "resourceLockedTill": "2026-05-31",
       "internalTarget": "2026-05-06",
       "customerTarget": "2026-05-11"
     },
@@ -252,5 +252,5 @@
       "currentStatus": "in_progress"
     }
   ],
-  "lastUpdated": "2026-04-28T07:30:59.838Z"
+  "lastUpdated": "2026-04-28T07:31:18.391Z"
 }
