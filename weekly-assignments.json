@@ -212,7 +212,11 @@
       "tasks": [],
       "currentStatus": "in_progress",
       "notes": "Washer Gantry Pick and Place and All gantry Initialization",
-      "constraint": "Homing Condition on Power Failure"
+      "constraint": "Cycle Time Optimisation in progress",
+      "resourceLockedFrom": "2025-11-01",
+      "resourceLockedTill": "2026-04-30",
+      "internalTarget": "2026-04-29",
+      "customerTarget": "2026-04-30"
     },
     {
       "id": "wa-1776787633399",
@@ -252,5 +256,5 @@
       "currentStatus": "in_progress"
     }
   ],
-  "lastUpdated": "2026-04-28T07:31:18.391Z"
+  "lastUpdated": "2026-04-28T07:32:04.705Z"
 }
