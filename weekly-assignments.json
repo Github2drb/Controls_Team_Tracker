@@ -220,12 +220,12 @@
       "weekStart": "2026-04-20",
       "projectName": "3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station",
       "tasks": [],
-      "currentStatus": "not_started",
+      "currentStatus": "in_progress",
       "resourceLockedFrom": "2026-04-21",
       "resourceLockedTill": "2026-06-30",
       "internalTarget": "2026-05-28",
       "customerTarget": "2026-05-31",
-      "constraint": "Engineers Assigned Today"
+      "constraint": "Preliminary Customer Meeting Completed"
     },
     {
       "id": "wa-1777017274918",
@@ -252,5 +252,5 @@
       "currentStatus": "in_progress"
     }
   ],
-  "lastUpdated": "2026-04-24T07:55:51.622Z"
+  "lastUpdated": "2026-04-28T07:30:11.017Z"
 }
