@@ -174,7 +174,7 @@
       ],
       "currentStatus": "in_progress",
       "notes": "",
-      "constraint": "Pallet Sensor,Handy HMI Integration in Process",
+      "constraint": "Pallet Sensor,Handy HMI Integration Completed.\nSafety Dog Proximity installation pending",
       "resourceLockedFrom": "2026-01-05",
       "resourceLockedTill": "2026-04-30",
       "internalTarget": "2026-04-09",
@@ -252,5 +252,5 @@
       "currentStatus": "in_progress"
     }
   ],
-  "lastUpdated": "2026-04-28T07:30:11.017Z"
+  "lastUpdated": "2026-04-28T07:30:35.373Z"
 }
