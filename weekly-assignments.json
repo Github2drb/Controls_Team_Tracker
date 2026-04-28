@@ -114,7 +114,7 @@
       ],
       "currentStatus": "in_progress",
       "notes": "",
-      "constraint": "",
+      "constraint": "Material procurement in progress",
       "resourceLockedFrom": "2026-03-30",
       "resourceLockedTill": "2026-05-31",
       "internalTarget": "2026-05-06",
@@ -256,5 +256,5 @@
       "currentStatus": "in_progress"
     }
   ],
-  "lastUpdated": "2026-04-28T07:33:53.586Z"
+  "lastUpdated": "2026-04-28T07:34:05.504Z"
 }
