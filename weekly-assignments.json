@@ -38,7 +38,7 @@
       ],
       "currentStatus": "in_progress",
       "notes": "",
-      "constraint": "",
+      "constraint": "Offline Program in Progress",
       "resourceLockedFrom": "2026-03-25",
       "resourceLockedTill": "2026-07-31",
       "internalTarget": "2026-05-28",
@@ -258,5 +258,5 @@
       "constraint": "DAP in progress"
     }
   ],
-  "lastUpdated": "2026-05-01T04:50:35.706Z"
+  "lastUpdated": "2026-05-01T04:51:36.146Z"
 }
