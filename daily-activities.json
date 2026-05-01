@@ -676,6 +676,10 @@
         {
           "id": "wa-1777361634490-wtck",
           "text": "[3A-DK2-25143_STEP 4-Leak Testing Machine] Material Procurement in progress"
+        },
+        {
+          "id": "wa-1777611097018-dacp",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] Offline Program in Progress"
         }
       ],
       "completedActivities": []
@@ -703,6 +707,10 @@
         {
           "id": "wa-1777361634490-wk65",
           "text": "[3A-DK2-25143_STEP 4-Leak Testing Machine] Material Procurement in progress"
+        },
+        {
+          "id": "wa-1777611097018-x0j3",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] Offline Program in Progress"
         }
       ],
       "completedActivities": []
@@ -730,6 +738,10 @@
         {
           "id": "wa-1777361634490-as1s",
           "text": "[3A-DK2-25143_STEP 4-Leak Testing Machine] Material Procurement in progress"
+        },
+        {
+          "id": "wa-1777611097019-7rge",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] Offline Program in Progress"
         }
       ],
       "completedActivities": []
@@ -757,6 +769,10 @@
         {
           "id": "wa-1777361634490-4i1s",
           "text": "[3A-DK2-25143_STEP 4-Leak Testing Machine] Material Procurement in progress"
+        },
+        {
+          "id": "wa-1777611097019-q4ng",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] Offline Program in Progress"
         }
       ],
       "completedActivities": []
@@ -784,6 +800,10 @@
         {
           "id": "wa-1777361634490-cpwd",
           "text": "[3A-DK2-25143_STEP 4-Leak Testing Machine] Material Procurement in progress"
+        },
+        {
+          "id": "wa-1777611097019-fsks",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] Offline Program in Progress"
         }
       ],
       "completedActivities": []
@@ -811,6 +831,10 @@
         {
           "id": "wa-1777361634490-1rsb",
           "text": "[3A-DK2-25143_STEP 4-Leak Testing Machine] Material Procurement in progress"
+        },
+        {
+          "id": "wa-1777611097019-o18w",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] Offline Program in Progress"
         }
       ],
       "completedActivities": []
@@ -1343,6 +1367,138 @@
         {
           "id": "wa-1777611015978-2jal",
           "text": "[3A-VA1-26035-Varroc-Stator Housing Shrink Fitting] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Praveen Kumar C",
+      "date": "2026-03-30",
+      "targetTasks": [
+        {
+          "id": "wa-1777611097018-medu",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] Offline Program in Progress"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Praveen Kumar C",
+      "date": "2026-03-31",
+      "targetTasks": [
+        {
+          "id": "wa-1777611097018-ukf7",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] Offline Program in Progress"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Praveen Kumar C",
+      "date": "2026-04-01",
+      "targetTasks": [
+        {
+          "id": "wa-1777611097018-hkrn",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] Offline Program in Progress"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Praveen Kumar C",
+      "date": "2026-04-02",
+      "targetTasks": [
+        {
+          "id": "wa-1777611097018-prcd",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] Offline Program in Progress"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Praveen Kumar C",
+      "date": "2026-04-03",
+      "targetTasks": [
+        {
+          "id": "wa-1777611097018-g4z8",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] Offline Program in Progress"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Praveen Kumar C",
+      "date": "2026-04-04",
+      "targetTasks": [
+        {
+          "id": "wa-1777611097018-viuf",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] Offline Program in Progress"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Veeresh",
+      "date": "2026-03-30",
+      "targetTasks": [
+        {
+          "id": "wa-1777611097018-bee3",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] Offline Program in Progress"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Veeresh",
+      "date": "2026-03-31",
+      "targetTasks": [
+        {
+          "id": "wa-1777611097018-o08i",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] Offline Program in Progress"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Veeresh",
+      "date": "2026-04-01",
+      "targetTasks": [
+        {
+          "id": "wa-1777611097018-fvhw",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] Offline Program in Progress"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Veeresh",
+      "date": "2026-04-02",
+      "targetTasks": [
+        {
+          "id": "wa-1777611097018-za0d",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] Offline Program in Progress"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Veeresh",
+      "date": "2026-04-03",
+      "targetTasks": [
+        {
+          "id": "wa-1777611097018-zalj",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] Offline Program in Progress"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Veeresh",
+      "date": "2026-04-04",
+      "targetTasks": [
+        {
+          "id": "wa-1777611097018-a0es",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] Offline Program in Progress"
         }
       ],
       "completedActivities": []
