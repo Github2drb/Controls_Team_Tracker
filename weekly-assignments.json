@@ -254,8 +254,9 @@
       "internalTarget": "2026-06-17",
       "customerTarget": "2026-06-26",
       "tasks": [],
-      "currentStatus": "in_progress"
+      "currentStatus": "in_progress",
+      "constraint": "DAP in progress"
     }
   ],
-  "lastUpdated": "2026-05-01T04:50:23.499Z"
+  "lastUpdated": "2026-05-01T04:50:35.706Z"
 }
