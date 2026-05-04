@@ -266,9 +266,17 @@
       "resourceLockedTill": "2026-05-31",
       "internalTarget": "2026-05-23",
       "customerTarget": "2026-05-23",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "task-1777908575880",
+          "taskName": "List out Hardwares Required",
+          "targetDate": "2026-05-18",
+          "completionDate": "",
+          "status": "in_progress"
+        }
+      ],
       "currentStatus": "not_started"
     }
   ],
-  "lastUpdated": "2026-05-04T15:24:47.244Z"
+  "lastUpdated": "2026-05-04T15:29:35.880Z"
 }
