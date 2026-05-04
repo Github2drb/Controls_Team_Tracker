@@ -256,7 +256,19 @@
       "tasks": [],
       "currentStatus": "in_progress",
       "constraint": "DAP in progress"
+    },
+    {
+      "id": "wa-1777908262751",
+      "engineerName": "Santhosh N, Harsha",
+      "weekStart": "2026-05-04",
+      "projectName": "3A-IS1-26051 Final Line Filling Equipment Interlinking with Conveyor.",
+      "resourceLockedFrom": "2026-05-01",
+      "resourceLockedTill": "2026-05-31",
+      "internalTarget": "2026-05-23",
+      "customerTarget": "2026-05-23",
+      "tasks": [],
+      "currentStatus": "not_started"
     }
   ],
-  "lastUpdated": "2026-05-01T04:51:36.146Z"
+  "lastUpdated": "2026-05-04T15:24:22.751Z"
 }
