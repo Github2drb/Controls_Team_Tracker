@@ -212,7 +212,7 @@
       "tasks": [],
       "currentStatus": "in_progress",
       "notes": "Washer Gantry Pick and Place and All gantry Initialization",
-      "constraint": "Cycle Time Optimisation in progress",
+      "constraint": "DESIGN MODIFICATION IN PROGRESS",
       "resourceLockedFrom": "2025-11-01",
       "resourceLockedTill": "2026-04-30",
       "internalTarget": "2026-04-29",
@@ -285,5 +285,5 @@
       "currentStatus": "not_started"
     }
   ],
-  "lastUpdated": "2026-05-04T15:29:57.861Z"
+  "lastUpdated": "2026-05-05T13:28:20.720Z"
 }
