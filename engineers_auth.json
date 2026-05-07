@@ -131,11 +131,10 @@
     },
     {
       "id": "eng-20",
-      "name": "Ullaz (PAES)",
-      "username": "ullaz",
+      "name": "Sumanjali",
+      "username": "sumanjali.p",
       "password": "drb@123",
       "role": "engineer",
-      "company": "PAES",
       "isActive": true,
       "createdAt": "2026-01-25T01:20:43.699Z"
     },
