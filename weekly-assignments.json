@@ -295,7 +295,20 @@
       "customerTarget": "2026-06-28",
       "tasks": [],
       "currentStatus": "in_progress"
+    },
+    {
+      "id": "wa-1778154048022",
+      "engineerName": "Santhosh N, Sumanjali",
+      "weekStart": "2026-05-04",
+      "projectName": "3A-IS1-26051 Final Line Filling Equipment Interlinking with Conveyor.",
+      "resourceLockedFrom": "2026-04-30",
+      "resourceLockedTill": "2026-05-30",
+      "internalTarget": "2026-05-25",
+      "customerTarget": "2026-05-28",
+      "tasks": [],
+      "currentStatus": "in_progress",
+      "constraint": "Line Study at IZUZU Site"
     }
   ],
-  "lastUpdated": "2026-05-07T11:28:26.102Z"
+  "lastUpdated": "2026-05-07T11:40:48.022Z"
 }
