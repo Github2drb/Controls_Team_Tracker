@@ -2,7 +2,7 @@
   "assignments": [
     {
       "id": "Praveen Kumar C-2026-03-30-1775039159943",
-      "engineerName": "Praveen Kumar C, Veeresh",
+      "engineerName": "Praveen Kumar C, Veeresh, Sumanjali",
       "weekStart": "2026-03-30",
       "projectName": "3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine",
       "projectTargetDate": "2026-05-31",
@@ -38,7 +38,7 @@
       ],
       "currentStatus": "in_progress",
       "notes": "",
-      "constraint": "Offline Program in Progress",
+      "constraint": "E-Plan,PLC and HMI Program in progress\nLCMR Configuration in progress",
       "resourceLockedFrom": "2026-03-25",
       "resourceLockedTill": "2026-07-31",
       "internalTarget": "2026-05-28",
@@ -285,5 +285,5 @@
       "currentStatus": "not_started"
     }
   ],
-  "lastUpdated": "2026-05-05T13:28:20.720Z"
+  "lastUpdated": "2026-05-07T06:34:35.273Z"
 }
