@@ -283,7 +283,19 @@
         }
       ],
       "currentStatus": "not_started"
+    },
+    {
+      "id": "wa-1778153306102",
+      "engineerName": "Santhosh N, Sumanjali",
+      "weekStart": "2026-05-04",
+      "projectName": "3A-AV1-25120-Eddy Current Testing Equipment",
+      "resourceLockedFrom": "2026-05-01",
+      "resourceLockedTill": "2026-08-30",
+      "internalTarget": "2026-06-15",
+      "customerTarget": "2026-06-28",
+      "tasks": [],
+      "currentStatus": "in_progress"
     }
   ],
-  "lastUpdated": "2026-05-07T06:34:35.273Z"
+  "lastUpdated": "2026-05-07T11:28:26.102Z"
 }
