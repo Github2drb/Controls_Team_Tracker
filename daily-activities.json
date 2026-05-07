@@ -1634,6 +1634,72 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Sumanjali",
+      "date": "2026-03-30",
+      "targetTasks": [
+        {
+          "id": "wa-1778135676287-n2bk",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] E-Plan,PLC and HMI Program in progress\nLCMR Configuration in progress"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Sumanjali",
+      "date": "2026-03-31",
+      "targetTasks": [
+        {
+          "id": "wa-1778135676287-6149",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] E-Plan,PLC and HMI Program in progress\nLCMR Configuration in progress"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Sumanjali",
+      "date": "2026-04-01",
+      "targetTasks": [
+        {
+          "id": "wa-1778135676287-ul7c",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] E-Plan,PLC and HMI Program in progress\nLCMR Configuration in progress"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Sumanjali",
+      "date": "2026-04-02",
+      "targetTasks": [
+        {
+          "id": "wa-1778135676287-hf27",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] E-Plan,PLC and HMI Program in progress\nLCMR Configuration in progress"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Sumanjali",
+      "date": "2026-04-03",
+      "targetTasks": [
+        {
+          "id": "wa-1778135676287-5qf1",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] E-Plan,PLC and HMI Program in progress\nLCMR Configuration in progress"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Sumanjali",
+      "date": "2026-04-04",
+      "targetTasks": [
+        {
+          "id": "wa-1778135676287-zq6h",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] E-Plan,PLC and HMI Program in progress\nLCMR Configuration in progress"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
