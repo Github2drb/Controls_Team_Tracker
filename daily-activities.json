@@ -1510,6 +1510,10 @@
         {
           "id": "wa-1777908264013-30ry",
           "text": "[3A-IS1-26051 Final Line Filling Equipment Interlinking with Conveyor.] Weekly project task"
+        },
+        {
+          "id": "wa-1778153307320-gzdu",
+          "text": "[3A-AV1-25120-Eddy Current Testing Equipment] Weekly project task"
         }
       ],
       "completedActivities": []
@@ -1521,6 +1525,10 @@
         {
           "id": "wa-1777908264013-80py",
           "text": "[3A-IS1-26051 Final Line Filling Equipment Interlinking with Conveyor.] Weekly project task"
+        },
+        {
+          "id": "wa-1778153307320-rdwb",
+          "text": "[3A-AV1-25120-Eddy Current Testing Equipment] Weekly project task"
         }
       ],
       "completedActivities": []
@@ -1532,6 +1540,10 @@
         {
           "id": "wa-1777908264014-439j",
           "text": "[3A-IS1-26051 Final Line Filling Equipment Interlinking with Conveyor.] Weekly project task"
+        },
+        {
+          "id": "wa-1778153307320-4dtf",
+          "text": "[3A-AV1-25120-Eddy Current Testing Equipment] Weekly project task"
         }
       ],
       "completedActivities": []
@@ -1543,6 +1555,10 @@
         {
           "id": "wa-1777908264014-rg0i",
           "text": "[3A-IS1-26051 Final Line Filling Equipment Interlinking with Conveyor.] Weekly project task"
+        },
+        {
+          "id": "wa-1778153307320-k716",
+          "text": "[3A-AV1-25120-Eddy Current Testing Equipment] Weekly project task"
         }
       ],
       "completedActivities": []
@@ -1554,6 +1570,10 @@
         {
           "id": "wa-1777908264014-x020",
           "text": "[3A-IS1-26051 Final Line Filling Equipment Interlinking with Conveyor.] Weekly project task"
+        },
+        {
+          "id": "wa-1778153307320-tvzc",
+          "text": "[3A-AV1-25120-Eddy Current Testing Equipment] Weekly project task"
         }
       ],
       "completedActivities": []
@@ -1565,6 +1585,10 @@
         {
           "id": "wa-1777908264014-dpnc",
           "text": "[3A-IS1-26051 Final Line Filling Equipment Interlinking with Conveyor.] Weekly project task"
+        },
+        {
+          "id": "wa-1778153307320-1vg3",
+          "text": "[3A-AV1-25120-Eddy Current Testing Equipment] Weekly project task"
         }
       ],
       "completedActivities": []
@@ -1697,6 +1721,72 @@
         {
           "id": "wa-1778135676287-zq6h",
           "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] E-Plan,PLC and HMI Program in progress\nLCMR Configuration in progress"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Sumanjali",
+      "date": "2026-05-04",
+      "targetTasks": [
+        {
+          "id": "wa-1778153307320-qjcs",
+          "text": "[3A-AV1-25120-Eddy Current Testing Equipment] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Sumanjali",
+      "date": "2026-05-05",
+      "targetTasks": [
+        {
+          "id": "wa-1778153307320-utct",
+          "text": "[3A-AV1-25120-Eddy Current Testing Equipment] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Sumanjali",
+      "date": "2026-05-06",
+      "targetTasks": [
+        {
+          "id": "wa-1778153307320-rpxf",
+          "text": "[3A-AV1-25120-Eddy Current Testing Equipment] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Sumanjali",
+      "date": "2026-05-07",
+      "targetTasks": [
+        {
+          "id": "wa-1778153307321-9q8l",
+          "text": "[3A-AV1-25120-Eddy Current Testing Equipment] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Sumanjali",
+      "date": "2026-05-08",
+      "targetTasks": [
+        {
+          "id": "wa-1778153307321-u1rt",
+          "text": "[3A-AV1-25120-Eddy Current Testing Equipment] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Sumanjali",
+      "date": "2026-05-09",
+      "targetTasks": [
+        {
+          "id": "wa-1778153307321-x1hu",
+          "text": "[3A-AV1-25120-Eddy Current Testing Equipment] Weekly project task"
         }
       ],
       "completedActivities": []
