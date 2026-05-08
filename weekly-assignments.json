@@ -174,7 +174,7 @@
       ],
       "currentStatus": "in_progress",
       "notes": "",
-      "constraint": "Pallet Sensor,Handy HMI Integration Completed.\nSafety Dog Proximity installation pending",
+      "constraint": "Pallet Sensor,Handy HMI Integration Completed.\nSafety Dog Proximity installation Completed>\nSingle Compressor loading from Shuttle Station pending",
       "resourceLockedFrom": "2026-01-05",
       "resourceLockedTill": "2026-06-10",
       "internalTarget": "2026-04-09",
@@ -310,5 +310,5 @@
       "constraint": "Line Study at IZUZU Site"
     }
   ],
-  "lastUpdated": "2026-05-07T11:40:48.022Z"
+  "lastUpdated": "2026-05-08T13:28:28.173Z"
 }
