@@ -282,7 +282,8 @@
           "status": "in_progress"
         }
       ],
-      "currentStatus": "not_started"
+      "currentStatus": "in_progress",
+      "constraint": "Equipment Study Completed on 07-05-2026\nBill of Material Generation, Electrical Drawing Pending"
     },
     {
       "id": "wa-1778153306102",
@@ -310,5 +311,5 @@
       "constraint": "Line Study at IZUZU Site"
     }
   ],
-  "lastUpdated": "2026-05-08T13:28:28.173Z"
+  "lastUpdated": "2026-05-08T13:30:19.905Z"
 }
