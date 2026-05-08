@@ -232,19 +232,6 @@
       "constraint": "Preliminary Customer Meeting Completed"
     },
     {
-      "id": "wa-1777017274918",
-      "engineerName": "Harsha",
-      "weekStart": "2026-04-20",
-      "projectName": "3A-VA1-26001-LN2 Shrink fitting & Stator housing assembly new variant addition - AE110E",
-      "resourceLockedFrom": "2026-04-09",
-      "resourceLockedTill": "2026-07-30",
-      "internalTarget": "2026-06-10",
-      "customerTarget": "2026-06-30",
-      "tasks": [],
-      "currentStatus": "in_progress",
-      "constraint": "will be done by 3D CAD Pune Team. Only Phone support\n"
-    },
-    {
       "id": "wa-1777017351622",
       "engineerName": "Harsha, Dhanesh M",
       "weekStart": "2026-04-20",
@@ -299,5 +286,5 @@
       "constraint": "Project study in progress"
     }
   ],
-  "lastUpdated": "2026-05-08T13:32:06.711Z"
+  "lastUpdated": "2026-05-08T13:32:31.606Z"
 }
