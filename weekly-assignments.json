@@ -242,7 +242,7 @@
       "customerTarget": "2026-06-26",
       "tasks": [],
       "currentStatus": "in_progress",
-      "constraint": "DAP in progress"
+      "constraint": "DAP Handed over. \nElectrical Procurement,E-Plan Duplication of earlier project and modification in pending"
     },
     {
       "id": "wa-1777908262751",
@@ -286,5 +286,5 @@
       "constraint": "Project study in progress"
     }
   ],
-  "lastUpdated": "2026-05-08T13:32:31.606Z"
+  "lastUpdated": "2026-05-08T13:33:12.039Z"
 }
