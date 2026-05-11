@@ -270,7 +270,7 @@
         }
       ],
       "currentStatus": "in_progress",
-      "constraint": "Equipment Study Completed on 07-05-2026\nBill of Material Generation, Electrical Drawing Pending"
+      "constraint": "Equipment Study Completed on 07-05-2026\nBill of Material Generation Validation, Electrical Drawing Pending"
     },
     {
       "id": "wa-1778153306102",
@@ -286,5 +286,5 @@
       "constraint": "Project study in progress"
     }
   ],
-  "lastUpdated": "2026-05-11T09:07:40.268Z"
+  "lastUpdated": "2026-05-11T09:08:49.130Z"
 }
