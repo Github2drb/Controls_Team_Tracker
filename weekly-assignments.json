@@ -212,7 +212,7 @@
       "tasks": [],
       "currentStatus": "in_progress",
       "notes": "Washer Gantry Pick and Place and All gantry Initialization",
-      "constraint": "DESIGN MODIFICATION IN PROGRESS",
+      "constraint": "DESIGN MODIFICATION IN PROGRESS\nNew Servo Logic Inclusion for washer gantry and logic change in spring gantry",
       "resourceLockedFrom": "2025-11-01",
       "resourceLockedTill": "2026-04-30",
       "internalTarget": "2026-04-29",
@@ -286,5 +286,5 @@
       "constraint": "Project study in progress"
     }
   ],
-  "lastUpdated": "2026-05-11T09:08:49.130Z"
+  "lastUpdated": "2026-05-11T09:09:29.842Z"
 }
