@@ -223,7 +223,15 @@
       "engineerName": "Santosh N, Dyumith NV",
       "weekStart": "2026-04-20",
       "projectName": "3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "task-1778569954270",
+          "taskName": "DAP Submission",
+          "targetDate": "2026-05-12",
+          "completionDate": "",
+          "status": "in_progress"
+        }
+      ],
       "currentStatus": "in_progress",
       "resourceLockedFrom": "2026-04-21",
       "resourceLockedTill": "2026-06-30",
@@ -307,5 +315,5 @@
       "constraint": "DAP Preparation in progress"
     }
   ],
-  "lastUpdated": "2026-05-12T06:18:39.845Z"
+  "lastUpdated": "2026-05-12T07:12:34.270Z"
 }
