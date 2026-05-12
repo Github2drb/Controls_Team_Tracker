@@ -230,6 +230,13 @@
           "targetDate": "2026-05-12",
           "completionDate": "",
           "status": "in_progress"
+        },
+        {
+          "id": "task-1778569980406",
+          "taskName": "Programmable Linear Power Supply Identification",
+          "targetDate": "2026-05-14",
+          "completionDate": "",
+          "status": "in_progress"
         }
       ],
       "currentStatus": "in_progress",
@@ -315,5 +322,5 @@
       "constraint": "DAP Preparation in progress"
     }
   ],
-  "lastUpdated": "2026-05-12T07:12:34.270Z"
+  "lastUpdated": "2026-05-12T07:13:00.406Z"
 }
