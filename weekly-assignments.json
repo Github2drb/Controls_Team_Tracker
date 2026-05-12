@@ -255,7 +255,15 @@
       "resourceLockedTill": "2026-07-31",
       "internalTarget": "2026-06-17",
       "customerTarget": "2026-06-26",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "task-1778570294002",
+          "taskName": "Latest PLC and HMI Backup",
+          "targetDate": "2026-05-16",
+          "completionDate": "",
+          "status": "not_started"
+        }
+      ],
       "currentStatus": "in_progress",
       "constraint": "DAP Handed over. \nElectrical Procurement,E-Plan Duplication of earlier project and modification in pending"
     },
@@ -322,5 +330,5 @@
       "constraint": "DAP Preparation in progress"
     }
   ],
-  "lastUpdated": "2026-05-12T07:13:00.406Z"
+  "lastUpdated": "2026-05-12T07:18:14.002Z"
 }
