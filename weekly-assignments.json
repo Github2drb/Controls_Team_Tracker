@@ -61,7 +61,7 @@
       ],
       "currentStatus": "in_progress",
       "notes": "",
-      "constraint": "Mechanical,Electrical Assembly in Progress",
+      "constraint": "Mechanical,Electrical Assembly in Progress.\nOffline PLC Program in Progress",
       "resourceLockedFrom": "2026-03-30",
       "resourceLockedTill": "2026-06-30",
       "internalTarget": "2026-05-20",
@@ -330,5 +330,5 @@
       "constraint": "DAP Preparation in progress"
     }
   ],
-  "lastUpdated": "2026-05-12T07:22:14.314Z"
+  "lastUpdated": "2026-05-12T07:22:50.392Z"
 }
