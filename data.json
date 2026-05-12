@@ -97,7 +97,7 @@
       "assignedDays": 35,
       "remainingDays": 62,
       "status": "In Progress",
-      "notes": "Handed over to anand"
+      "notes": "Electrical Drawing Completed"
     },
      {
       "id": 1764523893501,
@@ -121,7 +121,7 @@
       "assignedDays": 35,
       "remainingDays": 62,
       "status": "In Progress",
-      "notes": "Hardware Verification for Procurement"
+      "notes": "Electrical Drawing in Progress"
     },
     {
       "id": 1764523867743,
@@ -133,7 +133,7 @@
       "assignedDays": 63,
       "remainingDays": 61,
       "status": "In Progress",
-      "notes": "Hardware IO Configuration and EDS Loading"
+      "notes": "Offline PLC Programming in Progress"
     },
     {
       "id": 1764523867744,
@@ -144,8 +144,8 @@
       "totalDays": 124,
       "assignedDays": 63,
       "remainingDays": 61,
-      "status": "In Progress",
-      "notes": ""
+      "status": "Completed",
+      "notes": "Single Compressor in Shuttle Pending"
     },
     {
       "id": 1764523867745,
@@ -157,7 +157,7 @@
       "assignedDays": 63,
       "remainingDays": 61,
       "status": "In Progress",
-      "notes": ""
+      "notes": "Final Assy.Inward and Outward Pending,Shuttle with single"
     },
      {
       "id": 1764523867746,
