@@ -304,7 +304,15 @@
       "resourceLockedTill": "2026-08-30",
       "internalTarget": "2026-06-15",
       "customerTarget": "2026-06-28",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "task-1778655624157",
+          "taskName": "DAP Preparation",
+          "targetDate": "2026-05-15",
+          "completionDate": "",
+          "status": "not_started"
+        }
+      ],
       "currentStatus": "in_progress",
       "constraint": "Project study in progress"
     },
@@ -330,5 +338,5 @@
       "constraint": "DAP Preparation in progress"
     }
   ],
-  "lastUpdated": "2026-05-12T07:22:50.392Z"
+  "lastUpdated": "2026-05-13T07:00:24.157Z"
 }
