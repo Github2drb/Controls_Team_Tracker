@@ -281,7 +281,7 @@
           "id": "task-1777908575880",
           "taskName": "List out Hardwares Required",
           "targetDate": "2026-05-18",
-          "completionDate": "",
+          "completionDate": "2026-05-12",
           "status": "in_progress"
         },
         {
@@ -338,5 +338,5 @@
       "constraint": "DAP Preparation in progress"
     }
   ],
-  "lastUpdated": "2026-05-13T07:00:24.157Z"
+  "lastUpdated": "2026-05-13T07:00:35.721Z"
 }
