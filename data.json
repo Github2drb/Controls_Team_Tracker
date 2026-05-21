@@ -1,6 +1,5 @@
 {
-  "data": [
-    
+  "assignments": [
     {
       "id": 1760688227942,
       "projectName": "3A-SS1-26012-Sartorius- Glass bead blasting automation",
@@ -10,19 +9,19 @@
       "totalDays": 99,
       "assignedDays": 78,
       "remainingDays": 21,
-      "status": "In progress",
+      "status": "In Progress",
       "notes": "Mitsubishi PLC has been finalised"
     },
-     {
+    {
       "id": 1760688227943,
       "projectName": "3A-SS1-26012-Sartorius- Glass bead blasting automation",
-      "engineerName": Santhosh N",
+      "engineerName": "Santhosh N",
       "startDate": "2026-03-20",
       "endDate": "2026-06-30",
       "totalDays": 99,
       "assignedDays": 78,
       "remainingDays": 21,
-      "status": "In progress",
+      "status": "In Progress",
       "notes": "BOM Generation to be started"
     },
     {
@@ -37,7 +36,6 @@
       "status": "In Progress",
       "notes": "Chennai Installation Pending"
     },
-    
     {
       "id": 1765779020858,
       "projectName": "3A-S02-25054_Surface Hinge Assembly",
@@ -62,7 +60,6 @@
       "status": "In Progress",
       "notes": "Safety PLC Wiring Drawing in Pending"
     },
-    
     {
       "id": 1764549694129,
       "projectName": "3A2409 - GLASS TAPING AND O-CELL PICK & PLACE STATION (PA23 Phase -2)",
@@ -90,7 +87,7 @@
     {
       "id": 1764523893341,
       "projectName": "DK1-25110- ODU Assembly auto line",
-      "engineerName": Santhosh N",
+      "engineerName": "Santhosh N",
       "startDate": "2025-10-27",
       "endDate": "2026-04-30",
       "totalDays": 97,
@@ -99,7 +96,7 @@
       "status": "In Progress",
       "notes": "Electrical Drawing Completed"
     },
-     {
+    {
       "id": 1764523893501,
       "projectName": "3A-GB1-26007_GE_Pressure Tester",
       "engineerName": "Eswanth Potnuri",
@@ -114,7 +111,7 @@
     {
       "id": 1764523893502,
       "projectName": "3A-GB1-26007_GE_Pressure Tester",
-      "engineerName": Santhosh N",
+      "engineerName": "Santhosh N",
       "startDate": "2026-04-01",
       "endDate": "2026-06-30",
       "totalDays": 97,
@@ -159,10 +156,10 @@
       "status": "In Progress",
       "notes": "Final Assy.Inward and Outward Pending,Shuttle with single"
     },
-     {
+    {
       "id": 1764523867746,
       "projectName": "3A-VA1-26035-Varroc-Stator Housing Shrink Fitting",
-      "engineerName": Santhosh N",
+      "engineerName": "Santhosh N",
       "startDate": "2026-04-02",
       "endDate": "2026-06-30",
       "totalDays": 124,
@@ -174,7 +171,7 @@
     {
       "id": 1764523867747,
       "projectName": "3A-DK2-25142_STEP 4 - Dehydration",
-      "engineerName": Santhosh N",
+      "engineerName": "Santhosh N",
       "startDate": "2026-04-02",
       "endDate": "2026-07-30",
       "totalDays": 124,
@@ -198,7 +195,7 @@
     {
       "id": 1764523867749,
       "projectName": "3A-DK2-25143_STEP 4-Leak Testing Machine",
-      "engineerName": Santhosh N",
+      "engineerName": "Santhosh N",
       "startDate": "2026-04-02",
       "endDate": "2026-07-30",
       "totalDays": 124,
@@ -231,8 +228,6 @@
       "status": "In Progress",
       "notes": "Bowl Feeder Prove Pending"
     },
-    
-    
     {
       "id": 1760692345342,
       "projectName": "3A-GB1-25024-Coil soldering ",
@@ -302,7 +297,7 @@
       "totalDays": 99,
       "assignedDays": 78,
       "remainingDays": 21,
-      "status": "In progress",
+      "status": "In Progress",
       "notes": "Stationwise HMI Development"
     },
     {
@@ -314,13 +309,13 @@
       "totalDays": 99,
       "assignedDays": 78,
       "remainingDays": 21,
-      "status": "In progress",
+      "status": "In Progress",
       "notes": "Hardware Configuration"
     },
     {
       "id": 1766126593869,
       "projectName": "IMTEX-2026",
-      "engineerName": Santhosh N",
+      "engineerName": "Santhosh N",
       "startDate": "2025-12-02",
       "endDate": "2026-01-26",
       "totalDays": 56,
@@ -344,7 +339,7 @@
     {
       "id": 1764646075482,
       "projectName": " A-GB1-25062_GE_Cold plate assembly station",
-      "engineerName": Santhosh N",
+      "engineerName": "Santhosh N",
       "startDate": "2025-11-04",
       "endDate": "2025-12-20",
       "totalDays": 47,
