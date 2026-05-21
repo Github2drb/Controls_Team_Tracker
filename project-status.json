@@ -7,9 +7,6 @@
         "2024-12-05": "Not Started"
       }
     },
-    
-    
-    
     {
       "engineerName": "Santhosh N",
       "projectName": " GE_Cold plate assembly station A-GB1-25062",
@@ -17,7 +14,6 @@
         "2024-12-05": "Comepleted"
       }
     },
-    
     {
       "engineerName": "Veeresh",
       "projectName": "D8 Assembly line (3A-S01-25103)",
@@ -46,7 +42,6 @@
         "2026-04-05": "In Progress"
       }
     },
-    
     {
       "engineerName": "Praveen Kumar C",
       "projectName": "3A2409 - GLASS TAPING AND O-CELL PICK & PLACE STATION (PA23 Phase -2)",
@@ -82,9 +77,6 @@
         "2024-12-05": "In Progress"
       }
     },
-   
-    
-   
     {
       "engineerName": "Susanth K M",
       "projectName": "3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo",
@@ -99,10 +91,6 @@
         "2026-03-05": "In Progress"
       }
     },
-    
-   
-    
-   
     {
       "engineerName": "Dyumith NV",
       "projectName": "3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo",
@@ -110,17 +98,13 @@
         "2024-12-05": "Completed"
       }
     },
-    
     {
       "engineerName": "Susanth K M",
       "projectName": "3A-SO1-25025_Bailer_Assembly",
       "statuses": {
         "2024-12-05": "Completed"
       }
-    },
-    
-    
-    
+    }
   ],
   "lastUpdated": "2025-12-05T15:23:21.117Z"
 }
