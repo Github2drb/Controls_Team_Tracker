@@ -109,7 +109,7 @@
           "taskName": "PLC and HMI Availablity Followup",
           "targetDate": "2026-04-03",
           "completionDate": "2026-04-23",
-          "status": "completed"
+          "status": "Completed"
         }
       ],
       "currentStatus": "in_progress",
@@ -132,7 +132,7 @@
           "taskName": "Schedule Check for Controls",
           "targetDate": "2026-04-03",
           "completionDate": "2026-04-15",
-          "status": "completed"
+          "status": "Completed"
         }
       ],
       "currentStatus": "in_progress",
@@ -155,7 +155,7 @@
           "taskName": "Data Log in HMI",
           "targetDate": "2026-04-04",
           "completionDate": "2026-04-07",
-          "status": "completed"
+          "status": "Completed"
         },
         {
           "id": "task-1775042989954",
@@ -169,7 +169,7 @@
           "taskName": "Auto Pop up Cylinder down in Weighing station after checking weight",
           "targetDate": "2026-04-02",
           "completionDate": "2026-04-02",
-          "status": "completed"
+          "status": "Completed"
         }
       ],
       "currentStatus": "in_progress",
@@ -282,7 +282,7 @@
           "taskName": "List out Hardwares Required",
           "targetDate": "2026-05-18",
           "completionDate": "2026-05-12",
-          "status": "completed"
+          "status": "Completed"
         },
         {
           "id": "task-1777908597861",
