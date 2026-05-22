@@ -2036,6 +2036,72 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Santosh N",
+      "date": "2026-04-20",
+      "targetTasks": [
+        {
+          "id": "wa-1779437989330-h2j9",
+          "text": "[3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station] Preliminary Customer Meeting Completed\nDAP expected on 13-05-26"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santosh N",
+      "date": "2026-04-21",
+      "targetTasks": [
+        {
+          "id": "wa-1779437989330-ab48",
+          "text": "[3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station] Preliminary Customer Meeting Completed\nDAP expected on 13-05-26"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santosh N",
+      "date": "2026-04-22",
+      "targetTasks": [
+        {
+          "id": "wa-1779437989330-c7kn",
+          "text": "[3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station] Preliminary Customer Meeting Completed\nDAP expected on 13-05-26"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santosh N",
+      "date": "2026-04-23",
+      "targetTasks": [
+        {
+          "id": "wa-1779437989331-jkpe",
+          "text": "[3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station] Preliminary Customer Meeting Completed\nDAP expected on 13-05-26"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santosh N",
+      "date": "2026-04-24",
+      "targetTasks": [
+        {
+          "id": "wa-1779437989331-r5m1",
+          "text": "[3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station] Preliminary Customer Meeting Completed\nDAP expected on 13-05-26"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santosh N",
+      "date": "2026-04-25",
+      "targetTasks": [
+        {
+          "id": "wa-1779437989331-zsul",
+          "text": "[3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station] Preliminary Customer Meeting Completed\nDAP expected on 13-05-26"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
