@@ -2192,6 +2192,72 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Santhosh N",
+      "date": "2026-04-06",
+      "targetTasks": [
+        {
+          "id": "wa-1779454986019-irw1",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Hardware Configuration"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santhosh N",
+      "date": "2026-04-07",
+      "targetTasks": [
+        {
+          "id": "wa-1779454986019-ccv4",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Hardware Configuration"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santhosh N",
+      "date": "2026-04-08",
+      "targetTasks": [
+        {
+          "id": "wa-1779454986019-tvrh",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Hardware Configuration"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santhosh N",
+      "date": "2026-04-09",
+      "targetTasks": [
+        {
+          "id": "wa-1779454986019-nvyk",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Hardware Configuration"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santhosh N",
+      "date": "2026-04-10",
+      "targetTasks": [
+        {
+          "id": "wa-1779454986019-dg52",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Hardware Configuration"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santhosh N",
+      "date": "2026-04-11",
+      "targetTasks": [
+        {
+          "id": "wa-1779454986019-40u3",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Hardware Configuration"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
