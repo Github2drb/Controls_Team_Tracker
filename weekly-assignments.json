@@ -205,14 +205,14 @@
     },
     {
       "id": "wa-1776664930168",
-      "engineerName": "Susanth K M",
+      "engineerName": "Susanth K M, Veeresh M",
       "weekStart": "2026-04-20",
       "projectName": "3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo",
       "projectTargetDate": "2026-04-21",
       "tasks": [],
       "currentStatus": "in_progress",
       "notes": "Washer Gantry Pick and Place and All gantry Initialization",
-      "constraint": "DESIGN MODIFICATION IN PROGRESS\nNew Servo Logic Inclusion for washer gantry and logic change in spring gantry",
+      "constraint": "DESIGN MODIFICATION IN PROGRESS\nNew Servo Logic Inclusion for washer gantry and logic change in spring and washer gantry",
       "resourceLockedFrom": "2025-11-01",
       "resourceLockedTill": "2026-04-30",
       "internalTarget": "2026-04-29",
@@ -338,5 +338,5 @@
       "constraint": "DAP Preparation in progress"
     }
   ],
-  "lastUpdated": "2026-05-22T13:03:04.932Z"
+  "lastUpdated": "2026-05-22T13:03:38.305Z"
 }
