@@ -2,7 +2,7 @@
   "assignments": [
     {
       "id": "Praveen Kumar C-2026-03-30-1775039159943",
-      "engineerName": "Praveen Kumar C, Veeresh, Sumanjali",
+      "engineerName": "Praveen Kumar C, Veeresh, Sumanjali, Dyumith NV",
       "weekStart": "2026-03-30",
       "projectName": "3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine",
       "projectTargetDate": "2026-05-31",
@@ -338,5 +338,5 @@
       "constraint": "DAP Preparation in progress"
     }
   ],
-  "lastUpdated": "2026-05-22T08:19:48.463Z"
+  "lastUpdated": "2026-05-22T13:01:59.057Z"
 }
