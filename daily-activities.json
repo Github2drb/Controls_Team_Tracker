@@ -214,6 +214,10 @@
         {
           "id": "wa-1777361634490-f6pe",
           "text": "[3A-DK2-25143_STEP 4-Leak Testing Machine] Material Procurement in progress"
+        },
+        {
+          "id": "wa-1779454920549-8a55",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] E-Plan,PLC and HMI Program in progress\nLCMR Configuration in progress"
         }
       ],
       "completedActivities": []
@@ -1281,6 +1285,10 @@
         {
           "id": "wa-1777361634490-b3pq",
           "text": "[3A-DK2-25143_STEP 4-Leak Testing Machine] Material Procurement in progress"
+        },
+        {
+          "id": "wa-1779454920548-y7t1",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] E-Plan,PLC and HMI Program in progress\nLCMR Configuration in progress"
         }
       ],
       "completedActivities": []
@@ -1292,6 +1300,10 @@
         {
           "id": "wa-1777361634490-itlf",
           "text": "[3A-DK2-25143_STEP 4-Leak Testing Machine] Material Procurement in progress"
+        },
+        {
+          "id": "wa-1779454920549-3f9v",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] E-Plan,PLC and HMI Program in progress\nLCMR Configuration in progress"
         }
       ],
       "completedActivities": []
@@ -1303,6 +1315,10 @@
         {
           "id": "wa-1777361634490-dr9t",
           "text": "[3A-DK2-25143_STEP 4-Leak Testing Machine] Material Procurement in progress"
+        },
+        {
+          "id": "wa-1779454920549-5oju",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] E-Plan,PLC and HMI Program in progress\nLCMR Configuration in progress"
         }
       ],
       "completedActivities": []
@@ -1314,6 +1330,10 @@
         {
           "id": "wa-1777361634490-r15v",
           "text": "[3A-DK2-25143_STEP 4-Leak Testing Machine] Material Procurement in progress"
+        },
+        {
+          "id": "wa-1779454920549-x07p",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] E-Plan,PLC and HMI Program in progress\nLCMR Configuration in progress"
         }
       ],
       "completedActivities": []
@@ -1325,6 +1345,10 @@
         {
           "id": "wa-1777361634490-cuny",
           "text": "[3A-DK2-25143_STEP 4-Leak Testing Machine] Material Procurement in progress"
+        },
+        {
+          "id": "wa-1779454920549-y32d",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] E-Plan,PLC and HMI Program in progress\nLCMR Configuration in progress"
         }
       ],
       "completedActivities": []
@@ -2099,6 +2123,72 @@
         {
           "id": "wa-1779437989331-zsul",
           "text": "[3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station] Preliminary Customer Meeting Completed\nDAP expected on 13-05-26"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Veeresh",
+      "date": "2026-03-30",
+      "targetTasks": [
+        {
+          "id": "wa-1779454920548-qj9d",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] E-Plan,PLC and HMI Program in progress\nLCMR Configuration in progress"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Veeresh",
+      "date": "2026-03-31",
+      "targetTasks": [
+        {
+          "id": "wa-1779454920548-mjnc",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] E-Plan,PLC and HMI Program in progress\nLCMR Configuration in progress"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Veeresh",
+      "date": "2026-04-01",
+      "targetTasks": [
+        {
+          "id": "wa-1779454920548-bp2q",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] E-Plan,PLC and HMI Program in progress\nLCMR Configuration in progress"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Veeresh",
+      "date": "2026-04-02",
+      "targetTasks": [
+        {
+          "id": "wa-1779454920548-dlxi",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] E-Plan,PLC and HMI Program in progress\nLCMR Configuration in progress"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Veeresh",
+      "date": "2026-04-03",
+      "targetTasks": [
+        {
+          "id": "wa-1779454920548-igog",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] E-Plan,PLC and HMI Program in progress\nLCMR Configuration in progress"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Veeresh",
+      "date": "2026-04-04",
+      "targetTasks": [
+        {
+          "id": "wa-1779454920548-04qo",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] E-Plan,PLC and HMI Program in progress\nLCMR Configuration in progress"
         }
       ],
       "completedActivities": []
