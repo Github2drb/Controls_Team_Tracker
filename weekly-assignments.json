@@ -342,11 +342,15 @@
       "engineerName": "Ramkumar Annamalai, Veeresh M",
       "weekStart": "2026-05-22",
       "projectName": "3A-S02-25054_Surface Hinge Assembly",
+      "resourceLockedFrom": "2025-12-09",
+      "resourceLockedTill": "2026-07-31",
+      "internalTarget": "2026-05-29",
+      "customerTarget": "2026-06-05",
       "tasks": [],
       "currentStatus": "in_progress",
       "notes": "Hardware Integration in Progress",
-      "constraint": ""
+      "constraint": "Trial in progress.\nSafety and Interlock validation pending"
     }
   ],
-  "lastUpdated": "2026-05-22T13:03:53.744Z"
+  "lastUpdated": "2026-05-22T13:04:46.578Z"
 }
