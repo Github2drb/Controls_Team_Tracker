@@ -1,0 +1,23 @@
+{
+  "customer_sites": [
+    {
+      "id": "site-1",
+      "name": "GE",
+      "full_name": "GE (General Electric)",
+      "location": ""
+    },
+    {
+      "id": "site-2",
+      "name": "Varroc",
+      "full_name": "Varroc Engineering",
+      "location": ""
+    },
+    {
+      "id": "site-3",
+      "name": "Daikin",
+      "full_name": "Daikin Industries",
+      "location": ""
+    }
+  ],
+  "lastUpdated": "2026-05-23T00:00:00.000Z"
+}

@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Controls Team Tracker — DRB Techverse</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:       #f4f5f7;
+      --surface:  #ffffff;
+      --border:   #e2e4e9;
+      --border2:  #c8ccd6;
+      --txt1:     #12141a;
+      --txt2:     #5a5f72;
+      --txt3:     #9da3b4;
+      --radius:   10px;
+      --radius-lg:14px;
+
+      --office-bg:#e1f5ee; --office-tx:#0f6e56; --office-bd:#9fe1cb;
+      --sv-bg:    #e6f1fb; --sv-tx:    #185fa5; --sv-bd:    #b5d4f4;
+      --cl-bg:    #faeeda; --cl-tx:    #ba7517; --cl-bd:    #fac775;
+      --coff-bg:  #faece7; --coff-tx:  #993c1d; --coff-bd:  #f5c4b3;
+      --el-bg:    #fcebeb; --el-tx:    #a32d2d; --el-bd:    #f7c1c1;
+      --fh-bg:    #eeedfe; --fh-tx:    #534ab7; --fh-bd:    #cecbf6;
+      --wp-bg:    #eaf3de; --wp-tx:    #3b6d11; --wp-bd:    #c0dd97;
+    }
+
+    body {
+      font-family: 'DM Sans', sans-serif;
+      background: var(--bg);
+      color: var(--txt1);
+      min-height: 100vh;
+      padding: 24px 16px 48px;
+    }
+
+    .page { max-width: 780px; margin: 0 auto; }
+
+    /* ── Header ── */
+    .page-header {
+      display: flex; align-items: flex-start; justify-content: space-between;
+      flex-wrap: wrap; gap: 12px; margin-bottom: 20px;
+    }
+    .page-title { font-size: 22px; font-weight: 600; color: var(--txt1); }
+    .page-sub   { font-size: 13px; color: var(--txt2); margin-top: 2px; }
+
+    /* ── Date nav ── */
+    .date-bar {
+      display: flex; align-items: center; gap: 8px; flex-wrap: wrap;
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: var(--radius-lg); padding: 10px 14px; margin-bottom: 16px;
+    }
+    .date-bar button {
+      background: var(--bg); border: 1px solid var(--border);
+      border-radius: var(--radius); padding: 6px 11px;
+      cursor: pointer; font-size: 14px; color: var(--txt1); font-family: inherit;
+      transition: border-color .15s;
+    }
+    .date-bar button:hover { border-color: var(--border2); }
+    .date-bar button:disabled { opacity: .35; cursor: default; }
+    #date-input {
+      font-family: inherit; font-size: 13px;
+      border: 1px solid var(--border); border-radius: var(--radius);
+      padding: 6px 11px; background: var(--bg); color: var(--txt1); cursor: pointer;
+    }
+    .day-pill {
+      font-size: 12px; font-weight: 500; padding: 5px 12px;
+      border-radius: 999px; background: var(--bg); border: 1px solid var(--border);
+      color: var(--txt2);
+    }
+    .day-pill.is-today { background: var(--sv-bg); color: var(--sv-tx); border-color: var(--sv-bd); }
+    .past-pill {
+      font-size: 12px; font-weight: 500; padding: 5px 12px; border-radius: 999px;
+      background: var(--cl-bg); color: var(--cl-tx); border: 1px solid var(--cl-bd);
+    }
+
+    /* ── Summary strip ── */
+    .summary { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 14px; }
+    .chip {
+      font-size: 12px; font-weight: 500; padding: 5px 12px;
+      border-radius: 999px; border: 1px solid transparent;
+    }
+    .ch-total { background: var(--bg); color: var(--txt2); border-color: var(--border); }
+    .ch-office{ background: var(--office-bg); color: var(--office-tx); border-color: var(--office-bd); }
+    .ch-sv    { background: var(--sv-bg);     color: var(--sv-tx);     border-color: var(--sv-bd);    }
+    .ch-cl    { background: var(--cl-bg);     color: var(--cl-tx);     border-color: var(--cl-bd);    }
+    .ch-coff  { background: var(--coff-bg);   color: var(--coff-tx);   border-color: var(--coff-bd);  }
+    .ch-el    { background: var(--el-bg);     color: var(--el-tx);     border-color: var(--el-bd);    }
+    .ch-fh    { background: var(--fh-bg);     color: var(--fh-tx);     border-color: var(--fh-bd);    }
+    .ch-wp    { background: var(--wp-bg);     color: var(--wp-tx);     border-color: var(--wp-bd);    }
+
+    /* ── Engineer list ── */
+    .eng-list { display: flex; flex-direction: column; gap: 8px; }
+    .eng-row {
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: var(--radius-lg); padding: 12px 16px;
+      transition: border-color .15s, box-shadow .15s;
+    }
+    .eng-row:hover { border-color: var(--border2); box-shadow: 0 2px 8px rgba(0,0,0,.04); }
+    .eng-top { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+    .avatar {
+      width: 38px; height: 38px; border-radius: 50%;
+      background: var(--bg); border: 1px solid var(--border);
+      display: flex; align-items: center; justify-content: center;
+      font-size: 12px; font-weight: 600; color: var(--txt2);
+      flex-shrink: 0; letter-spacing: .02em;
+    }
+    .eng-name { font-size: 14px; font-weight: 500; flex: 1; min-width: 100px; }
+    .ctrls { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+
+    select {
+      font-family: inherit; font-size: 13px;
+      border: 1px solid var(--border); border-radius: var(--radius);
+      background: var(--bg); color: var(--txt2);
+      padding: 7px 11px; cursor: pointer; outline: none;
+      transition: border-color .15s;
+    }
+    select:hover, select:focus { border-color: var(--border2); }
+    select.sel-sv { background: var(--sv-bg); color: var(--sv-tx); border-color: var(--sv-bd); }
+
+    .site-tag {
+      display: inline-flex; align-items: center; gap: 4px;
+      font-size: 12px; font-weight: 500; padding: 5px 11px;
+      border-radius: 999px; background: var(--sv-bg); color: var(--sv-tx);
+      border: 1px solid var(--sv-bd);
+    }
+    .status-badge {
+      font-size: 12px; font-weight: 500; padding: 5px 12px;
+      border-radius: 999px; border: 1px solid transparent;
+    }
+
+    .rmk-row {
+      margin-top: 10px; padding-top: 10px;
+      border-top: 1px solid var(--border);
+    }
+    textarea {
+      width: 100%; font-family: inherit; font-size: 13px;
+      border: 1px solid var(--border); border-radius: var(--radius);
+      background: var(--bg); color: var(--txt1);
+      padding: 8px 11px; resize: none; outline: none; line-height: 1.5;
+      transition: border-color .15s;
+    }
+    textarea:focus { border-color: var(--border2); }
+    textarea::placeholder { color: var(--txt3); }
+    .ro-remark { font-size: 13px; color: var(--txt2); font-style: italic; padding: 2px 0; }
+
+    /* ── Save / action bar ── */
+    .action-bar {
+      display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin-top: 18px;
+    }
+    .btn {
+      font-family: inherit; font-size: 14px; font-weight: 500;
+      border: 1px solid var(--border); border-radius: var(--radius);
+      background: var(--surface); color: var(--txt1);
+      padding: 8px 18px; cursor: pointer; transition: background .15s, border-color .15s;
+      display: inline-flex; align-items: center; gap: 6px;
+    }
+    .btn:hover { background: var(--bg); border-color: var(--border2); }
+    .btn.primary {
+      background: var(--txt1); color: #fff; border-color: var(--txt1);
+    }
+    .btn.primary:hover { background: #2c2f3a; }
+    .save-status { font-size: 13px; color: var(--txt2); }
+
+    /* ── Section label ── */
+    .sec-lbl {
+      font-size: 11px; font-weight: 600; letter-spacing: .06em;
+      text-transform: uppercase; color: var(--txt3); margin-bottom: 8px;
+    }
+
+    /* ── Toast ── */
+    #toast {
+      position: fixed; bottom: 24px; right: 24px;
+      background: var(--txt1); color: #fff;
+      font-size: 13px; padding: 10px 18px; border-radius: var(--radius);
+      opacity: 0; transform: translateY(6px);
+      transition: opacity .25s, transform .25s; pointer-events: none;
+    }
+    #toast.show { opacity: 1; transform: translateY(0); }
+
+    @media (max-width: 520px) {
+      .eng-top { gap: 8px; }
+      select { font-size: 12px; padding: 6px 9px; }
+    }
+  </style>
+</head>
+<body>
+<div class="page">
+
+  <!-- Header -->
+  <div class="page-header">
+    <div>
+      <h1 class="page-title">Controls Team Tracker</h1>
+      <p class="page-sub" id="site-sub">DRB Techverse — Attendance & Field Status</p>
+    </div>
+    <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap">
+      <span id="past-pill" class="past-pill" style="display:none">📋 Past date — read only</span>
+    </div>
+  </div>
+
+  <!-- Date nav -->
+  <div class="date-bar">
+    <button onclick="shiftDate(-1)">&#8249;</button>
+    <input type="date" id="date-input" onchange="changeDate(this.value)" />
+    <button onclick="shiftDate(1)" id="next-btn">&#8250;</button>
+    <span class="day-pill" id="day-pill"></span>
+    <button onclick="goToday()" style="font-size:12px">Today</button>
+  </div>
+
+  <!-- Summary -->
+  <div class="summary" id="summary"></div>
+
+  <!-- Engineer list -->
+  <p class="sec-lbl">Engineer roster</p>
+  <div class="eng-list" id="eng-list">
+    <p style="color:var(--txt3);font-size:14px;padding:1rem 0">Loading…</p>
+  </div>
+
+  <!-- Action bar -->
+  <div class="action-bar" id="action-bar">
+    <button class="btn primary" id="save-btn" onclick="saveAttendance()">💾 Save attendance</button>
+    <button class="btn" onclick="exportCSV()">⬇ Export CSV</button>
+    <span class="save-status" id="save-status"></span>
+  </div>
+
+</div>
+<div id="toast"></div>
+
+<script>
+// ── Data ──────────────────────────────────────────────────────────────────────
+const ENGINEERS_URL = "https://raw.githubusercontent.com/Github2drb/Controls_Team_Tracker/main/engineers_master_list.json";
+const SITES_URL     = "customer_sites_master_list.json"; // served from same directory
+
+const FALLBACK_ENGINEERS = [
+  {id:"eng-3", name:"Praveen Kumar C",    initials:"PKC"},
+  {id:"eng-5", name:"Santhosh N",         initials:"SN"},
+  {id:"eng-6", name:"Dyumith NV",         initials:"DN"},
+  {id:"eng-7", name:"Susanth K M",        initials:"SKM"},
+  {id:"eng-10",name:"Dhanesh M",          initials:"DM"},
+  {id:"eng-11",name:"Harsha",             initials:"H"},
+  {id:"eng-12",name:"Veeresh M",          initials:"VM"},
+  {id:"eng-13",name:"Keerthi BH",         initials:"KB"},
+  {id:"eng-14",name:"Deekshitha HC",      initials:"DH"},
+  {id:"eng-15",name:"Anand",              initials:"A"},
+  {id:"eng-16",name:"Ramkumar Annamalai", initials:"RA"},
+  {id:"eng-17",name:"Eswanth Potnuri",    initials:"EP"},
+  {id:"eng-18",name:"Rahul (Ampere)",     initials:"RA"},
+  {id:"eng-19",name:"Harsha (Ampere)",    initials:"HA"},
+  {id:"eng-20",name:"Ullaz (PAES)",       initials:"U"},
+  {id:"eng-21",name:"Vishnu (PAES)",      initials:"V"},
+  {id:"eng-22",name:"Sarath (PAES)",      initials:"S"},
+  {id:"eng-23",name:"Mallikarjun (D.I.C.S)",initials:"M"},
+  {id:"eng-24",name:"Kiran (D.I.C.S)",   initials:"K"}
+];
+
+const FALLBACK_SITES = ["GE","Varroc","Daikin"];
+
+const STATUSES = [
+  {key:"Office",   cls:"ch-office"},
+  {key:"Site Visit",cls:"ch-sv"},
+  {key:"CL",       cls:"ch-cl"},
+  {key:"C/Off",    cls:"ch-coff"},
+  {key:"EL",       cls:"ch-el"},
+  {key:"FH",       cls:"ch-fh"},
+  {key:"WP+",      cls:"ch-wp"}
+];
+const SCLS = Object.fromEntries(STATUSES.map(s => [s.key, s.cls]));
+
+let engineers = [];
+let sites     = [];
+let attendance = {};
+let viewDate   = todayStr();
+const realToday = todayStr();
+
+// ── Helpers ───────────────────────────────────────────────────────────────────
+function todayStr() { return new Date().toISOString().split("T")[0]; }
+function isToday()  { return viewDate === realToday; }
+function storeKey(d){ return "ctt_att_" + d; }
+
+function fmtDate(d) {
+  return new Date(d + "T00:00:00").toLocaleDateString("en-IN",
+    {weekday:"short", day:"numeric", month:"short", year:"numeric"});
+}
+
+function toast(msg) {
+  const el = document.getElementById("toast");
+  el.textContent = msg;
+  el.classList.add("show");
+  setTimeout(() => el.classList.remove("show"), 2200);
+}
+
+// ── Storage (localStorage — works on real server) ─────────────────────────────
+function loadStored(d) {
+  attendance = {};
+  try {
+    const raw = localStorage.getItem(storeKey(d));
+    if (raw) attendance = JSON.parse(raw);
+  } catch {}
+}
+
+function saveAttendance() {
+  if (!isToday()) return;
+  try {
+    localStorage.setItem(storeKey(viewDate), JSON.stringify(attendance));
+    toast("✓ Attendance saved");
+    document.getElementById("save-status").textContent =
+      "Last saved " + new Date().toLocaleTimeString("en-IN", {hour:"2-digit",minute:"2-digit"});
+  } catch(e) { toast("Save failed: " + e.message); }
+}
+
+// ── Fetch data ────────────────────────────────────────────────────────────────
+async function fetchEngineers() {
+  try {
+    const res = await fetch(ENGINEERS_URL);
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    const raw = await res.json();
+    if (Array.isArray(raw))       return raw.map(e => typeof e === "string" ? {name:e, initials:e.slice(0,2).toUpperCase()} : e);
+    if (raw.engineers)            return raw.engineers;
+    return Object.values(raw).flat();
+  } catch {
+    return FALLBACK_ENGINEERS;
+  }
+}
+
+async function fetchSites() {
+  try {
+    const res = await fetch(SITES_URL);
+    if (!res.ok) throw new Error();
+    const raw = await res.json();
+    if (Array.isArray(raw))       return raw.map(s => typeof s === "string" ? s : s.name);
+    if (raw.customer_sites)       return raw.customer_sites.map(s => s.name);
+    return FALLBACK_SITES;
+  } catch {
+    return FALLBACK_SITES;
+  }
+}
+
+// ── Interactions ──────────────────────────────────────────────────────────────
+function setStatus(id, val) {
+  if (!isToday()) return;
+  if (!attendance[id]) attendance[id] = {};
+  attendance[id].status = val;
+  if (val !== "Site Visit") delete attendance[id].site;
+  renderRow(id);
+  renderSummary();
+}
+
+function setSite(id, val) {
+  if (!isToday()) return;
+  if (!attendance[id]) attendance[id] = {};
+  attendance[id].site = val;
+  renderRow(id);
+}
+
+function setRemark(id, val) {
+  if (!isToday()) return;
+  if (!attendance[id]) attendance[id] = {};
+  attendance[id].remark = val;
+}
+
+// ── Render ────────────────────────────────────────────────────────────────────
+function renderSummary() {
+  const cnt = {};
+  Object.values(attendance).forEach(a => { if (a.status) cnt[a.status] = (cnt[a.status]||0)+1; });
+  const marked = Object.values(cnt).reduce((s,n)=>s+n, 0);
+  document.getElementById("summary").innerHTML =
+    `<span class="chip ch-total">${marked} / ${engineers.length} marked</span>` +
+    STATUSES.filter(s => cnt[s.key]).map(s =>
+      `<span class="chip ${s.cls}">${s.key}: ${cnt[s.key]}</span>`
+    ).join("");
+}
+
+function renderRow(id) {
+  const row = document.getElementById("r-" + id);
+  if (!row) return;
+  const a   = attendance[id] || {};
+  const isSV = a.status === "Site Visit";
+  const ro   = !isToday();
+
+  const sOpts = `<option value="">— set status —</option>` +
+    STATUSES.map(s => `<option value="${s.key}"${a.status===s.key?" selected":""}>${s.key}</option>`).join("");
+  const siOpts = `<option value="">— select site —</option>` +
+    sites.map(s => `<option value="${s}"${a.site===s?" selected":""}>${s}</option>`).join("");
+  const siteTag = (isSV && a.site)
+    ? `<span class="site-tag">📍 ${a.site}</span>` : "";
+
+  let ctrlHtml;
+  if (ro) {
+    ctrlHtml = a.status
+      ? `<span class="status-badge ${SCLS[a.status]||''}">${a.status}</span>${siteTag}`
+      : `<span style="font-size:13px;color:var(--txt3)">No record</span>`;
+  } else {
+    ctrlHtml =
+      `<select onchange="setStatus('${id}', this.value)">${sOpts}</select>` +
+      (isSV ? `<select class="sel-sv" onchange="setSite('${id}', this.value)">${siOpts}</select>` : "") +
+      siteTag;
+  }
+
+  let rmkHtml = "";
+  if (ro) {
+    if (a.remark) rmkHtml =
+      `<div class="rmk-row"><p class="ro-remark">💬 ${a.remark}</p></div>`;
+  } else {
+    rmkHtml =
+      `<div class="rmk-row"><textarea rows="1" placeholder="Add remarks…"
+        oninput="setRemark('${id}', this.value)">${a.remark||""}</textarea></div>`;
+  }
+
+  row.querySelector(".ctrls").innerHTML   = ctrlHtml;
+  row.querySelector(".rmk-area").innerHTML = rmkHtml;
+}
+
+function renderList() {
+  document.getElementById("eng-list").innerHTML = engineers.map(e => `
+    <div class="eng-row" id="r-${e.id || e.name}">
+      <div class="eng-top">
+        <div class="avatar">${e.initials || e.name.slice(0,2).toUpperCase()}</div>
+        <span class="eng-name">${e.name}</span>
+        <div class="ctrls"></div>
+      </div>
+      <div class="rmk-area"></div>
+    </div>`).join("");
+  engineers.forEach(e => renderRow(e.id || e.name));
+}
+
+// ── Date navigation ───────────────────────────────────────────────────────────
+function updateDateUI() {
+  const di = document.getElementById("date-input");
+  di.value = viewDate;
+  di.max   = realToday;
+  const pill = document.getElementById("day-pill");
+  pill.textContent  = isToday() ? "Today" : fmtDate(viewDate);
+  pill.className    = "day-pill" + (isToday() ? " is-today" : "");
+  document.getElementById("next-btn").disabled     = isToday();
+  document.getElementById("past-pill").style.display = isToday() ? "none" : "inline-flex";
+  document.getElementById("save-btn").style.display  = isToday() ? "inline-flex" : "none";
+  document.getElementById("save-status").textContent = "";
+}
+
+async function changeDate(d) {
+  if (!d || d > realToday) return;
+  viewDate = d;
+  updateDateUI();
+  loadStored(viewDate);
+  engineers.forEach(e => renderRow(e.id || e.name));
+  renderSummary();
+}
+
+function shiftDate(n) {
+  const d = new Date(viewDate + "T00:00:00");
+  d.setDate(d.getDate() + n);
+  const s = d.toISOString().split("T")[0];
+  if (s <= realToday) changeDate(s);
+}
+
+function goToday() { changeDate(realToday); }
+
+// ── Export CSV ────────────────────────────────────────────────────────────────
+function exportCSV() {
+  const rows = [["Name","Status","Site","Remarks","Date"]];
+  engineers.forEach(e => {
+    const id = e.id || e.name;
+    const a  = attendance[id] || {};
+    rows.push([e.name, a.status||"", a.site||"", a.remark||"", viewDate]);
+  });
+  const csv = rows.map(r => r.map(v => `"${v}"`).join(",")).join("\n");
+  const a   = document.createElement("a");
+  a.href    = "data:text/csv;charset=utf-8," + encodeURIComponent(csv);
+  a.download= `attendance_${viewDate}.csv`;
+  a.click();
+}
+
+// ── Init ──────────────────────────────────────────────────────────────────────
+async function init() {
+  updateDateUI();
+  loadStored(viewDate);
+  [engineers, sites] = await Promise.all([fetchEngineers(), fetchSites()]);
+  renderList();
+  renderSummary();
+}
+
+init();
+</script>
+</body>
+</html>
