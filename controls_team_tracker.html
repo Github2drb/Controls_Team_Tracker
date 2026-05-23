@@ -79,18 +79,15 @@
 
     /* ── Summary strip ── */
     .summary { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 14px; }
-    .chip {
-      font-size: 12px; font-weight: 500; padding: 5px 12px;
-      border-radius: 999px; border: 1px solid transparent;
-    }
-    .ch-total { background: var(--bg); color: var(--txt2); border-color: var(--border); }
-    .ch-office{ background: var(--office-bg); color: var(--office-tx); border-color: var(--office-bd); }
-    .ch-sv    { background: var(--sv-bg);     color: var(--sv-tx);     border-color: var(--sv-bd);    }
-    .ch-cl    { background: var(--cl-bg);     color: var(--cl-tx);     border-color: var(--cl-bd);    }
-    .ch-coff  { background: var(--coff-bg);   color: var(--coff-tx);   border-color: var(--coff-bd);  }
-    .ch-el    { background: var(--el-bg);     color: var(--el-tx);     border-color: var(--el-bd);    }
-    .ch-fh    { background: var(--fh-bg);     color: var(--fh-tx);     border-color: var(--fh-bd);    }
-    .ch-wp    { background: var(--wp-bg);     color: var(--wp-tx);     border-color: var(--wp-bd);    }
+    .chip { font-size: 12px; font-weight: 500; padding: 5px 12px; border-radius: 999px; border: 1px solid transparent; }
+    .ch-total  { background: var(--bg);        color: var(--txt2);      border-color: var(--border);    }
+    .ch-office { background: var(--office-bg); color: var(--office-tx); border-color: var(--office-bd); }
+    .ch-sv     { background: var(--sv-bg);     color: var(--sv-tx);     border-color: var(--sv-bd);     }
+    .ch-cl     { background: var(--cl-bg);     color: var(--cl-tx);     border-color: var(--cl-bd);     }
+    .ch-coff   { background: var(--coff-bg);   color: var(--coff-tx);   border-color: var(--coff-bd);   }
+    .ch-el     { background: var(--el-bg);     color: var(--el-tx);     border-color: var(--el-bd);     }
+    .ch-fh     { background: var(--fh-bg);     color: var(--fh-tx);     border-color: var(--fh-bd);     }
+    .ch-wp     { background: var(--wp-bg);     color: var(--wp-tx);     border-color: var(--wp-bd);     }
 
     /* ── Engineer list ── */
     .eng-list { display: flex; flex-direction: column; gap: 8px; }
@@ -131,11 +128,7 @@
       font-size: 12px; font-weight: 500; padding: 5px 12px;
       border-radius: 999px; border: 1px solid transparent;
     }
-
-    .rmk-row {
-      margin-top: 10px; padding-top: 10px;
-      border-top: 1px solid var(--border);
-    }
+    .rmk-row { margin-top: 10px; padding-top: 10px; border-top: 1px solid var(--border); }
     textarea {
       width: 100%; font-family: inherit; font-size: 13px;
       border: 1px solid var(--border); border-radius: var(--radius);
@@ -147,10 +140,8 @@
     textarea::placeholder { color: var(--txt3); }
     .ro-remark { font-size: 13px; color: var(--txt2); font-style: italic; padding: 2px 0; }
 
-    /* ── Save / action bar ── */
-    .action-bar {
-      display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin-top: 18px;
-    }
+    /* ── Buttons ── */
+    .action-bar { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin-top: 18px; }
     .btn {
       font-family: inherit; font-size: 14px; font-weight: 500;
       border: 1px solid var(--border); border-radius: var(--radius);
@@ -159,11 +150,25 @@
       display: inline-flex; align-items: center; gap: 6px;
     }
     .btn:hover { background: var(--bg); border-color: var(--border2); }
-    .btn.primary {
-      background: var(--txt1); color: #fff; border-color: var(--txt1);
-    }
+    .btn.primary { background: var(--txt1); color: #fff; border-color: var(--txt1); }
     .btn.primary:hover { background: #2c2f3a; }
+    .btn.danger  { background: #fcebeb; color: #a32d2d; border-color: #f7c1c1; }
+    .btn.danger:hover  { background: #f7c1c1; }
     .save-status { font-size: 13px; color: var(--txt2); }
+
+    /* ── Admin badge ── */
+    .admin-badge {
+      display: inline-flex; align-items: center; gap: 6px;
+      font-size: 12px; font-weight: 600; padding: 5px 12px;
+      border-radius: 999px; background: #12141a; color: #fff;
+      border: 1px solid #12141a; letter-spacing: .02em;
+    }
+    .view-badge {
+      display: inline-flex; align-items: center; gap: 6px;
+      font-size: 12px; font-weight: 500; padding: 5px 12px;
+      border-radius: 999px; background: var(--bg); color: var(--txt2);
+      border: 1px solid var(--border);
+    }
 
     /* ── Section label ── */
     .sec-lbl {
@@ -177,9 +182,48 @@
       background: var(--txt1); color: #fff;
       font-size: 13px; padding: 10px 18px; border-radius: var(--radius);
       opacity: 0; transform: translateY(6px);
-      transition: opacity .25s, transform .25s; pointer-events: none;
+      transition: opacity .25s, transform .25s; pointer-events: none; z-index: 999;
     }
     #toast.show { opacity: 1; transform: translateY(0); }
+
+    /* ── Admin Modal overlay ── */
+    .modal-overlay {
+      position: fixed; inset: 0; z-index: 200;
+      background: rgba(18,20,26,.55); backdrop-filter: blur(3px);
+      display: flex; align-items: center; justify-content: center;
+      opacity: 0; pointer-events: none; transition: opacity .2s;
+    }
+    .modal-overlay.open { opacity: 1; pointer-events: all; }
+    .modal-box {
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: var(--radius-lg); padding: 28px 28px 24px;
+      width: 100%; max-width: 360px; box-shadow: 0 8px 32px rgba(0,0,0,.12);
+      transform: translateY(10px); transition: transform .2s;
+    }
+    .modal-overlay.open .modal-box { transform: translateY(0); }
+    .modal-title {
+      font-size: 16px; font-weight: 600; margin-bottom: 6px;
+      display: flex; align-items: center; gap: 8px;
+    }
+    .modal-sub { font-size: 13px; color: var(--txt2); margin-bottom: 18px; }
+    .modal-input {
+      width: 100%; font-family: inherit; font-size: 14px;
+      border: 1px solid var(--border); border-radius: var(--radius);
+      padding: 10px 13px; outline: none; background: var(--bg); color: var(--txt1);
+      margin-bottom: 6px; transition: border-color .15s;
+    }
+    .modal-input:focus { border-color: var(--border2); }
+    .modal-input.error { border-color: #f7c1c1; background: #fff8f8; }
+    .modal-err { font-size: 12px; color: #a32d2d; margin-bottom: 14px; min-height: 18px; }
+    .modal-actions { display: flex; gap: 8px; justify-content: flex-end; }
+
+    /* ── Readonly overlay hint ── */
+    .ro-banner {
+      background: var(--cl-bg); border: 1px solid var(--cl-bd);
+      color: var(--cl-tx); font-size: 13px; font-weight: 500;
+      border-radius: var(--radius); padding: 10px 14px; margin-bottom: 14px;
+      display: flex; align-items: center; gap: 8px;
+    }
 
     @media (max-width: 520px) {
       .eng-top { gap: 8px; }
@@ -194,11 +238,18 @@
   <div class="page-header">
     <div>
       <h1 class="page-title">Controls Team Tracker</h1>
-      <p class="page-sub" id="site-sub">DRB Techverse — Attendance & Field Status</p>
+      <p class="page-sub">DRB Techverse — Attendance &amp; Field Status</p>
     </div>
     <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap">
-      <span id="past-pill" class="past-pill" style="display:none">📋 Past date — read only</span>
+      <span id="past-pill" class="past-pill" style="display:none">📋 Past date</span>
+      <span id="admin-badge" class="view-badge">🔒 View only</span>
+      <button class="btn" id="admin-toggle-btn" onclick="openAdminModal()">Admin Mode</button>
     </div>
+  </div>
+
+  <!-- Readonly banner -->
+  <div class="ro-banner" id="ro-banner" style="display:none">
+    🔒 View-only mode — log in as Admin to edit today's attendance.
   </div>
 
   <!-- Date nav -->
@@ -219,72 +270,96 @@
     <p style="color:var(--txt3);font-size:14px;padding:1rem 0">Loading…</p>
   </div>
 
-  <!-- Action bar -->
-  <div class="action-bar" id="action-bar">
+  <!-- Action bar (admin only) -->
+  <div class="action-bar" id="action-bar" style="display:none">
     <button class="btn primary" id="save-btn" onclick="saveAttendance()">💾 Save attendance</button>
     <button class="btn" onclick="exportCSV()">⬇ Export CSV</button>
     <span class="save-status" id="save-status"></span>
   </div>
 
+  <!-- Export for non-admins -->
+  <div class="action-bar" id="export-bar">
+    <button class="btn" onclick="exportCSV()">⬇ Export CSV</button>
+  </div>
+
 </div>
+
+<!-- Admin Login Modal -->
+<div class="modal-overlay" id="admin-modal" onkeydown="modalKeyDown(event)">
+  <div class="modal-box">
+    <p class="modal-title">🔐 Admin Login</p>
+    <p class="modal-sub">Enter the admin password to enable editing.</p>
+    <input class="modal-input" type="password" id="pw-input"
+      placeholder="Enter admin password"
+      oninput="clearPwError()" />
+    <p class="modal-err" id="pw-error"></p>
+    <div class="modal-actions">
+      <button class="btn" onclick="closeAdminModal()">Cancel</button>
+      <button class="btn primary" onclick="submitPassword()">Unlock</button>
+    </div>
+  </div>
+</div>
+
 <div id="toast"></div>
 
 <script>
-// ── Data ──────────────────────────────────────────────────────────────────────
-const ENGINEERS_URL = "https://raw.githubusercontent.com/Github2drb/Controls_Team_Tracker/main/engineers_master_list.json";
-const SITES_URL     = "customer_sites_master_list.json"; // served from same directory
+// ── Config ────────────────────────────────────────────────────────────────────
+const ADMIN_PASSWORD   = "admin@drb";
+const ENGINEERS_URL    = "https://raw.githubusercontent.com/Github2drb/Controls_Team_Tracker/main/engineers_master_list.json";
+const SITES_URL        = "customer_sites_master_list.json";
 
 const FALLBACK_ENGINEERS = [
-  {id:"eng-3", name:"Praveen Kumar C",    initials:"PKC"},
-  {id:"eng-5", name:"Santhosh N",         initials:"SN"},
-  {id:"eng-6", name:"Dyumith NV",         initials:"DN"},
-  {id:"eng-7", name:"Susanth K M",        initials:"SKM"},
-  {id:"eng-10",name:"Dhanesh M",          initials:"DM"},
-  {id:"eng-11",name:"Harsha",             initials:"H"},
-  {id:"eng-12",name:"Veeresh M",          initials:"VM"},
-  {id:"eng-13",name:"Keerthi BH",         initials:"KB"},
-  {id:"eng-14",name:"Deekshitha HC",      initials:"DH"},
-  {id:"eng-15",name:"Anand",              initials:"A"},
-  {id:"eng-16",name:"Ramkumar Annamalai", initials:"RA"},
-  {id:"eng-17",name:"Eswanth Potnuri",    initials:"EP"},
-  {id:"eng-18",name:"Rahul (Ampere)",     initials:"RA"},
-  {id:"eng-19",name:"Harsha (Ampere)",    initials:"HA"},
-  {id:"eng-20",name:"Ullaz (PAES)",       initials:"U"},
-  {id:"eng-21",name:"Vishnu (PAES)",      initials:"V"},
-  {id:"eng-22",name:"Sarath (PAES)",      initials:"S"},
-  {id:"eng-23",name:"Mallikarjun (D.I.C.S)",initials:"M"},
-  {id:"eng-24",name:"Kiran (D.I.C.S)",   initials:"K"}
+  {id:"eng-3", name:"Praveen Kumar C",       initials:"PKC"},
+  {id:"eng-5", name:"Santhosh N",            initials:"SN"},
+  {id:"eng-6", name:"Dyumith NV",            initials:"DN"},
+  {id:"eng-7", name:"Susanth K M",           initials:"SKM"},
+  {id:"eng-10",name:"Dhanesh M",             initials:"DM"},
+  {id:"eng-11",name:"Harsha",                initials:"H"},
+  {id:"eng-12",name:"Veeresh M",             initials:"VM"},
+  {id:"eng-13",name:"Keerthi BH",            initials:"KB"},
+  {id:"eng-14",name:"Deekshitha HC",         initials:"DH"},
+  {id:"eng-15",name:"Anand",                 initials:"A"},
+  {id:"eng-16",name:"Ramkumar Annamalai",    initials:"RA"},
+  {id:"eng-17",name:"Eswanth Potnuri",       initials:"EP"},
+  {id:"eng-18",name:"Rahul (Ampere)",        initials:"RA"},
+  {id:"eng-19",name:"Harsha (Ampere)",       initials:"HA"},
+  {id:"eng-20",name:"Ullaz (PAES)",          initials:"U"},
+  {id:"eng-21",name:"Vishnu (PAES)",         initials:"V"},
+  {id:"eng-22",name:"Sarath (PAES)",         initials:"S"},
+  {id:"eng-23",name:"Mallikarjun (D.I.C.S)", initials:"M"},
+  {id:"eng-24",name:"Kiran (D.I.C.S)",       initials:"K"}
 ];
-
 const FALLBACK_SITES = ["GE","Varroc","Daikin"];
 
 const STATUSES = [
-  {key:"Office",   cls:"ch-office"},
+  {key:"Office",    cls:"ch-office"},
   {key:"Site Visit",cls:"ch-sv"},
-  {key:"CL",       cls:"ch-cl"},
-  {key:"C/Off",    cls:"ch-coff"},
-  {key:"EL",       cls:"ch-el"},
-  {key:"FH",       cls:"ch-fh"},
-  {key:"WP+",      cls:"ch-wp"}
+  {key:"CL",        cls:"ch-cl"},
+  {key:"C/Off",     cls:"ch-coff"},
+  {key:"EL",        cls:"ch-el"},
+  {key:"FH",        cls:"ch-fh"},
+  {key:"WP+",       cls:"ch-wp"}
 ];
 const SCLS = Object.fromEntries(STATUSES.map(s => [s.key, s.cls]));
 
-let engineers = [];
-let sites     = [];
+// ── State ─────────────────────────────────────────────────────────────────────
+let engineers  = [];
+let sites      = [];
 let attendance = {};
+let adminMode  = false;          // unlocked this session?
 let viewDate   = todayStr();
 const realToday = todayStr();
 
 // ── Helpers ───────────────────────────────────────────────────────────────────
 function todayStr() { return new Date().toISOString().split("T")[0]; }
 function isToday()  { return viewDate === realToday; }
+function canEdit()  { return adminMode && isToday(); }
 function storeKey(d){ return "ctt_att_" + d; }
 
 function fmtDate(d) {
   return new Date(d + "T00:00:00").toLocaleDateString("en-IN",
     {weekday:"short", day:"numeric", month:"short", year:"numeric"});
 }
-
 function toast(msg) {
   const el = document.getElementById("toast");
   el.textContent = msg;
@@ -292,7 +367,76 @@ function toast(msg) {
   setTimeout(() => el.classList.remove("show"), 2200);
 }
 
-// ── Storage (localStorage — works on real server) ─────────────────────────────
+// ── Admin modal ───────────────────────────────────────────────────────────────
+function openAdminModal() {
+  if (adminMode) { lockAdmin(); return; }
+  const m = document.getElementById("admin-modal");
+  m.classList.add("open");
+  setTimeout(() => document.getElementById("pw-input").focus(), 100);
+}
+function closeAdminModal() {
+  document.getElementById("admin-modal").classList.remove("open");
+  document.getElementById("pw-input").value = "";
+  clearPwError();
+}
+function clearPwError() {
+  document.getElementById("pw-error").textContent = "";
+  document.getElementById("pw-input").classList.remove("error");
+}
+function modalKeyDown(e) {
+  if (e.key === "Enter")  submitPassword();
+  if (e.key === "Escape") closeAdminModal();
+}
+function submitPassword() {
+  const val = document.getElementById("pw-input").value;
+  if (val === ADMIN_PASSWORD) {
+    adminMode = true;
+    sessionStorage.setItem("ctt_admin", "1");
+    closeAdminModal();
+    applyAdminUI();
+    toast("✓ Admin mode unlocked");
+  } else {
+    document.getElementById("pw-error").textContent = "Incorrect password. Try again.";
+    document.getElementById("pw-input").classList.add("error");
+    document.getElementById("pw-input").select();
+  }
+}
+function lockAdmin() {
+  adminMode = false;
+  sessionStorage.removeItem("ctt_admin");
+  applyAdminUI();
+  engineers.forEach(e => renderRow(e.id || e.name));
+  toast("🔒 Admin mode locked");
+}
+function applyAdminUI() {
+  const badge  = document.getElementById("admin-badge");
+  const btn    = document.getElementById("admin-toggle-btn");
+  const actBar = document.getElementById("action-bar");
+  const expBar = document.getElementById("export-bar");
+  const roBanner = document.getElementById("ro-banner");
+
+  if (adminMode) {
+    badge.className   = "admin-badge";
+    badge.textContent = "🔓 Admin Mode";
+    btn.textContent   = "Lock";
+    btn.className     = "btn danger";
+    actBar.style.display = "flex";
+    expBar.style.display = "none";
+    roBanner.style.display = "none";
+  } else {
+    badge.className   = "view-badge";
+    badge.textContent = "🔒 View only";
+    btn.textContent   = "Admin Mode";
+    btn.className     = "btn";
+    actBar.style.display = "none";
+    expBar.style.display = "flex";
+    roBanner.style.display = isToday() ? "flex" : "none";
+  }
+  // Re-render rows to show/hide dropdowns
+  if (engineers.length) engineers.forEach(e => renderRow(e.id || e.name));
+}
+
+// ── Storage ───────────────────────────────────────────────────────────────────
 function loadStored(d) {
   attendance = {};
   try {
@@ -300,63 +444,54 @@ function loadStored(d) {
     if (raw) attendance = JSON.parse(raw);
   } catch {}
 }
-
 function saveAttendance() {
-  if (!isToday()) return;
+  if (!canEdit()) return;
   try {
     localStorage.setItem(storeKey(viewDate), JSON.stringify(attendance));
     toast("✓ Attendance saved");
     document.getElementById("save-status").textContent =
-      "Last saved " + new Date().toLocaleTimeString("en-IN", {hour:"2-digit",minute:"2-digit"});
+      "Saved at " + new Date().toLocaleTimeString("en-IN", {hour:"2-digit", minute:"2-digit"});
   } catch(e) { toast("Save failed: " + e.message); }
 }
 
-// ── Fetch data ────────────────────────────────────────────────────────────────
+// ── Fetch ─────────────────────────────────────────────────────────────────────
 async function fetchEngineers() {
   try {
     const res = await fetch(ENGINEERS_URL);
-    if (!res.ok) throw new Error("HTTP " + res.status);
+    if (!res.ok) throw new Error();
     const raw = await res.json();
-    if (Array.isArray(raw))       return raw.map(e => typeof e === "string" ? {name:e, initials:e.slice(0,2).toUpperCase()} : e);
-    if (raw.engineers)            return raw.engineers;
+    if (Array.isArray(raw))  return raw.map(e => typeof e==="string" ? {name:e,initials:e.slice(0,2).toUpperCase()} : e);
+    if (raw.engineers)       return raw.engineers;
     return Object.values(raw).flat();
-  } catch {
-    return FALLBACK_ENGINEERS;
-  }
+  } catch { return FALLBACK_ENGINEERS; }
 }
-
 async function fetchSites() {
   try {
     const res = await fetch(SITES_URL);
     if (!res.ok) throw new Error();
     const raw = await res.json();
-    if (Array.isArray(raw))       return raw.map(s => typeof s === "string" ? s : s.name);
-    if (raw.customer_sites)       return raw.customer_sites.map(s => s.name);
+    if (Array.isArray(raw))        return raw.map(s => typeof s==="string" ? s : s.name);
+    if (raw.customer_sites)        return raw.customer_sites.map(s => s.name);
     return FALLBACK_SITES;
-  } catch {
-    return FALLBACK_SITES;
-  }
+  } catch { return FALLBACK_SITES; }
 }
 
-// ── Interactions ──────────────────────────────────────────────────────────────
+// ── Interactions (admin only) ─────────────────────────────────────────────────
 function setStatus(id, val) {
-  if (!isToday()) return;
+  if (!canEdit()) return;
   if (!attendance[id]) attendance[id] = {};
   attendance[id].status = val;
   if (val !== "Site Visit") delete attendance[id].site;
-  renderRow(id);
-  renderSummary();
+  renderRow(id); renderSummary();
 }
-
 function setSite(id, val) {
-  if (!isToday()) return;
+  if (!canEdit()) return;
   if (!attendance[id]) attendance[id] = {};
   attendance[id].site = val;
   renderRow(id);
 }
-
 function setRemark(id, val) {
-  if (!isToday()) return;
+  if (!canEdit()) return;
   if (!attendance[id]) attendance[id] = {};
   attendance[id].remark = val;
 }
@@ -365,7 +500,7 @@ function setRemark(id, val) {
 function renderSummary() {
   const cnt = {};
   Object.values(attendance).forEach(a => { if (a.status) cnt[a.status] = (cnt[a.status]||0)+1; });
-  const marked = Object.values(cnt).reduce((s,n)=>s+n, 0);
+  const marked = Object.values(cnt).reduce((s,n) => s+n, 0);
   document.getElementById("summary").innerHTML =
     `<span class="chip ch-total">${marked} / ${engineers.length} marked</span>` +
     STATUSES.filter(s => cnt[s.key]).map(s =>
@@ -378,9 +513,10 @@ function renderRow(id) {
   if (!row) return;
   const a   = attendance[id] || {};
   const isSV = a.status === "Site Visit";
-  const ro   = !isToday();
+  // editable only when admin + viewing today
+  const editable = canEdit();
 
-  const sOpts = `<option value="">— set status —</option>` +
+  const sOpts  = `<option value="">— set status —</option>` +
     STATUSES.map(s => `<option value="${s.key}"${a.status===s.key?" selected":""}>${s.key}</option>`).join("");
   const siOpts = `<option value="">— select site —</option>` +
     sites.map(s => `<option value="${s}"${a.site===s?" selected":""}>${s}</option>`).join("");
@@ -388,28 +524,26 @@ function renderRow(id) {
     ? `<span class="site-tag">📍 ${a.site}</span>` : "";
 
   let ctrlHtml;
-  if (ro) {
-    ctrlHtml = a.status
-      ? `<span class="status-badge ${SCLS[a.status]||''}">${a.status}</span>${siteTag}`
-      : `<span style="font-size:13px;color:var(--txt3)">No record</span>`;
-  } else {
+  if (editable) {
     ctrlHtml =
       `<select onchange="setStatus('${id}', this.value)">${sOpts}</select>` +
       (isSV ? `<select class="sel-sv" onchange="setSite('${id}', this.value)">${siOpts}</select>` : "") +
       siteTag;
+  } else {
+    ctrlHtml = a.status
+      ? `<span class="status-badge chip ${SCLS[a.status]||''}">${a.status}</span>${siteTag}`
+      : `<span style="font-size:13px;color:var(--txt3)">—</span>`;
   }
 
   let rmkHtml = "";
-  if (ro) {
-    if (a.remark) rmkHtml =
-      `<div class="rmk-row"><p class="ro-remark">💬 ${a.remark}</p></div>`;
-  } else {
-    rmkHtml =
-      `<div class="rmk-row"><textarea rows="1" placeholder="Add remarks…"
-        oninput="setRemark('${id}', this.value)">${a.remark||""}</textarea></div>`;
+  if (editable) {
+    rmkHtml = `<div class="rmk-row"><textarea rows="1" placeholder="Add remarks…"
+      oninput="setRemark('${id}', this.value)">${a.remark||""}</textarea></div>`;
+  } else if (a.remark) {
+    rmkHtml = `<div class="rmk-row"><p class="ro-remark">💬 ${a.remark}</p></div>`;
   }
 
-  row.querySelector(".ctrls").innerHTML   = ctrlHtml;
+  row.querySelector(".ctrls").innerHTML    = ctrlHtml;
   row.querySelector(".rmk-area").innerHTML = rmkHtml;
 }
 
@@ -429,33 +563,32 @@ function renderList() {
 // ── Date navigation ───────────────────────────────────────────────────────────
 function updateDateUI() {
   const di = document.getElementById("date-input");
-  di.value = viewDate;
-  di.max   = realToday;
+  di.value = viewDate; di.max = realToday;
   const pill = document.getElementById("day-pill");
-  pill.textContent  = isToday() ? "Today" : fmtDate(viewDate);
-  pill.className    = "day-pill" + (isToday() ? " is-today" : "");
-  document.getElementById("next-btn").disabled     = isToday();
+  pill.textContent = isToday() ? "Today" : fmtDate(viewDate);
+  pill.className   = "day-pill" + (isToday() ? " is-today" : "");
+  document.getElementById("next-btn").disabled       = isToday();
   document.getElementById("past-pill").style.display = isToday() ? "none" : "inline-flex";
-  document.getElementById("save-btn").style.display  = isToday() ? "inline-flex" : "none";
+  // save btn visibility depends on admin+today
+  document.getElementById("save-btn").style.display  = canEdit() ? "inline-flex" : "none";
   document.getElementById("save-status").textContent = "";
+  // ro banner: show if today + not admin
+  document.getElementById("ro-banner").style.display = (!adminMode && isToday()) ? "flex" : "none";
 }
 
 async function changeDate(d) {
   if (!d || d > realToday) return;
-  viewDate = d;
-  updateDateUI();
+  viewDate = d; updateDateUI();
   loadStored(viewDate);
   engineers.forEach(e => renderRow(e.id || e.name));
   renderSummary();
 }
-
 function shiftDate(n) {
   const d = new Date(viewDate + "T00:00:00");
   d.setDate(d.getDate() + n);
   const s = d.toISOString().split("T")[0];
   if (s <= realToday) changeDate(s);
 }
-
 function goToday() { changeDate(realToday); }
 
 // ── Export CSV ────────────────────────────────────────────────────────────────
@@ -475,8 +608,11 @@ function exportCSV() {
 
 // ── Init ──────────────────────────────────────────────────────────────────────
 async function init() {
+  // Restore admin session if still active
+  if (sessionStorage.getItem("ctt_admin") === "1") adminMode = true;
   updateDateUI();
   loadStored(viewDate);
+  applyAdminUI();
   [engineers, sites] = await Promise.all([fetchEngineers(), fetchSites()]);
   renderList();
   renderSummary();
