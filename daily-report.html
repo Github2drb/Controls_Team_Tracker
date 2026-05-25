@@ -427,9 +427,18 @@ function openPicker(eid, ds, evt){
   const popup=document.getElementById("pickerPopup");
   popup.classList.remove("hidden");
   const rect=evt.target.getBoundingClientRect();
-  let top=rect.bottom+window.scrollY+4;
-  let left=rect.left+window.scrollX;
-  if(left+220>window.innerWidth) left=window.innerWidth-228;
+  const popupH=popup.offsetHeight||160;
+  const popupW=popup.offsetWidth||220;
+
+  // Prefer above the cell; fall back to below if not enough space
+  let top = rect.top+window.scrollY - popupH - 6;
+  if(top < window.scrollY+8) top = rect.bottom+window.scrollY+6;
+
+  // Align to left of cell; shift left if it overflows right edge
+  let left = rect.left+window.scrollX;
+  if(left+popupW > window.innerWidth-8) left = window.innerWidth - popupW - 8;
+  if(left < 8) left = 8;
+
   popup.style.top=top+"px";
   popup.style.left=left+"px";
   evt.stopPropagation();
