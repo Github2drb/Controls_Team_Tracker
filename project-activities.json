@@ -38,7 +38,7 @@
     },
     {
       "projectName": "DK1-25110- ODU Assembly auto line",
-      "currentStatus": "Mechanical Assembly Stage",
+      "currentStatus": "Electrical Assembly Stage",
       "activities": {
         "2026-01-05": "@santhosh. n3A-DK1-25110 ODU I/O list preparation and DAP review with customer.",
         "2026-01-12": "@santhosh.n  3A-DK1-25110 ODU DAP document preparation and ",
