@@ -417,7 +417,21 @@
       "customerTarget": "2026-06-26",
       "tasks": [],
       "currentStatus": "not_started"
+    },
+    {
+      "id": "wa-1779862941175",
+      "engineerName": "Dhanesh",
+      "weekStart": "2026-05-27",
+      "projectName": "3W-TK1-25135-TI Metal Robot Cell Integration",
+      "resourceLockedFrom": "2026-05-06",
+      "resourceLockedTill": "2026-07-31",
+      "internalTarget": "2026-07-14",
+      "customerTarget": "2026-07-25",
+      "tasks": [],
+      "currentStatus": "in_progress",
+      "notes": "Chennai Installation Pending",
+      "constraint": "Installation at customer site is pending"
     }
   ],
-  "lastUpdated": "2026-05-27T06:21:38.509Z"
+  "lastUpdated": "2026-05-27T06:22:21.175Z"
 }
