@@ -364,7 +364,18 @@
       "currentStatus": "in_progress",
       "notes": "DAP Completed",
       "constraint": "Material Procurement in Progress"
+    },
+    {
+      "id": "wa-1779856278272",
+      "engineerName": "Eswanth Potnuri",
+      "weekStart": "2026-05-25",
+      "projectName": "3A-SS1-26012-Sartorius- Glass bead blasting automation",
+      "projectTargetDate": "2026-05-27",
+      "tasks": [],
+      "currentStatus": "not_started",
+      "notes": "IO Addressing, Robot Handshaking Address Conclusion",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-05-27T04:21:41.525Z"
+  "lastUpdated": "2026-05-27T04:31:18.273Z"
 }
