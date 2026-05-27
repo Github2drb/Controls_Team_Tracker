@@ -366,17 +366,6 @@
       "constraint": "Material Procurement in Progress"
     },
     {
-      "id": "wa-1779856278272",
-      "engineerName": "Eswanth Potnuri",
-      "weekStart": "2026-05-25",
-      "projectName": "3A-SS1-26012-Sartorius- Glass bead blasting automation",
-      "projectTargetDate": "2026-05-27",
-      "tasks": [],
-      "currentStatus": "not_started",
-      "notes": "IO Addressing, Robot Handshaking Address Conclusion",
-      "constraint": ""
-    },
-    {
       "id": "wa-1779856345294",
       "engineerName": "Santhosh N",
       "weekStart": "2026-05-25",
@@ -426,5 +415,5 @@
       "currentStatus": "not_started"
     }
   ],
-  "lastUpdated": "2026-05-27T06:20:15.702Z"
+  "lastUpdated": "2026-05-27T06:20:44.466Z"
 }
