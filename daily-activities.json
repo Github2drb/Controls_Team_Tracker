@@ -2563,6 +2563,10 @@
         {
           "id": "wa-1779455141016-2tax",
           "text": "[3A-DK2-25142_STEP 4 - Dehydration] DAP Completed"
+        },
+        {
+          "id": "wa-1779856346092-3w4k",
+          "text": "[3A-IS1-26051 Final Line Filling Equipment Interlinking with Conveyor] Electrical Drawing Except PLC IO Address"
         }
       ],
       "completedActivities": []
@@ -2574,6 +2578,10 @@
         {
           "id": "wa-1779455141017-ftkj",
           "text": "[3A-DK2-25142_STEP 4 - Dehydration] DAP Completed"
+        },
+        {
+          "id": "wa-1779856346092-yheo",
+          "text": "[3A-IS1-26051 Final Line Filling Equipment Interlinking with Conveyor] Electrical Drawing Except PLC IO Address"
         }
       ],
       "completedActivities": []
@@ -2585,6 +2593,10 @@
         {
           "id": "wa-1779455141017-jwmd",
           "text": "[3A-DK2-25142_STEP 4 - Dehydration] DAP Completed"
+        },
+        {
+          "id": "wa-1779856346092-960d",
+          "text": "[3A-IS1-26051 Final Line Filling Equipment Interlinking with Conveyor] Electrical Drawing Except PLC IO Address"
         }
       ],
       "completedActivities": []
@@ -2873,6 +2885,39 @@
         {
           "id": "wa-1779856279093-uqj5",
           "text": "[3A-SS1-26012-Sartorius- Glass bead blasting automation] IO Addressing, Robot Handshaking Address Conclusion"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santhosh N",
+      "date": "2026-05-28",
+      "targetTasks": [
+        {
+          "id": "wa-1779856346093-efmo",
+          "text": "[3A-IS1-26051 Final Line Filling Equipment Interlinking with Conveyor] Electrical Drawing Except PLC IO Address"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santhosh N",
+      "date": "2026-05-29",
+      "targetTasks": [
+        {
+          "id": "wa-1779856346093-yppi",
+          "text": "[3A-IS1-26051 Final Line Filling Equipment Interlinking with Conveyor] Electrical Drawing Except PLC IO Address"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santhosh N",
+      "date": "2026-05-30",
+      "targetTasks": [
+        {
+          "id": "wa-1779856346093-4dlb",
+          "text": "[3A-IS1-26051 Final Line Filling Equipment Interlinking with Conveyor] Electrical Drawing Except PLC IO Address"
         }
       ],
       "completedActivities": []
