@@ -137,7 +137,7 @@
       ],
       "currentStatus": "in_progress",
       "notes": "",
-      "constraint": "Material Procurement in progress",
+      "constraint": "Material Procurement in progress\nElectrical Assembly in Progress",
       "resourceLockedFrom": "2026-03-17",
       "resourceLockedTill": "2026-06-30",
       "internalTarget": "2026-04-30",
@@ -366,5 +366,5 @@
       "constraint": "Material Procurement in Progress"
     }
   ],
-  "lastUpdated": "2026-05-27T04:20:22.015Z"
+  "lastUpdated": "2026-05-27T04:20:51.381Z"
 }
