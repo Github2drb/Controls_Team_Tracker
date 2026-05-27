@@ -393,11 +393,19 @@
       "weekStart": "2026-05-25",
       "projectName": "3A-DK1-25077-Dehydration Projec",
       "projectTargetDate": "2026-05-27",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "task-1779856636719",
+          "taskName": "BOM for JB Panel with Green and Red Indication at Weighing Station",
+          "targetDate": "2026-05-27",
+          "completionDate": "",
+          "status": "not_started"
+        }
+      ],
       "currentStatus": "not_started",
       "notes": "Hardware BOM",
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-05-27T04:36:33.955Z"
+  "lastUpdated": "2026-05-27T04:37:16.719Z"
 }
