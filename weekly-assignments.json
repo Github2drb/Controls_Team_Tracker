@@ -374,7 +374,11 @@
       "tasks": [],
       "currentStatus": "in_progress",
       "notes": "Electrical Drawing Except PLC IO Address",
-      "constraint": ""
+      "constraint": "",
+      "resourceLockedFrom": "2026-05-18",
+      "resourceLockedTill": "2026-06-29",
+      "internalTarget": "2026-06-19",
+      "customerTarget": "2026-06-30"
     },
     {
       "id": "wa-1779856593955",
@@ -415,5 +419,5 @@
       "currentStatus": "not_started"
     }
   ],
-  "lastUpdated": "2026-05-27T06:20:44.466Z"
+  "lastUpdated": "2026-05-27T06:21:20.214Z"
 }
