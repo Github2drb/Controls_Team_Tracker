@@ -412,7 +412,19 @@
       "currentStatus": "not_started",
       "notes": "Hardware BOM",
       "constraint": ""
+    },
+    {
+      "id": "wa-1779862815702",
+      "engineerName": "Santhosh N",
+      "weekStart": "2026-05-25",
+      "projectName": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO",
+      "resourceLockedFrom": "2026-05-26",
+      "resourceLockedTill": "2026-07-31",
+      "internalTarget": "2026-06-30",
+      "customerTarget": "2026-06-26",
+      "tasks": [],
+      "currentStatus": "not_started"
     }
   ],
-  "lastUpdated": "2026-05-27T04:37:42.239Z"
+  "lastUpdated": "2026-05-27T06:20:15.702Z"
 }
