@@ -383,10 +383,10 @@
       "projectName": "3A-IS1-26051 Final Line Filling Equipment Interlinking with Conveyor",
       "projectTargetDate": "2026-05-27",
       "tasks": [],
-      "currentStatus": "not_started",
+      "currentStatus": "in_progress",
       "notes": "Electrical Drawing Except PLC IO Address",
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-05-27T04:32:25.294Z"
+  "lastUpdated": "2026-05-27T04:33:20.610Z"
 }
