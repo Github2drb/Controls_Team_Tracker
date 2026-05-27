@@ -297,7 +297,7 @@
     },
     {
       "id": "wa-1778153306102",
-      "engineerName": "Santosh N, Sumanjali",
+      "engineerName": "Santosh N",
       "weekStart": "2026-05-04",
       "projectName": "3A-AV1-25120-Eddy Current Testing Equipment",
       "resourceLockedFrom": "2026-05-01",
@@ -314,7 +314,7 @@
         }
       ],
       "currentStatus": "in_progress",
-      "constraint": "DAP Submitted on 26-05-26."
+      "constraint": "DAP Submitted on 26-05-26.\nControl Panel need to be released. Programmer not assigned yet"
     },
     {
       "id": "wa-1778562866003",
@@ -427,5 +427,5 @@
       "constraint": "Stepper with Vision Logic need to be integrated in existing sequence"
     }
   ],
-  "lastUpdated": "2026-05-27T06:23:57.481Z"
+  "lastUpdated": "2026-05-27T06:24:35.549Z"
 }
