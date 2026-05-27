@@ -381,32 +381,6 @@
       "customerTarget": "2026-06-30"
     },
     {
-      "id": "wa-1779856593955",
-      "engineerName": "Santhosh N",
-      "weekStart": "2026-05-25",
-      "projectName": "3A-DK1-25077-Dehydration Projec",
-      "projectTargetDate": "2026-05-27",
-      "tasks": [
-        {
-          "id": "task-1779856636719",
-          "taskName": "BOM for JB Panel with Green and Red Indication at Weighing Station",
-          "targetDate": "2026-05-27",
-          "completionDate": "",
-          "status": "not_started"
-        },
-        {
-          "id": "task-1779856662239",
-          "taskName": "BOM for JB Panel at Scanner Station",
-          "targetDate": "2026-05-27",
-          "completionDate": "",
-          "status": "not_started"
-        }
-      ],
-      "currentStatus": "not_started",
-      "notes": "Hardware BOM",
-      "constraint": ""
-    },
-    {
       "id": "wa-1779862815702",
       "engineerName": "Santhosh N",
       "weekStart": "2026-05-25",
@@ -453,5 +427,5 @@
       "constraint": "Stepper with Vision Logic need to be integrated in existing sequence"
     }
   ],
-  "lastUpdated": "2026-05-27T06:23:17.943Z"
+  "lastUpdated": "2026-05-27T06:23:57.481Z"
 }
