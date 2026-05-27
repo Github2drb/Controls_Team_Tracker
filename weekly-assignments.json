@@ -201,7 +201,7 @@
       ],
       "currentStatus": "in_progress",
       "notes": "Hardware Configuration",
-      "constraint": "DAP Submission\nOffline PLC Program In progress"
+      "constraint": "DAP Submission\nOffline PLC Program In progress\nCustomer meeting on 26-05(They Shared Safety Documents)"
     },
     {
       "id": "wa-1776664930168",
@@ -366,5 +366,5 @@
       "constraint": "Material Procurement in Progress"
     }
   ],
-  "lastUpdated": "2026-05-27T04:21:05.060Z"
+  "lastUpdated": "2026-05-27T04:21:41.525Z"
 }
