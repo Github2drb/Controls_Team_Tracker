@@ -375,7 +375,18 @@
       "currentStatus": "not_started",
       "notes": "IO Addressing, Robot Handshaking Address Conclusion",
       "constraint": ""
+    },
+    {
+      "id": "wa-1779856345294",
+      "engineerName": "Santhosh N",
+      "weekStart": "2026-05-25",
+      "projectName": "3A-IS1-26051 Final Line Filling Equipment Interlinking with Conveyor",
+      "projectTargetDate": "2026-05-27",
+      "tasks": [],
+      "currentStatus": "not_started",
+      "notes": "Electrical Drawing Except PLC IO Address",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-05-27T04:31:18.273Z"
+  "lastUpdated": "2026-05-27T04:32:25.294Z"
 }
