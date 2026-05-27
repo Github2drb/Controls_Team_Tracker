@@ -2720,6 +2720,72 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Santosh N",
+      "date": "2026-03-30",
+      "targetTasks": [
+        {
+          "id": "wa-1779855622878-e0d6",
+          "text": "[3A-DK1-25077-Dehydration Project] Pallet Sensor,Handy HMI Integration Completed.\nSafety Dog Proximity installation Completed>\nSingle Compressor loading from Shuttle Station in progress"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santosh N",
+      "date": "2026-03-31",
+      "targetTasks": [
+        {
+          "id": "wa-1779855622878-ch52",
+          "text": "[3A-DK1-25077-Dehydration Project] Pallet Sensor,Handy HMI Integration Completed.\nSafety Dog Proximity installation Completed>\nSingle Compressor loading from Shuttle Station in progress"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santosh N",
+      "date": "2026-04-01",
+      "targetTasks": [
+        {
+          "id": "wa-1779855622878-xqpd",
+          "text": "[3A-DK1-25077-Dehydration Project] Pallet Sensor,Handy HMI Integration Completed.\nSafety Dog Proximity installation Completed>\nSingle Compressor loading from Shuttle Station in progress"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santosh N",
+      "date": "2026-04-02",
+      "targetTasks": [
+        {
+          "id": "wa-1779855622878-fhut",
+          "text": "[3A-DK1-25077-Dehydration Project] Pallet Sensor,Handy HMI Integration Completed.\nSafety Dog Proximity installation Completed>\nSingle Compressor loading from Shuttle Station in progress"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santosh N",
+      "date": "2026-04-03",
+      "targetTasks": [
+        {
+          "id": "wa-1779855622878-pbxa",
+          "text": "[3A-DK1-25077-Dehydration Project] Pallet Sensor,Handy HMI Integration Completed.\nSafety Dog Proximity installation Completed>\nSingle Compressor loading from Shuttle Station in progress"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santosh N",
+      "date": "2026-04-04",
+      "targetTasks": [
+        {
+          "id": "wa-1779855622878-o1by",
+          "text": "[3A-DK1-25077-Dehydration Project] Pallet Sensor,Handy HMI Integration Completed.\nSafety Dog Proximity installation Completed>\nSingle Compressor loading from Shuttle Station in progress"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
