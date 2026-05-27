@@ -400,6 +400,13 @@
           "targetDate": "2026-05-27",
           "completionDate": "",
           "status": "not_started"
+        },
+        {
+          "id": "task-1779856662239",
+          "taskName": "BOM for JB Panel at Scanner Station",
+          "targetDate": "2026-05-27",
+          "completionDate": "",
+          "status": "not_started"
         }
       ],
       "currentStatus": "not_started",
@@ -407,5 +414,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-05-27T04:37:16.719Z"
+  "lastUpdated": "2026-05-27T04:37:42.239Z"
 }
