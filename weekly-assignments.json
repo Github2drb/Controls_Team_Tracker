@@ -386,7 +386,18 @@
       "currentStatus": "in_progress",
       "notes": "Electrical Drawing Except PLC IO Address",
       "constraint": ""
+    },
+    {
+      "id": "wa-1779856593955",
+      "engineerName": "Santhosh N",
+      "weekStart": "2026-05-25",
+      "projectName": "3A-DK1-25077-Dehydration Projec",
+      "projectTargetDate": "2026-05-27",
+      "tasks": [],
+      "currentStatus": "not_started",
+      "notes": "Hardware BOM",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-05-27T04:33:20.610Z"
+  "lastUpdated": "2026-05-27T04:36:33.955Z"
 }
