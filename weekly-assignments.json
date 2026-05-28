@@ -372,7 +372,7 @@
       "projectName": "3A-IS1-26051 Final Line Filling Equipment Interlinking with Conveyor",
       "projectTargetDate": "2026-05-27",
       "tasks": [],
-      "currentStatus": "in_progress",
+      "currentStatus": "completed",
       "notes": "Electrical Drawing Except PLC IO Address",
       "constraint": "BOM Released. Electrical Drawing in Progress",
       "resourceLockedFrom": "2026-05-18",
@@ -427,5 +427,5 @@
       "constraint": "Stepper with Vision Logic need to be integrated in existing sequence"
     }
   ],
-  "lastUpdated": "2026-05-27T06:24:35.549Z"
+  "lastUpdated": "2026-05-28T13:47:21.859Z"
 }
