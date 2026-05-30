@@ -2915,7 +2915,12 @@
           "text": "[3A-SS1-26012-Sartorius- Glass bead blasting automation] IO Addressing, Robot Handshaking Address Conclusion"
         }
       ],
-      "completedActivities": []
+      "completedActivities": [
+        {
+          "id": "a-1780135533141-7mdq6",
+          "text": "PLC Offline Programming Started"
+        }
+      ]
     },
     {
       "engineerName": "Santhosh N",
