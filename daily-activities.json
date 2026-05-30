@@ -3134,6 +3134,17 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Deekshitha HC",
+      "date": "2026-05-30",
+      "targetTasks": [
+        {
+          "id": "t-1780144385837-3ctsy",
+          "text": "Hinge Assembly Harting Connector Drawing "
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
