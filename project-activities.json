@@ -274,7 +274,9 @@
     {
       "projectName": "3A-SS1-26012-Sartorius- Glass bead blasting automation",
       "currentStatus": "Electrical Assembly Stage",
-      "activities": {}
+      "activities": {
+        "2026-06-01": "HMI Screen Configuration and Development"
+      }
     },
     {
       "projectName": "3A-GB1-26007_GE_Pressure Tester",
