@@ -293,7 +293,7 @@
         }
       ],
       "currentStatus": "in_progress",
-      "constraint": "Equipment Study Completed on 07-05-2026\nBill of Material Generation Validation, Electrical Drawing Pending"
+      "constraint": "Equipment Study Completed on 07-05-2026\n Electrical Drawing Completed, Material Procurement in progress"
     },
     {
       "id": "wa-1778153306102",
@@ -427,5 +427,5 @@
       "constraint": "Stepper with Vision Logic need to be integrated in existing sequence"
     }
   ],
-  "lastUpdated": "2026-06-02T10:57:08.817Z"
+  "lastUpdated": "2026-06-02T10:57:49.437Z"
 }
