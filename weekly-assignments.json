@@ -423,10 +423,10 @@
       "weekStart": "2026-05-27",
       "projectName": "3A-SO1-25025_Bailer_Assembly",
       "tasks": [],
-      "currentStatus": "in_progress",
+      "currentStatus": "on_hold",
       "notes": "Trial Support",
       "constraint": "Stepper with Vision Logic need to be integrated in existing sequence"
     }
   ],
-  "lastUpdated": "2026-06-02T11:00:46.386Z"
+  "lastUpdated": "2026-06-02T11:01:10.385Z"
 }
