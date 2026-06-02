@@ -335,7 +335,7 @@
         }
       ],
       "currentStatus": "in_progress",
-      "constraint": "DAP Preparation in progress"
+      "constraint": "DAP Completed. Offline PLC and HMI in progress.Material Procurement in progress"
     },
     {
       "id": "wa-1779455033744",
@@ -427,5 +427,5 @@
       "constraint": "Stepper with Vision Logic need to be integrated in existing sequence"
     }
   ],
-  "lastUpdated": "2026-06-02T10:57:49.437Z"
+  "lastUpdated": "2026-06-02T10:59:45.085Z"
 }
