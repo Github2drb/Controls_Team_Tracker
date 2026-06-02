@@ -212,7 +212,7 @@
       "tasks": [],
       "currentStatus": "in_progress",
       "notes": "Washer Gantry Pick and Place and All gantry Initialization",
-      "constraint": "DESIGN MODIFICATION IN PROGRESS\nNew Servo Logic Inclusion for washer gantry and logic change in spring and washer gantry",
+      "constraint": "Vision Pending for Washer Gantry due to sensopart signal issue.\nVision team will be installing Basler camera on 03-06-2026",
       "resourceLockedFrom": "2025-11-01",
       "resourceLockedTill": "2026-04-30",
       "internalTarget": "2026-04-29",
@@ -427,5 +427,5 @@
       "constraint": "Stepper with Vision Logic need to be integrated in existing sequence"
     }
   ],
-  "lastUpdated": "2026-06-02T10:55:04.539Z"
+  "lastUpdated": "2026-06-02T10:56:28.284Z"
 }
