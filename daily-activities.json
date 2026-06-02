@@ -3173,6 +3173,72 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Santosh N",
+      "date": "2026-05-11",
+      "targetTasks": [
+        {
+          "id": "wa-1780397986038-ky5o",
+          "text": "[3A-IE1-26042 & 3A-IE1-26043 -INDIC-Wave Soldering Machine Conveyor Assembly -Misumi & Bosch] DAP Completed. Offline PLC and HMI in progress.Material Procurement in progress"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santosh N",
+      "date": "2026-05-12",
+      "targetTasks": [
+        {
+          "id": "wa-1780397986038-y8b8",
+          "text": "[3A-IE1-26042 & 3A-IE1-26043 -INDIC-Wave Soldering Machine Conveyor Assembly -Misumi & Bosch] DAP Completed. Offline PLC and HMI in progress.Material Procurement in progress"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santosh N",
+      "date": "2026-05-13",
+      "targetTasks": [
+        {
+          "id": "wa-1780397986038-jnno",
+          "text": "[3A-IE1-26042 & 3A-IE1-26043 -INDIC-Wave Soldering Machine Conveyor Assembly -Misumi & Bosch] DAP Completed. Offline PLC and HMI in progress.Material Procurement in progress"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santosh N",
+      "date": "2026-05-14",
+      "targetTasks": [
+        {
+          "id": "wa-1780397986038-9rfn",
+          "text": "[3A-IE1-26042 & 3A-IE1-26043 -INDIC-Wave Soldering Machine Conveyor Assembly -Misumi & Bosch] DAP Completed. Offline PLC and HMI in progress.Material Procurement in progress"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santosh N",
+      "date": "2026-05-15",
+      "targetTasks": [
+        {
+          "id": "wa-1780397986038-vj31",
+          "text": "[3A-IE1-26042 & 3A-IE1-26043 -INDIC-Wave Soldering Machine Conveyor Assembly -Misumi & Bosch] DAP Completed. Offline PLC and HMI in progress.Material Procurement in progress"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santosh N",
+      "date": "2026-05-16",
+      "targetTasks": [
+        {
+          "id": "wa-1780397986038-yx3b",
+          "text": "[3A-IE1-26042 & 3A-IE1-26043 -INDIC-Wave Soldering Machine Conveyor Assembly -Misumi & Bosch] DAP Completed. Offline PLC and HMI in progress.Material Procurement in progress"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
