@@ -349,7 +349,7 @@
       "tasks": [],
       "currentStatus": "in_progress",
       "notes": "Hardware Integration in Progress",
-      "constraint": "Trial in progress.\nSafety and Interlock validation pending"
+      "constraint": "Bowl Feeder Alarm needs to be eliminated.\nSafety and Interlock validation pending.\nFrequent alarms for every cycle needs to be eliminated"
     },
     {
       "id": "wa-1779455140013",
@@ -427,5 +427,5 @@
       "constraint": "Stepper with Vision Logic need to be integrated in existing sequence"
     }
   ],
-  "lastUpdated": "2026-06-02T10:56:28.284Z"
+  "lastUpdated": "2026-06-02T10:57:08.817Z"
 }
