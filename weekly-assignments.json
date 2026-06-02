@@ -413,7 +413,7 @@
       "weekStart": "2026-05-27",
       "projectName": "3A2409 - GLASS TAPING AND O-CELL PICK & PLACE STATION (PA23 Phase -2)",
       "tasks": [],
-      "currentStatus": "in_progress",
+      "currentStatus": "on_hold",
       "notes": "Handshake with chinese line pending",
       "constraint": "Integration with Supplier Equipment is pending"
     },
@@ -428,5 +428,5 @@
       "constraint": "Stepper with Vision Logic need to be integrated in existing sequence"
     }
   ],
-  "lastUpdated": "2026-06-02T11:01:10.385Z"
+  "lastUpdated": "2026-06-02T11:02:47.448Z"
 }
