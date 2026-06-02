@@ -314,7 +314,7 @@
         }
       ],
       "currentStatus": "in_progress",
-      "constraint": "DAP Submitted on 26-05-26.\nControl Panel need to be released. Programmer not assigned yet"
+      "constraint": "DAP Submitted on 26-05-26.\nControl Panel need to be released. Ampere team will be programming this equipment"
     },
     {
       "id": "wa-1778562866003",
@@ -427,5 +427,5 @@
       "constraint": "Stepper with Vision Logic need to be integrated in existing sequence"
     }
   ],
-  "lastUpdated": "2026-06-02T10:59:45.085Z"
+  "lastUpdated": "2026-06-02T11:00:20.017Z"
 }
