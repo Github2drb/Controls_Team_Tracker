@@ -218,8 +218,9 @@
       "role": "admin",
       "company": "",
       "isActive": true,
-      "createdAt": "2026-06-04T05:56:48.791Z"
+      "createdAt": "2026-06-04T05:56:48.791Z",
+      "lastLogin": "2026-06-04T06:08:05.899Z"
     }
   ],
-  "lastUpdated": "2026-06-04T05:57:30.757Z"
+  "lastUpdated": "2026-06-04T06:08:05.899Z"
 }
