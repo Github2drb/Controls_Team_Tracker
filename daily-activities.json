@@ -3360,6 +3360,17 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Ramkumar Annamalai",
+      "date": "2026-06-05",
+      "targetTasks": [
+        {
+          "id": "t-1780636819344-9jx5k",
+          "text": "Surface Hinge Assembly E-Stop and Fence Gate logic testing"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
