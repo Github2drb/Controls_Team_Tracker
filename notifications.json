@@ -19,7 +19,17 @@
       "isRead": false,
       "author": "Admin",
       "createdAt": "2026-06-05T12:23:02.961Z"
+    },
+    {
+      "id": "notif-1780665413980",
+      "title": "Surface Hinge Assembly Final Trials Target Date closing by",
+      "message": "Surface Hinge Assembly Equipment trials should start at June 8th and should run without alarms and stoppage.",
+      "type": "alert",
+      "link": "",
+      "isRead": false,
+      "author": "Admin",
+      "createdAt": "2026-06-05T13:16:53.980Z"
     }
   ],
-  "lastUpdated": "2026-06-05T13:03:42.175Z"
+  "lastUpdated": "2026-06-05T13:16:53.980Z"
 }
