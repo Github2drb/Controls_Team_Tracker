@@ -1,6 +1,17 @@
 {
   "notifications": [
     {
+      "id": "notif-1780665679008",
+      "title": "Surface Hinge Assembly Final Trials Target Date closing by",
+      "message": "Surface Hinge Assembly Equipment trials should start at June 8th and should run without alarms and stoppage.",
+      "type": "alert",
+      "link": "",
+      "isRead": false,
+      "author": "Admin",
+      "createdAt": "2026-06-05T13:21:19.008Z",
+      "isTicker": true
+    },
+    {
       "id": "notif-1780664607859",
       "title": "Fail Safe and Safety Interlock",
       "message": "3A-TC1-26039_TE_46P and 6P Assembly can be made as a benchmark project for Safety adoption.  All engineers are welcome to provide their idea and suggestions.",
@@ -19,17 +30,7 @@
       "isRead": false,
       "author": "Admin",
       "createdAt": "2026-06-05T12:23:02.961Z"
-    },
-    {
-      "id": "notif-1780665679008",
-      "title": "Surface Hinge Assembly Final Trials Target Date closing by",
-      "message": "Surface Hinge Assembly Equipment trials should start at June 8th and should run without alarms and stoppage.",
-      "type": "alert",
-      "link": "",
-      "isRead": false,
-      "author": "Admin",
-      "createdAt": "2026-06-05T13:21:19.008Z"
     }
   ],
-  "lastUpdated": "2026-06-05T13:21:19.008Z"
+  "lastUpdated": "2026-06-05T13:22:50.596Z"
 }
