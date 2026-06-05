@@ -3338,6 +3338,17 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Dhanesh M",
+      "date": "2026-06-05",
+      "targetTasks": [
+        {
+          "id": "t-1780636734847-aux58",
+          "text": "3A-IE1-26042 & 3A-IE1-26043 -INDIC-Wave Soldering Machine Conveyor Assembly -Misumi & Bosch_Offline PLC and HMI development"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
