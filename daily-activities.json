@@ -3316,6 +3316,17 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Indrakumar",
+      "date": "2026-06-05",
+      "targetTasks": [
+        {
+          "id": "t-1780636634106-sjcrd",
+          "text": "Surface Hinge Assembly HMI Screens updation"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
