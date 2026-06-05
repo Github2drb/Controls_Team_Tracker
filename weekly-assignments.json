@@ -439,7 +439,7 @@
           "taskName": "Electrical Drawing",
           "targetDate": "2026-06-08",
           "completionDate": "",
-          "status": "not_started"
+          "status": "in_progress"
         },
         {
           "id": "task-1780634240614",
@@ -454,5 +454,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-05T04:37:20.614Z"
+  "lastUpdated": "2026-06-05T04:54:38.516Z"
 }
