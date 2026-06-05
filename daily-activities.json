@@ -3305,6 +3305,17 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Deekshitha HC",
+      "date": "2026-06-05",
+      "targetTasks": [
+        {
+          "id": "t-1780635321764-fc50h",
+          "text": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO_DAP_Preparation"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
