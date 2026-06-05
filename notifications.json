@@ -6,7 +6,7 @@
       "message": "Surface Hinge Assembly Equipment trials should start at June 8th and should run without alarms and stoppage.",
       "type": "alert",
       "link": "",
-      "isRead": false,
+      "isRead": true,
       "author": "Admin",
       "createdAt": "2026-06-05T13:21:19.008Z",
       "isTicker": true
@@ -27,11 +27,11 @@
       "message": "Update basic details and send the file on or before 08-06-2026",
       "type": "alert",
       "link": "",
-      "isRead": false,
+      "isRead": true,
       "author": "Admin",
       "createdAt": "2026-06-05T12:23:02.961Z",
       "isTicker": true
     }
   ],
-  "lastUpdated": "2026-06-05T13:23:17.968Z"
+  "lastUpdated": "2026-06-05T13:34:11.654Z"
 }
