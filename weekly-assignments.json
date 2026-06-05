@@ -459,11 +459,19 @@
       "weekStart": "2026-06-01",
       "projectName": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO",
       "projectTargetDate": "2026-06-05",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "task-1780639450406",
+          "taskName": "DAP",
+          "targetDate": "2026-06-05",
+          "completionDate": "",
+          "status": "not_started"
+        }
+      ],
       "currentStatus": "not_started",
       "notes": "",
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-05T06:03:52.350Z"
+  "lastUpdated": "2026-06-05T06:04:10.406Z"
 }
