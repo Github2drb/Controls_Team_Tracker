@@ -452,7 +452,18 @@
       "currentStatus": "not_started",
       "notes": "",
       "constraint": ""
+    },
+    {
+      "id": "wa-1780639432350",
+      "engineerName": "Deekshitha HC",
+      "weekStart": "2026-06-01",
+      "projectName": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO",
+      "projectTargetDate": "2026-06-05",
+      "tasks": [],
+      "currentStatus": "not_started",
+      "notes": "",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-05T04:54:41.714Z"
+  "lastUpdated": "2026-06-05T06:03:52.350Z"
 }
