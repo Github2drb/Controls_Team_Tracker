@@ -3239,6 +3239,72 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Santhosh N",
+      "date": "2026-06-01",
+      "targetTasks": [
+        {
+          "id": "wa-1780634202930-8d64",
+          "text": "[3A-AV1-25120-Eddy Current Testing Equipment] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santhosh N",
+      "date": "2026-06-02",
+      "targetTasks": [
+        {
+          "id": "wa-1780634202930-6dqz",
+          "text": "[3A-AV1-25120-Eddy Current Testing Equipment] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santhosh N",
+      "date": "2026-06-03",
+      "targetTasks": [
+        {
+          "id": "wa-1780634202930-jr5h",
+          "text": "[3A-AV1-25120-Eddy Current Testing Equipment] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santhosh N",
+      "date": "2026-06-04",
+      "targetTasks": [
+        {
+          "id": "wa-1780634202930-f4lg",
+          "text": "[3A-AV1-25120-Eddy Current Testing Equipment] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santhosh N",
+      "date": "2026-06-05",
+      "targetTasks": [
+        {
+          "id": "wa-1780634202930-9c2x",
+          "text": "[3A-AV1-25120-Eddy Current Testing Equipment] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santhosh N",
+      "date": "2026-06-06",
+      "targetTasks": [
+        {
+          "id": "wa-1780634202930-5rmx",
+          "text": "[3A-AV1-25120-Eddy Current Testing Equipment] Weekly project task"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
