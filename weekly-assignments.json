@@ -445,7 +445,7 @@
           "id": "task-1780634240614",
           "taskName": "BOM for Class B and Class C Materials",
           "targetDate": "2026-06-06",
-          "completionDate": "0020-06-05",
+          "completionDate": "2026-06-05",
           "status": "in_progress"
         }
       ],
@@ -473,5 +473,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-05T12:56:20.959Z"
+  "lastUpdated": "2026-06-05T12:56:26.145Z"
 }
