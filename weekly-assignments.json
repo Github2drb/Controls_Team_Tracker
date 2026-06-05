@@ -449,7 +449,7 @@
           "status": "completed"
         }
       ],
-      "currentStatus": "not_started",
+      "currentStatus": "in_progress",
       "notes": "",
       "constraint": ""
     },
@@ -473,5 +473,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-05T12:56:35.780Z"
+  "lastUpdated": "2026-06-05T12:56:38.488Z"
 }
