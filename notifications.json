@@ -1,0 +1,15 @@
+{
+  "notifications": [
+    {
+      "id": "notif-1780662182961",
+      "title": "Performance Evaluation",
+      "message": "Update basic details and send the file on or before 08-06-2026",
+      "type": "alert",
+      "link": "",
+      "isRead": false,
+      "author": "Admin",
+      "createdAt": "2026-06-05T12:23:02.961Z"
+    }
+  ],
+  "lastUpdated": "2026-06-05T12:23:02.961Z"
+}
