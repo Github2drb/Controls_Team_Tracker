@@ -1,6 +1,16 @@
 {
   "notifications": [
     {
+      "id": "notif-1780664607859",
+      "title": "Fail Safe and Safety Interlock",
+      "message": "3A-TC1-26039_TE_46P and 6P Assembly can be made as a benchmark project for Safety adoption.  All engineers are welcome to provide their idea and suggestions.",
+      "type": "info",
+      "link": "",
+      "isRead": true,
+      "author": "Admin",
+      "createdAt": "2026-06-05T13:03:27.859Z"
+    },
+    {
       "id": "notif-1780662182961",
       "title": "Performance Evaluation",
       "message": "Update basic details and send the file on or before 08-06-2026",
@@ -9,17 +19,7 @@
       "isRead": false,
       "author": "Admin",
       "createdAt": "2026-06-05T12:23:02.961Z"
-    },
-    {
-      "id": "notif-1780664607859",
-      "title": "Fail Safe and Safety Interlock",
-      "message": "3A-TC1-26039_TE_46P and 6P Assembly can be made as a benchmark project for Safety adoption.  All engineers are welcome to provide their idea and suggestions.",
-      "type": "info",
-      "link": "",
-      "isRead": false,
-      "author": "Admin",
-      "createdAt": "2026-06-05T13:03:27.859Z"
     }
   ],
-  "lastUpdated": "2026-06-05T13:03:27.859Z"
+  "lastUpdated": "2026-06-05T13:03:38.965Z"
 }
