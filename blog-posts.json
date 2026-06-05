@@ -1,0 +1,21 @@
+{
+  "posts": [
+    {
+      "id": "post-1780663113659",
+      "title": "Fail Safe Logic",
+      "author": "Admin",
+      "date": "2026-06-05",
+      "category": "General",
+      "tags": [
+        "Fail Safe"
+      ],
+      "coverImage": "https://github.com/Github2drb/TechVerseImprove/blob/main/blog-images/Fail%20Safe.jpeg",
+      "excerpt": "Fail Safe Logic in each project often not goes to advance level.",
+      "content": "<h2>Introduction</h2>\n<p> In almost all the project, fail safe design and logic is given less importance and carried out only for customer satisfaction.\nAny Fail Safe logic must have details like which Safety Category has been adopted, how it is designed and how it is going to be executed. \nCustomer will be more curious and will realize how serious are we about safety.\nWiring E-Stop to safety relay or PLC often goes with theory logic.\nThis must be analyzed in detail, designer need to adopt a system to understand what type of safety ,customer requires or if he is not aware, based on project 3D CAD needs to present safety category adopted in design.\n</p>",
+      "isPinned": true,
+      "isPublished": true,
+      "createdAt": "2026-06-05T12:38:33.659Z"
+    }
+  ],
+  "lastUpdated": "2026-06-05T12:38:33.659Z"
+}
