@@ -229,8 +229,9 @@
       "role": "engineer",
       "company": "",
       "isActive": true,
-      "createdAt": "2026-06-05T06:01:37.973Z"
+      "createdAt": "2026-06-05T06:01:37.973Z",
+      "lastLogin": "2026-06-05T06:02:56.430Z"
     }
   ],
-  "lastUpdated": "2026-06-05T06:01:37.973Z"
+  "lastUpdated": "2026-06-05T06:02:56.430Z"
 }
