@@ -29,8 +29,9 @@
       "link": "",
       "isRead": false,
       "author": "Admin",
-      "createdAt": "2026-06-05T12:23:02.961Z"
+      "createdAt": "2026-06-05T12:23:02.961Z",
+      "isTicker": true
     }
   ],
-  "lastUpdated": "2026-06-05T13:22:50.596Z"
+  "lastUpdated": "2026-06-05T13:23:17.968Z"
 }
