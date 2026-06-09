@@ -452,11 +452,19 @@
       "weekStart": "2026-06-08",
       "projectName": "3A-S02-25054_Surface Hinge Assembly",
       "projectTargetDate": "2026-06-14",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "task-1781002579517",
+          "taskName": "Stage-1 Handover to Integration Team for trials",
+          "targetDate": "2026-06-09",
+          "completionDate": "",
+          "status": "not_started"
+        }
+      ],
       "currentStatus": "in_progress",
       "notes": "",
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-09T10:55:53.632Z"
+  "lastUpdated": "2026-06-09T10:56:19.517Z"
 }
