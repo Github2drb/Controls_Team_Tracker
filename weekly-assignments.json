@@ -487,6 +487,13 @@
           "targetDate": "2026-06-10",
           "completionDate": "",
           "status": "not_started"
+        },
+        {
+          "id": "task-1781002691718",
+          "taskName": "Auto Trials in Stage-2 and Stage-3",
+          "targetDate": "2026-06-11",
+          "completionDate": "",
+          "status": "not_started"
         }
       ],
       "currentStatus": "in_progress",
@@ -494,5 +501,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-09T10:57:39.350Z"
+  "lastUpdated": "2026-06-09T10:58:11.718Z"
 }
