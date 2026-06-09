@@ -428,32 +428,6 @@
       "constraint": "Stepper with Vision Logic need to be integrated in existing sequence"
     },
     {
-      "id": "wa-1780634202106",
-      "engineerName": "Santhosh N",
-      "weekStart": "2026-06-01",
-      "projectName": "3A-AV1-25120-Eddy Current Testing Equipment",
-      "projectTargetDate": "2026-06-06",
-      "tasks": [
-        {
-          "id": "task-1780634218963",
-          "taskName": "Electrical Drawing",
-          "targetDate": "2026-06-08",
-          "completionDate": "",
-          "status": "in_progress"
-        },
-        {
-          "id": "task-1780634240614",
-          "taskName": "BOM for Class B and Class C Materials",
-          "targetDate": "2026-06-06",
-          "completionDate": "2026-06-05",
-          "status": "in_progress"
-        }
-      ],
-      "currentStatus": "in_progress",
-      "notes": "",
-      "constraint": ""
-    },
-    {
       "id": "wa-1780639432350",
       "engineerName": "Deekshitha HC",
       "weekStart": "2026-06-01",
@@ -473,5 +447,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-09T04:21:14.373Z"
+  "lastUpdated": "2026-06-09T04:21:32.319Z"
 }
