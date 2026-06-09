@@ -391,7 +391,7 @@
       "customerTarget": "2026-06-26",
       "tasks": [],
       "currentStatus": "not_started",
-      "constraint": "DAP not yet prepared"
+      "constraint": "DAP Submitted"
     },
     {
       "id": "wa-1779862941175",
@@ -506,5 +506,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-08T10:24:38.142Z"
+  "lastUpdated": "2026-06-09T04:19:45.756Z"
 }
