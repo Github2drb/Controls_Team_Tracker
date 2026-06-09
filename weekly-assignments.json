@@ -471,40 +471,7 @@
       "currentStatus": "completed",
       "notes": "",
       "constraint": ""
-    },
-    {
-      "id": "wa-1780914181436",
-      "engineerName": "Ramkumar Annamalai",
-      "weekStart": "2026-06-08",
-      "projectName": "3A-S02-25054_Surface Hinge Assembly",
-      "projectTargetDate": "2026-06-08",
-      "tasks": [
-        {
-          "id": "task-1780914204462",
-          "taskName": "Ethernet/Ip Communication Check",
-          "targetDate": "2026-06-08",
-          "completionDate": "",
-          "status": "in_progress"
-        },
-        {
-          "id": "task-1780914244254",
-          "taskName": "EtherCAT Communication Check",
-          "targetDate": "2026-06-08",
-          "completionDate": "",
-          "status": "in_progress"
-        },
-        {
-          "id": "task-1780914267602",
-          "taskName": "Kistler Servo Press Communication Check",
-          "targetDate": "2026-06-08",
-          "completionDate": "",
-          "status": "in_progress"
-        }
-      ],
-      "currentStatus": "in_progress",
-      "notes": "",
-      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-09T04:19:56.064Z"
+  "lastUpdated": "2026-06-09T04:21:14.373Z"
 }
