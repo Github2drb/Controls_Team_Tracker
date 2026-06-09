@@ -473,6 +473,13 @@
           "targetDate": "2026-06-10",
           "completionDate": "",
           "status": "not_started"
+        },
+        {
+          "id": "task-1781002637354",
+          "taskName": "Individual Test in Stage-2 station wise",
+          "targetDate": "2026-06-10",
+          "completionDate": "",
+          "status": "not_started"
         }
       ],
       "currentStatus": "in_progress",
@@ -480,5 +487,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-09T10:56:53.249Z"
+  "lastUpdated": "2026-06-09T10:57:17.354Z"
 }
