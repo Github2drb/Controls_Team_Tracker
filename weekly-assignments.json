@@ -546,6 +546,13 @@
           "targetDate": "2026-06-13",
           "completionDate": "",
           "status": "in_progress"
+        },
+        {
+          "id": "task-1781065390249",
+          "taskName": "E-Plan Drawing",
+          "targetDate": "2026-06-13",
+          "completionDate": "",
+          "status": "not_started"
         }
       ],
       "currentStatus": "in_progress",
@@ -553,5 +560,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-10T04:22:56.423Z"
+  "lastUpdated": "2026-06-10T04:23:10.249Z"
 }
