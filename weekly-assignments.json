@@ -466,6 +466,13 @@
           "targetDate": "2026-06-11",
           "completionDate": "",
           "status": "not_started"
+        },
+        {
+          "id": "task-1781098289533",
+          "taskName": "Stage-3 Manual Operation",
+          "targetDate": "2026-06-11",
+          "completionDate": "",
+          "status": "not_started"
         }
       ],
       "currentStatus": "in_progress",
@@ -473,5 +480,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-10T13:31:14.687Z"
+  "lastUpdated": "2026-06-10T13:31:29.533Z"
 }
