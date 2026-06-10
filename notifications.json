@@ -45,11 +45,11 @@
       "message": "Last Date for submitting evaluation sheet : 12-06-2026\nEvaluation will be based on available data for those engineers who doesn't submit on 12th June'26.",
       "type": "warning",
       "link": "",
-      "isTicker": false,
+      "isTicker": true,
       "readBy": [],
       "author": "Admin",
       "createdAt": "2026-06-10T13:28:18.515Z"
     }
   ],
-  "lastUpdated": "2026-06-10T13:28:26.426Z"
+  "lastUpdated": "2026-06-10T13:28:29.925Z"
 }
