@@ -313,7 +313,7 @@
           "status": "completed"
         }
       ],
-      "currentStatus": "in_progress",
+      "currentStatus": "electrical_design",
       "constraint": "DAP Submitted on 26-05-26.\nControl Panel need to be released. Ampere team will be programming this equipment"
     },
     {
@@ -447,5 +447,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-10T05:39:46.312Z"
+  "lastUpdated": "2026-06-10T05:40:27.609Z"
 }
