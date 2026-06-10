@@ -500,7 +500,7 @@
           "taskName": "Safety IO Check and Sequence Check",
           "targetDate": "2026-06-12",
           "completionDate": "",
-          "status": "not_started"
+          "status": "in_progress"
         }
       ],
       "currentStatus": "in_progress",
@@ -508,5 +508,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-09T10:58:43.179Z"
+  "lastUpdated": "2026-06-10T04:20:03.135Z"
 }
