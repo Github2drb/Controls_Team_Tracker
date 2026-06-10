@@ -506,7 +506,18 @@
       "currentStatus": "in_progress",
       "notes": "",
       "constraint": ""
+    },
+    {
+      "id": "wa-1781065279072",
+      "engineerName": "Santhosh N",
+      "weekStart": "2026-06-08",
+      "projectName": "3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station",
+      "projectTargetDate": "2026-06-12",
+      "tasks": [],
+      "currentStatus": "in_progress",
+      "notes": "",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-10T04:20:05.850Z"
+  "lastUpdated": "2026-06-10T04:21:19.072Z"
 }
