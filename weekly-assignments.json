@@ -445,68 +445,7 @@
       "currentStatus": "completed",
       "notes": "",
       "constraint": ""
-    },
-    {
-      "id": "wa-1781002553632",
-      "engineerName": "Ramkumar Annamalai",
-      "weekStart": "2026-06-08",
-      "projectName": "3A-S02-25054_Surface Hinge Assembly",
-      "projectTargetDate": "2026-06-14",
-      "tasks": [
-        {
-          "id": "task-1781002579517",
-          "taskName": "Stage-1 Handover to Integration Team for trials",
-          "targetDate": "2026-06-09",
-          "completionDate": "",
-          "status": "in_progress"
-        },
-        {
-          "id": "task-1781002596555",
-          "taskName": "IO Test in Stage-2",
-          "targetDate": "2026-06-10",
-          "completionDate": "",
-          "status": "not_started"
-        },
-        {
-          "id": "task-1781002613249",
-          "taskName": "IO test in Stage-3",
-          "targetDate": "2026-06-10",
-          "completionDate": "",
-          "status": "not_started"
-        },
-        {
-          "id": "task-1781002637354",
-          "taskName": "Individual Test in Stage-2 station wise",
-          "targetDate": "2026-06-10",
-          "completionDate": "",
-          "status": "not_started"
-        },
-        {
-          "id": "task-1781002659350",
-          "taskName": "Individual Test in Stage-3 Station wise",
-          "targetDate": "2026-06-10",
-          "completionDate": "",
-          "status": "not_started"
-        },
-        {
-          "id": "task-1781002691718",
-          "taskName": "Auto Trials in Stage-2 and Stage-3",
-          "targetDate": "2026-06-11",
-          "completionDate": "",
-          "status": "not_started"
-        },
-        {
-          "id": "task-1781002723179",
-          "taskName": "Safety IO Check and Sequence Check",
-          "targetDate": "2026-06-12",
-          "completionDate": "",
-          "status": "in_progress"
-        }
-      ],
-      "currentStatus": "in_progress",
-      "notes": "",
-      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-10T05:39:33.815Z"
+  "lastUpdated": "2026-06-10T05:39:46.312Z"
 }
