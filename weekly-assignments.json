@@ -513,11 +513,19 @@
       "weekStart": "2026-06-08",
       "projectName": "3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station",
       "projectTargetDate": "2026-06-12",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "task-1781065302167",
+          "taskName": "BOM Release for all Materials",
+          "targetDate": "2026-06-13",
+          "completionDate": "",
+          "status": "in_progress"
+        }
+      ],
       "currentStatus": "in_progress",
       "notes": "",
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-10T04:21:19.072Z"
+  "lastUpdated": "2026-06-10T04:21:42.167Z"
 }
