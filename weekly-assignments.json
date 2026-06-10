@@ -458,7 +458,7 @@
           "taskName": "Stage-1 Handover to Integration Team for trials",
           "targetDate": "2026-06-09",
           "completionDate": "",
-          "status": "not_started"
+          "status": "in_progress"
         },
         {
           "id": "task-1781002596555",
@@ -508,5 +508,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-10T04:20:03.135Z"
+  "lastUpdated": "2026-06-10T04:20:05.850Z"
 }
