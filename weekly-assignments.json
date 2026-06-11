@@ -473,32 +473,6 @@
       "constraint": ""
     },
     {
-      "id": "wa-1781161244486",
-      "engineerName": "Santhosh N",
-      "weekStart": "2026-06-08",
-      "projectName": "3A-IE1-26042 & 3A-IE1-26043 -INDIC-Wave Soldering Machine Conveyor Assembly -Misumi & Bosch",
-      "projectTargetDate": "2026-06-13",
-      "tasks": [
-        {
-          "id": "task-1781161261638",
-          "taskName": "Electrical Drawing",
-          "targetDate": "2026-06-13",
-          "completionDate": "",
-          "status": "in_progress"
-        },
-        {
-          "id": "task-1781161276116",
-          "taskName": "Complete BOM",
-          "targetDate": "2026-06-13",
-          "completionDate": "",
-          "status": "in_progress"
-        }
-      ],
-      "currentStatus": "in_progress",
-      "notes": "",
-      "constraint": ""
-    },
-    {
       "id": "wa-1781161400420",
       "engineerName": "Santhosh N",
       "weekStart": "2026-06-08",
@@ -510,5 +484,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-11T07:03:20.420Z"
+  "lastUpdated": "2026-06-11T07:26:45.383Z"
 }
