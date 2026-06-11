@@ -46,10 +46,12 @@
       "type": "warning",
       "link": "",
       "isTicker": true,
-      "readBy": [],
+      "readBy": [
+        "device-l842pfrhj"
+      ],
       "author": "Admin",
       "createdAt": "2026-06-10T13:28:18.515Z"
     }
   ],
-  "lastUpdated": "2026-06-10T13:28:29.925Z"
+  "lastUpdated": "2026-06-11T06:49:23.374Z"
 }
