@@ -497,7 +497,53 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1781173198565",
+      "engineerName": "Ramkumar Annamalai",
+      "weekStart": "2026-06-08",
+      "projectName": "3A-S02-25054_Surface Hinge Assembly",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1781173165024",
+          "taskName": "Stage-2 Manual Operation",
+          "type": "weekly",
+          "assignedDate": "2026-06-11",
+          "status": "not_started",
+          "targetDate": "2026-06-11"
+        },
+        {
+          "id": "t-1781173175367",
+          "taskName": "Stage-2 Individual Test",
+          "type": "weekly",
+          "assignedDate": "2026-06-11",
+          "status": "not_started",
+          "targetDate": "2026-06-11"
+        },
+        {
+          "id": "t-1781173185995",
+          "taskName": "Stage-3 Manual Operation",
+          "type": "weekly",
+          "assignedDate": "2026-06-11",
+          "status": "not_started",
+          "targetDate": "2026-06-11"
+        },
+        {
+          "id": "t-1781173195311",
+          "taskName": "Stage-3 Individual Test",
+          "type": "weekly",
+          "assignedDate": "2026-06-11",
+          "status": "not_started",
+          "targetDate": "2026-06-11"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-11T09:37:01.098Z"
+  "lastUpdated": "2026-06-11T10:19:58.565Z"
 }
