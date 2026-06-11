@@ -459,6 +459,13 @@
           "targetDate": "2026-06-13",
           "completionDate": "",
           "status": "in_progress"
+        },
+        {
+          "id": "task-1781161053239",
+          "taskName": "Complete BOM ",
+          "targetDate": "2026-06-13",
+          "completionDate": "",
+          "status": "not_started"
         }
       ],
       "currentStatus": "in_progress",
@@ -466,5 +473,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-11T06:57:11.906Z"
+  "lastUpdated": "2026-06-11T06:57:33.239Z"
 }
