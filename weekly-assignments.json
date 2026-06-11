@@ -492,11 +492,19 @@
       "weekStart": "2026-06-08",
       "projectName": "3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station",
       "projectTargetDate": "2026-06-13",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "task-1781150004692",
+          "taskName": "Electrical Drawing",
+          "targetDate": "2026-06-13",
+          "completionDate": "",
+          "status": "in_progress"
+        }
+      ],
       "currentStatus": "in_progress",
       "notes": "",
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-11T03:53:03.589Z"
+  "lastUpdated": "2026-06-11T03:53:24.692Z"
 }
