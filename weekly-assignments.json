@@ -499,6 +499,13 @@
           "targetDate": "2026-06-13",
           "completionDate": "",
           "status": "in_progress"
+        },
+        {
+          "id": "task-1781150021309",
+          "taskName": "Pending BOM Creation",
+          "targetDate": "2026-06-13",
+          "completionDate": "",
+          "status": "in_progress"
         }
       ],
       "currentStatus": "in_progress",
@@ -506,5 +513,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-11T03:53:24.692Z"
+  "lastUpdated": "2026-06-11T03:53:41.309Z"
 }
