@@ -485,33 +485,7 @@
       "currentStatus": "in_progress",
       "notes": "",
       "constraint": ""
-    },
-    {
-      "id": "wa-1781149983589",
-      "engineerName": "Santhosh N",
-      "weekStart": "2026-06-08",
-      "projectName": "3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station",
-      "projectTargetDate": "2026-06-13",
-      "tasks": [
-        {
-          "id": "task-1781150004692",
-          "taskName": "Electrical Drawing",
-          "targetDate": "2026-06-13",
-          "completionDate": "",
-          "status": "in_progress"
-        },
-        {
-          "id": "task-1781150021309",
-          "taskName": "Pending BOM Creation",
-          "targetDate": "2026-06-13",
-          "completionDate": "",
-          "status": "in_progress"
-        }
-      ],
-      "currentStatus": "in_progress",
-      "notes": "",
-      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-11T03:54:07.395Z"
+  "lastUpdated": "2026-06-11T03:54:20.405Z"
 }
