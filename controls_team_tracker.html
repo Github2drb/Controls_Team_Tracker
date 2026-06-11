@@ -452,17 +452,31 @@ function renderRow(id){
       :`<span style="font-size:13px;color:var(--txt3)">—</span>`;
   }
 
+  //changes done here to avoid rmkhtml vulnerablity
+  
   let rmkHtml="";
-  if(editable){
-    rmkHtml=`<div class="rmk-row"><textarea rows="1" placeholder="Add remarks…"
-      oninput="setRemark('${id}',this.value)">${a.remark||""}</textarea></div>`;
-  } else if(a.remark){
-    rmkHtml=`<div class="rmk-row"><p class="ro-remark">💬 ${a.remark}</p></div>`;
-  }
+  const rmkArea = row.querySelector(".rmk-area");
+  rmkArea.innerHTML = "";
+  const rmkRow = document.createElement("div");
+  rmkRow.className = "rmk-row";
 
-  row.querySelector(".ctrls").innerHTML    = ctrlHtml;
-  row.querySelector(".rmk-area").innerHTML = rmkHtml;
+    if (editable) {
+    const textarea = document.createElement("textarea");
+    textarea.rows = 1;
+    textarea.placeholder = "Add remarks…";
+    textarea.textContent = a.remark || "";
+    textarea.addEventListener("input", function() {
+        setRemark(id, this.value);
+    });
+    rmkRow.appendChild(textarea);
+} else if (a.remark) {
+    const p = document.createElement("p");
+    p.className = "ro-remark";
+    p.textContent = a.remark;
+    rmkRow.appendChild(p);
 }
+
+rmkArea.appendChild(rmkRow);
 
 function renderList(){
   document.getElementById("eng-list").innerHTML=engineers.map(e=>`
