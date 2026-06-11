@@ -281,7 +281,7 @@
       "projectName": "3A-SS1-26012-Sartorius- Glass bead blasting automation",
       "currentStatus": "Electrical Assembly Stage",
       "activities": {
-        "2026-06-01": "HMI Screen Configuration and Development",
+        "2026-06-01": "@3DCADVS-183_ESP_HMI Screen Configuration and Development",
         "2026-06-02": "HMI Programming and Robot , Servo Logic Updations"
       }
     },
