@@ -537,8 +537,9 @@
           "taskName": "Stage-3 Individual Test",
           "type": "weekly",
           "assignedDate": "2026-06-11",
-          "status": "not_started",
-          "targetDate": "2026-06-11"
+          "status": "completed",
+          "targetDate": "2026-06-11",
+          "completionDate": "2026-06-11"
         }
       ],
       "currentStatus": "in_progress",
