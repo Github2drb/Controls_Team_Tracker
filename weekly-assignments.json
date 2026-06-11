@@ -447,53 +447,6 @@
       "constraint": ""
     },
     {
-      "id": "wa-1781173198565",
-      "engineerName": "Ramkumar Annamalai",
-      "weekStart": "2026-06-08",
-      "projectName": "3A-S02-25054_Surface Hinge Assembly",
-      "resourceLockedFrom": "",
-      "resourceLockedTill": "",
-      "internalTarget": "",
-      "customerTarget": "",
-      "tasks": [
-        {
-          "id": "t-1781173165024",
-          "taskName": "Stage-2 Manual Operation",
-          "type": "weekly",
-          "assignedDate": "2026-06-11",
-          "status": "not_started",
-          "targetDate": "2026-06-11"
-        },
-        {
-          "id": "t-1781173175367",
-          "taskName": "Stage-2 Individual Test",
-          "type": "weekly",
-          "assignedDate": "2026-06-11",
-          "status": "not_started",
-          "targetDate": "2026-06-11"
-        },
-        {
-          "id": "t-1781173185995",
-          "taskName": "Stage-3 Manual Operation",
-          "type": "weekly",
-          "assignedDate": "2026-06-11",
-          "status": "not_started",
-          "targetDate": "2026-06-11"
-        },
-        {
-          "id": "t-1781173195311",
-          "taskName": "Stage-3 Individual Test",
-          "type": "weekly",
-          "assignedDate": "2026-06-11",
-          "status": "completed",
-          "targetDate": "2026-06-11",
-          "completionDate": "2026-06-11"
-        }
-      ],
-      "currentStatus": "in_progress",
-      "constraint": ""
-    },
-    {
       "id": "wa-1781175610759",
       "engineerName": "Santhosh N",
       "weekStart": "2026-06-08",
@@ -524,5 +477,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-11T14:27:30.947Z"
+  "lastUpdated": "2026-06-11T14:27:42.171Z"
 }
