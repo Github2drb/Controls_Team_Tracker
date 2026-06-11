@@ -452,11 +452,19 @@
       "weekStart": "2026-06-08",
       "projectName": "3A-AV1-25120-Eddy Current Testing Equipment",
       "projectTargetDate": "2026-06-13",
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "task-1781161031906",
+          "taskName": "Electrical Drawing Completion",
+          "targetDate": "2026-06-13",
+          "completionDate": "",
+          "status": "in_progress"
+        }
+      ],
       "currentStatus": "in_progress",
       "notes": "",
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-11T06:56:51.570Z"
+  "lastUpdated": "2026-06-11T06:57:11.906Z"
 }
