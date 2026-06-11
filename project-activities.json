@@ -282,7 +282,7 @@
       "currentStatus": "Electrical Assembly Stage",
       "activities": {
         "2026-06-01": "@3DCADVS-183_ESP_HMI Screen Configuration and Development",
-        "2026-06-02": "HMI Programming and Robot , Servo Logic Updations"
+        "2026-06-02": "@3DCADVS-183_ESP_HMI Programming and Robot , Servo Logic Updations"
       }
     },
     {
