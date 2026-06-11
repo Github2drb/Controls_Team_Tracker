@@ -485,16 +485,7 @@
       "resourceLockedTill": "",
       "internalTarget": "",
       "customerTarget": "",
-      "tasks": [
-        {
-          "id": "t-1781170617847",
-          "taskName": "Electrical Drawing Completion",
-          "type": "weekly",
-          "assignedDate": "2026-06-11",
-          "status": "in_progress",
-          "targetDate": "2026-06-11"
-        }
-      ],
+      "tasks": [],
       "currentStatus": "in_progress",
       "constraint": ""
     },
@@ -546,5 +537,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-11T10:48:56.708Z"
+  "lastUpdated": "2026-06-11T10:58:54.050Z"
 }
