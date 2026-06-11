@@ -475,7 +475,29 @@
       ],
       "currentStatus": "waiting_for_materials",
       "constraint": ""
+    },
+    {
+      "id": "wa-1781170621098",
+      "engineerName": "Santhosh N",
+      "weekStart": "2026-06-08",
+      "projectName": "3A-AV1-25120-Eddy Current Testing Equipment",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1781170617847",
+          "taskName": "Electrical Drawing Completion",
+          "type": "weekly",
+          "assignedDate": "2026-06-11",
+          "status": "not_started",
+          "targetDate": "2026-06-11"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-11T09:28:16.474Z"
+  "lastUpdated": "2026-06-11T09:37:01.098Z"
 }
