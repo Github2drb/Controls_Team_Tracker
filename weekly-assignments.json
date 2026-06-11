@@ -565,7 +565,37 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1781175610759",
+      "engineerName": "Santhosh N",
+      "weekStart": "2026-06-08",
+      "projectName": "3A-IE1-26042 & 3A-IE1-26043 -INDIC-Wave Soldering Machine Conveyor Assembly -Misumi & Bosch",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1781175602831",
+          "taskName": "Electrical Drawing Completion",
+          "type": "weekly",
+          "assignedDate": "2026-06-11",
+          "status": "not_started",
+          "targetDate": "2026-06-11"
+        },
+        {
+          "id": "t-1781175610294",
+          "taskName": "Complete BOM Generation",
+          "type": "weekly",
+          "assignedDate": "2026-06-11",
+          "status": "not_started",
+          "targetDate": "2026-06-11"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-11T10:59:28.511Z"
+  "lastUpdated": "2026-06-11T11:00:10.759Z"
 }
