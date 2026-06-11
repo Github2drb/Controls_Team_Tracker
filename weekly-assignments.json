@@ -445,18 +445,7 @@
       "currentStatus": "completed",
       "notes": "",
       "constraint": ""
-    },
-    {
-      "id": "wa-1781161400420",
-      "engineerName": "Santhosh N",
-      "weekStart": "2026-06-08",
-      "projectName": "3A-AV1-25120-Eddy Current Testing Equipment",
-      "projectTargetDate": "2026-06-19",
-      "tasks": [],
-      "currentStatus": "in_progress",
-      "notes": "",
-      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-11T07:27:10.782Z"
+  "lastUpdated": "2026-06-11T07:27:22.101Z"
 }
