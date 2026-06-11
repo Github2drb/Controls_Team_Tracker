@@ -537,36 +537,6 @@
       "constraint": ""
     },
     {
-      "id": "wa-1781175568511",
-      "engineerName": "Santhosh N",
-      "weekStart": "2026-06-08",
-      "projectName": "3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station",
-      "resourceLockedFrom": "",
-      "resourceLockedTill": "",
-      "internalTarget": "",
-      "customerTarget": "",
-      "tasks": [
-        {
-          "id": "t-1781175561212",
-          "taskName": "Electrical Drawing Completion",
-          "type": "weekly",
-          "assignedDate": "2026-06-11",
-          "status": "not_started",
-          "targetDate": "2026-06-11"
-        },
-        {
-          "id": "t-1781175568173",
-          "taskName": "Complete BOM",
-          "type": "weekly",
-          "assignedDate": "2026-06-11",
-          "status": "not_started",
-          "targetDate": "2026-06-11"
-        }
-      ],
-      "currentStatus": "in_progress",
-      "constraint": ""
-    },
-    {
       "id": "wa-1781175610759",
       "engineerName": "Santhosh N",
       "weekStart": "2026-06-08",
@@ -597,5 +567,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-11T11:00:10.759Z"
+  "lastUpdated": "2026-06-11T14:27:15.746Z"
 }
