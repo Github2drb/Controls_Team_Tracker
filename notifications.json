@@ -38,7 +38,18 @@
       "readBy": [
         "__all__"
       ]
+    },
+    {
+      "id": "notif-1781324085670",
+      "title": "Mail id for Site Visit Advance, Settlement and Approvals",
+      "message": "Employee advances, advance settlements, related approvals, Employee reimbursement claims, supporting documents, and payment status follow-ups related mails should be sent to 3dcadpayable@3dcad-global.com",
+      "type": "info",
+      "link": "",
+      "isTicker": false,
+      "readBy": [],
+      "author": "Admin",
+      "createdAt": "2026-06-13T04:14:45.670Z"
     }
   ],
-  "lastUpdated": "2026-06-13T04:10:49.128Z"
+  "lastUpdated": "2026-06-13T04:14:45.670Z"
 }
