@@ -58,11 +58,11 @@
       "message": "Send list of projects completed, Accomplishments in 2025-36\nin Excel Sheet by 15th June without fail.",
       "type": "alert",
       "link": "",
-      "isTicker": false,
+      "isTicker": true,
       "readBy": [],
       "author": "Admin",
       "createdAt": "2026-06-13T07:10:51.821Z"
     }
   ],
-  "lastUpdated": "2026-06-13T07:10:51.821Z"
+  "lastUpdated": "2026-06-13T07:10:54.775Z"
 }
