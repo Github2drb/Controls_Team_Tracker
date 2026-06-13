@@ -51,7 +51,18 @@
       ],
       "author": "Admin",
       "createdAt": "2026-06-13T04:14:45.670Z"
+    },
+    {
+      "id": "notif-1781334651821",
+      "title": "Last Date for sending list of Completed Projects for 2025-26 Perf. Evaluation",
+      "message": "Send list of projects completed, Accomplishments in 2025-36\nin Excel Sheet by 15th June without fail.",
+      "type": "alert",
+      "link": "",
+      "isTicker": false,
+      "readBy": [],
+      "author": "Admin",
+      "createdAt": "2026-06-13T07:10:51.821Z"
     }
   ],
-  "lastUpdated": "2026-06-13T04:15:56.787Z"
+  "lastUpdated": "2026-06-13T07:10:51.821Z"
 }
