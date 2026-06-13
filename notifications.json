@@ -59,10 +59,12 @@
       "type": "alert",
       "link": "",
       "isTicker": true,
-      "readBy": [],
+      "readBy": [
+        "device-t0t4nve89"
+      ],
       "author": "Admin",
       "createdAt": "2026-06-13T07:10:51.821Z"
     }
   ],
-  "lastUpdated": "2026-06-13T07:10:54.775Z"
+  "lastUpdated": "2026-06-13T13:27:26.915Z"
 }
