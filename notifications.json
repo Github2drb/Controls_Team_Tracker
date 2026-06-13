@@ -47,7 +47,8 @@
       "link": "",
       "isTicker": true,
       "readBy": [
-        "admin"
+        "admin",
+        "device-t0t4nve89"
       ],
       "author": "Admin",
       "createdAt": "2026-06-13T04:14:45.670Z"
@@ -66,5 +67,5 @@
       "createdAt": "2026-06-13T07:10:51.821Z"
     }
   ],
-  "lastUpdated": "2026-06-13T13:27:26.915Z"
+  "lastUpdated": "2026-06-13T13:27:29.335Z"
 }
