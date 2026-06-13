@@ -34,20 +34,6 @@
       "createdAt": "2026-06-13T15:07:11.646Z"
     },
     {
-      "id": "post-1781362532402",
-      "title": "Push Button and Indicators Details",
-      "author": "Admin",
-      "date": "2026-06-13",
-      "category": "Project Update",
-      "tags": [],
-      "coverImage": "",
-      "excerpt": "",
-      "content": "<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Push Buttons, Indicators & Tower Lamps Requirement Form | Industrial Automation</title>\n    <style>\n        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; margin: 0; padding: 20px; background-color: #f4f7f9; color: #333; }\n        .container { max-width: 1100px; margin: 0 auto; background: white; padding: 30px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }\n        header { text-align: center; border-bottom: 3px solid #0078d4; padding-bottom: 20px; margin-bottom: 30px; }\n        h1 { color: #0078d4; margin: 0; }\n        h2 { color: #005a9e; border-left: 5px solid #0078d4; padding-left: 15px; }\n        table { width: 100%; border-collapse: collapse; margin: 20px 0; }\n        th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }\n        th { background-color: #0078d4; color: white; }\n        .form-group { margin-bottom: 15px; }\n        label { display: block; margin-bottom: 5px; font-weight: bold; }\n        input[type=\"text\"], textarea, select { width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 4px; }\n        .download-btn { display: inline-block; background-color: #28a745; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; margin: 20px 0; }\n        .download-btn:hover { background-color: #218838; }\n        .best-practices { background-color: #f0f8ff; padding: 20px; border-left: 5px solid #0078d4; margin: 25px 0; }\n    </style>\n</head>\n<body>\n    <div class=\"container\">\n        <header>\n            <h1>Push Buttons, Indicators & Tower Lamps Requirement Form</h1>\n            <p><strong>For Special Purpose Machines (SPM) - Industrial Automation Projects</strong></p>\n        </header>\n\n        <section>\n            <h2>Project Information</h2>\n            <div class=\"form-group\"><label>Project Name:</label><input type=\"text\" placeholder=\"Enter Project Name\"></div>\n            <div class=\"form-group\"><label>Project Number:</label><input type=\"text\" placeholder=\"Enter Project Number\"></div>\n            <div class=\"form-group\"><label>Customer Name:</label><input type=\"text\" placeholder=\"Enter Customer Name\"></div>\n            <div class=\"form-group\"><label>Date:</label><input type=\"text\" placeholder=\"DD/MM/YYYY\"></div>\n            <div class=\"form-group\"><label>Site Location:</label><input type=\"text\" placeholder=\"Enter Site / Plant Location\"></div>\n        </section>\n\n        <!-- Push Buttons, Indicators, Tower Lamps sections (same as previous design) -->\n        <section>\n            <h2>1. Push Buttons</h2>\n            <!-- Operator, HMI, E-Stop, Reset sections with tables (full structure as before) -->\n            <!-- [Content abbreviated here for response length - full version is in the file] -->\n        </section>\n\n        <section class=\"best-practices\">\n            <h2>Best Practices & Standard Color Recommendations (IEC 60204-1)</h2>\n            <ul>\n                <li><strong>Green</strong>: Start / Running / Process OK</li>\n                <li><strong>Red</strong>: Stop / Emergency / Fault</li>\n                <li><strong>Yellow / Amber</strong>: Warning / Standby</li>\n                <li><strong>Blue</strong>: Reset / Information</li>\n                <li><strong>White</strong>: Power ON / Idle</li>\n            </ul>\n        </section>\n\n        <div style=\"text-align:center; margin:40px 0;\">\n            <a href=\"https://github.com/Github2drb/Controls_Team_Tracker/blob/main/Push_Buttons_Lamps_Requirement_Form.xlsx\" \n               class=\"download-btn\" target=\"_blank\" download>\n                📥 Download Fillable Excel Requirement Form\n            </a>\n        </div>\n\n        <footer style=\"text-align:center; margin-top:50px; color:#666;\">\n            <p>Industrial Automation Controls Team • Special Purpose Machines</p>\n        </footer>\n    </div>\n</body>\n",
-      "isPinned": false,
-      "isPublished": false,
-      "createdAt": "2026-06-13T14:55:32.402Z"
-    },
-    {
       "id": "post-1781362396294",
       "title": "Push Button and Indicator Details",
       "author": "Admin",
@@ -79,5 +65,5 @@
       "createdAt": "2026-06-13T14:51:21.844Z"
     }
   ],
-  "lastUpdated": "2026-06-13T15:33:02.023Z"
+  "lastUpdated": "2026-06-13T15:33:07.664Z"
 }
