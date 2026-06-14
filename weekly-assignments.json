@@ -599,7 +599,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1781436395024",
+      "engineerName": "Sumanjali",
+      "weekStart": "2026-06-08",
+      "projectName": "3A-IS1-26051 Final Line Filling Equipment Interlinking with Conveyor.",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1781436391999",
+          "taskName": "Material Followup, Drawing Verification and Project Status updation",
+          "type": "weekly",
+          "assignedDate": "2026-06-14",
+          "status": "not_started",
+          "targetDate": "2026-06-14"
+        }
+      ],
+      "currentStatus": "waiting_for_materials",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-14T10:57:10.787Z"
+  "lastUpdated": "2026-06-14T11:26:35.024Z"
 }
