@@ -577,7 +577,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1781434630787",
+      "engineerName": "Veeresh M",
+      "weekStart": "2026-06-08",
+      "projectName": "3A-S02-25054_Surface Hinge Assembly",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1781434628308",
+          "taskName": "Fence Gate Wiring Detail Support",
+          "type": "daily",
+          "assignedDate": "2026-06-15",
+          "status": "not_started",
+          "targetDate": "2026-06-15"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-14T10:56:38.056Z"
+  "lastUpdated": "2026-06-14T10:57:10.787Z"
 }
