@@ -1,0 +1,13 @@
+{
+  "subscriptions": {
+    "admin": {
+      "endpoint": "https://fcm.googleapis.com/fcm/send/fwk8Tsm_Z6A:APA91bFk1yxqvPCMTSS1_bIphK-G0c__DydSEzPKPgxj2nxyNGMYbH5P9MD4A9hWuj60SvY3DezlFN4rgeHx2PlY-kJc00D-tgSOX5Za-WDol40RONzPaD_3-ws3n2aafoMQTBmwibE-",
+      "keys": {
+        "p256dh": "BFAKpzSbJvuoBLGdkAUS3QO0G0y4Y0WY84eXNVBRWre3dtAYzckZXz3usuRfn9HgZYptmmHoLicMwnpQV99v4-E",
+        "auth": "kvgMyLmZxHuOtJ984moc-Q"
+      },
+      "engineerName": "Admin",
+      "subscribedAt": "2026-06-14T12:51:01.175Z"
+    }
+  }
+}
