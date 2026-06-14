@@ -511,7 +511,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1781434461895",
+      "engineerName": "Sumanjali",
+      "weekStart": "2026-06-08",
+      "projectName": "3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1781434458747",
+          "taskName": "Switch Test, Logger Detail, Programmable Power Supply Detail Collection",
+          "type": "weekly",
+          "assignedDate": "2026-06-14",
+          "status": "not_started",
+          "targetDate": "2026-06-14"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-14T10:53:20.944Z"
+  "lastUpdated": "2026-06-14T10:54:21.895Z"
 }
