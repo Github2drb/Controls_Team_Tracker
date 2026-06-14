@@ -445,7 +445,29 @@
       "currentStatus": "completed",
       "notes": "",
       "constraint": ""
+    },
+    {
+      "id": "wa-1781434328554",
+      "engineerName": "Eswanth Potnuri",
+      "weekStart": "2026-06-08",
+      "projectName": "3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1781434325997",
+          "taskName": "IO Check, Offline PLC Program and HMI",
+          "type": "weekly",
+          "assignedDate": "2026-06-14",
+          "status": "not_started",
+          "targetDate": "2026-06-14"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-13T13:32:26.930Z"
+  "lastUpdated": "2026-06-14T10:52:08.554Z"
 }
