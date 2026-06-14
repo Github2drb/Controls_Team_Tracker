@@ -3884,6 +3884,72 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Sumanjali",
+      "date": "2026-06-08",
+      "targetTasks": [
+        {
+          "id": "wa-1781434462728-ll8b",
+          "text": "[3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Sumanjali",
+      "date": "2026-06-09",
+      "targetTasks": [
+        {
+          "id": "wa-1781434462728-mxmh",
+          "text": "[3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Sumanjali",
+      "date": "2026-06-10",
+      "targetTasks": [
+        {
+          "id": "wa-1781434462729-wy1e",
+          "text": "[3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Sumanjali",
+      "date": "2026-06-11",
+      "targetTasks": [
+        {
+          "id": "wa-1781434462729-k3qb",
+          "text": "[3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Sumanjali",
+      "date": "2026-06-12",
+      "targetTasks": [
+        {
+          "id": "wa-1781434462729-4k2d",
+          "text": "[3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Sumanjali",
+      "date": "2026-06-13",
+      "targetTasks": [
+        {
+          "id": "wa-1781434462729-s6cl",
+          "text": "[3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station] Weekly project task"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
