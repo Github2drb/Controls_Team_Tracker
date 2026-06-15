@@ -70,7 +70,18 @@
       ],
       "author": "Admin",
       "createdAt": "2026-06-13T07:10:51.821Z"
+    },
+    {
+      "id": "notif-1781501665116",
+      "title": "Surface Hinge Assembly F.A.T from 16_06_2026",
+      "message": "Surface Hinge Assembly Equipment F.A.T starts from June 15th.\nLine is expected to run without stoppage and alarms for 1 hour.\nEquipment should meet F.A.T points shared by customer.",
+      "type": "alert",
+      "link": "",
+      "isTicker": false,
+      "readBy": [],
+      "author": "Admin",
+      "createdAt": "2026-06-15T05:34:25.116Z"
     }
   ],
-  "lastUpdated": "2026-06-15T05:32:44.700Z"
+  "lastUpdated": "2026-06-15T05:34:25.116Z"
 }
