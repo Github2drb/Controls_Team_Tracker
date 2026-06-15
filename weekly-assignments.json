@@ -621,7 +621,37 @@
       ],
       "currentStatus": "waiting_for_materials",
       "constraint": ""
+    },
+    {
+      "id": "wa-1781498425559",
+      "engineerName": "Veeresh M",
+      "weekStart": "2026-06-15",
+      "projectName": "3A-S02-25054_Surface Hinge Assembly",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1781498394615",
+          "taskName": "Electrical Drawing Correction as per Southco Feedback",
+          "type": "daily",
+          "assignedDate": "2026-06-15",
+          "status": "not_started",
+          "targetDate": "2026-06-15"
+        },
+        {
+          "id": "t-1781498423552",
+          "taskName": "Fence Gate Switch Wiring Detail Support to Electrical Integration",
+          "type": "daily",
+          "assignedDate": "2026-06-15",
+          "status": "not_started",
+          "targetDate": "2026-06-15"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-14T11:26:35.024Z"
+  "lastUpdated": "2026-06-15T04:40:25.559Z"
 }
