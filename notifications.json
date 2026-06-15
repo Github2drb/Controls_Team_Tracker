@@ -11,7 +11,8 @@
       "isTicker": true,
       "readBy": [
         "__all__",
-        "device-l842pfrhj"
+        "device-l842pfrhj",
+        "device-rk9qar0jl"
       ]
     },
     {
@@ -23,7 +24,8 @@
       "author": "Admin",
       "createdAt": "2026-06-05T13:03:27.859Z",
       "readBy": [
-        "__all__"
+        "__all__",
+        "device-rk9qar0jl"
       ]
     },
     {
@@ -36,7 +38,8 @@
       "createdAt": "2026-06-05T12:23:02.961Z",
       "isTicker": false,
       "readBy": [
-        "__all__"
+        "__all__",
+        "device-rk9qar0jl"
       ]
     },
     {
@@ -48,7 +51,8 @@
       "isTicker": true,
       "readBy": [
         "admin",
-        "device-t0t4nve89"
+        "device-t0t4nve89",
+        "device-rk9qar0jl"
       ],
       "author": "Admin",
       "createdAt": "2026-06-13T04:14:45.670Z"
@@ -68,5 +72,5 @@
       "createdAt": "2026-06-13T07:10:51.821Z"
     }
   ],
-  "lastUpdated": "2026-06-15T04:43:14.947Z"
+  "lastUpdated": "2026-06-15T04:43:17.900Z"
 }
