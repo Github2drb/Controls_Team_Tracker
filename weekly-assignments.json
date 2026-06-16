@@ -334,7 +334,7 @@
           "status": "not_started"
         }
       ],
-      "currentStatus": "in_progress",
+      "currentStatus": "waiting_for_materials",
       "constraint": "DAP Completed. Offline PLC and HMI in progress.Material Procurement in progress"
     },
     {
@@ -654,5 +654,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-16T10:10:37.678Z"
+  "lastUpdated": "2026-06-16T10:10:48.726Z"
 }
