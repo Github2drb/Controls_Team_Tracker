@@ -297,7 +297,7 @@
     },
     {
       "id": "wa-1778153306102",
-      "engineerName": "Santosh N, Harsha (Ampere)",
+      "engineerName": "Santosh N, Susanth K M",
       "weekStart": "2026-05-04",
       "projectName": "3A-AV1-25120-Eddy Current Testing Equipment",
       "resourceLockedFrom": "2026-05-01",
@@ -654,5 +654,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-16T10:08:47.933Z"
+  "lastUpdated": "2026-06-16T10:09:02.292Z"
 }
