@@ -174,7 +174,7 @@
       ],
       "currentStatus": "in_progress",
       "notes": "",
-      "constraint": "Pallet Sensor,Handy HMI Integration Completed.\nSafety Dog Proximity installation Completed>\nSingle Compressor loading from Shuttle Station in progress",
+      "constraint": "CC link ",
       "resourceLockedFrom": "2026-01-05",
       "resourceLockedTill": "2026-06-10",
       "internalTarget": "2026-04-09",
@@ -654,5 +654,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-16T10:09:45.177Z"
+  "lastUpdated": "2026-06-16T10:10:27.411Z"
 }
