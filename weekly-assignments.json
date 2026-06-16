@@ -210,7 +210,7 @@
       "projectName": "3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo",
       "projectTargetDate": "2026-04-21",
       "tasks": [],
-      "currentStatus": "in_progress",
+      "currentStatus": "trials_stage",
       "notes": "Washer Gantry Pick and Place and All gantry Initialization",
       "constraint": "Vision Pending for Washer Gantry due to sensopart signal issue.\nVision team will be installing Basler camera on 03-06-2026",
       "resourceLockedFrom": "2025-11-01",
@@ -654,5 +654,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-16T10:10:48.726Z"
+  "lastUpdated": "2026-06-16T10:12:55.659Z"
 }
