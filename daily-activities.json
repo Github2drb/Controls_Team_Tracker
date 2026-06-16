@@ -4130,6 +4130,72 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Susanth K M",
+      "date": "2026-05-04",
+      "targetTasks": [
+        {
+          "id": "wa-1781604543159-3tf9",
+          "text": "[3A-AV1-25120-Eddy Current Testing Equipment] DAP Submitted on 26-05-26.\nControl Panel need to be released. Ampere team will be programming this equipment"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Susanth K M",
+      "date": "2026-05-05",
+      "targetTasks": [
+        {
+          "id": "wa-1781604543160-rejk",
+          "text": "[3A-AV1-25120-Eddy Current Testing Equipment] DAP Submitted on 26-05-26.\nControl Panel need to be released. Ampere team will be programming this equipment"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Susanth K M",
+      "date": "2026-05-06",
+      "targetTasks": [
+        {
+          "id": "wa-1781604543160-dpps",
+          "text": "[3A-AV1-25120-Eddy Current Testing Equipment] DAP Submitted on 26-05-26.\nControl Panel need to be released. Ampere team will be programming this equipment"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Susanth K M",
+      "date": "2026-05-07",
+      "targetTasks": [
+        {
+          "id": "wa-1781604543160-zbw1",
+          "text": "[3A-AV1-25120-Eddy Current Testing Equipment] DAP Submitted on 26-05-26.\nControl Panel need to be released. Ampere team will be programming this equipment"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Susanth K M",
+      "date": "2026-05-08",
+      "targetTasks": [
+        {
+          "id": "wa-1781604543160-f38o",
+          "text": "[3A-AV1-25120-Eddy Current Testing Equipment] DAP Submitted on 26-05-26.\nControl Panel need to be released. Ampere team will be programming this equipment"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Susanth K M",
+      "date": "2026-05-09",
+      "targetTasks": [
+        {
+          "id": "wa-1781604543160-z54z",
+          "text": "[3A-AV1-25120-Eddy Current Testing Equipment] DAP Submitted on 26-05-26.\nControl Panel need to be released. Ampere team will be programming this equipment"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
