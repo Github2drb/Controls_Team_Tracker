@@ -33,6 +33,20 @@
       "isPublished": true,
       "createdAt": "2026-06-13T15:07:11.646Z"
     }
+    ,{
+  "id": "post-1781620000001",
+  "title": "Surface Hinge Assembly Wiring Corrections",
+  "author": "Admin",
+  "date": "2026-06-16",
+  "category": "General",
+  "tags": ["Safety", "Wiring", "STO", "EDM"],
+  "coverImage": "https://raw.githubusercontent.com/Github2drb/Controls_Team_Tracker/main/blog-images/image.jpg",
+  "excerpt": "Corrections that need to be done",
+  "content": "<iframe src=\"https://claude.site/public/artifacts/a1853ece-48e5-4b7d-97c3-2bfb584176f7/embed\" title=\"CRITICAL SAFETY CORRECTIONS - STO and EDM Wiring\" width=\"100%\" height=\"700\" frameborder=\"0\" allow=\"clipboard-write\" allowfullscreen style=\"border-radius:8px\"></iframe>",
+  "isPinned": false,
+  "isPublished": true,
+  "createdAt": "2026-06-16T12:00:00.000Z"
+}
   ],
   "lastUpdated": "2026-06-13T15:41:34.359Z"
 }
