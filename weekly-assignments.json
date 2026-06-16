@@ -89,7 +89,7 @@
           "status": "not_started"
         }
       ],
-      "currentStatus": "in_progress",
+      "currentStatus": "waiting_for_materials",
       "notes": "",
       "constraint": "Material Procurement in progress",
       "resourceLockedFrom": "2026-03-23",
@@ -654,5 +654,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-16T10:10:27.411Z"
+  "lastUpdated": "2026-06-16T10:10:37.678Z"
 }
