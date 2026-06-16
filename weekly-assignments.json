@@ -239,7 +239,7 @@
           "status": "in_progress"
         }
       ],
-      "currentStatus": "in_progress",
+      "currentStatus": "waiting_for_materials",
       "resourceLockedFrom": "2026-04-21",
       "resourceLockedTill": "2026-06-30",
       "internalTarget": "2026-05-28",
@@ -654,5 +654,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-16T10:09:02.292Z"
+  "lastUpdated": "2026-06-16T10:09:29.156Z"
 }
