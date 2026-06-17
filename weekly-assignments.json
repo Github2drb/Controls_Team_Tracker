@@ -509,7 +509,7 @@
           "targetDate": "2026-06-14"
         }
       ],
-      "currentStatus": "in_progress",
+      "currentStatus": "completed",
       "constraint": ""
     },
     {
@@ -654,5 +654,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-17T05:26:15.441Z"
+  "lastUpdated": "2026-06-17T05:37:18.627Z"
 }
