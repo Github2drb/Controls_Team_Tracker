@@ -602,16 +602,7 @@
       "resourceLockedTill": "",
       "internalTarget": "",
       "customerTarget": "",
-      "tasks": [
-        {
-          "id": "t-1781436391999",
-          "taskName": "Material Followup, Drawing Verification and Project Status updation",
-          "type": "weekly",
-          "assignedDate": "2026-06-14",
-          "status": "not_started",
-          "targetDate": "2026-06-14"
-        }
-      ],
+      "tasks": [],
       "currentStatus": "waiting_for_materials",
       "constraint": ""
     },
