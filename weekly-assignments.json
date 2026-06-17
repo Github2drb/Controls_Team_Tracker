@@ -505,8 +505,9 @@
           "taskName": "Washer Gantry Sequence Change and Validation",
           "type": "weekly",
           "assignedDate": "2026-06-14",
-          "status": "not_started",
-          "targetDate": "2026-06-14"
+          "status": "completed",
+          "targetDate": "2026-06-14",
+          "completionDate": "2026-06-17"
         }
       ],
       "currentStatus": "completed",
