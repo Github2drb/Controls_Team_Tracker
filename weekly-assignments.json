@@ -522,16 +522,7 @@
       "resourceLockedTill": "",
       "internalTarget": "",
       "customerTarget": "",
-      "tasks": [
-        {
-          "id": "t-1781434458747",
-          "taskName": "Switch Test, Logger Detail, Programmable Power Supply Detail Collection",
-          "type": "weekly",
-          "assignedDate": "2026-06-14",
-          "status": "not_started",
-          "targetDate": "2026-06-14"
-        }
-      ],
+      "tasks": [],
       "currentStatus": "not_started",
       "constraint": ""
     },
