@@ -78,10 +78,12 @@
       "type": "alert",
       "link": "",
       "isTicker": true,
-      "readBy": [],
+      "readBy": [
+        "admin"
+      ],
       "author": "Admin",
       "createdAt": "2026-06-15T05:34:25.116Z"
     }
   ],
-  "lastUpdated": "2026-06-15T14:06:58.154Z"
+  "lastUpdated": "2026-06-17T05:43:03.504Z"
 }
