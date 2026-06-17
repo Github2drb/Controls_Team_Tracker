@@ -212,7 +212,7 @@
       "tasks": [],
       "currentStatus": "trials_stage",
       "notes": "Washer Gantry Pick and Place and All gantry Initialization",
-      "constraint": "Washer Gantry",
+      "constraint": "Washer Gantry new logic validation pending",
       "resourceLockedFrom": "2025-11-01",
       "resourceLockedTill": "2026-04-30",
       "internalTarget": "2026-04-29",
@@ -654,5 +654,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-17T05:25:59.120Z"
+  "lastUpdated": "2026-06-17T05:26:15.441Z"
 }
