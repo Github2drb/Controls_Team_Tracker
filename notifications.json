@@ -12,7 +12,8 @@
       "readBy": [
         "__all__",
         "device-l842pfrhj",
-        "device-rk9qar0jl"
+        "device-rk9qar0jl",
+        "admin"
       ]
     },
     {
@@ -25,7 +26,8 @@
       "createdAt": "2026-06-05T13:03:27.859Z",
       "readBy": [
         "__all__",
-        "device-rk9qar0jl"
+        "device-rk9qar0jl",
+        "admin"
       ]
     },
     {
@@ -39,7 +41,8 @@
       "isTicker": false,
       "readBy": [
         "__all__",
-        "device-rk9qar0jl"
+        "device-rk9qar0jl",
+        "admin"
       ]
     },
     {
@@ -66,7 +69,8 @@
       "isTicker": false,
       "readBy": [
         "device-t0t4nve89",
-        "device-rk9qar0jl"
+        "device-rk9qar0jl",
+        "admin"
       ],
       "author": "Admin",
       "createdAt": "2026-06-13T07:10:51.821Z"
@@ -85,5 +89,5 @@
       "createdAt": "2026-06-15T05:34:25.116Z"
     }
   ],
-  "lastUpdated": "2026-06-17T05:43:03.504Z"
+  "lastUpdated": "2026-06-17T05:43:21.036Z"
 }
