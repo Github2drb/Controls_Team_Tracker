@@ -174,7 +174,7 @@
       ],
       "currentStatus": "in_progress",
       "notes": "",
-      "constraint": "CC link ",
+      "constraint": "CC link IE Field Check in progress.\nExpecting PLC CPU this week",
       "resourceLockedFrom": "2026-01-05",
       "resourceLockedTill": "2026-06-10",
       "internalTarget": "2026-04-09",
@@ -654,5 +654,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-17T05:23:27.582Z"
+  "lastUpdated": "2026-06-17T05:23:56.769Z"
 }
