@@ -241,10 +241,10 @@
       ],
       "currentStatus": "waiting_for_materials",
       "resourceLockedFrom": "2026-04-21",
-      "resourceLockedTill": "2026-06-30",
-      "internalTarget": "2026-05-28",
-      "customerTarget": "2026-05-31",
-      "constraint": "Preliminary Customer Meeting Completed\nDAP completed on 26-05-26\nMaterial Procurement in Progress"
+      "resourceLockedTill": "2026-07-30",
+      "internalTarget": "2026-07-15",
+      "customerTarget": "2026-07-28",
+      "constraint": "Waiting for Panel, PLC and HMI"
     },
     {
       "id": "wa-1777017351622",
@@ -654,5 +654,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-17T05:22:36.362Z"
+  "lastUpdated": "2026-06-17T05:23:27.582Z"
 }
