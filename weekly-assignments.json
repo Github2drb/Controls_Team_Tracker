@@ -647,8 +647,9 @@
           "taskName": "Fence Gate Switch Wiring Detail Support to Electrical Integration",
           "type": "daily",
           "assignedDate": "2026-06-15",
-          "status": "not_started",
-          "targetDate": "2026-06-15"
+          "status": "completed",
+          "targetDate": "2026-06-15",
+          "completionDate": "2026-06-17"
         }
       ],
       "currentStatus": "in_progress",
