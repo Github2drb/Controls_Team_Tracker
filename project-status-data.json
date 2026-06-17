@@ -1,0 +1,95 @@
+{
+  "overrides": {},
+  "phases": [
+    "Long Lead BOM",
+    "Complete BOP",
+    "DAP",
+    "BOM in ODOO",
+    "EPLAN",
+    "Hardware Availablity",
+    "Offline PLC Program",
+    "Offline HMI Program",
+    "Communication with other devices",
+    "Equipment Power up",
+    "IO Check",
+    "Hardware Integration",
+    "Manual Testing",
+    "Auto Testing",
+    "Trials",
+    "Documentation",
+    "Line Handover to Customer"
+  ],
+  "projects": [
+    {
+      "id": "proj-2",
+      "name": "3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station",
+      "engineer": "Needs to Assign"
+    },
+    {
+      "id": "proj-3",
+      "name": "3A-AV1-25120-Eddy Current Testing Equipment",
+      "engineer": "Needs to Assign"
+    },
+    {
+      "id": "proj-4",
+      "name": "3A-DK1-25077-Dehydration Project",
+      "engineer": "Harsha KA"
+    },
+    {
+      "id": "proj-5",
+      "name": "3A-DK2-25143_STEP 4-Leak Testing Machine",
+      "engineer": "Needs to Assign"
+    },
+    {
+      "id": "proj-6",
+      "name": "3A-GB1-26007_GE_Pressure Tester",
+      "engineer": "Eswanth"
+    },
+    {
+      "id": "proj-7",
+      "name": "3A-IE1-26042 & 3A-IE1-26043 -INDIC-Wave Soldering Machine Conveyor Assembly -Misumi & Bosch",
+      "engineer": "Dhanesh"
+    },
+    {
+      "id": "proj-8",
+      "name": "3A-IS1-26051 Final Line Filling Equipment Interlinking with Conveyor.",
+      "engineer": "Harsha KA"
+    },
+    {
+      "id": "proj-9",
+      "name": "3A-DK2-25142 - STEP 4 - Dehydration",
+      "engineer": "Susanth"
+    },
+    {
+      "id": "proj-10",
+      "name": "3A-SS1-26012-Sartorius- Glass bead blasting automation",
+      "engineer": "Eswanth"
+    },
+    {
+      "id": "proj-11",
+      "name": "3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector",
+      "engineer": "Eswanth"
+    },
+    {
+      "id": "proj-12",
+      "name": "3A-VA1-26035-Varroc-Stator Housing Shrink Fitting",
+      "engineer": "Dhanesh"
+    },
+    {
+      "id": "proj-13",
+      "name": "3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine",
+      "engineer": "Praveen"
+    },
+    {
+      "id": "proj-14",
+      "name": "DK1-25110- ODU Assembly auto line",
+      "engineer": "Susanth"
+    },
+    {
+      "id": "proj-15",
+      "name": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO",
+      "engineer": "Eswanth"
+    }
+  ],
+  "lastUpdated": "2026-06-17T05:33:46.158Z"
+}
