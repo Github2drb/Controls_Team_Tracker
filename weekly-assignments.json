@@ -114,7 +114,7 @@
       ],
       "currentStatus": "in_progress",
       "notes": "",
-      "constraint": "Material Ordered. Waiting for Materials delivery to start electrical assembly",
+      "constraint": "Offline Logic Ready. Electrical Assembly Pending",
       "resourceLockedFrom": "2026-03-30",
       "resourceLockedTill": "2026-05-31",
       "internalTarget": "2026-05-06",
@@ -660,5 +660,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-18T04:28:48.166Z"
+  "lastUpdated": "2026-06-18T04:29:20.388Z"
 }
