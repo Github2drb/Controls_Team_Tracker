@@ -314,7 +314,7 @@
         }
       ],
       "currentStatus": "waiting_for_materials",
-      "constraint": "DAP Submitted on 26-05-26.\nControl Panel need to be released. Ampere team will be programming this equipment"
+      "constraint": "DAP Submitted on 26-05-26.\nOffline Logic to be started.\nRisk Assessment pending"
     },
     {
       "id": "wa-1778562866003",
@@ -660,5 +660,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-18T04:27:56.358Z"
+  "lastUpdated": "2026-06-18T04:28:48.166Z"
 }
