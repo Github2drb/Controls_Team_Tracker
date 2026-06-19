@@ -659,7 +659,61 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1781870160064",
+      "engineerName": "Veeresh M",
+      "weekStart": "2026-06-15",
+      "projectName": "3A-S02-25054_Surface Hinge Assembly",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1781869211805",
+          "taskName": "Identify Wirings without connector that need to be removed while dismantling machine",
+          "type": "daily",
+          "assignedDate": "2026-06-20",
+          "status": "not_started",
+          "targetDate": "2026-06-20"
+        },
+        {
+          "id": "t-1781869258757",
+          "taskName": "Check Pheonix Switch Name tag and compare it with drawing. Drawing and Actual Tag should be same",
+          "type": "daily",
+          "assignedDate": "2026-06-20",
+          "status": "not_started",
+          "targetDate": "2026-06-20"
+        },
+        {
+          "id": "t-1781869290031",
+          "taskName": "Identify Beckhoff Module positions with photograph.Same has be shown in drawing",
+          "type": "daily",
+          "assignedDate": "2026-06-20",
+          "status": "not_started",
+          "targetDate": "2026-06-20"
+        },
+        {
+          "id": "t-1781869317299",
+          "taskName": "EtherCAT node number should be checked. Page header title should be checked properly.",
+          "type": "daily",
+          "assignedDate": "2026-06-20",
+          "status": "not_started",
+          "targetDate": "2026-06-20"
+        },
+        {
+          "id": "t-1781869336571",
+          "taskName": "Arrow Mark Navigation should be checked in drawing.",
+          "type": "daily",
+          "assignedDate": "2026-06-20",
+          "status": "not_started",
+          "targetDate": "2026-06-20"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-19T07:44:24.942Z"
+  "lastUpdated": "2026-06-19T11:56:00.064Z"
 }
