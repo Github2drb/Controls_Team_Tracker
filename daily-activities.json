@@ -4376,6 +4376,17 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Eswanth Potnuri",
+      "date": "2026-06-20",
+      "targetTasks": [],
+      "completedActivities": [
+        {
+          "id": "a-1781945936262-jh3n2",
+          "text": "3A-CC1-26040_BOM Preparation and review"
+        }
+      ]
     }
   ]
 }
