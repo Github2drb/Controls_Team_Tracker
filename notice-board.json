@@ -8,10 +8,17 @@
           "date": "2026-06-20",
           "type": "note",
           "createdAt": "2026-06-20T05:25:29.233Z"
+        },
+        {
+          "id": "c-1781945884033",
+          "text": "3A-CC1-26040_BOM Preparation and review",
+          "date": "2026-06-20",
+          "type": "update",
+          "createdAt": "2026-06-20T08:58:04.033Z"
         }
       ],
       "dismissedMissed": []
     }
   },
-  "lastUpdated": "2026-06-20T05:25:29.233Z"
+  "lastUpdated": "2026-06-20T08:58:04.033Z"
 }
