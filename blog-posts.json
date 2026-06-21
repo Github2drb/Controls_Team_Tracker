@@ -32,7 +32,23 @@
       "isPinned": false,
       "isPublished": true,
       "createdAt": "2026-06-13T15:07:11.646Z"
+    },
+    {
+      "id": "post-1782029100720",
+      "title": "Material BOM Tracker — Sample Sheet",
+      "author": "Admin",
+      "date": "2026-06-21",
+      "category": "General",
+      "tags": [
+        "#BOM_Status"
+      ],
+      "coverImage": "https://github.com/Github2drb/Controls_Team_Tracker/raw/main/Material_BOM_Tracker_Sample.xlsx",
+      "excerpt": "Download this sample sheet to plan BOM, PR, PO and material receipt dates before entering them into the Material Procurement Tracker.",
+      "content": "<div style=\"font-family:'Segoe UI',Tahoma,Geneva,Verdana,sans-serif;line-height:1.6;color:#e2e8f0\">\n\n  <div style=\"text-align:center;border-bottom:3px solid #0078d4;padding-bottom:20px;margin-bottom:30px\">\n    <h1 style=\"color:#60a5fa;margin:0\">Material BOM Tracker — Sample Sheet</h1>\n    <p style=\"color:#94a3b8\"><strong>Use this template to plan procurement before entering data into the tracker app</strong></p>\n  </div>\n\n  <p>\n    Getting PLC, HMI, Servo, and other critical materials on time is essential to completing\n    a project on schedule. This sheet helps you plan out <strong>BOM, PR, PO, and Material Receipt</strong>\n    dates for every item before logging them into the\n    <a href=\"/material-tracker\" style=\"color:#60a5fa\">Material Procurement Tracker</a>.\n  </p>\n\n  <h2 style=\"color:#93c5fd;border-left:5px solid #0078d4;padding-left:15px\">What's in the sheet</h2>\n  <ul style=\"color:#cbd5e1;line-height:1.8\">\n    <li>12 sample materials (PLC, HMI, Servo Drive/Motor, Safety Relay, E-Stop, etc.)</li>\n    <li>Columns for BOM Created, PR Created, PR Approved, PO Created, PO Approved, Target Receipt, Actual Receipt</li>\n    <li>A second \"Instructions\" tab explaining the date format and alert rules</li>\n  </ul>\n\n  <div style=\"background:#1e3a5f;border-left:5px solid #0078d4;padding:20px;margin:25px 0;border-radius:4px\">\n    <h2 style=\"color:#93c5fd;margin-top:0\">Automatic Alert Rules in the Tracker</h2>\n    <ul style=\"color:#cbd5e1;line-height:2\">\n      <li><strong style=\"color:#ef4444\">Red flag</strong> — PR Created not filled within 3 days of BOM Created date</li>\n      <li><strong style=\"color:#ef4444\">Red flag</strong> — PO Created not filled within 3 days of PR Approved date</li>\n      <li><strong style=\"color:#ef4444\">Red flag</strong> — Target Receipt date passed without Actual Receipt logged</li>\n      <li><strong style=\"color:#f59e0b\">Amber</strong> — Material due within 3 days of Target Receipt</li>\n    </ul>\n  </div>\n\n  <h2 style=\"color:#93c5fd;border-left:5px solid #0078d4;padding-left:15px\">How to use it</h2>\n  <ol style=\"color:#cbd5e1;line-height:1.8\">\n    <li>Download the sheet below</li>\n    <li>Fill in your project's material list and dates (YYYY-MM-DD format)</li>\n    <li>Open the <a href=\"/material-tracker\" style=\"color:#60a5fa\">Material Procurement Tracker</a> page</li>\n    <li>Select or add your project, paste the BOM file's link into \"BOM Location\"</li>\n    <li>Manually add each material into the tracker with its dates — the tracker will flag any item that's overdue automatically</li>\n  </ol>\n\n  <div style=\"text-align:center;margin:40px 0\">\n    <a href=\"https://github.com/Github2drb/Controls_Team_Tracker/raw/main/Material_BOM_Tracker_Sample.xlsx\"\n       target=\"_blank\"\n       style=\"display:inline-block;background:#16a34a;color:white;padding:14px 28px;text-decoration:none;border-radius:8px;font-weight:bold;font-size:16px\">\n      📥 Download Sample BOM Tracker Sheet\n    </a>\n    <p style=\"color:#94a3b8;font-size:12px;margin-top:8px\">\n      Opens Excel file directly from GitHub\n    </p>\n  </div>\n\n  <div style=\"text-align:center;margin-top:40px;color:#64748b;font-size:13px\">\n    <p>Industrial Automation Controls Team • Material Procurement Tracking</p>\n  </div>\n\n</div>",
+      "isPinned": false,
+      "isPublished": true,
+      "createdAt": "2026-06-21T08:05:00.720Z"
     }
   ],
-  "lastUpdated": "2026-06-17T05:28:42.252Z"
+  "lastUpdated": "2026-06-21T08:05:00.720Z"
 }
