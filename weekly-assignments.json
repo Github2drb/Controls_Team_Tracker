@@ -749,7 +749,29 @@
       "tasks": [],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1782114658290",
+      "engineerName": "Harsha K",
+      "weekStart": "2026-06-22",
+      "projectName": "3A-DK1-25077-Dehydration Project",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1782114656566",
+          "taskName": "CC Link Migration from Ethernet/ip for Elco Master Module to Q PLC",
+          "type": "weekly",
+          "assignedDate": "2026-06-22",
+          "status": "not_started",
+          "targetDate": "2026-06-22"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-22T07:45:58.204Z"
+  "lastUpdated": "2026-06-22T07:50:58.290Z"
 }
