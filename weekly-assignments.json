@@ -736,7 +736,20 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1782109718163",
+      "engineerName": "Susanth K M",
+      "weekStart": "2026-06-22",
+      "projectName": "3A-DK1-25077-Dehydration Project",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-22T06:27:55.960Z"
+  "lastUpdated": "2026-06-22T06:28:38.163Z"
 }
