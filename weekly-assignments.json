@@ -714,7 +714,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1782109675960",
+      "engineerName": "Eswanth Potnuri",
+      "weekStart": "2026-06-22",
+      "projectName": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1782109662654",
+          "taskName": "List BOM for EOL and create document RFQ",
+          "type": "weekly",
+          "assignedDate": "2026-06-22",
+          "status": "not_started",
+          "targetDate": "2026-06-22"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-21T03:55:57.238Z"
+  "lastUpdated": "2026-06-22T06:27:55.960Z"
 }
