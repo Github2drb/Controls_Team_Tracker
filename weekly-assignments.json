@@ -815,7 +815,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1782114810515",
+      "engineerName": "Susanth K M",
+      "weekStart": "2026-06-22",
+      "projectName": "3A-DK1-25077-Dehydration Project",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1782114808749",
+          "taskName": "Labels, FB Conversion from Dehydration Station in FX5U to Q",
+          "type": "weekly",
+          "assignedDate": "2026-06-22",
+          "status": "not_started",
+          "targetDate": "2026-06-22"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-22T07:52:46.371Z"
+  "lastUpdated": "2026-06-22T07:53:30.515Z"
 }
