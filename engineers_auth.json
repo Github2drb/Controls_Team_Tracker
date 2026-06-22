@@ -143,16 +143,6 @@
       "createdAt": "2026-01-25T01:20:43.699Z"
     },
     {
-      "id": "eng-24",
-      "name": "Kiran (D.I.C.S)",
-      "username": "kiran",
-      "password": "drb@123",
-      "role": "engineer",
-      "company": "D.I.C.S",
-      "isActive": true,
-      "createdAt": "2026-01-25T01:20:43.699Z"
-    },
-    {
       "id": "admin-1",
       "name": "Admin",
       "username": "admin",
@@ -216,5 +206,5 @@
       "lastLogin": "2026-06-05T06:02:56.430Z"
     }
   ],
-  "lastUpdated": "2026-06-22T07:35:19.108Z"
+  "lastUpdated": "2026-06-22T07:35:24.595Z"
 }
