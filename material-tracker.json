@@ -11,7 +11,8 @@
           "unit": "Nos",
           "bomDate": "2026-04-14",
           "prCreated": "2026-04-15",
-          "prApproved": "2026-04-15"
+          "prApproved": "2026-04-15",
+          "targetReceipt": "2026-06-26"
         },
         {
           "id": "mat-1782109225674-2-6zvs",
@@ -20,7 +21,8 @@
           "unit": "Nos",
           "bomDate": "2026-04-14",
           "prCreated": "2026-04-15",
-          "prApproved": "2026-04-15"
+          "prApproved": "2026-04-15",
+          "targetReceipt": "2026-06-26"
         },
         {
           "id": "mat-1782109225675-3-8gb8",
@@ -29,7 +31,8 @@
           "unit": "Nos",
           "bomDate": "2026-05-21",
           "prCreated": "2026-05-25",
-          "prApproved": "2026-05-25"
+          "prApproved": "2026-05-25",
+          "targetReceipt": "2026-06-26"
         },
         {
           "id": "mat-1782109225675-4-8y64",
@@ -38,10 +41,11 @@
           "unit": "Nos",
           "bomDate": "2026-05-21",
           "prCreated": "2026-05-25",
-          "prApproved": "2026-05-25"
+          "prApproved": "2026-05-25",
+          "targetReceipt": "2026-06-26"
         }
       ]
     }
   },
-  "lastUpdated": "2026-06-22T07:11:38.402Z"
+  "lastUpdated": "2026-06-22T15:29:09.247Z"
 }
