@@ -5,13 +5,43 @@
       "bomPath": "https://github.com/Github2drb/Controls_Team_Tracker/blob/main/denso BOM.xlsx",
       "materials": [
         {
-          "id": "mat-1782108009414-4qn5",
-          "name": "",
-          "qty": "",
-          "unit": ""
+          "id": "mat-1782109225674-1-aols",
+          "name": "FX5U-64MT/ESS",
+          "qty": "1",
+          "unit": "Nos",
+          "bomDate": "2026-04-14",
+          "prCreated": "2026-04-15",
+          "prApproved": "2026-04-15"
+        },
+        {
+          "id": "mat-1782109225674-2-6zvs",
+          "name": "GT2507-WTBD",
+          "qty": "1",
+          "unit": "Nos",
+          "bomDate": "2026-04-14",
+          "prCreated": "2026-04-15",
+          "prApproved": "2026-04-15"
+        },
+        {
+          "id": "mat-1782109225675-3-8gb8",
+          "name": "GL-860 with B-565",
+          "qty": "1",
+          "unit": "Nos",
+          "bomDate": "2026-05-21",
+          "prCreated": "2026-05-25",
+          "prApproved": "2026-05-25"
+        },
+        {
+          "id": "mat-1782109225675-4-8y64",
+          "name": "MPS-1800S-60-30",
+          "qty": "1",
+          "unit": "Nos",
+          "bomDate": "2026-05-21",
+          "prCreated": "2026-05-25",
+          "prApproved": "2026-05-25"
         }
       ]
     }
   },
-  "lastUpdated": "2026-06-22T06:00:19.259Z"
+  "lastUpdated": "2026-06-22T06:20:46.837Z"
 }
