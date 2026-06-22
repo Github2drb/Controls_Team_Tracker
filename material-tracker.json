@@ -3,8 +3,15 @@
     "3a-ad1-26046-asahi denso-switch endurance testing station": {
       "projectName": "3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station",
       "bomPath": "https://github.com/Github2drb/Controls_Team_Tracker/blob/main/denso BOM.xlsx",
-      "materials": []
+      "materials": [
+        {
+          "id": "mat-1782108009414-4qn5",
+          "name": "",
+          "qty": "",
+          "unit": ""
+        }
+      ]
     }
   },
-  "lastUpdated": "2026-06-22T06:00:04.435Z"
+  "lastUpdated": "2026-06-22T06:00:19.259Z"
 }
