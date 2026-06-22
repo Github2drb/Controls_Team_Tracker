@@ -334,7 +334,8 @@
       "currentStatus": "Procurement Stage",
       "activities": {
         "2026-06-18": "@3DCADVS-183_ESP_PLC Architecture Change Updations",
-        "2026-06-19": "@3DCADVS-183_ESP_Updated DAP Submission"
+        "2026-06-19": "@3DCADVS-183_ESP_Updated DAP Submission",
+        "2026-06-22": "@3DCADVS-183_ESP_Offline Logic Development"
       }
     },
     {
