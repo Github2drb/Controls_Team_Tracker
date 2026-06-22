@@ -771,7 +771,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1782114700371",
+      "engineerName": "Indrakumar",
+      "weekStart": "2026-06-22",
+      "projectName": "3A-S02-25054_Surface Hinge Assembly",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1782114698785",
+          "taskName": "HMI Documentation",
+          "type": "weekly",
+          "assignedDate": "2026-06-22",
+          "status": "not_started",
+          "targetDate": "2026-06-22"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-22T07:50:58.290Z"
+  "lastUpdated": "2026-06-22T07:51:40.371Z"
 }
