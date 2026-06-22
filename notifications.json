@@ -70,7 +70,8 @@
       "readBy": [
         "device-t0t4nve89",
         "device-rk9qar0jl",
-        "admin"
+        "admin",
+        "device-5lkeu22dq"
       ],
       "author": "Admin",
       "createdAt": "2026-06-13T07:10:51.821Z"
@@ -91,5 +92,5 @@
       "createdAt": "2026-06-15T05:34:25.116Z"
     }
   ],
-  "lastUpdated": "2026-06-22T05:57:33.921Z"
+  "lastUpdated": "2026-06-22T05:57:39.119Z"
 }
