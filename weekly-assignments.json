@@ -793,7 +793,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1782114766371",
+      "engineerName": "Dhanesh M",
+      "weekStart": "2026-06-22",
+      "projectName": "3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1782114762584",
+          "taskName": "Offline Logic Development, HMI Screen Development",
+          "type": "weekly",
+          "assignedDate": "2026-06-22",
+          "status": "not_started",
+          "targetDate": "2026-06-22"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-22T07:51:40.371Z"
+  "lastUpdated": "2026-06-22T07:52:46.371Z"
 }
