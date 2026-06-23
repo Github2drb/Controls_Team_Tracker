@@ -425,7 +425,7 @@
       "tasks": [],
       "currentStatus": "on_hold",
       "notes": "Trial Support",
-      "constraint": "Stepper with Vision Logic need to be integrated in existing sequence"
+      "constraint": "RFID with new Gripper logic need to be implemented"
     },
     {
       "id": "wa-1780639432350",
@@ -861,5 +861,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-23T16:04:31.363Z"
+  "lastUpdated": "2026-06-23T16:05:04.160Z"
 }
