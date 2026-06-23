@@ -349,7 +349,7 @@
       "tasks": [],
       "currentStatus": "in_progress",
       "notes": "Hardware Integration in Progress",
-      "constraint": "CIP Communication pending\nBarcode Scanning Pending\nPart Flush Check on E-Stop Pending"
+      "constraint": "CIP Communication Completed\nBarcode Scanning Pending\nPart Flush Check on E-Stop Pending"
     },
     {
       "id": "wa-1779455140013",
@@ -861,5 +861,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-23T05:21:55.642Z"
+  "lastUpdated": "2026-06-23T16:04:12.692Z"
 }
