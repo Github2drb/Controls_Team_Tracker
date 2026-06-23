@@ -837,7 +837,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1782192115642",
+      "engineerName": "Santhosh N",
+      "weekStart": "2026-06-22",
+      "projectName": "3A-DK1-25077-Dehydration Project",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1782192113429",
+          "taskName": "Operational Manual",
+          "type": "weekly",
+          "assignedDate": "2026-06-23",
+          "status": "not_started",
+          "targetDate": "2026-06-23"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-23T05:16:05.029Z"
+  "lastUpdated": "2026-06-23T05:21:55.642Z"
 }
