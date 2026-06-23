@@ -4721,6 +4721,72 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Santhosh N",
+      "date": "2026-06-22",
+      "targetTasks": [
+        {
+          "id": "wa-1782192116513-fv1m",
+          "text": "[3A-DK1-25077-Dehydration Project] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santhosh N",
+      "date": "2026-06-23",
+      "targetTasks": [
+        {
+          "id": "wa-1782192116513-vgta",
+          "text": "[3A-DK1-25077-Dehydration Project] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santhosh N",
+      "date": "2026-06-24",
+      "targetTasks": [
+        {
+          "id": "wa-1782192116513-dbh4",
+          "text": "[3A-DK1-25077-Dehydration Project] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santhosh N",
+      "date": "2026-06-25",
+      "targetTasks": [
+        {
+          "id": "wa-1782192116514-8yxf",
+          "text": "[3A-DK1-25077-Dehydration Project] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santhosh N",
+      "date": "2026-06-26",
+      "targetTasks": [
+        {
+          "id": "wa-1782192116514-w75y",
+          "text": "[3A-DK1-25077-Dehydration Project] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santhosh N",
+      "date": "2026-06-27",
+      "targetTasks": [
+        {
+          "id": "wa-1782192116514-wn00",
+          "text": "[3A-DK1-25077-Dehydration Project] Weekly project task"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
