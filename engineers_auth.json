@@ -222,8 +222,9 @@
       "role": "admin",
       "company": "",
       "isActive": true,
-      "createdAt": "2026-06-23T12:32:56.953Z"
+      "createdAt": "2026-06-23T12:32:56.953Z",
+      "lastLogin": "2026-06-23T12:35:41.577Z"
     }
   ],
-  "lastUpdated": "2026-06-23T12:32:56.953Z"
+  "lastUpdated": "2026-06-23T12:35:41.577Z"
 }
