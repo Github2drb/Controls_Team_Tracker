@@ -43,10 +43,17 @@
           "date": "2026-06-24",
           "type": "note",
           "createdAt": "2026-06-24T04:24:37.587Z"
+        },
+        {
+          "id": "c-1782282213802",
+          "text": "3A-CC1-26040_BOM and RFQ Finalisation",
+          "date": "2026-06-24",
+          "type": "note",
+          "createdAt": "2026-06-24T06:23:33.802Z"
         }
       ],
       "dismissedMissed": []
     }
   },
-  "lastUpdated": "2026-06-24T04:24:37.587Z"
+  "lastUpdated": "2026-06-24T06:23:33.802Z"
 }
