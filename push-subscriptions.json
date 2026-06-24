@@ -1,3 +1,13 @@
 {
-  "subscriptions": {}
+  "subscriptions": {
+    "admin": {
+      "endpoint": "https://fcm.googleapis.com/fcm/send/dW4u4yzJUMs:APA91bGEzPuXUaks8DNG2Y5gBiZgW9b3CnF7PwB8oPGrDxnAy3_BdkZmVRAY5dgsRDMr_xPTgTkxF-DQZwx4kc4x0CsvZIODpPmsn0EtKjzq7UEYeb4AbiE_r6KAtWFVVAOJHhL1ahag",
+      "keys": {
+        "p256dh": "BBT8a5Y8hXcB9uDKVm3vhXhmh2_45oIf-KrtgsUeP5MgGP3imeCXRoBZqSzvR-mJmLIMTRzuMBtyyUBbXDYbBp0",
+        "auth": "yVMNCDaSS7fpsOFHCfLoyA"
+      },
+      "engineerName": "Admin",
+      "subscribedAt": "2026-06-24T09:33:22.641Z"
+    }
+  }
 }
