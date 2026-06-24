@@ -6,7 +6,8 @@
     "3A-GB1-26007_GE_Pressure Tester": "{\"plc\":true,\"hmi\":false,\"testing\":\"not_started\"}",
     "3A-VA1-26035-Varroc-Stator Housing Shrink Fitting": "{\"plc\":true,\"hmi\":false,\"testing\":\"not_started\"}",
     "3A-DK2-25142_STEP 4 - Dehydration": "{\"plc\":true,\"hmi\":false,\"testing\":\"not_started\"}",
-    "3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine": "{\"plc\":true,\"hmi\":false,\"testing\":\"not_started\"}"
+    "3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine": "{\"plc\":true,\"hmi\":false,\"testing\":\"not_started\"}",
+    "3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector": "{\"plc\":true,\"hmi\":false,\"testing\":\"not_started\"}"
   },
-  "lastUpdated": "2026-06-24T09:34:47.012Z"
+  "lastUpdated": "2026-06-24T09:34:49.788Z"
 }
