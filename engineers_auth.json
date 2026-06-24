@@ -224,7 +224,16 @@
       "isActive": true,
       "createdAt": "2026-06-23T12:32:56.953Z",
       "lastLogin": "2026-06-23T12:35:41.577Z"
+    },
+    {
+      "id": "eng-11",
+      "name": "Harsha K",
+      "username": "harsha.k",
+      "password": "drb@123",
+      "role": "engineer",
+      "isActive": true,
+      "createdAt": "2026-06-24T08:52:34.096Z"
     }
   ],
-  "lastUpdated": "2026-06-23T12:41:08.452Z"
+  "lastUpdated": "2026-06-24T08:52:34.096Z"
 }
