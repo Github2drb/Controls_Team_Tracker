@@ -99,11 +99,12 @@
       "link": "",
       "isTicker": true,
       "readBy": [
-        "admin"
+        "admin",
+        "device-rk9qar0jl"
       ],
       "author": "Admin",
       "createdAt": "2026-06-24T08:38:38.670Z"
     }
   ],
-  "lastUpdated": "2026-06-24T09:25:46.078Z"
+  "lastUpdated": "2026-06-24T09:33:05.550Z"
 }
