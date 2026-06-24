@@ -2876,6 +2876,10 @@
         {
           "id": "wa-1781673889716-am0l",
           "text": "[3A-GB1-26007_GE_Pressure Tester] Material Ordered. Waiting for Materials delivery to start electrical assembly"
+        },
+        {
+          "id": "wa-1782278914614-9hno",
+          "text": "[DK1-25110- ODU Assembly auto line] Mechanical,Electrical Assembly in Progress.\nOffline PLC Program in Progress"
         }
       ],
       "completedActivities": []
@@ -2899,6 +2903,10 @@
         {
           "id": "wa-1781673889716-y5qq",
           "text": "[3A-GB1-26007_GE_Pressure Tester] Material Ordered. Waiting for Materials delivery to start electrical assembly"
+        },
+        {
+          "id": "wa-1782278914614-rzwo",
+          "text": "[DK1-25110- ODU Assembly auto line] Mechanical,Electrical Assembly in Progress.\nOffline PLC Program in Progress"
         }
       ],
       "completedActivities": []
@@ -2922,6 +2930,10 @@
         {
           "id": "wa-1781673889716-qfi2",
           "text": "[3A-GB1-26007_GE_Pressure Tester] Material Ordered. Waiting for Materials delivery to start electrical assembly"
+        },
+        {
+          "id": "wa-1782278914614-j969",
+          "text": "[DK1-25110- ODU Assembly auto line] Mechanical,Electrical Assembly in Progress.\nOffline PLC Program in Progress"
         }
       ],
       "completedActivities": []
@@ -2945,6 +2957,10 @@
         {
           "id": "wa-1781673889716-fpbu",
           "text": "[3A-GB1-26007_GE_Pressure Tester] Material Ordered. Waiting for Materials delivery to start electrical assembly"
+        },
+        {
+          "id": "wa-1782278914614-q4s8",
+          "text": "[DK1-25110- ODU Assembly auto line] Mechanical,Electrical Assembly in Progress.\nOffline PLC Program in Progress"
         }
       ],
       "completedActivities": []
@@ -2968,6 +2984,10 @@
         {
           "id": "wa-1781673889716-symz",
           "text": "[3A-GB1-26007_GE_Pressure Tester] Material Ordered. Waiting for Materials delivery to start electrical assembly"
+        },
+        {
+          "id": "wa-1782278914615-7x6a",
+          "text": "[DK1-25110- ODU Assembly auto line] Mechanical,Electrical Assembly in Progress.\nOffline PLC Program in Progress"
         }
       ],
       "completedActivities": []
@@ -2991,6 +3011,10 @@
         {
           "id": "wa-1781673889716-tb9i",
           "text": "[3A-GB1-26007_GE_Pressure Tester] Material Ordered. Waiting for Materials delivery to start electrical assembly"
+        },
+        {
+          "id": "wa-1782278914615-zrhr",
+          "text": "[DK1-25110- ODU Assembly auto line] Mechanical,Electrical Assembly in Progress.\nOffline PLC Program in Progress"
         }
       ],
       "completedActivities": []
@@ -4784,6 +4808,72 @@
         {
           "id": "wa-1782192116514-wn00",
           "text": "[3A-DK1-25077-Dehydration Project] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Susanth K M",
+      "date": "2026-03-30",
+      "targetTasks": [
+        {
+          "id": "wa-1782278914613-22hk",
+          "text": "[DK1-25110- ODU Assembly auto line] Mechanical,Electrical Assembly in Progress.\nOffline PLC Program in Progress"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Susanth K M",
+      "date": "2026-03-31",
+      "targetTasks": [
+        {
+          "id": "wa-1782278914613-q104",
+          "text": "[DK1-25110- ODU Assembly auto line] Mechanical,Electrical Assembly in Progress.\nOffline PLC Program in Progress"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Susanth K M",
+      "date": "2026-04-01",
+      "targetTasks": [
+        {
+          "id": "wa-1782278914613-7esk",
+          "text": "[DK1-25110- ODU Assembly auto line] Mechanical,Electrical Assembly in Progress.\nOffline PLC Program in Progress"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Susanth K M",
+      "date": "2026-04-02",
+      "targetTasks": [
+        {
+          "id": "wa-1782278914613-9ddg",
+          "text": "[DK1-25110- ODU Assembly auto line] Mechanical,Electrical Assembly in Progress.\nOffline PLC Program in Progress"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Susanth K M",
+      "date": "2026-04-03",
+      "targetTasks": [
+        {
+          "id": "wa-1782278914614-apbh",
+          "text": "[DK1-25110- ODU Assembly auto line] Mechanical,Electrical Assembly in Progress.\nOffline PLC Program in Progress"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Susanth K M",
+      "date": "2026-04-04",
+      "targetTasks": [
+        {
+          "id": "wa-1782278914614-ubzd",
+          "text": "[DK1-25110- ODU Assembly auto line] Mechanical,Electrical Assembly in Progress.\nOffline PLC Program in Progress"
         }
       ],
       "completedActivities": []
