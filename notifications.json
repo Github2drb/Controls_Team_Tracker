@@ -98,10 +98,12 @@
       "type": "info",
       "link": "",
       "isTicker": true,
-      "readBy": [],
+      "readBy": [
+        "admin"
+      ],
       "author": "Admin",
       "createdAt": "2026-06-24T08:38:38.670Z"
     }
   ],
-  "lastUpdated": "2026-06-24T08:38:41.344Z"
+  "lastUpdated": "2026-06-24T09:25:46.078Z"
 }
