@@ -382,7 +382,7 @@
     },
     {
       "id": "wa-1779862815702",
-      "engineerName": "Santhosh N, Eswanth Potnuri",
+      "engineerName": "Santhosh N, Eswanth Potnuri, Ramkumar Annamalai",
       "weekStart": "2026-05-25",
       "projectName": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO",
       "resourceLockedFrom": "2026-05-26",
@@ -391,7 +391,7 @@
       "customerTarget": "2026-06-26",
       "tasks": [],
       "currentStatus": "not_started",
-      "constraint": "DAP Submitted"
+      "constraint": "DAP Submitted\nBOM in progress."
     },
     {
       "id": "wa-1779862941175",
@@ -861,5 +861,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-24T05:30:24.010Z"
+  "lastUpdated": "2026-06-24T05:37:25.014Z"
 }
