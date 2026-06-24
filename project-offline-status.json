@@ -1,6 +1,7 @@
 {
   "statuses": {
-    "3A-DK2-25143_STEP 4-Leak Testing Machine": "{\"plc\":true,\"hmi\":false,\"testing\":\"not_started\"}"
+    "3A-DK2-25143_STEP 4-Leak Testing Machine": "{\"plc\":true,\"hmi\":false,\"testing\":\"not_started\"}",
+    "DK1-25110- ODU Assembly auto line": "{\"plc\":true,\"hmi\":false,\"testing\":\"not_started\"}"
   },
-  "lastUpdated": "2026-06-24T09:22:14.197Z"
+  "lastUpdated": "2026-06-24T09:33:52.416Z"
 }
