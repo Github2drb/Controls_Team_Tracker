@@ -244,7 +244,7 @@
       "resourceLockedTill": "2026-07-30",
       "internalTarget": "2026-07-15",
       "customerTarget": "2026-07-28",
-      "constraint": "Check Material Tracker"
+      "constraint": "Check Material Tracker\nVariable Power Supply,Data Logger and AIO->Modbus Converter required"
     },
     {
       "id": "wa-1777017351622",
@@ -861,5 +861,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-24T05:37:25.014Z"
+  "lastUpdated": "2026-06-24T09:38:34.826Z"
 }
