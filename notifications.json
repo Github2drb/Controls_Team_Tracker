@@ -90,7 +90,18 @@
       ],
       "author": "Admin",
       "createdAt": "2026-06-15T05:34:25.116Z"
+    },
+    {
+      "id": "notif-1782290318670",
+      "title": "Project Assignment Post",
+      "message": "Enter the details and post the excel sheet in Teams. Excel file name should be of Project Name. Save draft just in case to restore filled data before creating excel sheet.",
+      "type": "info",
+      "link": "",
+      "isTicker": false,
+      "readBy": [],
+      "author": "Admin",
+      "createdAt": "2026-06-24T08:38:38.670Z"
     }
   ],
-  "lastUpdated": "2026-06-22T05:57:39.119Z"
+  "lastUpdated": "2026-06-24T08:38:38.670Z"
 }
