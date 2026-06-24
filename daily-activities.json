@@ -2503,6 +2503,10 @@
         {
           "id": "wa-1779455034647-v0nf",
           "text": "[3A-S02-25054_Surface Hinge Assembly] Hardware Integration in Progress"
+        },
+        {
+          "id": "wa-1782279446156-lhcm",
+          "text": "[[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO] DAP Submitted\nBOM in progress."
         }
       ],
       "completedActivities": []
@@ -2514,6 +2518,10 @@
         {
           "id": "wa-1779455034648-ex80",
           "text": "[3A-S02-25054_Surface Hinge Assembly] Hardware Integration in Progress"
+        },
+        {
+          "id": "wa-1782279446156-5u5g",
+          "text": "[[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO] DAP Submitted\nBOM in progress."
         }
       ],
       "completedActivities": []
@@ -2525,6 +2533,10 @@
         {
           "id": "wa-1779455034648-tes9",
           "text": "[3A-S02-25054_Surface Hinge Assembly] Hardware Integration in Progress"
+        },
+        {
+          "id": "wa-1782279446156-6h5x",
+          "text": "[[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO] DAP Submitted\nBOM in progress."
         }
       ],
       "completedActivities": []
@@ -4898,6 +4910,39 @@
         {
           "id": "wa-1782279005901-dqhl",
           "text": "[3A-DK1-25077-Dehydration Project] CC link IE Field Completed\nExpecting PLC CPU this week\nHandy HMI Address assignment for Q PLC\nDehydration ,RFID,AI Scaling Logic migration from FX5U to Q PLC"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Ramkumar Annamalai",
+      "date": "2026-05-28",
+      "targetTasks": [
+        {
+          "id": "wa-1782279446156-smx6",
+          "text": "[[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO] DAP Submitted\nBOM in progress."
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Ramkumar Annamalai",
+      "date": "2026-05-29",
+      "targetTasks": [
+        {
+          "id": "wa-1782279446157-l6om",
+          "text": "[[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO] DAP Submitted\nBOM in progress."
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Ramkumar Annamalai",
+      "date": "2026-05-30",
+      "targetTasks": [
+        {
+          "id": "wa-1782279446157-zep6",
+          "text": "[[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO] DAP Submitted\nBOM in progress."
         }
       ],
       "completedActivities": []
