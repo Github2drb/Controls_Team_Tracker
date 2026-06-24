@@ -86,7 +86,8 @@
       "readBy": [
         "admin",
         "device-t0t4nve89",
-        "device-5lkeu22dq"
+        "device-5lkeu22dq",
+        "device-rk9qar0jl"
       ],
       "author": "Admin",
       "createdAt": "2026-06-15T05:34:25.116Z"
@@ -106,5 +107,5 @@
       "createdAt": "2026-06-24T08:38:38.670Z"
     }
   ],
-  "lastUpdated": "2026-06-24T09:33:05.550Z"
+  "lastUpdated": "2026-06-24T09:33:08.130Z"
 }
