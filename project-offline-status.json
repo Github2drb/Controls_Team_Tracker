@@ -4,7 +4,8 @@
     "DK1-25110- ODU Assembly auto line": "{\"plc\":true,\"hmi\":false,\"testing\":\"not_started\"}",
     "3A-SS1-26012-Sartorius- Glass bead blasting automation": "{\"plc\":true,\"hmi\":false,\"testing\":\"not_started\"}",
     "3A-GB1-26007_GE_Pressure Tester": "{\"plc\":true,\"hmi\":false,\"testing\":\"not_started\"}",
-    "3A-VA1-26035-Varroc-Stator Housing Shrink Fitting": "{\"plc\":true,\"hmi\":false,\"testing\":\"not_started\"}"
+    "3A-VA1-26035-Varroc-Stator Housing Shrink Fitting": "{\"plc\":true,\"hmi\":false,\"testing\":\"not_started\"}",
+    "3A-DK2-25142_STEP 4 - Dehydration": "{\"plc\":true,\"hmi\":false,\"testing\":\"not_started\"}"
   },
-  "lastUpdated": "2026-06-24T09:34:38.751Z"
+  "lastUpdated": "2026-06-24T09:34:43.355Z"
 }
