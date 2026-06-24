@@ -97,11 +97,11 @@
       "message": "Enter the details and post the excel sheet in Teams. Excel file name should be of Project Name. Save draft just in case to restore filled data before creating excel sheet.",
       "type": "info",
       "link": "",
-      "isTicker": false,
+      "isTicker": true,
       "readBy": [],
       "author": "Admin",
       "createdAt": "2026-06-24T08:38:38.670Z"
     }
   ],
-  "lastUpdated": "2026-06-24T08:38:38.670Z"
+  "lastUpdated": "2026-06-24T08:38:41.344Z"
 }
