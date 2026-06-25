@@ -4470,7 +4470,12 @@
           "text": "[[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO] Weekly project task"
         }
       ],
-      "completedActivities": []
+      "completedActivities": [
+        {
+          "id": "a-1782363237486-5i40g",
+          "text": "3A-CC1-26040_BOM  & RFQ Released"
+        }
+      ]
     },
     {
       "engineerName": "Eswanth Potnuri",
