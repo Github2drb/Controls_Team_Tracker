@@ -83,7 +83,7 @@
       "message": "Surface Hinge Assembly Equipment F.A.T starts from June 15th.\nLine is expected to run without stoppage and alarms for 1 hour.\nEquipment should meet F.A.T points shared by customer.",
       "type": "alert",
       "link": "",
-      "isTicker": false,
+      "isTicker": true,
       "readBy": [
         "admin",
         "device-t0t4nve89",
@@ -109,5 +109,5 @@
       "createdAt": "2026-06-24T08:38:38.670Z"
     }
   ],
-  "lastUpdated": "2026-06-25T08:38:02.440Z"
+  "lastUpdated": "2026-06-25T08:38:07.803Z"
 }
