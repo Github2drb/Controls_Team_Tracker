@@ -32,7 +32,10 @@
           "bomDate": "2026-05-21",
           "prCreated": "2026-05-25",
           "prApproved": "2026-05-25",
-          "targetReceipt": "2026-06-26"
+          "targetReceipt": "2026-06-26",
+          "actualReceipt": "2026-06-26",
+          "poCreated": "2026-06-20",
+          "poApproved": "2026-06-22"
         },
         {
           "id": "mat-1782109225675-4-8y64",
@@ -42,10 +45,13 @@
           "bomDate": "2026-05-21",
           "prCreated": "2026-05-25",
           "prApproved": "2026-05-25",
-          "targetReceipt": "2026-06-26"
+          "targetReceipt": "2026-06-26",
+          "actualReceipt": "2026-06-26",
+          "poCreated": "2026-06-22",
+          "poApproved": "2026-06-24"
         }
       ]
     }
   },
-  "lastUpdated": "2026-06-22T15:29:09.247Z"
+  "lastUpdated": "2026-06-26T05:52:50.308Z"
 }
