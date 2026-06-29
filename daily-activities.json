@@ -5149,6 +5149,72 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Santhosh N",
+      "date": "2026-06-29",
+      "targetTasks": [
+        {
+          "id": "wa-1782731401965-vqnl",
+          "text": "[DK1-25110- ODU Assembly auto line] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santhosh N",
+      "date": "2026-06-30",
+      "targetTasks": [
+        {
+          "id": "wa-1782731401965-9pvf",
+          "text": "[DK1-25110- ODU Assembly auto line] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santhosh N",
+      "date": "2026-07-01",
+      "targetTasks": [
+        {
+          "id": "wa-1782731401965-75bp",
+          "text": "[DK1-25110- ODU Assembly auto line] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santhosh N",
+      "date": "2026-07-02",
+      "targetTasks": [
+        {
+          "id": "wa-1782731401966-jbrs",
+          "text": "[DK1-25110- ODU Assembly auto line] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santhosh N",
+      "date": "2026-07-03",
+      "targetTasks": [
+        {
+          "id": "wa-1782731401966-g503",
+          "text": "[DK1-25110- ODU Assembly auto line] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santhosh N",
+      "date": "2026-07-04",
+      "targetTasks": [
+        {
+          "id": "wa-1782731401966-7e8l",
+          "text": "[DK1-25110- ODU Assembly auto line] Weekly project task"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
