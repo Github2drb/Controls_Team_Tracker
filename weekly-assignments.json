@@ -859,7 +859,37 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1782731273587",
+      "engineerName": "Susanth K M",
+      "weekStart": "2026-06-29",
+      "projectName": "3A-DK1-25077-Dehydration Project",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1782731248016",
+          "taskName": "RFID FB Conversion from FX5U to Q",
+          "type": "weekly",
+          "assignedDate": "2026-06-29",
+          "status": "not_started",
+          "targetDate": "2026-06-29"
+        },
+        {
+          "id": "t-1782731266932",
+          "taskName": "Dehydration Station Check for 2-19",
+          "type": "weekly",
+          "assignedDate": "2026-06-29",
+          "status": "not_started",
+          "targetDate": "2026-06-29"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-25T15:33:21.414Z"
+  "lastUpdated": "2026-06-29T11:07:53.587Z"
 }
