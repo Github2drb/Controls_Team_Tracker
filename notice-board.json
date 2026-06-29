@@ -71,10 +71,17 @@
           "date": "2026-06-26",
           "type": "note",
           "createdAt": "2026-06-26T05:21:51.664Z"
+        },
+        {
+          "id": "c-1782709627553",
+          "text": "3A-CC1-26040_EOL Technical Meeting with Burster Mesaurement Systems Pvt. Ltd.",
+          "date": "2026-06-29",
+          "type": "update",
+          "createdAt": "2026-06-29T05:07:07.553Z"
         }
       ],
       "dismissedMissed": []
     }
   },
-  "lastUpdated": "2026-06-26T05:21:51.664Z"
+  "lastUpdated": "2026-06-29T05:07:07.553Z"
 }
