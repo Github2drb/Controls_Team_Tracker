@@ -108,7 +108,18 @@
       ],
       "author": "Admin",
       "createdAt": "2026-06-24T08:38:38.670Z"
+    },
+    {
+      "id": "notif-1782725209208",
+      "title": "3A-S01-25066 - D8 Assembly line",
+      "message": "F.A.T has been planned from 30-06-2026. Line has to run without any interruptions",
+      "type": "alert",
+      "link": "",
+      "isTicker": false,
+      "readBy": [],
+      "author": "Admin",
+      "createdAt": "2026-06-29T09:26:49.208Z"
     }
   ],
-  "lastUpdated": "2026-06-26T05:49:22.591Z"
+  "lastUpdated": "2026-06-29T09:26:49.208Z"
 }
