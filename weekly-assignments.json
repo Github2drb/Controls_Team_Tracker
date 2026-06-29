@@ -911,7 +911,37 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1782731349294",
+      "engineerName": "Dhanesh M",
+      "weekStart": "2026-06-29",
+      "projectName": "3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1782731337788",
+          "taskName": "ADAM Module Communication with PLC",
+          "type": "weekly",
+          "assignedDate": "2026-06-29",
+          "status": "not_started",
+          "targetDate": "2026-06-29"
+        },
+        {
+          "id": "t-1782731347877",
+          "taskName": "Data Logger Testing",
+          "type": "weekly",
+          "assignedDate": "2026-06-29",
+          "status": "not_started",
+          "targetDate": "2026-06-29"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-29T11:08:24.012Z"
+  "lastUpdated": "2026-06-29T11:09:09.294Z"
 }
