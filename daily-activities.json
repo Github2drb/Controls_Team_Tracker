@@ -5215,6 +5215,72 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Eswanth Potnuri",
+      "date": "2026-06-29",
+      "targetTasks": [
+        {
+          "id": "wa-1782731450484-fmbu",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Eswanth Potnuri",
+      "date": "2026-06-30",
+      "targetTasks": [
+        {
+          "id": "wa-1782731450484-d14u",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Eswanth Potnuri",
+      "date": "2026-07-01",
+      "targetTasks": [
+        {
+          "id": "wa-1782731450484-3hyr",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Eswanth Potnuri",
+      "date": "2026-07-02",
+      "targetTasks": [
+        {
+          "id": "wa-1782731450484-nfdw",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Eswanth Potnuri",
+      "date": "2026-07-03",
+      "targetTasks": [
+        {
+          "id": "wa-1782731450485-gdqd",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Eswanth Potnuri",
+      "date": "2026-07-04",
+      "targetTasks": [
+        {
+          "id": "wa-1782731450485-b1za",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Weekly project task"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
