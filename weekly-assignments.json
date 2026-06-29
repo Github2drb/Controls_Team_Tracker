@@ -889,7 +889,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1782731304012",
+      "engineerName": "Harsha K",
+      "weekStart": "2026-06-29",
+      "projectName": "3A-DK1-25077-Dehydration Project",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1782731302912",
+          "taskName": "Conversion of FX5U Tags to Q in Handy HMI",
+          "type": "weekly",
+          "assignedDate": "2026-06-29",
+          "status": "not_started",
+          "targetDate": "2026-06-29"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-29T11:07:53.587Z"
+  "lastUpdated": "2026-06-29T11:08:24.012Z"
 }
