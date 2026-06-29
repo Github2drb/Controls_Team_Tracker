@@ -971,7 +971,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1782731449530",
+      "engineerName": "Eswanth Potnuri",
+      "weekStart": "2026-06-29",
+      "projectName": "3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1782731448652",
+          "taskName": "Support to Electrical Designer",
+          "type": "weekly",
+          "assignedDate": "2026-06-29",
+          "status": "not_started",
+          "targetDate": "2026-06-29"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-29T11:10:00.916Z"
+  "lastUpdated": "2026-06-29T11:10:49.530Z"
 }
