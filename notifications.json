@@ -115,11 +115,11 @@
       "message": "F.A.T has been planned from 30-06-2026. Line has to run without any interruptions",
       "type": "alert",
       "link": "",
-      "isTicker": false,
+      "isTicker": true,
       "readBy": [],
       "author": "Admin",
       "createdAt": "2026-06-29T09:26:49.208Z"
     }
   ],
-  "lastUpdated": "2026-06-29T09:26:49.208Z"
+  "lastUpdated": "2026-06-29T09:26:52.064Z"
 }
