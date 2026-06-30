@@ -174,7 +174,7 @@
       ],
       "currentStatus": "in_progress",
       "notes": "",
-      "constraint": "CC link IE Field Completed\nExpecting PLC CPU this week\nHandy HMI Address assignment for Q PLC\nDehydration ,RFID,AI Scaling Logic migration from FX5U to Q PLC",
+      "constraint": "CC link IE Field Completed\nQ26UDV installed.\nHandy HMI Address assignment for Q PLC\nDehydration ,RFID,AI Scaling Logic migration from FX5U to Q PLC",
       "resourceLockedFrom": "2026-01-05",
       "resourceLockedTill": "2026-06-30",
       "internalTarget": "2026-06-28",
@@ -1032,5 +1032,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-30T07:00:31.789Z"
+  "lastUpdated": "2026-06-30T08:00:55.401Z"
 }
