@@ -112,7 +112,7 @@
           "status": "Completed"
         }
       ],
-      "currentStatus": "in_progress",
+      "currentStatus": "waiting_for_materials",
       "notes": "",
       "constraint": "Offline Logic Ready. Electrical Assembly Pending",
       "resourceLockedFrom": "2026-03-30",
@@ -1032,5 +1032,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-30T08:01:14.420Z"
+  "lastUpdated": "2026-06-30T08:01:36.148Z"
 }
