@@ -176,9 +176,9 @@
       "notes": "",
       "constraint": "CC link IE Field Completed\nQ26UDV installed.\nHandy HMI Address assignment for Q PLC\nDehydration ,RFID,AI Scaling Logic migration from FX5U to Q PLC",
       "resourceLockedFrom": "2026-01-05",
-      "resourceLockedTill": "2026-06-30",
-      "internalTarget": "2026-06-28",
-      "customerTarget": "2026-06-29"
+      "resourceLockedTill": "2026-07-10",
+      "internalTarget": "2026-07-03",
+      "customerTarget": "2026-07-03"
     },
     {
       "id": "Eswanth Potnuri-2026-04-06-1775547430327",
@@ -1032,5 +1032,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-30T08:00:55.401Z"
+  "lastUpdated": "2026-06-30T08:01:14.420Z"
 }
