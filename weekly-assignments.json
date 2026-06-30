@@ -1008,7 +1008,29 @@
       "tasks": [],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1782800262976",
+      "engineerName": "Deekshitha HC",
+      "weekStart": "2026-06-29",
+      "projectName": "3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1782800259590",
+          "taskName": "Add BOM to Project Material Tracker",
+          "type": "weekly",
+          "assignedDate": "2026-06-30",
+          "status": "not_started",
+          "targetDate": "2026-06-30"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-30T06:17:05.975Z"
+  "lastUpdated": "2026-06-30T06:17:42.976Z"
 }
