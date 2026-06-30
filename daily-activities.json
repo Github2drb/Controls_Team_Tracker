@@ -5236,7 +5236,12 @@
           "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Weekly project task"
         }
       ],
-      "completedActivities": []
+      "completedActivities": [
+        {
+          "id": "a-1782790047967-gjob7",
+          "text": "3A-TC1-26039_PLC Logic Development Manual Logic Completed "
+        }
+      ]
     },
     {
       "engineerName": "Eswanth Potnuri",
