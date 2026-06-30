@@ -244,7 +244,7 @@
       "resourceLockedTill": "2026-07-30",
       "internalTarget": "2026-07-15",
       "customerTarget": "2026-07-28",
-      "constraint": "Check Material Tracker\nVariable Power Supply,Data Logger and AIO->Modbus Converter required"
+      "constraint": "ADAM Communication in progress"
     },
     {
       "id": "wa-1777017351622",
@@ -1032,5 +1032,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-06-30T06:17:42.976Z"
+  "lastUpdated": "2026-06-30T07:00:31.789Z"
 }
