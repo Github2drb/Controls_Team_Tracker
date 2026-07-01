@@ -1010,7 +1010,7 @@
       "internalTarget": "",
       "customerTarget": "",
       "tasks": [],
-      "currentStatus": "not_started",
+      "currentStatus": "procurement_stage",
       "constraint": ""
     },
     {
@@ -1036,5 +1036,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-01T10:31:07.019Z"
+  "lastUpdated": "2026-07-01T10:31:18.361Z"
 }
