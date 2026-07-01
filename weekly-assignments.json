@@ -881,7 +881,7 @@
           "taskName": "RFID FB Conversion from FX5U to Q",
           "type": "weekly",
           "assignedDate": "2026-06-29",
-          "status": "not_started",
+          "status": "in_progress",
           "targetDate": "2026-06-29"
         },
         {
