@@ -244,7 +244,7 @@
       "resourceLockedTill": "2026-07-30",
       "internalTarget": "2026-07-15",
       "customerTarget": "2026-07-28",
-      "constraint": "ADAM Communication in progress"
+      "constraint": "ICP CON Communication in progress\nWaiting for Power Supply Replacement \nData Logger yet to be checked"
     },
     {
       "id": "wa-1777017351622",
@@ -1036,5 +1036,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-01T10:22:12.540Z"
+  "lastUpdated": "2026-07-01T10:28:33.028Z"
 }
