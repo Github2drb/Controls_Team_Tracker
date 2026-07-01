@@ -549,7 +549,7 @@
           "targetDate": "2026-06-14"
         }
       ],
-      "currentStatus": "in_progress",
+      "currentStatus": "electrical_design",
       "constraint": ""
     },
     {
@@ -1036,5 +1036,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-01T10:30:47.350Z"
+  "lastUpdated": "2026-07-01T10:31:07.019Z"
 }
