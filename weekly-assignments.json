@@ -1078,7 +1078,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1782971892971",
+      "engineerName": "Veeresh M",
+      "weekStart": "2026-06-29",
+      "projectName": "3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1782971892724",
+          "taskName": "BOM Check and Documentation for Project Closure",
+          "type": "weekly",
+          "assignedDate": "2026-07-02",
+          "status": "not_started",
+          "targetDate": "2026-07-02"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-02T05:57:44.474Z"
+  "lastUpdated": "2026-07-02T05:58:12.971Z"
 }
