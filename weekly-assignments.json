@@ -1034,7 +1034,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1782971801171",
+      "engineerName": "Deekshitha HC",
+      "weekStart": "2026-06-29",
+      "projectName": "3A-AV1-25120-Eddy Current Testing Equipment",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1782971800881",
+          "taskName": "BOM Addition to material tracker",
+          "type": "weekly",
+          "assignedDate": "2026-07-02",
+          "status": "not_started",
+          "targetDate": "2026-07-02"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-01T10:31:18.361Z"
+  "lastUpdated": "2026-07-02T05:56:41.171Z"
 }
