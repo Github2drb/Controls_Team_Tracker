@@ -1056,7 +1056,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1782971864474",
+      "engineerName": "Ramkumar Annamalai",
+      "weekStart": "2026-06-29",
+      "projectName": "3A-S02-25054_Surface Hinge Assembly",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1782971864228",
+          "taskName": "Stage-2 Index Error issue",
+          "type": "daily",
+          "assignedDate": "2026-07-02",
+          "status": "not_started",
+          "targetDate": "2026-07-02"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-02T05:56:41.171Z"
+  "lastUpdated": "2026-07-02T05:57:44.474Z"
 }
