@@ -242,17 +242,7 @@
       "role": "engineer",
       "isActive": true,
       "createdAt": "2026-06-24T08:52:34.096Z"
-    },
-    {
-      "id": "eng-1782996460154",
-      "username": "Akshaya",
-      "name": "Akshaya",
-      "password": "$2a$10$hPCyxODFKbBpOM6UWSQcHeQMeoHqbQutrXnA3RZsAfpM778ljZTRq",
-      "role": "engineer",
-      "company": "",
-      "isActive": true,
-      "createdAt": "2026-07-02T12:47:40.920Z"
     }
   ],
-  "lastUpdated": "2026-07-03T09:24:44.875Z"
+  "lastUpdated": "2026-07-03T10:35:51.346Z"
 }
