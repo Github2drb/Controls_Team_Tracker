@@ -964,8 +964,9 @@
           "taskName": "Electrical Drawing Corrections",
           "type": "weekly",
           "assignedDate": "2026-06-29",
-          "status": "in_progress",
-          "targetDate": "2026-06-29"
+          "status": "completed",
+          "targetDate": "2026-06-29",
+          "completionDate": "2026-07-04"
         },
         {
           "id": "t-1782731400117",
