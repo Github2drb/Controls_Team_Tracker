@@ -889,8 +889,9 @@
           "taskName": "Dehydration Station Check for 2-19",
           "type": "weekly",
           "assignedDate": "2026-06-29",
-          "status": "in_progress",
-          "targetDate": "2026-06-29"
+          "status": "completed",
+          "targetDate": "2026-06-29",
+          "completionDate": "2026-07-04"
         }
       ],
       "currentStatus": "in_progress",
