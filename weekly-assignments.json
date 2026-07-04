@@ -860,8 +860,9 @@
           "taskName": "Operational Manual",
           "type": "weekly",
           "assignedDate": "2026-06-23",
-          "status": "in_progress",
-          "targetDate": "2026-06-23"
+          "status": "completed",
+          "targetDate": "2026-06-23",
+          "completionDate": "2026-07-04"
         }
       ],
       "currentStatus": "in_progress",
