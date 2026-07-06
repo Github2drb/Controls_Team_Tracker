@@ -1255,7 +1255,37 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1783334452197",
+      "engineerName": "Harsha K",
+      "weekStart": "2026-07-06",
+      "projectName": "3A-DK1-25077-Dehydration Project",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1783334439480",
+          "taskName": "RFID Sequence Completion",
+          "type": "weekly",
+          "assignedDate": "2026-07-06",
+          "status": "not_started",
+          "targetDate": "2026-07-06"
+        },
+        {
+          "id": "t-1783334451510",
+          "taskName": "Full Auto Cycle Running",
+          "type": "weekly",
+          "assignedDate": "2026-07-06",
+          "status": "not_started",
+          "targetDate": "2026-07-06"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-06T10:40:12.164Z"
+  "lastUpdated": "2026-07-06T10:40:52.197Z"
 }
