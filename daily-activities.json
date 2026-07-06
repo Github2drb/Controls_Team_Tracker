@@ -5772,6 +5772,72 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Harsha K",
+      "date": "2026-07-06",
+      "targetTasks": [
+        {
+          "id": "wa-1783334453226-ujds",
+          "text": "[3A-DK1-25077-Dehydration Project] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Harsha K",
+      "date": "2026-07-07",
+      "targetTasks": [
+        {
+          "id": "wa-1783334453227-5pbh",
+          "text": "[3A-DK1-25077-Dehydration Project] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Harsha K",
+      "date": "2026-07-08",
+      "targetTasks": [
+        {
+          "id": "wa-1783334453227-pf9c",
+          "text": "[3A-DK1-25077-Dehydration Project] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Harsha K",
+      "date": "2026-07-09",
+      "targetTasks": [
+        {
+          "id": "wa-1783334453227-udqt",
+          "text": "[3A-DK1-25077-Dehydration Project] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Harsha K",
+      "date": "2026-07-10",
+      "targetTasks": [
+        {
+          "id": "wa-1783334453228-d6vh",
+          "text": "[3A-DK1-25077-Dehydration Project] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Harsha K",
+      "date": "2026-07-11",
+      "targetTasks": [
+        {
+          "id": "wa-1783334453228-h7o0",
+          "text": "[3A-DK1-25077-Dehydration Project] Weekly project task"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
