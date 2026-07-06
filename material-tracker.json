@@ -426,247 +426,287 @@
       "bomPath": "",
       "materials": [
         {
-          "id": "mat-1783344471234-1-sa53",
+          "id": "mat-1783344568210-1-y1aj",
           "name": "[5SL4206-7] Miniature circuit breaker 400 V 10kA, 2-pole, C, 6A",
           "qty": "5",
-          "unit": "NOS"
+          "unit": "NOS",
+          "bomDate": "2026-07-06"
         },
         {
-          "id": "mat-1783344471234-2-7o2t",
+          "id": "mat-1783344568210-2-1hus",
           "name": "[5SL4210-7] Miniature circuit breaker 400 V 10kA, 2-pole, C, 10 A",
           "qty": "6",
-          "unit": "NOS"
+          "unit": "NOS",
+          "bomDate": "2026-07-06"
         },
         {
-          "id": "mat-1783344471234-3-erfi",
+          "id": "mat-1783344568210-3-mr4s",
           "name": "[5SL4202-7] Miniature circuit breaker 400 V 10kA, 2-pole, C, 2A",
           "qty": "2",
-          "unit": "NOS"
+          "unit": "NOS",
+          "bomDate": "2026-07-06"
         },
         {
-          "id": "mat-1783344471234-4-w4zc",
+          "id": "mat-1783344568210-4-k5rg",
           "name": "[3RT2015-1BB41-8K] 3RT2015-1BB41-8K - Power contactor 7 A , 1 NO 24 V DC 3-pole screw terminal - siemens",
           "qty": "4",
-          "unit": "NOS"
+          "unit": "NOS",
+          "bomDate": "2026-07-06"
         },
         {
-          "id": "mat-1783344471234-5-u6id",
+          "id": "mat-1783344568210-5-45bh",
           "name": "[6GK5008-0BA10-1AB2] SCALANCE XB008 Unmanaged Industrial Ethernet Switch for 10/100 Mbit/s; for setting up small star and line topologies; LED diagnostics, IP20, 24 V AC/DC power supply, with 8x 10/100 Mbit/s twisted pair ports with RJ45 sockets",
           "qty": "3",
-          "unit": "NOS"
+          "unit": "NOS",
+          "bomDate": "2026-07-06"
         },
         {
-          "id": "mat-1783344471234-6-zvlo",
+          "id": "mat-1783344568210-6-ezdi",
           "name": "[6XV1840-2AH10] Industrial Ethernet FC TP Standard cable, GP 2x2 (PROFINET Type A), TP installation cable for connection to IE FC RJ45 2x2, for universal use, 4-core, shielded CAT 5E",
           "qty": "50",
-          "unit": "MTRS"
+          "unit": "MTRS",
+          "bomDate": "2026-07-06"
         },
         {
-          "id": "mat-1783344471234-7-65ku",
+          "id": "mat-1783344568210-7-0c2x",
           "name": "[6GK1901-1BB10-2AA0] Industrial Ethernet FastConnect RJ45 plug 180 2x 2, RJ45 plug-in connector (10/100 Mbit/s) with rugged metal enclosure and FC connection system, for IE FC TP cable 2x",
           "qty": "30",
-          "unit": "NOS"
+          "unit": "NOS",
+          "bomDate": "2026-07-06"
         },
         {
-          "id": "mat-1783344471234-8-zijc",
+          "id": "mat-1783344568210-8-8cz7",
           "name": "[PCT-223-2] PCT-223-2 Stationary Type Quick Connection Terminal",
           "qty": "20",
-          "unit": "NOS"
+          "unit": "NOS",
+          "bomDate": "2026-07-06"
         },
         {
-          "id": "mat-1783344471234-9-0r5r",
+          "id": "mat-1783344568210-9-uaru",
           "name": "[1018790000] IE-FCM-RJ45-C FrontCom Micro RJ45 coupling",
           "qty": "10",
-          "unit": "NOS"
+          "unit": "NOS",
+          "bomDate": "2026-07-06"
         },
         {
-          "id": "mat-1783344471234-10-9yjz",
+          "id": "mat-1783344568210-10-dlkb",
           "name": "[SE-06-1] HEAVY DUTY CONNECTOR 6 PIN 16A (SE-06-1)",
           "qty": "2",
-          "unit": "NOS"
+          "unit": "NOS",
+          "bomDate": "2026-07-06"
         },
         {
-          "id": "mat-1783344471234-11-cy5t",
+          "id": "mat-1783344568210-11-nz40",
           "name": "[PKF32G735] PratiKa socket - screw - straight - 32A - 3P + N + E - 380...415 V AC - panel",
           "qty": "1",
-          "unit": "NOS"
+          "unit": "NOS",
+          "bomDate": "2026-07-06"
         },
         {
-          "id": "mat-1783344471234-12-7v48",
+          "id": "mat-1783344568210-12-06pq",
           "name": "[PKE32M735] PratiKa wander plug - straight - 32 A - 3P + N + E - 380...415 V AC - IP67",
           "qty": "1",
-          "unit": "NOS"
+          "unit": "NOS",
+          "bomDate": "2026-07-06"
         },
         {
-          "id": "mat-1783344471234-13-blf0",
+          "id": "mat-1783344568210-13-q05m",
           "name": "[VCCF1] TeSys Vario - emergency stop switch disconnector - 32 A - back of enclosure",
           "qty": "1",
-          "unit": "NOS"
+          "unit": "NOS",
+          "bomDate": "2026-07-06"
         },
         {
-          "id": "mat-1783344471234-14-nyy9",
+          "id": "mat-1783344568210-14-hp34",
           "name": "[VCCF01] Switch disconnector,TeSys Control,for ON/emergency stop,20A(V01),4 screws fixing,for mounting at back of an enclosure",
           "qty": "2",
-          "unit": "NOS"
+          "unit": "NOS",
+          "bomDate": "2026-07-06"
         },
         {
-          "id": "mat-1783344471234-15-n4to",
+          "id": "mat-1783344568210-15-8lre",
           "name": "[MURR-4000-68713-829001] SERVICE SOCKET",
           "qty": "3",
-          "unit": "NOS"
+          "unit": "NOS",
+          "bomDate": "2026-07-06"
         },
         {
-          "id": "mat-1783344471234-16-3aen",
+          "id": "mat-1783344568210-16-e7is",
           "name": "[XVGB3S] Tower Light - RAG - 24V - LED Based - W. Buzzer - Tube mounting with \"L\" bracket",
           "qty": "3",
-          "unit": "NOS"
+          "unit": "NOS",
+          "bomDate": "2026-07-06"
         },
         {
-          "id": "mat-1783344471234-17-tq97",
+          "id": "mat-1783344568210-17-putd",
           "name": "[EF-1B006B01A-C2] EMI filter Elcom 6A",
           "qty": "1",
-          "unit": "NOS"
+          "unit": "NOS",
+          "bomDate": "2026-07-06"
         },
         {
-          "id": "mat-1783344471234-18-5cbk",
+          "id": "mat-1783344568210-18-g4a7",
           "name": "[TIE BASE WITH SCREW M5] TIE BASE WITH SCREW M5",
           "qty": "300",
-          "unit": "NOS"
+          "unit": "NOS",
+          "bomDate": "2026-07-06"
         },
         {
-          "id": "mat-1783344471234-19-qy8p",
+          "id": "mat-1783344568210-19-1ato",
           "name": "[CV-100] CV-100,Cable Tie white",
           "qty": "10",
-          "unit": "PACK"
+          "unit": "PACK",
+          "bomDate": "2026-07-06"
         },
         {
-          "id": "mat-1783344471234-20-w45n",
+          "id": "mat-1783344568210-20-7uvr",
           "name": "[CV-200] CV-200,Cable Tie white",
           "qty": "10",
-          "unit": "PACK"
+          "unit": "PACK",
+          "bomDate": "2026-07-06"
         },
         {
-          "id": "mat-1783344471234-21-rsrf",
+          "id": "mat-1783344568210-21-0tem",
           "name": "[CV-300] CV-300,Cable Tie white",
           "qty": "10",
-          "unit": "PACK"
+          "unit": "PACK",
+          "bomDate": "2026-07-06"
         },
         {
-          "id": "mat-1783344471234-22-p95l",
+          "id": "mat-1783344568210-22-oqr3",
           "name": "[CV400] CV-400,Cable Tie white",
           "qty": "3",
-          "unit": "PACK"
+          "unit": "PACK",
+          "bomDate": "2026-07-06"
         },
         {
-          "id": "mat-1783344471234-23-bv0f",
+          "id": "mat-1783344568210-23-5hew",
           "name": "[ETAV-02] FAN FILTER 4 \" INCH",
           "qty": "6",
-          "unit": "NOS"
+          "unit": "NOS",
+          "bomDate": "2026-07-06"
         },
         {
-          "id": "mat-1783344471234-24-dawq",
+          "id": "mat-1783344568210-24-366k",
           "name": "[ELECTTRO] FAN GUARD 4 \"",
           "qty": "6",
-          "unit": "NOS"
+          "unit": "NOS",
+          "bomDate": "2026-07-06"
         },
         {
-          "id": "mat-1783344471234-25-g5y6",
+          "id": "mat-1783344568210-25-xklx",
           "name": "[12A30HSAC] COOLING FAN 4\" INCH",
           "qty": "6",
-          "unit": "NOS"
+          "unit": "NOS",
+          "bomDate": "2026-07-06"
         },
         {
-          "id": "mat-1783344471234-26-0b76",
+          "id": "mat-1783344568210-26-xnj5",
           "name": "[LM TU332N2 MAX] 3.2mm FERULLE TUBE",
           "qty": "1",
-          "unit": "PACK"
+          "unit": "PACK",
+          "bomDate": "2026-07-06"
         },
         {
-          "id": "mat-1783344471234-27-hve0",
+          "id": "mat-1783344568210-27-l2h0",
           "name": "[PT-IR300BH ] INK RIBBON black",
           "qty": "2",
-          "unit": "NOS"
+          "unit": "NOS",
+          "bomDate": "2026-07-06"
         },
         {
-          "id": "mat-1783344471234-28-rqh1",
+          "id": "mat-1783344568210-28-318w",
           "name": "[4520042U100] 1X2.5sqmm red",
           "qty": "50",
-          "unit": "MTRS"
+          "unit": "MTRS",
+          "bomDate": "2026-07-06"
         },
         {
-          "id": "mat-1783344471234-29-musw",
+          "id": "mat-1783344568210-29-l65r",
           "name": "[4520112U100] 1X2.5sqmm yellow",
           "qty": "50",
-          "unit": "MTRS"
+          "unit": "MTRS",
+          "bomDate": "2026-07-06"
         },
         {
-          "id": "mat-1783344471234-30-29nt",
+          "id": "mat-1783344568210-30-3a08",
           "name": "[4520022U100] 1X2.5sqmm blue",
           "qty": "50",
-          "unit": "MTRS"
+          "unit": "MTRS",
+          "bomDate": "2026-07-06"
         },
         {
-          "id": "mat-1783344471234-31-e762",
+          "id": "mat-1783344568210-31-s8wn",
           "name": "[4520002U100] 1X2.5sqmm GNYE",
           "qty": "50",
-          "unit": "MTRS"
+          "unit": "MTRS",
+          "bomDate": "2026-07-06"
         },
         {
-          "id": "mat-1783344471234-32-plto",
+          "id": "mat-1783344568210-32-dpkh",
           "name": "[4520012U100] 1X2.5sqmm black",
           "qty": "50",
-          "unit": "MTRS"
+          "unit": "MTRS",
+          "bomDate": "2026-07-06"
         },
         {
-          "id": "mat-1783344471234-33-8m17",
+          "id": "mat-1783344568210-33-ckjt",
           "name": "[4520041U100] 1X1.5sqmm red",
           "qty": "20",
-          "unit": "MTRS"
+          "unit": "MTRS",
+          "bomDate": "2026-07-06"
         },
         {
-          "id": "mat-1783344471234-34-4mvu",
+          "id": "mat-1783344568210-34-zd9e",
           "name": "[4520111U100] 1X1.5sqmm yellow",
           "qty": "20",
-          "unit": "MTRS"
+          "unit": "MTRS",
+          "bomDate": "2026-07-06"
         },
         {
-          "id": "mat-1783344471234-35-3j5p",
+          "id": "mat-1783344568210-35-nvdc",
           "name": "[4520021U100] 1X1.5sqmm blue",
           "qty": "20",
-          "unit": "MTRS"
+          "unit": "MTRS",
+          "bomDate": "2026-07-06"
         },
         {
-          "id": "mat-1783344471234-36-a3to",
+          "id": "mat-1783344568210-36-sndd",
           "name": "[4520011U100] 1X1.5sqmm black",
           "qty": "20",
-          "unit": "MTRS"
+          "unit": "MTRS",
+          "bomDate": "2026-07-06"
         },
         {
-          "id": "mat-1783344471234-37-2x50",
+          "id": "mat-1783344568210-37-zz4o",
           "name": "[4520014U100] 1X6sqmm black",
           "qty": "30",
-          "unit": "MTRS"
+          "unit": "MTRS",
+          "bomDate": "2026-07-06"
         },
         {
-          "id": "mat-1783344471234-38-2vhn",
+          "id": "mat-1783344568210-38-2vir",
           "name": "[4520044U100] 1X6sqmm red",
           "qty": "30",
-          "unit": "MTRS"
+          "unit": "MTRS",
+          "bomDate": "2026-07-06"
         },
         {
-          "id": "mat-1783344471234-39-tjhu",
+          "id": "mat-1783344568210-39-9zea",
           "name": "[4520114U100] 1X6sqmm yellow",
           "qty": "30",
-          "unit": "MTRS"
+          "unit": "MTRS",
+          "bomDate": "2026-07-06"
         },
         {
-          "id": "mat-1783344471234-40-dp3d",
+          "id": "mat-1783344568210-40-iw7r",
           "name": "[4520024U100] 1X6sqmm blue",
           "qty": "30",
-          "unit": "MTRS"
+          "unit": "MTRS",
+          "bomDate": "2026-07-06"
         }
       ]
     }
   },
-  "lastUpdated": "2026-07-06T13:27:57.903Z"
+  "lastUpdated": "2026-07-06T13:29:43.241Z"
 }
