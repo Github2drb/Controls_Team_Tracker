@@ -55,9 +55,18 @@
           "name": "FX5U-ENET/Ip",
           "qty": "1",
           "unit": "Nos"
+        },
+        {
+          "id": "mat-1783326396402-mjz7",
+          "name": "On hand qty Difference BOM Reference RFQ/PO Qty Purchase Ref 1\t[ CE-QUO-BAN-25-002870 ] Assessment and issue of letter report for UL 1740-2025;UL 508A:2018 Ed.3+R:28Jul2022(where applicable),NFPA 70:2019 Ed.2020 (where applicable), NFPA 79:2020 Ed.2021 (where applicable) and Risk Assessment & Sistema report",
+          "qty": "1",
+          "unit": "No",
+          "prCreated": "2025-12-29",
+          "prApproved": "2025-12-29",
+          "notes": "Pilz"
         }
       ]
     }
   },
-  "lastUpdated": "2026-06-26T06:03:36.806Z"
+  "lastUpdated": "2026-07-06T08:30:46.737Z"
 }
