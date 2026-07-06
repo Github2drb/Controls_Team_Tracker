@@ -239,7 +239,7 @@
           "status": "in_progress"
         }
       ],
-      "currentStatus": "mechanical_assembly",
+      "currentStatus": "io_check",
       "resourceLockedFrom": "2026-04-21",
       "resourceLockedTill": "2026-07-30",
       "internalTarget": "2026-07-15",
@@ -1128,5 +1128,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-04T04:12:40.421Z"
+  "lastUpdated": "2026-07-06T08:44:07.081Z"
 }
