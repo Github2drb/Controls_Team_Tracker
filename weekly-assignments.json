@@ -1211,7 +1211,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1783334388285",
+      "engineerName": "Veeresh M",
+      "weekStart": "2026-07-06",
+      "projectName": "3A-S02-25054_Surface Hinge Assembly",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1783334387451",
+          "taskName": "Safety Wiring Completion",
+          "type": "weekly",
+          "assignedDate": "2026-07-06",
+          "status": "not_started",
+          "targetDate": "2026-07-06"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-06T10:39:19.889Z"
+  "lastUpdated": "2026-07-06T10:39:48.285Z"
 }
