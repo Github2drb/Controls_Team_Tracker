@@ -1285,7 +1285,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1783334538835",
+      "engineerName": "Deekshitha HC",
+      "weekStart": "2026-07-06",
+      "projectName": "3A-DK1-25077-Dehydration Project",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1783334538227",
+          "taskName": "Dehydration Process documentation",
+          "type": "weekly",
+          "assignedDate": "2026-07-06",
+          "status": "not_started",
+          "targetDate": "2026-07-06"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-06T10:40:52.197Z"
+  "lastUpdated": "2026-07-06T10:42:18.835Z"
 }
