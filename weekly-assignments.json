@@ -1165,7 +1165,53 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1783334359889",
+      "engineerName": "Susanth K M",
+      "weekStart": "2026-07-06",
+      "projectName": "DK1-25110- ODU Assembly auto line",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1783334321444",
+          "taskName": "Festo Drive IP Configuration, Servo Tuning and Safety limit",
+          "type": "weekly",
+          "assignedDate": "2026-07-06",
+          "status": "not_started",
+          "targetDate": "2026-07-06"
+        },
+        {
+          "id": "t-1783334335693",
+          "taskName": "Rexroth Power up,IP Configuration, Safety Check",
+          "type": "weekly",
+          "assignedDate": "2026-07-06",
+          "status": "not_started",
+          "targetDate": "2026-07-06"
+        },
+        {
+          "id": "t-1783334348001",
+          "taskName": "CC Link Slave Module Node Configuration",
+          "type": "weekly",
+          "assignedDate": "2026-07-06",
+          "status": "not_started",
+          "targetDate": "2026-07-06"
+        },
+        {
+          "id": "t-1783334358238",
+          "taskName": "Offline PLC and HMI Download",
+          "type": "weekly",
+          "assignedDate": "2026-07-06",
+          "status": "not_started",
+          "targetDate": "2026-07-06"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-06T10:38:09.277Z"
+  "lastUpdated": "2026-07-06T10:39:19.889Z"
 }
