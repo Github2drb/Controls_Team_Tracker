@@ -1284,7 +1284,7 @@
           "3": "Daikin",
           "4": "Daikin",
           "5": "",
-          "6": "3D CAD U1",
+          "6": "Daikin",
           "7": "3D CAD U1",
           "8": "3D CAD U1",
           "9": "3D CAD U1",
@@ -1482,7 +1482,7 @@
           "3": "Not Applicable to Site",
           "4": "Not Applicable to Site",
           "5": "",
-          "6": "3D CAD U1",
+          "6": "Not Applicable to Site",
           "7": "3D CAD U1",
           "8": "3D CAD U1",
           "9": "3D CAD U1",
@@ -1515,7 +1515,7 @@
           "3": "Not Applicable to Site",
           "4": "Not Applicable to Site",
           "5": "",
-          "6": "3D CAD U1",
+          "6": "Not Applicable to Site",
           "7": "3D CAD U1",
           "8": "3D CAD U1",
           "9": "3D CAD U1",
@@ -1581,7 +1581,7 @@
           "3": "Not Applicable to Site",
           "4": "Not Applicable to Site",
           "5": "",
-          "6": "3D CAD U1",
+          "6": "Not Applicable to Site",
           "7": "3D CAD U1",
           "8": "3D CAD U1",
           "9": "3D CAD U1",
@@ -1611,5 +1611,5 @@
       }
     }
   },
-  "lastUpdated": "2026-07-04T04:10:38.467Z"
+  "lastUpdated": "2026-07-06T08:16:10.376Z"
 }
