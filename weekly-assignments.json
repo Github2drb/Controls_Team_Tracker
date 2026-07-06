@@ -1127,7 +1127,45 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1783334289277",
+      "engineerName": "Dhanesh M",
+      "weekStart": "2026-07-06",
+      "projectName": "3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1783334256797",
+          "taskName": "ICP CON Communication with PLC",
+          "type": "weekly",
+          "assignedDate": "2026-07-06",
+          "status": "not_started",
+          "targetDate": "2026-07-06"
+        },
+        {
+          "id": "t-1783334271978",
+          "taskName": "Manual Testing",
+          "type": "weekly",
+          "assignedDate": "2026-07-06",
+          "status": "not_started",
+          "targetDate": "2026-07-06"
+        },
+        {
+          "id": "t-1783334288510",
+          "taskName": "ICP CON+Data Logger+Robot Integration",
+          "type": "weekly",
+          "assignedDate": "2026-07-06",
+          "status": "not_started",
+          "targetDate": "2026-07-06"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-06T08:44:07.081Z"
+  "lastUpdated": "2026-07-06T10:38:09.277Z"
 }
