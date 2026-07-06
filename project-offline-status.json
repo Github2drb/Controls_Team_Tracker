@@ -8,9 +8,9 @@
     "3A-DK2-25142_STEP 4 - Dehydration": "{\"plc\":true,\"hmi\":false,\"testing\":\"not_started\"}",
     "3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine": "{\"plc\":true,\"hmi\":false,\"testing\":\"not_started\"}",
     "3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector": "{\"plc\":true,\"hmi\":false,\"testing\":\"not_started\"}",
-    "3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station": "{\"plc\":true,\"hmi\":false,\"testing\":\"not_started\"}",
+    "3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station": "{\"plc\":true,\"hmi\":true,\"testing\":\"not_started\"}",
     "3A-AV1-25120-Eddy Current Testing Equipment": "{\"plc\":true,\"hmi\":false,\"testing\":\"not_started\"}",
     "3A-IE1-26042 & 3A-IE1-26043 -INDIC-Wave Soldering Machine Conveyor Assembly -Misumi & Bosch": "{\"plc\":true,\"hmi\":false,\"testing\":\"not_started\"}"
   },
-  "lastUpdated": "2026-07-01T04:48:41.527Z"
+  "lastUpdated": "2026-07-06T10:46:20.135Z"
 }
