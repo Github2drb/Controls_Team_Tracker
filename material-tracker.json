@@ -66,7 +66,361 @@
           "notes": "Pilz"
         }
       ]
+    },
+    "3a-gb1-26007_ge_pressure tester": {
+      "projectName": "3A-GB1-26007_GE_Pressure Tester",
+      "bomPath": "",
+      "materials": [
+        {
+          "id": "mat-1783341821940-1-c9pj",
+          "name": "[ZBY9320] Legend holder Ø60 for emergency stop, plastic, yellow, marked EMERGENCY STOP",
+          "qty": "2",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-2-zmyk",
+          "name": "[ZB5AZ1015] single contact block with body/fixing collar 1NO spring clamp terminal",
+          "qty": "2",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-3-skvm",
+          "name": "[ZB5AC3] Mushroom push button head Ø40, plastic, green, Ø22, spring return",
+          "qty": "2",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-4-ik7y",
+          "name": "[XVGB3S] TOWER LAMP RAG – 24V – LED Based – W. Buzzer – Tube mounting with “L” bracket",
+          "qty": "1",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-5-bdpi",
+          "name": "[XT546BX] DUAL DISPLAY, 9 TIME RANGES, SHORTH DEPTH, 48X48MM",
+          "qty": "1",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-6-niua",
+          "name": "[XB7EV03BP] Monolithic pilot light, plastic, green, Ø22, integral LED, 24 V AC/DC",
+          "qty": "1",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-7-1dna",
+          "name": "[XB5AW35B1N] Illuminated Push Button Yellow",
+          "qty": "1",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-8-ofv5",
+          "name": "[XB5AW34B1N] Illuminated Push Button Red",
+          "qty": "1",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-9-03s6",
+          "name": "[XB5AW33B1N] GREEN ILPB WITH 1NO",
+          "qty": "1",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-10-fh0o",
+          "name": "[XB5AS8442] red Ø40 Emergency stop, switching off pushbutton Ø22 latching turn release 1NC",
+          "qty": "2",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-11-76hl",
+          "name": "[XB5AG21N] Key selector switch, Harmony XB5N XB7N, plastic, black, 22mm, short handle, 2 position, stay put, left key release, 1 NO",
+          "qty": "1",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-12-1qi4",
+          "name": "[XB5AD21N] Motor FWD/REV-Selector switch, plastic black, Ø22, 2 positions, stay put, 1 NO",
+          "qty": "1",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-13-qotg",
+          "name": "[VZ8] Disconnector switch COVER -TeSys Mini-VARIO and VARIO - terminal shrouds - for V02...V2",
+          "qty": "2",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-14-ur18",
+          "name": "[VCF02] TeSys Vario - emergency stop switch disconnector - 12 A - on door VCF02",
+          "qty": "1",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-15-qunb",
+          "name": "[UTL 0.75SQMM] UTL 0.75SQMM PIN TYPE LUGS",
+          "qty": "10",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-16-vpq6",
+          "name": "[TIE BASE WITH SCREW M5] TIE BASE WITH SCREW M5",
+          "qty": "20",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-17-r6zg",
+          "name": "[STANDARD] DIN RAIL",
+          "qty": "2",
+          "unit": "meters"
+        },
+        {
+          "id": "mat-1783341821940-18-wprx",
+          "name": "[S8VK-C12024] Book type power supply, Lite, 120 W, 24VDC, 5A, DIN rail mounting",
+          "qty": "1",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-19-2f7t",
+          "name": "[RJ45 ethernet moulded cable 5meter] CAT6A Ethernet Cable | 500Mhz 10 Gbps Speed | Fluke Passed LAN Cord With Superior 26 AWG Bare Copper Core | Compatible For Laptop, Router, PS5/4, Modem, Tv, CCTV & XBox | 5 Meter",
+          "qty": "1",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-20-3u7o",
+          "name": "[RJ45 ethernet moulded cable 0.5meter] CAT6A Ethernet Cable | 500Mhz 10 Gbps Speed | Fluke Passed LAN Cord With Superior 26 AWG Bare Copper Core | Compatible For Laptop, Router, PS5/4, Modem, Tv, CCTV & XBox | 0.5 Meter",
+          "qty": "1",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-21-dfqp",
+          "name": "[RJ45 connector with BOOT cover] RJ45 connector with BOOT cover",
+          "qty": "10",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-22-o3qr",
+          "name": "[PTL 1.5SQMM] 1.5SQMM PIN TYPE LUGS",
+          "qty": "100",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-23-004q",
+          "name": "[PTL 0.75SQMM] PIN TYPE LUGS",
+          "qty": "100",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-24-e1xz",
+          "name": "[PG13.5 CABLE GLAND] PG13.5 CABLE GLAND",
+          "qty": "10",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-25-aj7i",
+          "name": "[PANEL LAMP 2FT] PHILIPS Slimline LED Tube Light Batten (10W, 2ft,",
+          "qty": "1",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-26-gs86",
+          "name": "[ob-31pn05] HOLE PLUG DIA22",
+          "qty": "10",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-27-n8pd",
+          "name": "[MURR-4000-68713-829001] Communication port",
+          "qty": "1",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-28-p2oh",
+          "name": "[FINOLEX YELLOW(GC-BT51)] ETHERNET CABLE CAT-6",
+          "qty": "10",
+          "unit": "meters"
+        },
+        {
+          "id": "mat-1783341821940-29-dfwz",
+          "name": "[A9N2P10CIN] Miniature circuit breaker (MCB), Acti9 xC60, 2P, 10A, C curve, 10kA (IS/IEC60947-2)",
+          "qty": "1",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-30-k3fz",
+          "name": "[A9N2P06CIN] Miniature circuit breaker (MCB), Acti9 xC60, 2P, 6A, C curve, 10kA (IS/IEC60947-2)",
+          "qty": "1",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-31-70ct",
+          "name": "[A9N2P03CIN] Miniature circuit breaker (MCB), Acti9 xC60, 2P, 3A, C curve, 10kA (IS/IEC60947-2)",
+          "qty": "1",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-32-ykhr",
+          "name": "[A9N2P01CIN] Miniature circuit breaker (MCB), Acti9 xC60, 2P, 1A, C curve, 10kA (IS/IEC60947-2)",
+          "qty": "2",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-33-yh2p",
+          "name": "[7001E13.] Grey Cover / Black Housing 80 mm x 180 mm x70 mm",
+          "qty": "1",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-34-3n9i",
+          "name": "[7001A13] Grey Cover / Black Housing 80 mm x 90 mm x 70 mm",
+          "qty": "1",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-35-13ao",
+          "name": "[6GK5008-0BA10-1AB2] Switch, 8 Ports, Industrial, Unmanaged Fast Ethernet, DIN Rail / Wall, RJ45 x 8, 10Mbps, 100Mbps",
+          "qty": "1",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-36-7wti",
+          "name": "[6ES7 234-4HE32-0XB0] SIMATIC S7-1200, analog I/O SM 1234, 4 AI/2 AO, +/-10 V, 14-bit resolution or 0 (4)-20mA, 13-bit resolution",
+          "qty": "1",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-37-jfwq",
+          "name": "[6ES7 223-1BH32-0XB0_SM 1223] SIMATIC S7-1200, Digital I/O SM 1223, 8 DI/8 DO, 8 DI 24 V DC, Sink/Source, 8 DO, transistor 0.5 A",
+          "qty": "1",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-38-tvue",
+          "name": "[6ES7 214-1AG40-0XB0] SIMATIC S7-1200, CPU 1214C, compact CPU, DC/DC/DC, onboard I/O: 14 DI 24 V DC; 10 DO 24 V DC; 2 AI 0-10 V DC, power supply: DC 20.4-28.8 V DC, program/data memory 150 KB",
+          "qty": "1",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-39-dta3",
+          "name": "[6AV2 123-2GB03-0AX0] SIMATIC HMI, KTP700 Basic, Basic Panel, Key/touch operation, 7\" TFT display, 65536 colors, PROFINET interface, configurable from WinCC Basic V13/ STEP 7 Basic V13, contains open-source software, which is provided free of charge see enclosed CD",
+          "qty": "1",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-40-au2f",
+          "name": "[4Switch withsocket] 4Switch withsocket GM make",
+          "qty": "1",
+          "unit": "meters"
+        },
+        {
+          "id": "mat-1783341821940-41-0xqg",
+          "name": "[4520043U] LAPP KABEL UNIPLUS 1X4 RD",
+          "qty": "10",
+          "unit": "meters"
+        },
+        {
+          "id": "mat-1783341821940-42-tf71",
+          "name": "[4520013U] LAPP KABEL UNIPLUS 1X4 BK",
+          "qty": "10",
+          "unit": "meters"
+        },
+        {
+          "id": "mat-1783341821940-43-kn0r",
+          "name": "[4510051U] LAPP KABEL UNIPLUS 1X0.5 WH",
+          "qty": "30",
+          "unit": "meters"
+        },
+        {
+          "id": "mat-1783341821940-44-ye42",
+          "name": "[4510021U] LAPP KABEL UNIPLUS 1X0.5 BU",
+          "qty": "20",
+          "unit": "meters"
+        },
+        {
+          "id": "mat-1783341821940-45-wkrj",
+          "name": "[3A-GBL-25038-01] 600H-400W-250D",
+          "qty": "1",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-46-0xo2",
+          "name": "[3A-GB1-26007-003] BRANDINGS",
+          "qty": "25",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-47-06lj",
+          "name": "[3A-GB1-26007-002] 380H-380W-140D",
+          "qty": "1",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-48-k1ag",
+          "name": "[3211634.0] D-PPTB2,5-END COVER",
+          "qty": "6",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-49-dn1y",
+          "name": "[3210567.0] D-PPTB2,5DOUBLE LEVEL TB",
+          "qty": "20",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-50-svf7",
+          "name": "[3209549.0] D-PPTB2,5TWIN FEED THROUGH TB",
+          "qty": "20",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-51-j4ev",
+          "name": "[3030488.0] D-ST 2,5-TWIN - End cover",
+          "qty": "6",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-52-bstm",
+          "name": "[3022218.0] CLIPFIX 35 - End bracket",
+          "qty": "6",
+          "unit": "NOS"
+        },
+        {
+          "id": "mat-1783341821940-53-epan",
+          "name": "[2966171.0] PHOENIX PLC-RSC-24DC SLIM RELAY MODULE",
+          "qty": "4",
+          "unit": "NOS-"
+        },
+        {
+          "id": "mat-1783341821940-54-sdn8",
+          "name": "[25W*60H] WIRE DUCT",
+          "qty": "4",
+          "unit": "meters"
+        },
+        {
+          "id": "mat-1783341821940-55-ayjl",
+          "name": "[1119755.0] ÖLFLEX® CLASSIC 110 5X0,5 Control cable; 5X0.5; U0/U: 300/500 V; PVC; Core identification: Numbers; Flexible; VDE registration number: 703",
+          "qty": "20",
+          "unit": "meters"
+        },
+        {
+          "id": "mat-1783341821940-56-vjra",
+          "name": "[1119753.0] OFLEX 3C 0.5SQMM LAPP CORE CABLE",
+          "qty": "20",
+          "unit": "meters"
+        },
+        {
+          "id": "mat-1783341821940-57-5xbl",
+          "name": "[1119018.0] 18G*O.5SQMM LAPP",
+          "qty": "10",
+          "unit": "meters"
+        },
+        {
+          "id": "mat-1783341821940-58-1aat",
+          "name": "[1085039.0] FL SWITCH 1005N - Industrial Ethernet Switch",
+          "qty": "1",
+          "unit": "NOS"
+        }
+      ]
     }
   },
-  "lastUpdated": "2026-07-06T08:30:46.737Z"
+  "lastUpdated": "2026-07-06T12:43:56.556Z"
 }
