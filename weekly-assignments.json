@@ -1307,7 +1307,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1783407339831",
+      "engineerName": "Veeresh M",
+      "weekStart": "2026-07-06",
+      "projectName": "3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1783407337637",
+          "taskName": "BOM for Ethernet Cable.All Ethernet cables need to be replaced with mfgr cable",
+          "type": "weekly",
+          "assignedDate": "2026-07-07",
+          "status": "not_started",
+          "targetDate": "2026-07-07"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-06T10:42:18.835Z"
+  "lastUpdated": "2026-07-07T06:55:39.831Z"
 }
