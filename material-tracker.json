@@ -695,9 +695,72 @@
           "qty": "30",
           "unit": "MTRS",
           "bomDate": "2026-07-06"
+        },
+        {
+          "id": "mat-1783404889935-1-wzez",
+          "name": "[6ES7131-6BH01-0BA0] Digital Input Module, 16 I/P, 24 VDC, SIMATIC ET 200SP Series",
+          "qty": "9",
+          "unit": "Nos",
+          "bomDate": "2026-05-28"
+        },
+        {
+          "id": "mat-1783404889935-2-34uu",
+          "name": "[6ES7132-6BH01-0BA0] Output Module, Digital, 16 O/P, 24 VDC, Source Output, SIMATIC ET 200SP Series",
+          "qty": "6",
+          "unit": "Nos",
+          "bomDate": "2026-05-28"
+        },
+        {
+          "id": "mat-1783404889935-3-gkmi",
+          "name": "[6ES7193-6PA00-0AA0] SIMATIC ET 200SP, spare part Server module for ET 200SP",
+          "qty": "3",
+          "unit": "Nos",
+          "bomDate": "2026-05-28"
+        },
+        {
+          "id": "mat-1783404889935-4-iuve",
+          "name": "[6ES7193-6BP00-0DA0] SIMATIC ET 200SP, BaseUnit BU15-P16+A0+2D, BU type A0, push-in terminals, without aux. terminals, new load group, WxH: 15x 117 mm",
+          "qty": "5",
+          "unit": "Nos",
+          "bomDate": "2026-05-28"
+        },
+        {
+          "id": "mat-1783404889935-5-uslf",
+          "name": "[6ES7193-6BP00-0BA0] Base Unit, 10 A, 24 VDC, Push-In, SIMATIC ET 200SP Series",
+          "qty": "11",
+          "unit": "Nos",
+          "bomDate": "2026-05-28"
+        },
+        {
+          "id": "mat-1783404889935-6-67t6",
+          "name": "[IV4-G500CA] Compact model sensor head Standard model Colour",
+          "qty": "3",
+          "unit": "Nos",
+          "bomDate": "2026-05-28"
+        },
+        {
+          "id": "mat-1783404889935-7-98xu",
+          "name": "[IV4-G120] Compact model sensor amplifier",
+          "qty": "3",
+          "unit": "Nos",
+          "bomDate": "2026-05-28"
+        },
+        {
+          "id": "mat-1783404889935-8-10f4",
+          "name": "[OP-88649] Sensor head to amplifier cable 5 m",
+          "qty": "3",
+          "unit": "Nos",
+          "bomDate": "2026-05-28"
+        },
+        {
+          "id": "mat-1783404889935-9-zlvp",
+          "name": "[OP-88642] Polarising filter (colour)",
+          "qty": "3",
+          "unit": "Mtr",
+          "bomDate": "2026-05-28"
         }
       ]
     }
   },
-  "lastUpdated": "2026-07-06T15:40:17.781Z"
+  "lastUpdated": "2026-07-07T06:15:47.873Z"
 }
