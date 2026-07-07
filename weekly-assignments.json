@@ -212,7 +212,7 @@
       "tasks": [],
       "currentStatus": "fat",
       "notes": "Washer Gantry Pick and Place and All gantry Initialization",
-      "constraint": "Washer Gantry new logic validation completed",
+      "constraint": "Washer Gantry new logic validation completed.\nMachine Stopping abruptly due to communication cable.\nReplacing Manually Crimped cables with machine crimped cables are in progress.",
       "resourceLockedFrom": "2025-11-01",
       "resourceLockedTill": "2026-04-30",
       "internalTarget": "2026-04-29",
@@ -1331,5 +1331,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-07T07:09:48.797Z"
+  "lastUpdated": "2026-07-07T07:12:24.115Z"
 }
