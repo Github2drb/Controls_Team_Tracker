@@ -1207,8 +1207,9 @@
           "taskName": "Offline PLC and HMI Download",
           "type": "weekly",
           "assignedDate": "2026-07-06",
-          "status": "not_started",
-          "targetDate": "2026-07-06"
+          "status": "completed",
+          "targetDate": "2026-07-06",
+          "completionDate": "2026-07-08"
         }
       ],
       "currentStatus": "in_progress",
