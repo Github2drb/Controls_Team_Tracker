@@ -1283,7 +1283,7 @@
           "taskName": "Full Auto Cycle Running",
           "type": "weekly",
           "assignedDate": "2026-07-06",
-          "status": "not_started",
+          "status": "in_progress",
           "targetDate": "2026-07-06"
         }
       ],
