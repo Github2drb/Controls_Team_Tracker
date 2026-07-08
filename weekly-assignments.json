@@ -1328,8 +1328,9 @@
           "taskName": "BOM for Ethernet Cable.All Ethernet cables need to be replaced with mfgr cable",
           "type": "weekly",
           "assignedDate": "2026-07-07",
-          "status": "not_started",
-          "targetDate": "2026-07-07"
+          "status": "completed",
+          "targetDate": "2026-07-07",
+          "completionDate": "2026-07-08"
         }
       ],
       "currentStatus": "not_started",
