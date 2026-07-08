@@ -1143,8 +1143,9 @@
           "taskName": "ICP CON Communication with PLC",
           "type": "weekly",
           "assignedDate": "2026-07-06",
-          "status": "not_started",
-          "targetDate": "2026-07-06"
+          "status": "completed",
+          "targetDate": "2026-07-06",
+          "completionDate": "2026-07-08"
         },
         {
           "id": "t-1783334271978",
