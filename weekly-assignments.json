@@ -248,7 +248,7 @@
     },
     {
       "id": "wa-1777017351622",
-      "engineerName": "Harsha, Dhanesh M, Santosh N",
+      "engineerName": "Santosh N",
       "weekStart": "2026-04-20",
       "projectName": "3A-VA1-26035-Varroc-Stator Housing Shrink Fitting",
       "resourceLockedFrom": "2026-05-01",
@@ -265,7 +265,7 @@
         }
       ],
       "currentStatus": "in_progress",
-      "constraint": "DAP Handed over. \nElectrical Procurement,E-Plan Duplication of earlier project and modification in pending"
+      "constraint": "DAP Completed. Project handed over to BIW team"
     },
     {
       "id": "wa-1777908262751",
@@ -1331,5 +1331,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-08T07:35:06.642Z"
+  "lastUpdated": "2026-07-08T07:37:02.688Z"
 }
