@@ -1357,7 +1357,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1783496809884",
+      "engineerName": "Ramkumar Annamalai",
+      "weekStart": "2026-07-06",
+      "projectName": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1783496807256",
+          "taskName": "Project Study and BOM Check and IO list generation",
+          "type": "weekly",
+          "assignedDate": "2026-07-08",
+          "status": "not_started",
+          "targetDate": "2026-07-08"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-08T07:45:34.420Z"
+  "lastUpdated": "2026-07-08T07:46:49.884Z"
 }
