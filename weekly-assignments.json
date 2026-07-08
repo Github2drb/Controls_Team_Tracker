@@ -61,7 +61,7 @@
       ],
       "currentStatus": "in_progress",
       "notes": "",
-      "constraint": "Mechanical,Electrical Assembly in Progress.\nOffline PLC Program in Progress.\nCustomer Visit planned for 01-07-26 to 10-07-2026",
+      "constraint": "Mechanical,Electrical Assembly in Progress.\nOffline PLC Program done.\nEquipment powered up and communication interface in progress\nCustomer Visit planned for 01-07-26 to 10-07-2026",
       "resourceLockedFrom": "2026-03-30",
       "resourceLockedTill": "2026-08-30",
       "internalTarget": "2026-07-15",
@@ -1331,5 +1331,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-08T07:37:18.216Z"
+  "lastUpdated": "2026-07-08T07:38:19.077Z"
 }
