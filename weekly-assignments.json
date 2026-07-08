@@ -1379,7 +1379,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1783496868649",
+      "engineerName": "Indrakumar",
+      "weekStart": "2026-07-06",
+      "projectName": "3A-DK2-25143_STEP 4-Leak Testing Machine",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1783496866081",
+          "taskName": "Project Study and Take over from Dyumith",
+          "type": "weekly",
+          "assignedDate": "2026-07-08",
+          "status": "not_started",
+          "targetDate": "2026-07-08"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-08T07:47:01.648Z"
+  "lastUpdated": "2026-07-08T07:47:48.649Z"
 }
