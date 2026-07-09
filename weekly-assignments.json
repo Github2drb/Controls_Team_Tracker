@@ -1431,7 +1431,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1783570916434",
+      "engineerName": "Dhanesh M",
+      "weekStart": "2026-07-06",
+      "projectName": "3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1783570913577",
+          "taskName": "Lock Switch,ASO Switch Testing",
+          "type": "weekly",
+          "assignedDate": "2026-07-09",
+          "status": "not_started",
+          "targetDate": "2026-07-09"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-09T04:20:52.841Z"
+  "lastUpdated": "2026-07-09T04:21:56.434Z"
 }
