@@ -1401,7 +1401,37 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1783570852841",
+      "engineerName": "Dhanesh M",
+      "weekStart": "2026-07-06",
+      "projectName": "3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1783570813193",
+          "taskName": "Park Assist Sw Testing",
+          "type": "weekly",
+          "assignedDate": "2026-07-09",
+          "status": "not_started",
+          "targetDate": "2026-07-09"
+        },
+        {
+          "id": "t-1783570850538",
+          "taskName": "Turn Signal,Navigation Switch Testing",
+          "type": "weekly",
+          "assignedDate": "2026-07-09",
+          "status": "not_started",
+          "targetDate": "2026-07-09"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-08T07:53:29.160Z"
+  "lastUpdated": "2026-07-09T04:20:52.841Z"
 }
