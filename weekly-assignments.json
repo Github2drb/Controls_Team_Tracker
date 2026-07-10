@@ -603,12 +603,12 @@
       "engineerName": "Sumanjali",
       "weekStart": "2026-06-08",
       "projectName": "3A-IS1-26051 Final Line Filling Equipment Interlinking with Conveyor.",
-      "resourceLockedFrom": "",
-      "resourceLockedTill": "",
-      "internalTarget": "",
-      "customerTarget": "",
+      "resourceLockedFrom": "2026-06-01",
+      "resourceLockedTill": "2026-06-30",
+      "internalTarget": "2026-06-28",
+      "customerTarget": "2026-06-29",
       "tasks": [],
-      "currentStatus": "waiting_for_materials",
+      "currentStatus": "completed",
       "constraint": ""
     },
     {
@@ -1501,5 +1501,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-10T12:14:18.594Z"
+  "lastUpdated": "2026-07-10T12:14:57.603Z"
 }
