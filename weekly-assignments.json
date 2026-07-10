@@ -1023,10 +1023,10 @@
       "engineerName": "Deekshitha HC",
       "weekStart": "2026-06-29",
       "projectName": "3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector",
-      "resourceLockedFrom": "",
-      "resourceLockedTill": "",
-      "internalTarget": "",
-      "customerTarget": "",
+      "resourceLockedFrom": "2026-03-02",
+      "resourceLockedTill": "2026-08-30",
+      "internalTarget": "2026-07-25",
+      "customerTarget": "2026-07-28",
       "tasks": [
         {
           "id": "t-1782800259590",
@@ -1037,8 +1037,8 @@
           "targetDate": "2026-06-30"
         }
       ],
-      "currentStatus": "not_started",
-      "constraint": ""
+      "currentStatus": "electrical_design",
+      "constraint": "BOM Loading Completed"
     },
     {
       "id": "wa-1782971801171",
@@ -1501,5 +1501,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-10T12:11:37.471Z"
+  "lastUpdated": "2026-07-10T12:13:20.630Z"
 }
