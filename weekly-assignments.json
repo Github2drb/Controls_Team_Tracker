@@ -850,10 +850,10 @@
       "engineerName": "Santhosh N",
       "weekStart": "2026-06-22",
       "projectName": "3A-DK1-25077-Dehydration Project",
-      "resourceLockedFrom": "",
-      "resourceLockedTill": "",
-      "internalTarget": "",
-      "customerTarget": "",
+      "resourceLockedFrom": "2025-11-01",
+      "resourceLockedTill": "2026-06-30",
+      "internalTarget": "2026-05-30",
+      "customerTarget": "2026-06-30",
       "tasks": [
         {
           "id": "t-1782192113429",
@@ -865,7 +865,7 @@
           "completionDate": "2026-07-04"
         }
       ],
-      "currentStatus": "in_progress",
+      "currentStatus": "completed",
       "constraint": ""
     },
     {
@@ -1501,5 +1501,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-10T12:03:17.464Z"
+  "lastUpdated": "2026-07-10T12:04:29.033Z"
 }
