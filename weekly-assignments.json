@@ -334,8 +334,8 @@
           "status": "not_started"
         }
       ],
-      "currentStatus": "waiting_for_materials",
-      "constraint": "DAP Completed. Offline PLC and HMI in progress.Material Procurement in progress"
+      "currentStatus": "mechanical_assembly",
+      "constraint": "DAP Completed. Offline PLC and HMI in progress.\nMechanical Assy in progress in Unit-2"
     },
     {
       "id": "wa-1779455033744",
@@ -1501,5 +1501,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-10T12:06:33.067Z"
+  "lastUpdated": "2026-07-10T12:07:52.153Z"
 }
