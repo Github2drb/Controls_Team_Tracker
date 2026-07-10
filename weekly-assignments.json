@@ -957,10 +957,10 @@
       "engineerName": "Santhosh N",
       "weekStart": "2026-06-29",
       "projectName": "DK1-25110- ODU Assembly auto line",
-      "resourceLockedFrom": "",
-      "resourceLockedTill": "",
-      "internalTarget": "",
-      "customerTarget": "",
+      "resourceLockedFrom": "2026-02-01",
+      "resourceLockedTill": "2026-07-30",
+      "internalTarget": "2026-07-15",
+      "customerTarget": "2026-07-25",
       "tasks": [
         {
           "id": "t-1782731379595",
@@ -980,7 +980,7 @@
           "targetDate": "2026-06-29"
         }
       ],
-      "currentStatus": "in_progress",
+      "currentStatus": "io_check",
       "constraint": ""
     },
     {
@@ -1501,5 +1501,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-10T12:09:26.344Z"
+  "lastUpdated": "2026-07-10T12:10:22.756Z"
 }
