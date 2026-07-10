@@ -36,7 +36,7 @@
           "status": "not_started"
         }
       ],
-      "currentStatus": "in_progress",
+      "currentStatus": "electrical_assembly",
       "notes": "",
       "constraint": "E-Plan,PLC and HMI Program in progress\nLCMR Configuration in progress",
       "resourceLockedFrom": "2026-03-25",
@@ -1501,5 +1501,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-10T12:11:23.481Z"
+  "lastUpdated": "2026-07-10T12:11:37.471Z"
 }
