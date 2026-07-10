@@ -1477,7 +1477,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1783677680073",
+      "engineerName": "Harsha K",
+      "weekStart": "2026-07-06",
+      "projectName": "3A-DK1-25077-Dehydration Project",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1783677675052",
+          "taskName": "PLC Program merge to Q CPU",
+          "type": "daily",
+          "assignedDate": "2026-07-11",
+          "status": "not_started",
+          "targetDate": "2026-07-11"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-10T10:00:19.245Z"
+  "lastUpdated": "2026-07-10T10:01:20.073Z"
 }
