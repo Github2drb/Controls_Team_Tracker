@@ -390,7 +390,7 @@
       "internalTarget": "2026-06-30",
       "customerTarget": "2026-06-26",
       "tasks": [],
-      "currentStatus": "not_started",
+      "currentStatus": "design_stage",
       "constraint": "DAP Submitted\nBOM in progress."
     },
     {
@@ -1501,5 +1501,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-10T12:02:06.767Z"
+  "lastUpdated": "2026-07-10T12:02:22.868Z"
 }
