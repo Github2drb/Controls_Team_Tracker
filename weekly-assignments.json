@@ -137,7 +137,7 @@
       ],
       "currentStatus": "in_progress",
       "notes": "",
-      "constraint": "Electrical Assembly in Progress\nOffline PLC and HMI in Progress\nRobot<->PLC Sequence needs to be tested.\nIndex Servo bypassed temporarily",
+      "constraint": "Electrical Assembly in Progress\nOffline PLC and HMI in Progress\nRobot<->PLC Sequence needs to be tested.\nIndex Servo bypassed temporarily\nRobot Assy. Completed at site",
       "resourceLockedFrom": "2026-03-17",
       "resourceLockedTill": "2026-06-30",
       "internalTarget": "2026-04-30",
@@ -1501,5 +1501,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-10T12:08:55.895Z"
+  "lastUpdated": "2026-07-10T12:09:26.344Z"
 }
