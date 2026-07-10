@@ -759,10 +759,10 @@
       "engineerName": "Harsha K",
       "weekStart": "2026-06-22",
       "projectName": "3A-DK1-25077-Dehydration Project",
-      "resourceLockedFrom": "",
-      "resourceLockedTill": "",
-      "internalTarget": "",
-      "customerTarget": "",
+      "resourceLockedFrom": "2025-12-01",
+      "resourceLockedTill": "2026-07-15",
+      "internalTarget": "2026-06-30",
+      "customerTarget": "2026-06-30",
       "tasks": [
         {
           "id": "t-1782114656566",
@@ -774,7 +774,7 @@
           "completionDate": "2026-07-04"
         }
       ],
-      "currentStatus": "in_progress",
+      "currentStatus": "sat",
       "constraint": ""
     },
     {
@@ -1501,5 +1501,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-10T12:04:29.033Z"
+  "lastUpdated": "2026-07-10T12:05:12.986Z"
 }
