@@ -1152,8 +1152,9 @@
           "taskName": "Manual Testing",
           "type": "weekly",
           "assignedDate": "2026-07-06",
-          "status": "in_progress",
-          "targetDate": "2026-07-06"
+          "status": "completed",
+          "targetDate": "2026-07-06",
+          "completionDate": "2026-07-10"
         },
         {
           "id": "t-1783334288510",
