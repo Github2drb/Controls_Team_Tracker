@@ -313,8 +313,8 @@
           "status": "completed"
         }
       ],
-      "currentStatus": "waiting_for_materials",
-      "constraint": "DAP Submitted on 26-05-26.\nOffline Logic to be started.\nRisk Assessment pending"
+      "currentStatus": "mechanical_assembly",
+      "constraint": "DAP Submitted on 26-05-26.\nOffline Logic to be started.\nRisk Assessment pending\nInkjet Marking Testing in progress"
     },
     {
       "id": "wa-1778562866003",
@@ -1501,5 +1501,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-10T12:02:22.868Z"
+  "lastUpdated": "2026-07-10T12:02:49.477Z"
 }
