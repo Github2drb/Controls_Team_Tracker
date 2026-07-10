@@ -89,7 +89,7 @@
           "status": "not_started"
         }
       ],
-      "currentStatus": "waiting_for_materials",
+      "currentStatus": "mechanical_assembly",
       "notes": "",
       "constraint": "Material Procurement in progress",
       "resourceLockedFrom": "2026-03-23",
@@ -1501,5 +1501,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-10T12:05:53.435Z"
+  "lastUpdated": "2026-07-10T12:06:19.603Z"
 }
