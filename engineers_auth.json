@@ -83,11 +83,15 @@
       "id": "eng-14",
       "name": "Deekshitha HC",
       "username": "deekshitha.hc",
-      "password": "drb@123",
-      "role": "engineer",
+      "password": "",
+      "role": "documentation",
       "isActive": true,
       "createdAt": "2026-01-25T01:20:43.699Z",
-      "lastLogin": "2026-07-03T09:24:22.686Z"
+      "lastLogin": "2026-07-03T09:24:22.686Z",
+      "company": "",
+      "mobile": "9606258925",
+      "email": "deekshitha.hc@3dcad-global.com",
+      "callmebotApiKey": ""
     },
     {
       "id": "eng-16",
@@ -244,5 +248,5 @@
       "createdAt": "2026-06-24T08:52:34.096Z"
     }
   ],
-  "lastUpdated": "2026-07-09T04:36:47.779Z"
+  "lastUpdated": "2026-07-11T03:51:52.122Z"
 }
