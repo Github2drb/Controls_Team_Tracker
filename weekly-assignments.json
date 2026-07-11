@@ -628,8 +628,9 @@
           "taskName": "Electrical Drawing Correction as per Southco Feedback",
           "type": "daily",
           "assignedDate": "2026-06-15",
-          "status": "not_started",
-          "targetDate": "2026-06-15"
+          "status": "completed",
+          "targetDate": "2026-06-15",
+          "completionDate": "2026-07-11"
         },
         {
           "id": "t-1781498423552",
