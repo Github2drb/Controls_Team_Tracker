@@ -700,8 +700,9 @@
           "taskName": "Identify Beckhoff Module positions with photograph.Same has be shown in drawing",
           "type": "daily",
           "assignedDate": "2026-06-20",
-          "status": "not_started",
-          "targetDate": "2026-06-20"
+          "status": "completed",
+          "targetDate": "2026-06-20",
+          "completionDate": "2026-07-11"
         },
         {
           "id": "t-1781869317299",
