@@ -112,7 +112,18 @@
       ],
       "author": "Admin",
       "createdAt": "2026-06-24T08:38:38.670Z"
+    },
+    {
+      "id": "notif-1783744000853",
+      "title": "Onsite Attendance Updation",
+      "message": "Engineers who are working at site need to update attendance in new office connect. if it is not working, take a screenshot and send mail to HR",
+      "type": "info",
+      "link": "https://newofficeconnect.3dcad-global.com/#/auth/signin",
+      "isTicker": false,
+      "readBy": [],
+      "author": "Admin",
+      "createdAt": "2026-07-11T04:26:40.853Z"
     }
   ],
-  "lastUpdated": "2026-07-08T04:25:20.080Z"
+  "lastUpdated": "2026-07-11T04:26:40.853Z"
 }
