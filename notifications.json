@@ -51,7 +51,7 @@
       "message": "Employee advances, advance settlements, related approvals, Employee reimbursement claims, supporting documents, and payment status follow-ups related mails should be sent to 3dcadpayable@3dcad-global.com",
       "type": "info",
       "link": "",
-      "isTicker": true,
+      "isTicker": false,
       "readBy": [
         "admin",
         "device-t0t4nve89",
@@ -125,5 +125,5 @@
       "createdAt": "2026-07-11T04:26:40.853Z"
     }
   ],
-  "lastUpdated": "2026-07-11T04:26:47.303Z"
+  "lastUpdated": "2026-07-11T04:26:52.037Z"
 }
