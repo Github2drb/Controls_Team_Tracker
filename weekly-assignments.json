@@ -683,8 +683,9 @@
           "taskName": "Identify Wirings without connector that need to be removed while dismantling machine",
           "type": "daily",
           "assignedDate": "2026-06-20",
-          "status": "not_started",
-          "targetDate": "2026-06-20"
+          "status": "completed",
+          "targetDate": "2026-06-20",
+          "completionDate": "2026-07-11"
         },
         {
           "id": "t-1781869258757",
