@@ -691,8 +691,9 @@
           "taskName": "Check Pheonix Switch Name tag and compare it with drawing. Drawing and Actual Tag should be same",
           "type": "daily",
           "assignedDate": "2026-06-20",
-          "status": "not_started",
-          "targetDate": "2026-06-20"
+          "status": "completed",
+          "targetDate": "2026-06-20",
+          "completionDate": "2026-07-11"
         },
         {
           "id": "t-1781869290031",
