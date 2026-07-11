@@ -1192,8 +1192,9 @@
           "taskName": "Rexroth Power up,IP Configuration, Safety Check",
           "type": "weekly",
           "assignedDate": "2026-07-06",
-          "status": "in_progress",
-          "targetDate": "2026-07-06"
+          "status": "completed",
+          "targetDate": "2026-07-06",
+          "completionDate": "2026-07-11"
         },
         {
           "id": "t-1783334348001",
