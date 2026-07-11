@@ -12,7 +12,8 @@
           "bomDate": "2026-04-14",
           "prCreated": "2026-04-15",
           "prApproved": "2026-04-15",
-          "targetReceipt": "2026-06-26"
+          "targetReceipt": "2026-06-26",
+          "receiptStatus": "Received"
         },
         {
           "id": "mat-1782109225674-2-6zvs",
@@ -22,7 +23,8 @@
           "bomDate": "2026-04-14",
           "prCreated": "2026-04-15",
           "prApproved": "2026-04-15",
-          "targetReceipt": "2026-06-26"
+          "targetReceipt": "2026-06-26",
+          "receiptStatus": "Received"
         },
         {
           "id": "mat-1782109225675-3-8gb8",
@@ -35,7 +37,8 @@
           "targetReceipt": "2026-06-26",
           "actualReceipt": "2026-06-26",
           "poCreated": "2026-06-20",
-          "poApproved": "2026-06-22"
+          "poApproved": "2026-06-22",
+          "receiptStatus": "Received"
         },
         {
           "id": "mat-1782109225675-4-8y64",
@@ -48,13 +51,8 @@
           "targetReceipt": "2026-06-26",
           "actualReceipt": "2026-06-26",
           "poCreated": "2026-06-22",
-          "poApproved": "2026-06-24"
-        },
-        {
-          "id": "mat-1782453782454-agio",
-          "name": "FX5U-ENET/Ip",
-          "qty": "1",
-          "unit": "Nos"
+          "poApproved": "2026-06-24",
+          "receiptStatus": "Received"
         }
       ]
     },
@@ -762,5 +760,5 @@
       ]
     }
   },
-  "lastUpdated": "2026-07-07T06:15:47.873Z"
+  "lastUpdated": "2026-07-11T03:15:31.041Z"
 }
