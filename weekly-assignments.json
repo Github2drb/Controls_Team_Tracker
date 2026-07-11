@@ -1033,8 +1033,9 @@
           "taskName": "Add BOM to Project Material Tracker",
           "type": "weekly",
           "assignedDate": "2026-06-30",
-          "status": "not_started",
-          "targetDate": "2026-06-30"
+          "status": "completed",
+          "targetDate": "2026-06-30",
+          "completionDate": "2026-07-11"
         }
       ],
       "currentStatus": "electrical_design",
