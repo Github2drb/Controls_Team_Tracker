@@ -1420,8 +1420,9 @@
           "taskName": "Park Assist Sw Testing",
           "type": "weekly",
           "assignedDate": "2026-07-09",
-          "status": "not_started",
-          "targetDate": "2026-07-09"
+          "status": "completed",
+          "targetDate": "2026-07-09",
+          "completionDate": "2026-07-11"
         },
         {
           "id": "t-1783570850538",
