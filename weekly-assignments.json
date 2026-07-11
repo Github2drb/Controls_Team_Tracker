@@ -487,8 +487,9 @@
           "taskName": "Q CPU Change and Trial Validation",
           "type": "weekly",
           "assignedDate": "2026-06-14",
-          "status": "not_started",
-          "targetDate": "2026-06-14"
+          "status": "completed",
+          "targetDate": "2026-06-14",
+          "completionDate": "2026-07-11"
         }
       ],
       "currentStatus": "not_started",
