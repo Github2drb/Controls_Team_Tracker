@@ -1161,8 +1161,9 @@
           "taskName": "ICP CON+Data Logger+Robot Integration",
           "type": "weekly",
           "assignedDate": "2026-07-06",
-          "status": "in_progress",
-          "targetDate": "2026-07-06"
+          "status": "completed",
+          "targetDate": "2026-07-06",
+          "completionDate": "2026-07-11"
         }
       ],
       "currentStatus": "completed",
