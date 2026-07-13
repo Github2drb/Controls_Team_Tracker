@@ -1615,7 +1615,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1783959666416",
+      "engineerName": "Harsha K",
+      "weekStart": "2026-07-13",
+      "projectName": "3A-DK1-25077-Dehydration Project",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1783959665140",
+          "taskName": "SQD Points Completion",
+          "type": "daily",
+          "assignedDate": "2026-07-14",
+          "status": "not_started",
+          "targetDate": "2026-07-14"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-13T16:20:43.659Z"
+  "lastUpdated": "2026-07-13T16:21:06.416Z"
 }
