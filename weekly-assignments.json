@@ -993,7 +993,7 @@
           "targetDate": "2026-06-29"
         }
       ],
-      "currentStatus": "io_check",
+      "currentStatus": "trials_stage",
       "constraint": ""
     },
     {
@@ -1520,5 +1520,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-13T16:16:19.537Z"
+  "lastUpdated": "2026-07-13T16:16:42.735Z"
 }
