@@ -1513,8 +1513,9 @@
           "taskName": "PLC Program merge to Q CPU",
           "type": "daily",
           "assignedDate": "2026-07-11",
-          "status": "not_started",
-          "targetDate": "2026-07-11"
+          "status": "completed",
+          "targetDate": "2026-07-11",
+          "completionDate": "2026-07-13"
         }
       ],
       "currentStatus": "completed",
