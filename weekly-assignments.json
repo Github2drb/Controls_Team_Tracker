@@ -1593,7 +1593,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1783959643659",
+      "engineerName": "Susanth K M",
+      "weekStart": "2026-07-13",
+      "projectName": "DK1-25110- ODU Assembly auto line",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1783959642901",
+          "taskName": "Manual Testing of Each station",
+          "type": "weekly",
+          "assignedDate": "2026-07-13",
+          "status": "not_started",
+          "targetDate": "2026-07-13"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-13T16:20:17.783Z"
+  "lastUpdated": "2026-07-13T16:20:43.659Z"
 }
