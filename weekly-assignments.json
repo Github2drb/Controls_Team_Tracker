@@ -1468,8 +1468,9 @@
           "taskName": "Lock Switch,ASO Switch Testing",
           "type": "weekly",
           "assignedDate": "2026-07-09",
-          "status": "not_started",
-          "targetDate": "2026-07-09"
+          "status": "completed",
+          "targetDate": "2026-07-09",
+          "completionDate": "2026-07-13"
         }
       ],
       "currentStatus": "completed",
