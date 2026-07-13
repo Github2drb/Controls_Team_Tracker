@@ -1550,7 +1550,20 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1783959567660",
+      "engineerName": "Ramkumar Annamalai",
+      "weekStart": "2026-07-13",
+      "projectName": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-13T16:19:04.922Z"
+  "lastUpdated": "2026-07-13T16:19:27.661Z"
 }
