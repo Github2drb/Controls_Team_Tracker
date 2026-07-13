@@ -1659,7 +1659,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1783960985681",
+      "engineerName": "Deekshitha HC",
+      "weekStart": "2026-07-13",
+      "projectName": "3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1783960985002",
+          "taskName": "Close All BOM points",
+          "type": "weekly",
+          "assignedDate": "2026-07-13",
+          "status": "not_started",
+          "targetDate": "2026-07-13"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-13T16:42:32.254Z"
+  "lastUpdated": "2026-07-13T16:43:05.681Z"
 }
