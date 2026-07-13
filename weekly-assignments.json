@@ -199,7 +199,7 @@
           "status": "not_started"
         }
       ],
-      "currentStatus": "waiting_for_materials",
+      "currentStatus": "mechanical_assembly",
       "notes": "Hardware Configuration",
       "constraint": "DAP Submission\nOffline PLC Program In progress\nCustomer meeting on 26-05(They Shared Safety Documents)"
     },
@@ -1520,5 +1520,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-13T16:15:41.812Z"
+  "lastUpdated": "2026-07-13T16:16:19.537Z"
 }
