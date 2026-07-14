@@ -61,7 +61,7 @@
       ],
       "currentStatus": "trials_stage",
       "notes": "",
-      "constraint": "Mechanical,Electrical Assembly in Progress.\nOffline PLC Program done.\nEquipment powered up and communication interface in progress\nCustomer Visit planned for 01-07-26 to 10-07-2026",
+      "constraint": "Mechanical, Electrical Assembly in Progress.\nOffline PLC Program done.\nEquipment powered up and communication interface in progress",
       "resourceLockedFrom": "2026-03-30",
       "resourceLockedTill": "2026-08-30",
       "internalTarget": "2026-07-15",
@@ -1696,5 +1696,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-14T04:31:57.762Z"
+  "lastUpdated": "2026-07-14T10:16:26.556Z"
 }
