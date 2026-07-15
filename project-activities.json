@@ -389,7 +389,8 @@
       "projectName": "3A-AV1-25120-Eddy Current Testing Equipment",
       "currentStatus": "Electrical Assembly Stage",
       "activities": {
-        "2026-07-13": "3DCADVS0314-started with project study of eddy current and checking schematic drawing"
+        "2026-07-13": "3DCADVS0314-started with project study of eddy current and checking schematic drawing",
+        "2026-07-14": "3DCADVS0314- CHECKING I/O LIST WITH ELECTRICAL DESIGNER AND PREPARING TAG IN PLC LOGIC "
       }
     },
     {
