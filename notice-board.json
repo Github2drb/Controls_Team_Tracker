@@ -169,10 +169,17 @@
           "date": "2026-07-14",
           "type": "update",
           "createdAt": "2026-07-14T05:16:30.032Z"
+        },
+        {
+          "id": "c-1784092016039",
+          "text": "3A-CC1-26040_EOL BOM Finalisation meeting",
+          "date": "2026-07-15",
+          "type": "note",
+          "createdAt": "2026-07-15T05:06:56.039Z"
         }
       ],
       "dismissedMissed": []
     }
   },
-  "lastUpdated": "2026-07-14T05:16:30.032Z"
+  "lastUpdated": "2026-07-15T05:06:56.039Z"
 }
