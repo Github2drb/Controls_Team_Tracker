@@ -1741,7 +1741,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1784213417899",
+      "engineerName": "Deekshitha HC",
+      "weekStart": "2026-07-13",
+      "projectName": "3A-DK2-25142_STEP 4 - Dehydration",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1784213416437",
+          "taskName": "BOM Check and Filter Parts pending for Integration",
+          "type": "weekly",
+          "assignedDate": "2026-07-16",
+          "status": "not_started",
+          "targetDate": "2026-07-16"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-16T14:49:37.325Z"
+  "lastUpdated": "2026-07-16T14:50:17.899Z"
 }
