@@ -1028,7 +1028,7 @@
       "internalTarget": "",
       "customerTarget": "",
       "tasks": [],
-      "currentStatus": "procurement_stage",
+      "currentStatus": "waiting_for_materials",
       "constraint": ""
     },
     {
@@ -1696,5 +1696,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-15T10:15:19.242Z"
+  "lastUpdated": "2026-07-16T05:33:49.174Z"
 }
