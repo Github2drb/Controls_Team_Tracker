@@ -1779,8 +1779,9 @@
           "taskName": "Electrical Drawing updation as per AL observation",
           "type": "daily",
           "assignedDate": "2026-07-17",
-          "status": "not_started",
-          "targetDate": "2026-07-17"
+          "status": "completed",
+          "targetDate": "2026-07-17",
+          "completionDate": "2026-07-17"
         }
       ],
       "currentStatus": "completed",
