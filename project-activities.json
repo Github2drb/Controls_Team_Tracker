@@ -418,7 +418,8 @@
         "2026-07-10": "3DCADSV1-183_ESP_BOM and RFQ Released",
         "2026-07-14": "3DCADSV1-183_ESP_EOL BOM Preparation",
         "2026-07-15": "3A-CC1-26040_EOL BOM Finalisation meeting",
-        "2026-07-16": "3DCADVS183_ESP_Musashi Dispenser Controller Technical Discussion with Vendor"
+        "2026-07-16": "3DCADVS183_ESP_Musashi Dispenser Controller Technical Discussion with Vendor",
+        "2026-07-17": "3DCADVS183_ESP_IO List review and dispenser IO allocation "
       }
     }
   ],
