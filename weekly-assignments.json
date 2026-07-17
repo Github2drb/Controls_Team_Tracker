@@ -1807,7 +1807,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1784268080939",
+      "engineerName": "Harsha K",
+      "weekStart": "2026-07-13",
+      "projectName": "3A-DK1-25077-Dehydration Project",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1784268079820",
+          "taskName": "Add Q03 CPU in Dehydration and Final Assembly for IOT",
+          "type": "weekly",
+          "assignedDate": "2026-07-17",
+          "status": "not_started",
+          "targetDate": "2026-07-17"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-17T05:58:53.900Z"
+  "lastUpdated": "2026-07-17T06:01:20.939Z"
 }
