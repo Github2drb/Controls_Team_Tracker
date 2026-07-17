@@ -1829,7 +1829,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1784268122138",
+      "engineerName": "Indrakumar",
+      "weekStart": "2026-07-13",
+      "projectName": "3A-AV1-25120-Eddy Current Testing Equipment",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1784268121470",
+          "taskName": "Hardware Configuration and IO List Generation",
+          "type": "weekly",
+          "assignedDate": "2026-07-17",
+          "status": "not_started",
+          "targetDate": "2026-07-17"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-17T06:01:20.939Z"
+  "lastUpdated": "2026-07-17T06:02:02.138Z"
 }
