@@ -61,7 +61,7 @@
       ],
       "currentStatus": "trials_stage",
       "notes": "",
-      "constraint": "Mechanical, Electrical Assembly in Progress.\nOffline PLC Program done.\nEquipment powered up and communication interface in progress",
+      "constraint": "Mechanical, Electrical Assembly in Progress.\nOffline PLC Program done.\nEquipment powered up and communication interface in progress\nRexroth Servo Press Display Communication Pending",
       "resourceLockedFrom": "2026-03-30",
       "resourceLockedTill": "2026-08-30",
       "internalTarget": "2026-07-15",
@@ -1765,5 +1765,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-16T14:50:17.899Z"
+  "lastUpdated": "2026-07-17T05:11:30.503Z"
 }
