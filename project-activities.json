@@ -324,7 +324,7 @@
     },
     {
       "projectName": "3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine",
-      "currentStatus": "Electrical Assembly Stage",
+      "currentStatus": "IO Check Stage",
       "activities": {
         "2026-05-05": "@VEERESH, 1. Panel Cooling fan Calculation \n2. E-plan Drawing",
         "2026-05-06": "@veeresh, 1. Emergency circuit Drawing. 2. Door circuit Drawing\n@sumanjali, E-plan ",
