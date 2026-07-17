@@ -41,7 +41,9 @@
           "poCreated": "2026-06-20",
           "poApproved": "2026-06-22",
           "receiptStatus": "Received",
-          "currentStatus": "Received"
+          "currentStatus": "Received",
+          "hwIntegrationDone": "2026-07-12",
+          "scmCommittedDate": "2026-06-22"
         },
         {
           "id": "mat-1782109225675-4-8y64",
@@ -56,7 +58,9 @@
           "poCreated": "2026-06-22",
           "poApproved": "2026-06-24",
           "receiptStatus": "Received",
-          "currentStatus": "Received"
+          "currentStatus": "Received",
+          "scmCommittedDate": "2026-06-22",
+          "hwIntegrationDone": "2026-07-12"
         }
       ]
     },
@@ -764,5 +768,5 @@
       ]
     }
   },
-  "lastUpdated": "2026-07-17T07:00:37.564Z"
+  "lastUpdated": "2026-07-17T07:01:22.943Z"
 }
