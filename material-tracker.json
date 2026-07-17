@@ -40,7 +40,8 @@
           "actualReceipt": "2026-06-26",
           "poCreated": "2026-06-20",
           "poApproved": "2026-06-22",
-          "receiptStatus": "Received"
+          "receiptStatus": "Received",
+          "currentStatus": "Received"
         },
         {
           "id": "mat-1782109225675-4-8y64",
@@ -54,7 +55,8 @@
           "actualReceipt": "2026-06-26",
           "poCreated": "2026-06-22",
           "poApproved": "2026-06-24",
-          "receiptStatus": "Received"
+          "receiptStatus": "Received",
+          "currentStatus": "Received"
         }
       ]
     },
@@ -762,5 +764,5 @@
       ]
     }
   },
-  "lastUpdated": "2026-07-17T06:59:41.857Z"
+  "lastUpdated": "2026-07-17T07:00:37.564Z"
 }
