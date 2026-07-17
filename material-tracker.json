@@ -13,7 +13,8 @@
           "prCreated": "2026-04-15",
           "prApproved": "2026-04-15",
           "targetReceipt": "2026-06-26",
-          "receiptStatus": "Received"
+          "receiptStatus": "Received",
+          "currentStatus": "Received"
         },
         {
           "id": "mat-1782109225674-2-6zvs",
@@ -24,7 +25,8 @@
           "prCreated": "2026-04-15",
           "prApproved": "2026-04-15",
           "targetReceipt": "2026-06-26",
-          "receiptStatus": "Received"
+          "receiptStatus": "Received",
+          "currentStatus": "Received"
         },
         {
           "id": "mat-1782109225675-3-8gb8",
@@ -760,5 +762,5 @@
       ]
     }
   },
-  "lastUpdated": "2026-07-11T03:15:31.041Z"
+  "lastUpdated": "2026-07-17T06:59:41.857Z"
 }
