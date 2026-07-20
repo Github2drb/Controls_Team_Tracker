@@ -1232,7 +1232,7 @@
           "17": "COff",
           "18": "",
           "19": "",
-          "20": "3D CAD U1",
+          "20": "COff",
           "21": "3D CAD U1",
           "22": "3D CAD U1",
           "23": "3D CAD U1",
@@ -1296,9 +1296,9 @@
           "15": "Daikin",
           "16": "Daikin",
           "17": "Daikin",
-          "18": "",
+          "18": "Daikin",
           "19": "",
-          "20": "3D CAD U1",
+          "20": "Daikin",
           "21": "3D CAD U1",
           "22": "3D CAD U1",
           "23": "3D CAD U1",
@@ -1496,7 +1496,7 @@
           "17": "Not Applicable to Site",
           "18": "",
           "19": "",
-          "20": "3D CAD U1",
+          "20": "Not Applicable to Site",
           "21": "3D CAD U1",
           "22": "3D CAD U1",
           "23": "3D CAD U1",
@@ -1529,7 +1529,7 @@
           "17": "Not Applicable to Site",
           "18": "",
           "19": "",
-          "20": "3D CAD U1",
+          "20": "Not Applicable to Site",
           "21": "3D CAD U1",
           "22": "3D CAD U1",
           "23": "3D CAD U1",
@@ -1595,7 +1595,7 @@
           "17": "Not Applicable to Site",
           "18": "",
           "19": "",
-          "20": "3D CAD U1",
+          "20": "Not Applicable to Site",
           "21": "3D CAD U1",
           "22": "3D CAD U1",
           "23": "3D CAD U1",
@@ -1611,5 +1611,5 @@
       }
     }
   },
-  "lastUpdated": "2026-07-17T05:08:58.698Z"
+  "lastUpdated": "2026-07-20T09:43:14.555Z"
 }
