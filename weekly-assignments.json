@@ -1859,7 +1859,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1784784618616",
+      "engineerName": "Susanth K M",
+      "weekStart": "2026-07-20",
+      "projectName": "DK1-25110- ODU Assembly auto line",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1784784615973",
+          "taskName": "Station wise IO check and manual testing",
+          "type": "weekly",
+          "assignedDate": "2026-07-23",
+          "status": "not_started",
+          "targetDate": "2026-07-23"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-23T05:29:51.956Z"
+  "lastUpdated": "2026-07-23T05:30:18.617Z"
 }
