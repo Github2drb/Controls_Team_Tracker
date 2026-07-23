@@ -334,7 +334,7 @@
           "status": "not_started"
         }
       ],
-      "currentStatus": "electrical_assembly",
+      "currentStatus": "io_check",
       "constraint": "DAP Completed. Offline PLC and HMI in progress.\nMechanical Assy in progress in Unit-2"
     },
     {
@@ -1831,5 +1831,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-23T05:19:16.344Z"
+  "lastUpdated": "2026-07-23T05:19:39.183Z"
 }
