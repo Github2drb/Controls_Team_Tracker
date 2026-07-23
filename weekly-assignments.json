@@ -1947,7 +1947,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1784784714799",
+      "engineerName": "Deekshitha HC",
+      "weekStart": "2026-07-20",
+      "projectName": "3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1784784712973",
+          "taskName": "Electrical Documentation",
+          "type": "weekly",
+          "assignedDate": "2026-07-23",
+          "status": "not_started",
+          "targetDate": "2026-07-23"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-23T05:31:33.327Z"
+  "lastUpdated": "2026-07-23T05:31:54.799Z"
 }
