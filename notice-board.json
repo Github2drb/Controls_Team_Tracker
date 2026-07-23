@@ -246,10 +246,17 @@
           "date": "2026-07-23",
           "type": "note",
           "createdAt": "2026-07-23T04:26:18.209Z"
+        },
+        {
+          "id": "c-1784781036656",
+          "text": "3A-CC1-26040_Final BOM and architecture review.",
+          "date": "2026-07-23",
+          "type": "note",
+          "createdAt": "2026-07-23T04:30:36.656Z"
         }
       ],
       "dismissedMissed": []
     }
   },
-  "lastUpdated": "2026-07-23T04:26:18.209Z"
+  "lastUpdated": "2026-07-23T04:30:36.656Z"
 }
