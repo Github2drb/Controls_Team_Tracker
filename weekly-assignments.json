@@ -390,7 +390,7 @@
       "internalTarget": "2026-06-30",
       "customerTarget": "2026-06-26",
       "tasks": [],
-      "currentStatus": "design_stage",
+      "currentStatus": "electrical_design",
       "constraint": "DAP Submitted\nBOM in progress.\nDispenser Unit Discussion concluded. Technical Details awaited.\nFurther discussion will held on 20-07-2026"
     },
     {
@@ -1854,5 +1854,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-17T14:55:09.014Z"
+  "lastUpdated": "2026-07-23T05:17:33.288Z"
 }
