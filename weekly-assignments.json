@@ -1829,7 +1829,37 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1784784591956",
+      "engineerName": "Santhosh N",
+      "weekStart": "2026-07-20",
+      "projectName": "3A-AV1-25120-Eddy Current Testing Equipment",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1784784577602",
+          "taskName": "Complete BOM  and loading in ODOO",
+          "type": "weekly",
+          "assignedDate": "2026-07-23",
+          "status": "not_started",
+          "targetDate": "2026-07-23"
+        },
+        {
+          "id": "t-1784784590216",
+          "taskName": "Electrical Drawing updation",
+          "type": "weekly",
+          "assignedDate": "2026-07-23",
+          "status": "not_started",
+          "targetDate": "2026-07-23"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-23T05:19:39.183Z"
+  "lastUpdated": "2026-07-23T05:29:51.956Z"
 }
