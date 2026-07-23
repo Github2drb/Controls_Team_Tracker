@@ -473,29 +473,6 @@
       "constraint": ""
     },
     {
-      "id": "wa-1781434368133",
-      "engineerName": "Harsha",
-      "weekStart": "2026-06-08",
-      "projectName": "3A-DK1-25077-Dehydration Project",
-      "resourceLockedFrom": "",
-      "resourceLockedTill": "",
-      "internalTarget": "",
-      "customerTarget": "",
-      "tasks": [
-        {
-          "id": "t-1781434365667",
-          "taskName": "Q CPU Change and Trial Validation",
-          "type": "weekly",
-          "assignedDate": "2026-06-14",
-          "status": "completed",
-          "targetDate": "2026-06-14",
-          "completionDate": "2026-07-11"
-        }
-      ],
-      "currentStatus": "not_started",
-      "constraint": ""
-    },
-    {
       "id": "wa-1781434400944",
       "engineerName": "Susanth K M",
       "weekStart": "2026-06-08",
@@ -1854,5 +1831,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-23T05:18:07.675Z"
+  "lastUpdated": "2026-07-23T05:18:44.056Z"
 }
