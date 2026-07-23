@@ -239,7 +239,7 @@
           "status": "in_progress"
         }
       ],
-      "currentStatus": "trials_stage",
+      "currentStatus": "fat",
       "resourceLockedFrom": "2026-04-21",
       "resourceLockedTill": "2026-07-30",
       "internalTarget": "2026-07-15",
@@ -1854,5 +1854,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-23T05:17:33.288Z"
+  "lastUpdated": "2026-07-23T05:17:47.825Z"
 }
