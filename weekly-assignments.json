@@ -1881,7 +1881,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1784784644245",
+      "engineerName": "Dhanesh M",
+      "weekStart": "2026-07-20",
+      "projectName": "3A-IE1-26042 & 3A-IE1-26043 -INDIC-Wave Soldering Machine Conveyor Assembly -Misumi & Bosch",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1784784642111",
+          "taskName": "Manual Testing and Auto testing",
+          "type": "weekly",
+          "assignedDate": "2026-07-23",
+          "status": "not_started",
+          "targetDate": "2026-07-23"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-23T05:30:18.617Z"
+  "lastUpdated": "2026-07-23T05:30:44.245Z"
 }
