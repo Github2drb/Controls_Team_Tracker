@@ -172,7 +172,7 @@
           "status": "Completed"
         }
       ],
-      "currentStatus": "documentation",
+      "currentStatus": "equipment_handover",
       "notes": "",
       "constraint": "CC link IE Field Completed\nQ26UDV installed.\nHandy HMI Address assignment for Q PLC\nDry Cycle with Single PLC Completed\nSQD and IOT points to be closed(10no's)",
       "resourceLockedFrom": "2026-01-05",
@@ -1854,5 +1854,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-23T05:17:58.338Z"
+  "lastUpdated": "2026-07-23T05:18:07.675Z"
 }
