@@ -174,7 +174,7 @@
       ],
       "currentStatus": "equipment_handover",
       "notes": "",
-      "constraint": "CC link IE Field Completed\nQ26UDV installed.\nHandy HMI Address assignment for Q PLC\nDry Cycle with Single PLC Completed\nSQD and IOT points to be closed(10no's)",
+      "constraint": "CC link IE Field Completed\nQ26UDV installed.\nHandy HMI Address assignment for Q PLC\nDry Cycle with Single PLC Completed\nSQD and IOT points to be closed(10no's)\nIOT Communication Pending",
       "resourceLockedFrom": "2026-01-05",
       "resourceLockedTill": "2026-07-10",
       "internalTarget": "2026-07-03",
@@ -2015,5 +2015,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-24T08:47:51.110Z"
+  "lastUpdated": "2026-07-24T08:48:11.592Z"
 }
