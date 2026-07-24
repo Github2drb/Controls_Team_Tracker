@@ -335,7 +335,7 @@
         }
       ],
       "currentStatus": "io_check",
-      "constraint": "DAP Completed. Offline PLC and HMI in progress.\nMechanical Assy in progress in Unit-2"
+      "constraint": "DAP Completed. Offline PLC and HMI in progress.\nMechanical Assy in progress in Unit-2.\nElectrical Assembly in Progress.\nConveyor taken to customer area and remaining activities to be completed from site"
     },
     {
       "id": "wa-1779455033744",
@@ -2015,5 +2015,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-24T08:48:11.592Z"
+  "lastUpdated": "2026-07-24T08:49:06.909Z"
 }
