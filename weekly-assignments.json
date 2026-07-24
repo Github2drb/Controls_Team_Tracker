@@ -349,7 +349,7 @@
       "tasks": [],
       "currentStatus": "fat",
       "notes": "Hardware Integration in Progress",
-      "constraint": "CIP Communication Completed\nBarcode Scanning Pending\nPart Flush Check on E-Stop Completed\nCycle time optimization completed"
+      "constraint": "CIP Communication Completed\nBarcode Scanning Pending\nPart Flush Check on E-Stop Completed\nCycle time optimization completed.\nF.A.T to be resumed and completed"
     },
     {
       "id": "wa-1779455140013",
@@ -2015,5 +2015,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-24T08:49:37.933Z"
+  "lastUpdated": "2026-07-24T08:50:04.878Z"
 }
