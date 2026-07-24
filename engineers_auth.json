@@ -236,17 +236,8 @@
       "role": "engineer",
       "isActive": true,
       "createdAt": "2026-07-12T05:46:23.751Z"
-    },
-    {
-      "id": "eng-1784791695044",
-      "username": "vijay.TV",
-      "name": "vijay",
-      "password": "$2a$10$PJ1Mn6k3C5J6ibHCm8IVUOaygR/D6taqrjffrVRLr1kgJRBqdbmKy",
-      "role": "engineer",
-      "company": "",
-      "isActive": true,
-      "createdAt": "2026-07-23T07:28:15.662Z"
     }
+    
   ],
   "lastUpdated": "2026-07-24T08:46:43.739Z"
 }
