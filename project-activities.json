@@ -365,7 +365,7 @@
     },
     {
       "projectName": "3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector",
-      "currentStatus": "Waiting for Materials",
+      "currentStatus": "Mechanical Assembly Stage",
       "activities": {
         "2026-06-18": "@3DCADVS-183_ESP_PLC Architecture Change Updations",
         "2026-06-19": "@3DCADVS-183_ESP_Updated DAP Submission",
