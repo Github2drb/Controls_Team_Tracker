@@ -244,7 +244,7 @@
       "resourceLockedTill": "2026-07-30",
       "internalTarget": "2026-07-15",
       "customerTarget": "2026-07-28",
-      "constraint": "ICP CON Communication with PLC Completed\nPower supply replaced and checked\nData Logger checking completed."
+      "constraint": "ICP CON Communication with PLC Completed\nPower supply replaced and checked\nData Logger checking completed.\nAuto Trials Completed"
     },
     {
       "id": "wa-1777017351622",
@@ -2015,5 +2015,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-23T07:21:46.257Z"
+  "lastUpdated": "2026-07-24T08:47:51.110Z"
 }
