@@ -2056,7 +2056,37 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1785138471298",
+      "engineerName": "Santhosh N",
+      "weekStart": "2026-07-27",
+      "projectName": "3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1785138461770",
+          "taskName": "Switch Connector Wiring Drawing",
+          "type": "weekly",
+          "assignedDate": "2026-07-27",
+          "status": "not_started",
+          "targetDate": "2026-07-27"
+        },
+        {
+          "id": "t-1785138469572",
+          "taskName": "Switch Connector Wiring BOM",
+          "type": "weekly",
+          "assignedDate": "2026-07-27",
+          "status": "not_started",
+          "targetDate": "2026-07-27"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-27T07:47:16.736Z"
+  "lastUpdated": "2026-07-27T07:47:51.298Z"
 }
