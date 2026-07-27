@@ -7,7 +7,7 @@
         {
           "id": "mat-1782109225674-1-aols",
           "name": "FX5U-64MT/ESS",
-          "qty": "1",
+          "qty": "11",
           "unit": "Nos",
           "bomDate": "2026-04-14",
           "prCreated": "2026-04-15",
@@ -26,7 +26,13 @@
           "prApproved": "2026-04-15",
           "targetReceipt": "2026-06-26",
           "receiptStatus": "Received",
-          "currentStatus": "Received"
+          "currentStatus": "Received",
+          "actualReceipt": "2026-06-26",
+          "hwIntegrationTarget": "2026-06-30",
+          "poCreated": "2026-04-21",
+          "poApproved": "2026-04-22",
+          "scmCommittedDate": "2026-05-21",
+          "hwIntegrationDone": "2026-06-16"
         },
         {
           "id": "mat-1782109225675-3-8gb8",
@@ -768,5 +774,5 @@
       ]
     }
   },
-  "lastUpdated": "2026-07-17T07:01:22.943Z"
+  "lastUpdated": "2026-07-27T13:16:46.182Z"
 }
