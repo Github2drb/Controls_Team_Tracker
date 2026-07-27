@@ -2182,7 +2182,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1785138614590",
+      "engineerName": "Veeresh M",
+      "weekStart": "2026-07-27",
+      "projectName": "3A-S02-25054_Surface Hinge Assembly",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1785138614023",
+          "taskName": "Electrical Drawing Updation",
+          "type": "weekly",
+          "assignedDate": "2026-07-27",
+          "status": "not_started",
+          "targetDate": "2026-07-27"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-27T07:49:51.107Z"
+  "lastUpdated": "2026-07-27T07:50:14.590Z"
 }
