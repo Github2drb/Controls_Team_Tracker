@@ -2160,7 +2160,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1785138591107",
+      "engineerName": "Harsha K",
+      "weekStart": "2026-07-27",
+      "projectName": "3A-IS1-26051 Final Line Filling Equipment Interlinking with Conveyor.",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1785138590412",
+          "taskName": "Electrical Wiring Support",
+          "type": "daily",
+          "assignedDate": "2026-07-31",
+          "status": "not_started",
+          "targetDate": "2026-07-31"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-27T07:49:31.023Z"
+  "lastUpdated": "2026-07-27T07:49:51.107Z"
 }
