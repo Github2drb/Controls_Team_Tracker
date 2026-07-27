@@ -314,7 +314,7 @@
         }
       ],
       "currentStatus": "electrical_assembly",
-      "constraint": "DAP Submitted on 26-05-26.\nOffline Logic to be started.\nRisk Assessment pending\nInkjet Marking Testing in progress"
+      "constraint": "DAP Submitted on 26-05-26.\nOffline Logic to be started.\nRisk Assessment pending\nInkjet Marking received\nMechanical and Electrical Wiring in progress"
     },
     {
       "id": "wa-1778562866003",
@@ -2318,5 +2318,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-27T10:51:22.203Z"
+  "lastUpdated": "2026-07-27T10:51:47.133Z"
 }
