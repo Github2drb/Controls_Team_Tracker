@@ -2086,7 +2086,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1785138503200",
+      "engineerName": "Susanth K M",
+      "weekStart": "2026-07-27",
+      "projectName": "DK1-25110- ODU Assembly auto line",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1785138490739",
+          "taskName": "Auto Cycle",
+          "type": "weekly",
+          "assignedDate": "2026-07-27",
+          "status": "not_started",
+          "targetDate": "2026-07-27"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-27T07:47:51.298Z"
+  "lastUpdated": "2026-07-27T07:48:23.200Z"
 }
