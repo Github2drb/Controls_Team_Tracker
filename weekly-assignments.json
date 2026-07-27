@@ -2026,7 +2026,37 @@
       "tasks": [],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1785138436736",
+      "engineerName": "Santhosh N",
+      "weekStart": "2026-07-27",
+      "projectName": "3A-AV1-25120-Eddy Current Testing Equipment",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1785138428767",
+          "taskName": "BOM Completion",
+          "type": "weekly",
+          "assignedDate": "2026-07-27",
+          "status": "not_started",
+          "targetDate": "2026-07-27"
+        },
+        {
+          "id": "t-1785138434445",
+          "taskName": "Electrical Drawing",
+          "type": "weekly",
+          "assignedDate": "2026-07-27",
+          "status": "not_started",
+          "targetDate": "2026-07-27"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-27T07:46:42.624Z"
+  "lastUpdated": "2026-07-27T07:47:16.736Z"
 }
