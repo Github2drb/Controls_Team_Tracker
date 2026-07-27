@@ -2226,7 +2226,53 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1785138688016",
+      "engineerName": "Indrakumar",
+      "weekStart": "2026-07-27",
+      "projectName": "3A-AV1-25120-Eddy Current Testing Equipment",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1785138653233",
+          "taskName": "Offline PLC and HMI Completion",
+          "type": "weekly",
+          "assignedDate": "2026-07-27",
+          "status": "not_started",
+          "targetDate": "2026-07-27"
+        },
+        {
+          "id": "t-1785138664634",
+          "taskName": "IO Check,Manual Testing",
+          "type": "weekly",
+          "assignedDate": "2026-07-27",
+          "status": "not_started",
+          "targetDate": "2026-07-27"
+        },
+        {
+          "id": "t-1785138674250",
+          "taskName": "PLC Servo Communication",
+          "type": "weekly",
+          "assignedDate": "2026-07-27",
+          "status": "not_started",
+          "targetDate": "2026-07-27"
+        },
+        {
+          "id": "t-1785138687133",
+          "taskName": "PLC Inkjet Printing Communication",
+          "type": "weekly",
+          "assignedDate": "2026-07-27",
+          "status": "not_started",
+          "targetDate": "2026-07-27"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-27T07:50:29.042Z"
+  "lastUpdated": "2026-07-27T07:51:28.016Z"
 }
