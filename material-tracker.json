@@ -14,7 +14,12 @@
           "prApproved": "2026-04-15",
           "targetReceipt": "2026-06-26",
           "receiptStatus": "Received",
-          "currentStatus": "Received"
+          "currentStatus": "Received",
+          "actualReceipt": "2026-06-25",
+          "hwIntegrationTarget": "2026-06-29",
+          "poCreated": "2026-04-27",
+          "poApproved": "2026-04-28",
+          "hwIntegrationDone": "2026-06-16"
         },
         {
           "id": "mat-1782109225674-2-6zvs",
@@ -774,5 +779,5 @@
       ]
     }
   },
-  "lastUpdated": "2026-07-27T13:16:46.182Z"
+  "lastUpdated": "2026-07-27T13:45:56.532Z"
 }
