@@ -2294,7 +2294,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1785138731208",
+      "engineerName": "Eswanth Potnuri",
+      "weekStart": "2026-07-27",
+      "projectName": "3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1785138730379",
+          "taskName": "Offline PLC and HMI Completion",
+          "type": "weekly",
+          "assignedDate": "2026-07-27",
+          "status": "not_started",
+          "targetDate": "2026-07-27"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-27T07:51:53.471Z"
+  "lastUpdated": "2026-07-27T07:52:11.208Z"
 }
