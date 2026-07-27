@@ -1270,8 +1270,8 @@
           "22": "3D CAD U1",
           "23": "3D CAD U1",
           "24": "3D CAD U1",
-          "25": "",
-          "26": "",
+          "25": "Misumi",
+          "26": "Misumi",
           "27": "3D CAD U1",
           "28": "3D CAD U1",
           "29": "3D CAD U1",
@@ -1503,7 +1503,7 @@
           "24": "Not Applicable to Site",
           "25": "",
           "26": "",
-          "27": "3D CAD U1",
+          "27": "Not Applicable to Site",
           "28": "3D CAD U1",
           "29": "3D CAD U1",
           "30": "3D CAD U1",
@@ -1611,5 +1611,5 @@
       }
     }
   },
-  "lastUpdated": "2026-07-26T04:20:54.453Z"
+  "lastUpdated": "2026-07-27T07:46:03.912Z"
 }
