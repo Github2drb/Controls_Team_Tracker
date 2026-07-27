@@ -2013,7 +2013,20 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1785138402624",
+      "engineerName": "Dhanesh M",
+      "weekStart": "2026-07-27",
+      "projectName": "Trumpf Sheet Bending",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-25T15:30:31.482Z"
+  "lastUpdated": "2026-07-27T07:46:42.624Z"
 }
