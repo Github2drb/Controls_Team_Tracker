@@ -91,7 +91,7 @@
       ],
       "currentStatus": "mechanical_assembly",
       "notes": "",
-      "constraint": "Material Procurement in progress",
+      "constraint": "Control Panel Assembled with PLC - 3 no's",
       "resourceLockedFrom": "2026-03-23",
       "resourceLockedTill": "2026-08-08",
       "internalTarget": "2026-07-30",
@@ -2318,5 +2318,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-27T10:52:16.979Z"
+  "lastUpdated": "2026-07-27T10:54:52.675Z"
 }
