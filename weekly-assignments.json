@@ -2051,8 +2051,9 @@
           "taskName": "Electrical Drawing",
           "type": "weekly",
           "assignedDate": "2026-07-27",
-          "status": "not_started",
-          "targetDate": "2026-07-27"
+          "status": "completed",
+          "targetDate": "2026-07-27",
+          "completionDate": "2026-07-28"
         }
       ],
       "currentStatus": "not_started",
