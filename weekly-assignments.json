@@ -1795,16 +1795,7 @@
       "resourceLockedTill": "",
       "internalTarget": "",
       "customerTarget": "",
-      "tasks": [
-        {
-          "id": "t-1784268079820",
-          "taskName": "Add Q03 CPU in Dehydration and Final Assembly for IOT",
-          "type": "weekly",
-          "assignedDate": "2026-07-17",
-          "status": "not_started",
-          "targetDate": "2026-07-17"
-        }
-      ],
+      "tasks": [],
       "currentStatus": "not_started",
       "constraint": ""
     },
