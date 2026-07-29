@@ -777,7 +777,49 @@
           "bomDate": "2026-05-28"
         }
       ]
+    },
+    "3a-dk1-25077-dehydration project": {
+      "projectName": "3A-DK1-25077-Dehydration Project",
+      "bomPath": "",
+      "materials": [
+        {
+          "id": "mat-1785318402559-1-oawl",
+          "name": "[PZ-G51EP] Square Transmissive M12 Connector Type with Cable, PNP",
+          "qty": "2",
+          "unit": "Nos",
+          "bomDate": "2026-07-24",
+          "prCreated": "2026-05-03",
+          "prApproved": "2026-05-12",
+          "poCreated": "2026-05-08",
+          "targetReceipt": "2026-06-10",
+          "notes": "Critical item, single vendor"
+        },
+        {
+          "id": "mat-1785318402559-2-a9n1",
+          "name": "[XB2BSB4LC] Red illuminated buzzer DC/AC 24V",
+          "qty": "4",
+          "unit": "Nos",
+          "bomDate": "2026-07-24",
+          "prCreated": "2026-05-04",
+          "prApproved": "2026-05-13",
+          "poCreated": "2026-05-09",
+          "targetReceipt": "2026-06-15",
+          "notes": "Confirm resolution with design"
+        },
+        {
+          "id": "mat-1785318402559-3-filu",
+          "name": "[Floor Cable Protector / Floor Cable Raceway.] Heavy-duty floor cable raceway with hinged cover(PVC/RUBBER)",
+          "qty": "6",
+          "unit": "Mtrs",
+          "bomDate": "2026-07-24",
+          "prCreated": "2026-05-05",
+          "prApproved": "2026-05-15",
+          "poCreated": "2026-05-11",
+          "targetReceipt": "2026-06-20",
+          "notes": "Long lead item — order early"
+        }
+      ]
     }
   },
-  "lastUpdated": "2026-07-27T13:45:56.532Z"
+  "lastUpdated": "2026-07-29T09:46:58.243Z"
 }
