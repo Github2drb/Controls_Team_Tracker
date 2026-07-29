@@ -817,9 +817,21 @@
           "poCreated": "2026-05-11",
           "targetReceipt": "2026-07-31",
           "notes": "Long lead item — order early"
+        },
+        {
+          "id": "mat-1785321583150-i5x8",
+          "name": "",
+          "qty": "",
+          "unit": ""
+        },
+        {
+          "id": "mat-1785321585483-acl0",
+          "name": "",
+          "qty": "",
+          "unit": ""
         }
       ]
     }
   },
-  "lastUpdated": "2026-07-29T09:50:04.928Z"
+  "lastUpdated": "2026-07-29T10:39:49.222Z"
 }
