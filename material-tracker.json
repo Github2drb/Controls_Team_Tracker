@@ -867,9 +867,36 @@
           "prApproved": "2026-07-22",
           "targetReceipt": "2026-07-30",
           "currentStatus": "PR Raised"
+        },
+        {
+          "id": "mat-1785323360775-1-qgzb",
+          "name": "[LSLO12-5-81C] Female, M12, straight , single-ended",
+          "qty": "1",
+          "unit": "Nos",
+          "bomDate": "2026-07-09",
+          "targetReceipt": "2026-07-30",
+          "notes": "Critical item, single vendor"
+        },
+        {
+          "id": "mat-1785323360775-2-x61l",
+          "name": "[E1W6DA4003M010] Pre-wired Ethernet Connector Male angled, M12, d-coded, 4-pole - Male straight, RJ45, 4-pole PUR, 1x4x22AWG, 1m",
+          "qty": "1",
+          "unit": "Nos",
+          "bomDate": "2026-07-09",
+          "targetReceipt": "2026-07-30",
+          "notes": "Confirm resolution with design"
+        },
+        {
+          "id": "mat-1785323360775-3-w554",
+          "name": "[FCEN-8LKM-8A-M] IO-Link Master, Multiprotocol, PROFINET / EtherNet/IP, Webserver, 8 x Class-A, IO-Link V1.1.3, Max. 16 DI / 8 DO, 8 x M12 A-code 5-pin, 2 x M12 D-code 4-pin, 2 x M12 L-code 5-pin, 24 V DC",
+          "qty": "1",
+          "unit": "Nos",
+          "bomDate": "2026-07-09",
+          "targetReceipt": "2026-07-30",
+          "notes": "Long lead item — order early"
         }
       ]
     }
   },
-  "lastUpdated": "2026-07-29T11:04:47.375Z"
+  "lastUpdated": "2026-07-29T11:09:37.012Z"
 }
