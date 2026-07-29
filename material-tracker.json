@@ -792,7 +792,8 @@
           "prApproved": "2026-07-27",
           "poCreated": "",
           "targetReceipt": "2026-07-31",
-          "notes": "Critical item, single vendor"
+          "notes": "Critical item, single vendor",
+          "currentStatus": "PR Raised"
         },
         {
           "id": "mat-1785318402559-2-a9n1",
@@ -804,7 +805,8 @@
           "prApproved": "2026-07-27",
           "poCreated": "",
           "targetReceipt": "2026-07-31",
-          "notes": "Confirm resolution with design"
+          "notes": "Confirm resolution with design",
+          "currentStatus": "PR Raised"
         },
         {
           "id": "mat-1785318402559-3-filu",
@@ -816,7 +818,8 @@
           "prApproved": "2026-07-27",
           "poCreated": "",
           "targetReceipt": "2026-07-31",
-          "notes": "Long lead item — order early"
+          "notes": "Long lead item — order early",
+          "currentStatus": "PR Raised"
         },
         {
           "id": "mat-1785321596495-1-cuvq",
@@ -827,7 +830,8 @@
           "prCreated": "2026-07-23",
           "prApproved": "2026-07-22",
           "targetReceipt": "2026-07-30",
-          "notes": "Critical item, single vendor"
+          "notes": "Critical item, single vendor",
+          "currentStatus": "PR Raised"
         },
         {
           "id": "mat-1785321596495-2-221z",
@@ -838,7 +842,8 @@
           "prCreated": "2026-07-23",
           "prApproved": "2026-07-22",
           "targetReceipt": "2026-07-30",
-          "notes": "Confirm resolution with design"
+          "notes": "Confirm resolution with design",
+          "currentStatus": "PR Raised"
         },
         {
           "id": "mat-1785321596495-3-rvmw",
@@ -849,7 +854,8 @@
           "prCreated": "2026-07-22",
           "prApproved": "2026-07-22",
           "targetReceipt": "2026-07-30",
-          "notes": "Long lead item — order early"
+          "notes": "Long lead item — order early",
+          "currentStatus": "PR Raised"
         },
         {
           "id": "mat-1785321596495-4-ompk",
@@ -859,10 +865,11 @@
           "bomDate": "2026-07-23",
           "prCreated": "2026-07-22",
           "prApproved": "2026-07-22",
-          "targetReceipt": "2026-07-30"
+          "targetReceipt": "2026-07-30",
+          "currentStatus": "PR Raised"
         }
       ]
     }
   },
-  "lastUpdated": "2026-07-29T11:03:53.675Z"
+  "lastUpdated": "2026-07-29T11:04:47.375Z"
 }
