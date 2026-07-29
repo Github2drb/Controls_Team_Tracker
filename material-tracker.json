@@ -824,7 +824,7 @@
           "qty": "6",
           "unit": "Nos",
           "bomDate": "2026-07-23",
-          "prCreated": "2026-07-22",
+          "prCreated": "2026-07-23",
           "prApproved": "2026-07-22",
           "targetReceipt": "2026-07-30",
           "notes": "Critical item, single vendor"
@@ -835,7 +835,7 @@
           "qty": "6",
           "unit": "Nos",
           "bomDate": "2026-07-23",
-          "prCreated": "2026-07-22",
+          "prCreated": "2026-07-23",
           "prApproved": "2026-07-22",
           "targetReceipt": "2026-07-30",
           "notes": "Confirm resolution with design"
@@ -864,5 +864,5 @@
       ]
     }
   },
-  "lastUpdated": "2026-07-29T10:51:02.729Z"
+  "lastUpdated": "2026-07-29T11:03:25.163Z"
 }
