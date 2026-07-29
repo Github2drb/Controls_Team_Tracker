@@ -788,7 +788,7 @@
           "qty": "2",
           "unit": "Nos",
           "bomDate": "2026-07-24",
-          "prCreated": "2026-05-03",
+          "prCreated": "2026-07-24",
           "prApproved": "2026-05-12",
           "poCreated": "2026-05-08",
           "targetReceipt": "2026-07-31",
@@ -800,7 +800,7 @@
           "qty": "4",
           "unit": "Nos",
           "bomDate": "2026-07-24",
-          "prCreated": "2026-05-04",
+          "prCreated": "2026-07-24",
           "prApproved": "2026-05-13",
           "poCreated": "2026-05-09",
           "targetReceipt": "2026-07-31",
@@ -812,7 +812,7 @@
           "qty": "6",
           "unit": "Mtrs",
           "bomDate": "2026-07-24",
-          "prCreated": "2026-05-05",
+          "prCreated": "2026-07-24",
           "prApproved": "2026-05-15",
           "poCreated": "2026-05-11",
           "targetReceipt": "2026-07-31",
@@ -864,5 +864,5 @@
       ]
     }
   },
-  "lastUpdated": "2026-07-29T10:45:56.117Z"
+  "lastUpdated": "2026-07-29T10:50:29.204Z"
 }
