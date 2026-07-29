@@ -819,19 +819,50 @@
           "notes": "Long lead item — order early"
         },
         {
-          "id": "mat-1785321583150-i5x8",
-          "name": "",
-          "qty": "",
-          "unit": ""
+          "id": "mat-1785321596495-1-cuvq",
+          "name": "[MS-NA1-1] Mounting bracket",
+          "qty": "6",
+          "unit": "Nos",
+          "bomDate": "2026-07-22",
+          "prCreated": "2026-07-22",
+          "prApproved": "2026-07-22",
+          "targetReceipt": "2026-07-30",
+          "notes": "Critical item, single vendor"
         },
         {
-          "id": "mat-1785321585483-acl0",
-          "name": "",
-          "qty": "",
-          "unit": ""
+          "id": "mat-1785321596495-2-221z",
+          "name": "[NA1-5-PN] Ultra-slim Body Picking Sensor",
+          "qty": "6",
+          "unit": "Nos",
+          "bomDate": "2026-07-22",
+          "prCreated": "2026-07-22",
+          "prApproved": "2026-07-22",
+          "targetReceipt": "2026-07-30",
+          "notes": "Confirm resolution with design"
+        },
+        {
+          "id": "mat-1785321596495-3-rvmw",
+          "name": "[XS2F-A422-GB0-F] Sensor cable, M12 right-angle socket (female), 4-poles, 2-wires (3 - 4), B coded, PVC fire-retardant robot cable, IP67, 5 m",
+          "qty": "6",
+          "unit": "Nos",
+          "bomDate": "2026-07-22",
+          "prCreated": "2026-07-22",
+          "prApproved": "2026-07-22",
+          "targetReceipt": "2026-07-30",
+          "notes": "Long lead item — order early"
+        },
+        {
+          "id": "mat-1785321596495-4-ompk",
+          "name": "[E2B-M18KS08-M1-B1 OMI] Proximity sensor, inductive, nickel-brass, short body, M18, shielded, 8 mm, DC, 3-wire, PNP NO, M12 connector",
+          "qty": "6",
+          "unit": "Nos",
+          "bomDate": "2026-07-22",
+          "prCreated": "2026-07-22",
+          "prApproved": "2026-07-22",
+          "targetReceipt": "2026-07-30"
         }
       ]
     }
   },
-  "lastUpdated": "2026-07-29T10:39:49.222Z"
+  "lastUpdated": "2026-07-29T10:41:08.739Z"
 }
