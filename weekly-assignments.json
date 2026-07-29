@@ -335,7 +335,7 @@
         }
       ],
       "currentStatus": "io_check",
-      "constraint": "DAP Completed. Offline PLC and HMI completed\nMechanical installation at customer site\nElectrical Assembly installation at customer site\nConveyor taken to customer area and remaining activities to be completed from site"
+      "constraint": "DAP Completed. Offline PLC and HMI completed\nMechanical installation at customer site\nElectrical Assembly installation at customer site\nConveyor taken to customer area and remaining activities to be completed from site.\nConveyor tested. Today Line need to be explained to customer."
     },
     {
       "id": "wa-1779455033744",
@@ -2313,5 +2313,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-29T04:35:12.940Z"
+  "lastUpdated": "2026-07-29T04:36:03.315Z"
 }
