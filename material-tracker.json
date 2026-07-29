@@ -791,7 +791,7 @@
           "prCreated": "2026-05-03",
           "prApproved": "2026-05-12",
           "poCreated": "2026-05-08",
-          "targetReceipt": "2026-06-10",
+          "targetReceipt": "2026-07-31",
           "notes": "Critical item, single vendor"
         },
         {
@@ -803,7 +803,7 @@
           "prCreated": "2026-05-04",
           "prApproved": "2026-05-13",
           "poCreated": "2026-05-09",
-          "targetReceipt": "2026-06-15",
+          "targetReceipt": "2026-07-31",
           "notes": "Confirm resolution with design"
         },
         {
@@ -815,11 +815,11 @@
           "prCreated": "2026-05-05",
           "prApproved": "2026-05-15",
           "poCreated": "2026-05-11",
-          "targetReceipt": "2026-06-20",
+          "targetReceipt": "2026-07-31",
           "notes": "Long lead item — order early"
         }
       ]
     }
   },
-  "lastUpdated": "2026-07-29T09:46:58.243Z"
+  "lastUpdated": "2026-07-29T09:50:04.928Z"
 }
