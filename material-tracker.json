@@ -290,30 +290,6 @@
           "unit": "NOS"
         },
         {
-          "id": "mat-1783341821940-36-7wti",
-          "name": "[6ES7 234-4HE32-0XB0] SIMATIC S7-1200, analog I/O SM 1234, 4 AI/2 AO, +/-10 V, 14-bit resolution or 0 (4)-20mA, 13-bit resolution",
-          "qty": "1",
-          "unit": "NOS"
-        },
-        {
-          "id": "mat-1783341821940-37-jfwq",
-          "name": "[6ES7 223-1BH32-0XB0_SM 1223] SIMATIC S7-1200, Digital I/O SM 1223, 8 DI/8 DO, 8 DI 24 V DC, Sink/Source, 8 DO, transistor 0.5 A",
-          "qty": "1",
-          "unit": "NOS"
-        },
-        {
-          "id": "mat-1783341821940-38-tvue",
-          "name": "[6ES7 214-1AG40-0XB0] SIMATIC S7-1200, CPU 1214C, compact CPU, DC/DC/DC, onboard I/O: 14 DI 24 V DC; 10 DO 24 V DC; 2 AI 0-10 V DC, power supply: DC 20.4-28.8 V DC, program/data memory 150 KB",
-          "qty": "1",
-          "unit": "NOS"
-        },
-        {
-          "id": "mat-1783341821940-39-dta3",
-          "name": "[6AV2 123-2GB03-0AX0] SIMATIC HMI, KTP700 Basic, Basic Panel, Key/touch operation, 7\" TFT display, 65536 colors, PROFINET interface, configurable from WinCC Basic V13/ STEP 7 Basic V13, contains open-source software, which is provided free of charge see enclosed CD",
-          "qty": "1",
-          "unit": "NOS"
-        },
-        {
           "id": "mat-1783341821940-40-au2f",
           "name": "[4Switch withsocket] 4Switch withsocket GM make",
           "qty": "1",
@@ -426,6 +402,51 @@
           "name": "[1085039.0] FL SWITCH 1005N - Industrial Ethernet Switch",
           "qty": "1",
           "unit": "NOS"
+        },
+        {
+          "id": "mat-1785410420950-1-mtkz",
+          "name": "[6ES7 214-1AG40-0XB0] SIMATIC S7-1200, CPU 1214C, compact CPU, DC/DC/DC, onboard I/O: 14 DI 24 V DC; 10 DO 24 V DC; 2 AI 0-10 V DC, power supply: DC 20.4-28.8 V DC, program/data memory 150 KB",
+          "qty": "1",
+          "unit": "Nos",
+          "bomDate": "2026-04-07",
+          "targetReceipt": "2026-07-30",
+          "notes": "Critical item, single vendor"
+        },
+        {
+          "id": "mat-1785410420950-2-00k0",
+          "name": "[6ES7 223-1BH32-0XB0_SM 1223] SIMATIC S7-1200, Digital I/O SM 1223, 8 DI/8 DO, 8 DI 24 V DC, Sink/Source, 8 DO, transistor 0.5 A",
+          "qty": "1",
+          "unit": "Nos",
+          "bomDate": "2026-04-07",
+          "targetReceipt": "2026-07-30",
+          "notes": "Confirm resolution with design"
+        },
+        {
+          "id": "mat-1785410420950-3-fj54",
+          "name": "[6ES7 234-4HE32-0XB0] SIMATIC S7-1200, analog I/O SM 1234, 4 AI/2 AO, +/-10 V, 14-bit resolution or 0 (4)-20mA, 13-bit resolution",
+          "qty": "1",
+          "unit": "Nos",
+          "bomDate": "2026-04-07",
+          "targetReceipt": "2026-07-30",
+          "notes": "Long lead item — order early"
+        },
+        {
+          "id": "mat-1785410420950-4-jb29",
+          "name": "[6AV2 123-2GB03-0AX0] SIMATIC HMI, KTP700 Basic, Basic Panel, Key/touch operation, 7\" TFT display, 65536 colors, PROFINET interface, configurable from WinCC Basic V13/ STEP 7 Basic V13, contains open-source software, which is provided free of charge see enclosed CD",
+          "qty": "1",
+          "unit": "Nos",
+          "bomDate": "2026-04-07",
+          "targetReceipt": "2026-07-30",
+          "notes": "Long lead item — order early"
+        },
+        {
+          "id": "mat-1785410420950-5-ikv7",
+          "name": "[6GK5008-0BA10-1AB2] Switch, 8 Ports, Industrial, Unmanaged Fast Ethernet, DIN Rail / Wall, RJ45 x 8, 10Mbps, 100Mbps",
+          "qty": "1",
+          "unit": "Nos",
+          "bomDate": "2026-04-07",
+          "targetReceipt": "2026-07-30",
+          "notes": "Long lead item — order early"
         }
       ]
     },
@@ -904,5 +925,5 @@
       ]
     }
   },
-  "lastUpdated": "2026-07-29T11:13:24.735Z"
+  "lastUpdated": "2026-07-30T11:21:59.195Z"
 }
