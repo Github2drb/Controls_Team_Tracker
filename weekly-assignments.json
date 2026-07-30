@@ -363,7 +363,7 @@
       "tasks": [],
       "currentStatus": "in_progress",
       "notes": "DAP Completed",
-      "constraint": "Material Procurement in Progress\nUvac Motors received on 10-07-26\n"
+      "constraint": "Material Procurement in Progress\nUvac Motors received on 10-07-26\nControl Panel wiring Completed"
     },
     {
       "id": "wa-1779856345294",
@@ -2313,5 +2313,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-30T11:13:23.915Z"
+  "lastUpdated": "2026-07-30T11:13:52.776Z"
 }
