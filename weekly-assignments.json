@@ -239,12 +239,12 @@
           "status": "in_progress"
         }
       ],
-      "currentStatus": "fat",
+      "currentStatus": "dispatch_stage",
       "resourceLockedFrom": "2026-04-21",
       "resourceLockedTill": "2026-07-30",
       "internalTarget": "2026-07-15",
       "customerTarget": "2026-07-28",
-      "constraint": "ICP CON Communication with PLC Completed\nPower supply replaced and checked\nData Logger checking completed.\nAuto Trials Completed\nMultivariant Connector Wiring Design in Progress\nRobot Replaced with Project one.\nNeed to Check IO and auto test again"
+      "constraint": "ICP CON Communication with PLC Completed\nPower supply replaced and checked\nData Logger checking completed.\nAuto Trials Completed\nMultivariant Connector Wiring Design in Progress\nRobot Replaced with Project one.\nIO tested and Data Logger issue need to be sorted out.\nEquipment dispatched on 30/07/26"
     },
     {
       "id": "wa-1777017351622",
@@ -2313,5 +2313,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-29T04:36:03.315Z"
+  "lastUpdated": "2026-07-30T11:12:27.202Z"
 }
