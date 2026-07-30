@@ -2311,7 +2311,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1785420398823",
+      "engineerName": "Dhanesh M",
+      "weekStart": "2026-07-27",
+      "projectName": "3W-TK1-25135-TI Metal Robot Cell Integration",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1785420397263",
+          "taskName": "Installation Support at TI Metals",
+          "type": "weekly",
+          "assignedDate": "2026-07-30",
+          "status": "not_started",
+          "targetDate": "2026-07-30"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-30T13:24:55.495Z"
+  "lastUpdated": "2026-07-30T14:06:38.823Z"
 }
