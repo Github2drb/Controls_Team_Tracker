@@ -410,7 +410,10 @@
           "unit": "Nos",
           "bomDate": "2026-04-07",
           "targetReceipt": "2026-07-30",
-          "notes": "Critical item, single vendor"
+          "notes": "Critical item, single vendor",
+          "prCreated": "2026-05-04",
+          "prApproved": "2026-05-04",
+          "currentStatus": "PR Raised"
         },
         {
           "id": "mat-1785410420950-2-00k0",
@@ -419,7 +422,10 @@
           "unit": "Nos",
           "bomDate": "2026-04-07",
           "targetReceipt": "2026-07-30",
-          "notes": "Confirm resolution with design"
+          "notes": "Confirm resolution with design",
+          "prCreated": "2026-05-04",
+          "prApproved": "2026-05-04",
+          "currentStatus": "PR Raised"
         },
         {
           "id": "mat-1785410420950-3-fj54",
@@ -428,7 +434,10 @@
           "unit": "Nos",
           "bomDate": "2026-04-07",
           "targetReceipt": "2026-07-30",
-          "notes": "Long lead item — order early"
+          "notes": "Long lead item — order early",
+          "prCreated": "2026-05-04",
+          "prApproved": "2026-05-04",
+          "currentStatus": "PR Raised"
         },
         {
           "id": "mat-1785410420950-4-jb29",
@@ -437,7 +446,10 @@
           "unit": "Nos",
           "bomDate": "2026-04-07",
           "targetReceipt": "2026-07-30",
-          "notes": "Long lead item — order early"
+          "notes": "Long lead item — order early",
+          "prCreated": "2026-05-04",
+          "prApproved": "2026-05-04",
+          "currentStatus": "PR Raised"
         },
         {
           "id": "mat-1785410420950-5-ikv7",
@@ -446,7 +458,10 @@
           "unit": "Nos",
           "bomDate": "2026-04-07",
           "targetReceipt": "2026-07-30",
-          "notes": "Long lead item — order early"
+          "notes": "Long lead item — order early",
+          "prCreated": "2026-05-04",
+          "prApproved": "2026-05-11",
+          "currentStatus": "PR Raised"
         }
       ]
     },
@@ -925,5 +940,5 @@
       ]
     }
   },
-  "lastUpdated": "2026-07-30T11:21:59.195Z"
+  "lastUpdated": "2026-07-30T11:28:09.783Z"
 }
