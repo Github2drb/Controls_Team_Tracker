@@ -311,13 +311,6 @@
           "createdAt": "2026-07-30T04:05:10.183Z"
         },
         {
-          "id": "c-1785473588866",
-          "text": "3A-TC1-26039_Logic",
-          "date": "2026-07-31",
-          "type": "note",
-          "createdAt": "2026-07-31T04:53:08.866Z"
-        },
-        {
           "id": "c-1785473638432",
           "text": "A 3A-BO1-25113 & 25114-CDM & Phase Error Inspection Unit-Encoder Integration Support with PLC",
           "date": "2026-07-31",
@@ -340,5 +333,5 @@
       "dismissedMissed": []
     }
   },
-  "lastUpdated": "2026-07-31T04:53:58.432Z"
+  "lastUpdated": "2026-07-31T04:54:03.061Z"
 }
