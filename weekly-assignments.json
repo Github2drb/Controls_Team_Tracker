@@ -528,7 +528,7 @@
           "completionDate": "2026-07-11"
         }
       ],
-      "currentStatus": "electrical_design",
+      "currentStatus": "completed",
       "constraint": ""
     },
     {
@@ -2357,5 +2357,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-31T07:13:51.920Z"
+  "lastUpdated": "2026-07-31T07:14:03.050Z"
 }
