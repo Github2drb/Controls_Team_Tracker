@@ -218,15 +218,7 @@
         "2026-01-28": "@Jayaan PLC communication configuration has been completed, and the input and output conditions were verified on JIG-A."
       }
     },
-    {
-      "projectName": "3W-TK1-25135_TKM - TI Metal Robot Cell Integration",
-      "currentStatus": "Installation in Progress",
-      "activities": {
-        "2026-01-29": "@veeresh I/O list Prepare ",
-        "2026-01-28": "@veeresh 58709 spot welding Jig drawing",
-        "2026-01-30": "@veeresh servo stabilizer wiring explain,"
-      }
-    },
+    
     {
       "projectName": "IMTEX-2026",
       "currentStatus": "Completed",
