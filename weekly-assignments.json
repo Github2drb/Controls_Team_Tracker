@@ -292,7 +292,7 @@
           "status": "in_progress"
         }
       ],
-      "currentStatus": "dispatch_stage",
+      "currentStatus": "installation_in_progress",
       "constraint": "Equipment Study Completed on 07-05-2026\n Electrical Drawing Completed, Material Procurement Completed.\nWiring planned  on 31/07/26"
     },
     {
@@ -2357,5 +2357,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-31T07:16:34.541Z"
+  "lastUpdated": "2026-07-31T07:16:41.258Z"
 }
