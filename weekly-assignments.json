@@ -2333,7 +2333,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1785471889668",
+      "engineerName": "Eswanth Potnuri",
+      "weekStart": "2026-07-27",
+      "projectName": "3A-SS1-26012-Sartorius- Glass bead blasting automation",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1785471887622",
+          "taskName": "Index Servo and Robot Integration with PLC",
+          "type": "weekly",
+          "assignedDate": "2026-07-31",
+          "status": "not_started",
+          "targetDate": "2026-07-31"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-31T04:23:35.350Z"
+  "lastUpdated": "2026-07-31T04:24:49.668Z"
 }
