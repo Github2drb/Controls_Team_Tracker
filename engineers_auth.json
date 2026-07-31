@@ -155,16 +155,6 @@
       "lastLogin": "2026-07-24T08:46:43.739Z"
     },
     {
-      "id": "eng-1775028569231",
-      "name": "Engineer_B",
-      "username": "Engineer_B",
-      "password": "Engineer_B@123",
-      "role": "engineer",
-      "company": "",
-      "isActive": true,
-      "createdAt": "2026-04-01T07:29:29.231Z"
-    },
-    {
       "id": "eng-1775028596527",
       "name": "Kavitha",
       "username": "kavitha",
@@ -238,5 +228,5 @@
       "createdAt": "2026-07-12T05:46:23.751Z"
     }
   ],
-  "lastUpdated": "2026-07-30T04:46:12.285Z"
+  "lastUpdated": "2026-07-31T06:12:35.649Z"
 }
