@@ -314,7 +314,7 @@
         }
       ],
       "currentStatus": "trials_stage",
-      "constraint": "DAP Submitted on 26-05-26.\nOffline Logic to be started.\nRisk Assessment pending\nInkjet Marking received\nMechanical and Electrical Wiring in progress\nVibrant Visited on28-07 and demonstrated Eddy coil.\nEthernetswitch was not supporting communication between IPC and Driver.\nEthernet Switch procured and mounted and working well.\nServo Drive wiring in progress."
+      "constraint": "DAP Submitted on 26-05-26.\nOffline Logic to be started.\nRisk Assessment pending\nInkjet Marking received\nMechanical and Electrical Wiring in progress\nVibrant Visited on28-07 and demonstrated Eddy coil.\nEthernet switch was not supporting communication between IPC and Driver.\nEthernet Switch procured and mounted and working well.\nServo Drive wiring in progress./Completed on 31/07/26."
     },
     {
       "id": "wa-1778562866003",
@@ -2357,5 +2357,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-31T07:14:19.054Z"
+  "lastUpdated": "2026-07-31T07:14:50.015Z"
 }
