@@ -264,7 +264,7 @@
           "status": "not_started"
         }
       ],
-      "currentStatus": "on_hold",
+      "currentStatus": "procurement_stage",
       "constraint": "DAP Completed. Project handed over to BIW team"
     },
     {
@@ -2335,5 +2335,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-30T14:06:38.823Z"
+  "lastUpdated": "2026-07-31T04:23:35.350Z"
 }
