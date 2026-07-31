@@ -479,7 +479,7 @@
           "prApproved": "2026-05-14",
           "targetReceipt": "2026-07-30",
           "actualReceipt": "2026-07-30",
-          "notes": "Critical item, single vendor",
+          "notes": "Symbiotic Automation Systems (P) Ltd.",
           "hwIntegrationTarget": "2026-08-03",
           "scmCommittedDate": "2026-07-15",
           "currentStatus": "Received"
@@ -494,7 +494,7 @@
           "prApproved": "2026-05-14",
           "targetReceipt": "2026-07-30",
           "actualReceipt": "2026-07-30",
-          "notes": "Confirm resolution with design",
+          "notes": "Symbiotic Automation Systems (P) Ltd.",
           "hwIntegrationTarget": "2026-08-03",
           "scmCommittedDate": "2026-07-15",
           "currentStatus": "Received"
@@ -509,7 +509,7 @@
           "prApproved": "2026-05-14",
           "targetReceipt": "2026-07-30",
           "actualReceipt": "2026-07-30",
-          "notes": "Long lead item — order early",
+          "notes": "Symbiotic Automation Systems (P) Ltd.",
           "hwIntegrationTarget": "2026-08-03",
           "scmCommittedDate": "2026-07-15",
           "currentStatus": "Received"
@@ -524,7 +524,7 @@
           "prApproved": "2026-05-14",
           "targetReceipt": "2026-07-30",
           "actualReceipt": "2026-07-30",
-          "notes": "Long lead item — order early",
+          "notes": "Symbiotic Automation Systems (P) Ltd.",
           "hwIntegrationTarget": "2026-08-03",
           "scmCommittedDate": "2026-07-15",
           "currentStatus": "Received"
@@ -539,7 +539,7 @@
           "prApproved": "2026-05-14",
           "targetReceipt": "2026-07-30",
           "actualReceipt": "2026-07-30",
-          "notes": "Long lead item — order early",
+          "notes": "Symbiotic Automation Systems (P) Ltd.",
           "hwIntegrationTarget": "2026-08-03",
           "scmCommittedDate": "2026-07-15",
           "currentStatus": "Received"
@@ -556,7 +556,8 @@
           "actualReceipt": "2026-07-30",
           "hwIntegrationTarget": "2026-08-03",
           "scmCommittedDate": "2026-07-15",
-          "currentStatus": "Received"
+          "currentStatus": "Received",
+          "notes": "Symbiotic Automation Systems (P) Ltd."
         },
         {
           "id": "mat-1785481341607-7-n62m",
@@ -570,7 +571,8 @@
           "actualReceipt": "2026-07-30",
           "hwIntegrationTarget": "2026-08-03",
           "scmCommittedDate": "2026-07-15",
-          "currentStatus": "Received"
+          "currentStatus": "Received",
+          "notes": "Symbiotic Automation Systems (P) Ltd."
         },
         {
           "id": "mat-1785481341607-8-eiik",
@@ -584,7 +586,8 @@
           "actualReceipt": "2026-07-30",
           "hwIntegrationTarget": "2026-08-03",
           "scmCommittedDate": "2026-07-15",
-          "currentStatus": "Received"
+          "currentStatus": "Received",
+          "notes": "Symbiotic Automation Systems (P) Ltd."
         }
       ]
     },
@@ -717,5 +720,5 @@
       ]
     }
   },
-  "lastUpdated": "2026-07-31T07:06:10.612Z"
+  "lastUpdated": "2026-07-31T07:08:37.191Z"
 }
