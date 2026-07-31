@@ -470,352 +470,121 @@
       "bomPath": "",
       "materials": [
         {
-          "id": "mat-1783344568210-1-y1aj",
-          "name": "[5SL4206-7] Miniature circuit breaker 400 V 10kA, 2-pole, C, 6A",
-          "qty": "5",
-          "unit": "NOS",
-          "bomDate": "2026-07-06"
-        },
-        {
-          "id": "mat-1783344568210-2-1hus",
-          "name": "[5SL4210-7] Miniature circuit breaker 400 V 10kA, 2-pole, C, 10 A",
-          "qty": "6",
-          "unit": "NOS",
-          "bomDate": "2026-07-06"
-        },
-        {
-          "id": "mat-1783344568210-3-mr4s",
-          "name": "[5SL4202-7] Miniature circuit breaker 400 V 10kA, 2-pole, C, 2A",
+          "id": "mat-1785481341607-1-whsk",
+          "name": "[6AV2 123-2GB03-0AX0] SIMATIC HMI, KTP700 Basic, Basic Panel, Key/touch operation, 7\" TFT display, 65536 colors, PROFINET interface, configurable from WinCC Basic V13/ STEP 7 Basic V13, contains open-source software, which is provided free of charge see enclosed CD",
           "qty": "2",
-          "unit": "NOS",
-          "bomDate": "2026-07-06"
-        },
-        {
-          "id": "mat-1783344568210-4-k5rg",
-          "name": "[3RT2015-1BB41-8K] 3RT2015-1BB41-8K - Power contactor 7 A , 1 NO 24 V DC 3-pole screw terminal - siemens",
-          "qty": "4",
-          "unit": "NOS",
-          "bomDate": "2026-07-06"
-        },
-        {
-          "id": "mat-1783344568210-5-45bh",
-          "name": "[6GK5008-0BA10-1AB2] SCALANCE XB008 Unmanaged Industrial Ethernet Switch for 10/100 Mbit/s; for setting up small star and line topologies; LED diagnostics, IP20, 24 V AC/DC power supply, with 8x 10/100 Mbit/s twisted pair ports with RJ45 sockets",
-          "qty": "3",
-          "unit": "NOS",
-          "bomDate": "2026-07-06"
-        },
-        {
-          "id": "mat-1783344568210-6-ezdi",
-          "name": "[6XV1840-2AH10] Industrial Ethernet FC TP Standard cable, GP 2x2 (PROFINET Type A), TP installation cable for connection to IE FC RJ45 2x2, for universal use, 4-core, shielded CAT 5E",
-          "qty": "50",
-          "unit": "MTRS",
-          "bomDate": "2026-07-06"
-        },
-        {
-          "id": "mat-1783344568210-7-0c2x",
-          "name": "[6GK1901-1BB10-2AA0] Industrial Ethernet FastConnect RJ45 plug 180 2x 2, RJ45 plug-in connector (10/100 Mbit/s) with rugged metal enclosure and FC connection system, for IE FC TP cable 2x",
-          "qty": "30",
-          "unit": "NOS",
-          "bomDate": "2026-07-06"
-        },
-        {
-          "id": "mat-1783344568210-8-8cz7",
-          "name": "[PCT-223-2] PCT-223-2 Stationary Type Quick Connection Terminal",
-          "qty": "20",
-          "unit": "NOS",
-          "bomDate": "2026-07-06"
-        },
-        {
-          "id": "mat-1783344568210-9-uaru",
-          "name": "[1018790000] IE-FCM-RJ45-C FrontCom Micro RJ45 coupling",
-          "qty": "10",
-          "unit": "NOS",
-          "bomDate": "2026-07-06"
-        },
-        {
-          "id": "mat-1783344568210-10-dlkb",
-          "name": "[SE-06-1] HEAVY DUTY CONNECTOR 6 PIN 16A (SE-06-1)",
-          "qty": "2",
-          "unit": "NOS",
-          "bomDate": "2026-07-06"
-        },
-        {
-          "id": "mat-1783344568210-11-nz40",
-          "name": "[PKF32G735] PratiKa socket - screw - straight - 32A - 3P + N + E - 380...415 V AC - panel",
-          "qty": "1",
-          "unit": "NOS",
-          "bomDate": "2026-07-06"
-        },
-        {
-          "id": "mat-1783344568210-12-06pq",
-          "name": "[PKE32M735] PratiKa wander plug - straight - 32 A - 3P + N + E - 380...415 V AC - IP67",
-          "qty": "1",
-          "unit": "NOS",
-          "bomDate": "2026-07-06"
-        },
-        {
-          "id": "mat-1783344568210-13-q05m",
-          "name": "[VCCF1] TeSys Vario - emergency stop switch disconnector - 32 A - back of enclosure",
-          "qty": "1",
-          "unit": "NOS",
-          "bomDate": "2026-07-06"
-        },
-        {
-          "id": "mat-1783344568210-14-hp34",
-          "name": "[VCCF01] Switch disconnector,TeSys Control,for ON/emergency stop,20A(V01),4 screws fixing,for mounting at back of an enclosure",
-          "qty": "2",
-          "unit": "NOS",
-          "bomDate": "2026-07-06"
-        },
-        {
-          "id": "mat-1783344568210-15-8lre",
-          "name": "[MURR-4000-68713-829001] SERVICE SOCKET",
-          "qty": "3",
-          "unit": "NOS",
-          "bomDate": "2026-07-06"
-        },
-        {
-          "id": "mat-1783344568210-16-e7is",
-          "name": "[XVGB3S] Tower Light - RAG - 24V - LED Based - W. Buzzer - Tube mounting with \"L\" bracket",
-          "qty": "3",
-          "unit": "NOS",
-          "bomDate": "2026-07-06"
-        },
-        {
-          "id": "mat-1783344568210-17-putd",
-          "name": "[EF-1B006B01A-C2] EMI filter Elcom 6A",
-          "qty": "1",
-          "unit": "NOS",
-          "bomDate": "2026-07-06"
-        },
-        {
-          "id": "mat-1783344568210-18-g4a7",
-          "name": "[TIE BASE WITH SCREW M5] TIE BASE WITH SCREW M5",
-          "qty": "300",
-          "unit": "NOS",
-          "bomDate": "2026-07-06"
-        },
-        {
-          "id": "mat-1783344568210-19-1ato",
-          "name": "[CV-100] CV-100,Cable Tie white",
-          "qty": "10",
-          "unit": "PACK",
-          "bomDate": "2026-07-06"
-        },
-        {
-          "id": "mat-1783344568210-20-7uvr",
-          "name": "[CV-200] CV-200,Cable Tie white",
-          "qty": "10",
-          "unit": "PACK",
-          "bomDate": "2026-07-06"
-        },
-        {
-          "id": "mat-1783344568210-21-0tem",
-          "name": "[CV-300] CV-300,Cable Tie white",
-          "qty": "10",
-          "unit": "PACK",
-          "bomDate": "2026-07-06"
-        },
-        {
-          "id": "mat-1783344568210-22-oqr3",
-          "name": "[CV400] CV-400,Cable Tie white",
-          "qty": "3",
-          "unit": "PACK",
-          "bomDate": "2026-07-06"
-        },
-        {
-          "id": "mat-1783344568210-23-5hew",
-          "name": "[ETAV-02] FAN FILTER 4 \" INCH",
-          "qty": "6",
-          "unit": "NOS",
-          "bomDate": "2026-07-06"
-        },
-        {
-          "id": "mat-1783344568210-24-366k",
-          "name": "[ELECTTRO] FAN GUARD 4 \"",
-          "qty": "6",
-          "unit": "NOS",
-          "bomDate": "2026-07-06"
-        },
-        {
-          "id": "mat-1783344568210-25-xklx",
-          "name": "[12A30HSAC] COOLING FAN 4\" INCH",
-          "qty": "6",
-          "unit": "NOS",
-          "bomDate": "2026-07-06"
-        },
-        {
-          "id": "mat-1783344568210-26-xnj5",
-          "name": "[LM TU332N2 MAX] 3.2mm FERULLE TUBE",
-          "qty": "1",
-          "unit": "PACK",
-          "bomDate": "2026-07-06"
-        },
-        {
-          "id": "mat-1783344568210-27-l2h0",
-          "name": "[PT-IR300BH ] INK RIBBON black",
-          "qty": "2",
-          "unit": "NOS",
-          "bomDate": "2026-07-06"
-        },
-        {
-          "id": "mat-1783344568210-28-318w",
-          "name": "[4520042U100] 1X2.5sqmm red",
-          "qty": "50",
-          "unit": "MTRS",
-          "bomDate": "2026-07-06"
-        },
-        {
-          "id": "mat-1783344568210-29-l65r",
-          "name": "[4520112U100] 1X2.5sqmm yellow",
-          "qty": "50",
-          "unit": "MTRS",
-          "bomDate": "2026-07-06"
-        },
-        {
-          "id": "mat-1783344568210-30-3a08",
-          "name": "[4520022U100] 1X2.5sqmm blue",
-          "qty": "50",
-          "unit": "MTRS",
-          "bomDate": "2026-07-06"
-        },
-        {
-          "id": "mat-1783344568210-31-s8wn",
-          "name": "[4520002U100] 1X2.5sqmm GNYE",
-          "qty": "50",
-          "unit": "MTRS",
-          "bomDate": "2026-07-06"
-        },
-        {
-          "id": "mat-1783344568210-32-dpkh",
-          "name": "[4520012U100] 1X2.5sqmm black",
-          "qty": "50",
-          "unit": "MTRS",
-          "bomDate": "2026-07-06"
-        },
-        {
-          "id": "mat-1783344568210-33-ckjt",
-          "name": "[4520041U100] 1X1.5sqmm red",
-          "qty": "20",
-          "unit": "MTRS",
-          "bomDate": "2026-07-06"
-        },
-        {
-          "id": "mat-1783344568210-34-zd9e",
-          "name": "[4520111U100] 1X1.5sqmm yellow",
-          "qty": "20",
-          "unit": "MTRS",
-          "bomDate": "2026-07-06"
-        },
-        {
-          "id": "mat-1783344568210-35-nvdc",
-          "name": "[4520021U100] 1X1.5sqmm blue",
-          "qty": "20",
-          "unit": "MTRS",
-          "bomDate": "2026-07-06"
-        },
-        {
-          "id": "mat-1783344568210-36-sndd",
-          "name": "[4520011U100] 1X1.5sqmm black",
-          "qty": "20",
-          "unit": "MTRS",
-          "bomDate": "2026-07-06"
-        },
-        {
-          "id": "mat-1783344568210-37-zz4o",
-          "name": "[4520014U100] 1X6sqmm black",
-          "qty": "30",
-          "unit": "MTRS",
-          "bomDate": "2026-07-06"
-        },
-        {
-          "id": "mat-1783344568210-38-2vir",
-          "name": "[4520044U100] 1X6sqmm red",
-          "qty": "30",
-          "unit": "MTRS",
-          "bomDate": "2026-07-06"
-        },
-        {
-          "id": "mat-1783344568210-39-9zea",
-          "name": "[4520114U100] 1X6sqmm yellow",
-          "qty": "30",
-          "unit": "MTRS",
-          "bomDate": "2026-07-06"
-        },
-        {
-          "id": "mat-1783344568210-40-iw7r",
-          "name": "[4520024U100] 1X6sqmm blue",
-          "qty": "30",
-          "unit": "MTRS",
-          "bomDate": "2026-07-06"
-        },
-        {
-          "id": "mat-1783404889935-1-wzez",
-          "name": "[6ES7131-6BH01-0BA0] Digital Input Module, 16 I/P, 24 VDC, SIMATIC ET 200SP Series",
-          "qty": "9",
           "unit": "Nos",
-          "bomDate": "2026-05-28",
+          "bomDate": "2026-04-07",
+          "prCreated": "2026-05-14",
+          "prApproved": "2026-05-14",
+          "targetReceipt": "2026-07-30",
+          "actualReceipt": "2026-07-30",
+          "notes": "Critical item, single vendor",
+          "hwIntegrationTarget": "2026-08-03",
+          "scmCommittedDate": "2026-07-15",
           "currentStatus": "Received"
         },
         {
-          "id": "mat-1783404889935-2-34uu",
-          "name": "[6ES7132-6BH01-0BA0] Output Module, Digital, 16 O/P, 24 VDC, Source Output, SIMATIC ET 200SP Series",
-          "qty": "6",
-          "unit": "Nos",
-          "bomDate": "2026-05-28",
-          "currentStatus": "Received"
-        },
-        {
-          "id": "mat-1783404889935-3-gkmi",
-          "name": "[6ES7193-6PA00-0AA0] SIMATIC ET 200SP, spare part Server module for ET 200SP",
-          "qty": "3",
-          "unit": "Nos",
-          "bomDate": "2026-05-28",
-          "currentStatus": "Received"
-        },
-        {
-          "id": "mat-1783404889935-4-iuve",
-          "name": "[6ES7193-6BP00-0DA0] SIMATIC ET 200SP, BaseUnit BU15-P16+A0+2D, BU type A0, push-in terminals, without aux. terminals, new load group, WxH: 15x 117 mm",
-          "qty": "5",
-          "unit": "Nos",
-          "bomDate": "2026-05-28",
-          "currentStatus": "Received"
-        },
-        {
-          "id": "mat-1783404889935-5-uslf",
+          "id": "mat-1785481341607-2-vqnj",
           "name": "[6ES7193-6BP00-0BA0] Base Unit, 10 A, 24 VDC, Push-In, SIMATIC ET 200SP Series",
-          "qty": "11",
+          "qty": "3",
           "unit": "Nos",
-          "bomDate": "2026-05-28",
+          "bomDate": "2026-04-07",
+          "prCreated": "2026-05-14",
+          "prApproved": "2026-05-14",
+          "targetReceipt": "2026-07-30",
+          "actualReceipt": "2026-07-30",
+          "notes": "Confirm resolution with design",
+          "hwIntegrationTarget": "2026-08-03",
+          "scmCommittedDate": "2026-07-15",
           "currentStatus": "Received"
         },
         {
-          "id": "mat-1783404889935-6-67t6",
-          "name": "[IV4-G500CA] Compact model sensor head Standard model Colour",
+          "id": "mat-1785481341607-3-yks9",
+          "name": "[6ES7193-6BP00-0DA0] SIMATIC ET 200SP, BaseUnit BU15-P16+A0+2D, BU type A0, push-in terminals, without aux. terminals, new load group, WxH: 15x 117 mm",
           "qty": "3",
           "unit": "Nos",
-          "bomDate": "2026-05-28"
+          "bomDate": "2026-04-07",
+          "prCreated": "2026-05-14",
+          "prApproved": "2026-05-14",
+          "targetReceipt": "2026-07-30",
+          "actualReceipt": "2026-07-30",
+          "notes": "Long lead item — order early",
+          "hwIntegrationTarget": "2026-08-03",
+          "scmCommittedDate": "2026-07-15",
+          "currentStatus": "Received"
         },
         {
-          "id": "mat-1783404889935-7-98xu",
-          "name": "[IV4-G120] Compact model sensor amplifier",
+          "id": "mat-1785481341607-4-gke7",
+          "name": "[6ES7132-6BF01-0BA0] DQ 8x24VDC/0.5A Standard (Provides 8 outputs)",
           "qty": "3",
           "unit": "Nos",
-          "bomDate": "2026-05-28"
+          "bomDate": "2026-04-07",
+          "prCreated": "2026-05-14",
+          "prApproved": "2026-05-14",
+          "targetReceipt": "2026-07-30",
+          "actualReceipt": "2026-07-30",
+          "notes": "Long lead item — order early",
+          "hwIntegrationTarget": "2026-08-03",
+          "scmCommittedDate": "2026-07-15",
+          "currentStatus": "Received"
         },
         {
-          "id": "mat-1783404889935-8-10f4",
-          "name": "[OP-88649] Sensor head to amplifier cable 5 m",
+          "id": "mat-1785481341607-5-wwa7",
+          "name": "[6ES7131-6BF01-0BA0] DI 8x24VDC Standard (Provides 8 inputs)",
           "qty": "3",
           "unit": "Nos",
-          "bomDate": "2026-05-28"
+          "bomDate": "2026-04-07",
+          "prCreated": "2026-05-14",
+          "prApproved": "2026-05-14",
+          "targetReceipt": "2026-07-30",
+          "actualReceipt": "2026-07-30",
+          "notes": "Long lead item — order early",
+          "hwIntegrationTarget": "2026-08-03",
+          "scmCommittedDate": "2026-07-15",
+          "currentStatus": "Received"
         },
         {
-          "id": "mat-1783404889935-9-zlvp",
-          "name": "[OP-88642] Polarising filter (colour)",
+          "id": "mat-1785481341607-6-aq4m",
+          "name": "[6ES7193-6AR00-0AA0] Bus Adapter, 2 x RJ45, 20 mm x 69.5 mm x 59 mm, SIMATIC ET 200SP Series",
           "qty": "3",
-          "unit": "Mtr",
-          "bomDate": "2026-05-28"
+          "unit": "Nos",
+          "bomDate": "2026-04-07",
+          "prCreated": "2026-05-14",
+          "prApproved": "2026-05-14",
+          "targetReceipt": "2026-07-30",
+          "actualReceipt": "2026-07-30",
+          "hwIntegrationTarget": "2026-08-03",
+          "scmCommittedDate": "2026-07-15",
+          "currentStatus": "Received"
+        },
+        {
+          "id": "mat-1785481341607-7-n62m",
+          "name": "[6ES7155-6AU01-0BN0] IM 155-6 PN Standard (Includes Server Module)",
+          "qty": "3",
+          "unit": "Nos",
+          "bomDate": "2026-07-15",
+          "prCreated": "2026-05-14",
+          "prApproved": "2026-05-14",
+          "targetReceipt": "2026-07-30",
+          "actualReceipt": "2026-07-30",
+          "hwIntegrationTarget": "2026-08-03",
+          "scmCommittedDate": "2026-07-15",
+          "currentStatus": "Received"
+        },
+        {
+          "id": "mat-1785481341607-8-eiik",
+          "name": "[6ES7 212-1AF40-0XB0] CPU 1212FC DC/DC/DC",
+          "qty": "1",
+          "unit": "Nos",
+          "bomDate": "2026-07-15",
+          "prCreated": "2026-05-14",
+          "prApproved": "2026-05-14",
+          "targetReceipt": "2026-07-30",
+          "actualReceipt": "2026-07-30",
+          "hwIntegrationTarget": "2026-08-03",
+          "scmCommittedDate": "2026-07-15",
+          "currentStatus": "Received"
         }
       ]
     },
@@ -948,5 +717,5 @@
       ]
     }
   },
-  "lastUpdated": "2026-07-31T06:28:36.160Z"
+  "lastUpdated": "2026-07-31T07:06:10.612Z"
 }
