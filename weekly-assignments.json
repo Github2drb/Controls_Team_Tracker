@@ -114,7 +114,7 @@
       ],
       "currentStatus": "waiting_for_materials",
       "notes": "",
-      "constraint": "Offline Logic Ready. Electrical Assembly Pending",
+      "constraint": "Offline Logic Ready. Electrical Assembly Pending,\nPLC PO not yet created till 31/07/26",
       "resourceLockedFrom": "2026-03-30",
       "resourceLockedTill": "2026-05-31",
       "internalTarget": "2026-05-06",
@@ -2357,5 +2357,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-07-31T07:15:10.635Z"
+  "lastUpdated": "2026-07-31T07:15:42.360Z"
 }
