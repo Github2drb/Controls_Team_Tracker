@@ -218,7 +218,6 @@
         "2026-01-28": "@Jayaan PLC communication configuration has been completed, and the input and output conditions were verified on JIG-A."
       }
     },
-    
     {
       "projectName": "IMTEX-2026",
       "currentStatus": "Completed",
@@ -297,7 +296,8 @@
         "2026-07-06": "3DCADVS-183_ESP_HMI Screens",
         "2026-07-07": "3DCADVS-183_ESP_HMI Screen Configuration and Development.",
         "2026-07-09": "3DCADVS-183_ESP_HMI Screen Configuration and Development.",
-        "2026-07-10": "3DCADVS-183_ESP_HMI Screen Configuration and Development."
+        "2026-07-10": "3DCADVS-183_ESP_HMI Screen Configuration and Development.",
+        "2026-08-01": "3DCADVS-183_ESP_D1_Erection, Installation and Commsisioning at Site"
       }
     },
     {
