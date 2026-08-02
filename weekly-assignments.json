@@ -293,7 +293,7 @@
         }
       ],
       "currentStatus": "installation_in_progress",
-      "constraint": "Equipment Study Completed on 07-05-2026\n Electrical Drawing Completed, Material Procurement Completed.\nWiring planned  on 31/07/26"
+      "constraint": "Equipment Study Completed on 07-05-2026\n Electrical Drawing Completed, Material Procurement Completed.\nWiring planned  on 31/07/26 and partially completed"
     },
     {
       "id": "wa-1778153306102",
@@ -2357,5 +2357,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-02T13:04:29.923Z"
+  "lastUpdated": "2026-08-02T13:07:02.840Z"
 }
