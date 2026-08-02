@@ -2140,8 +2140,9 @@
           "taskName": "Pilot Trials Support",
           "type": "weekly",
           "assignedDate": "2026-07-27",
-          "status": "not_started",
-          "targetDate": "2026-07-27"
+          "status": "completed",
+          "targetDate": "2026-07-27",
+          "completionDate": "2026-08-02"
         },
         {
           "id": "t-1785138570288",
