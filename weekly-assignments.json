@@ -2331,7 +2331,7 @@
           "targetDate": "2026-07-30"
         }
       ],
-      "currentStatus": "in_progress",
+      "currentStatus": "installation_in_progress",
       "constraint": ""
     },
     {
@@ -2357,5 +2357,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-02T13:03:19.290Z"
+  "lastUpdated": "2026-08-02T13:03:39.010Z"
 }
