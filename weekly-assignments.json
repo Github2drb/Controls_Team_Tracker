@@ -1176,8 +1176,9 @@
           "taskName": "Festo Drive IP Configuration, Servo Tuning and Safety limit",
           "type": "weekly",
           "assignedDate": "2026-07-06",
-          "status": "in_progress",
-          "targetDate": "2026-07-06"
+          "status": "completed",
+          "targetDate": "2026-07-06",
+          "completionDate": "2026-08-03"
         },
         {
           "id": "t-1783334335693",
