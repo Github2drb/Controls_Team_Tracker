@@ -1781,8 +1781,9 @@
           "taskName": "IO Checking",
           "type": "daily",
           "assignedDate": "2026-07-17",
-          "status": "not_started",
-          "targetDate": "2026-07-17"
+          "status": "completed",
+          "targetDate": "2026-07-17",
+          "completionDate": "2026-08-03"
         }
       ],
       "currentStatus": "completed",
