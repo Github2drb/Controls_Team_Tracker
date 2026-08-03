@@ -62,7 +62,7 @@
       "commInterface": [
         {
           "id": "mscroxppgj1r9r",
-          "label": "3",
+          "label": "1",
           "description": "Safety PLC Integration with Main PLC",
           "electricalConstraint": "",
           "mechanicalConstraint": "",
@@ -73,7 +73,7 @@
         },
         {
           "id": "mscroxppwv68do",
-          "label": "4",
+          "label": "2",
           "description": "All E-Stop Integration",
           "electricalConstraint": "",
           "mechanicalConstraint": "",
@@ -84,7 +84,7 @@
         },
         {
           "id": "mscroxpputg0ew",
-          "label": "5",
+          "label": "3",
           "description": "All Safety Door Integration",
           "electricalConstraint": "",
           "mechanicalConstraint": "",
@@ -95,7 +95,7 @@
         },
         {
           "id": "mscroxpp4xpmel",
-          "label": "9",
+          "label": "4",
           "description": "Both HMI Manual and Auto Screens Completion as per Standard",
           "electricalConstraint": "",
           "mechanicalConstraint": "",
@@ -106,7 +106,7 @@
         },
         {
           "id": "mscroxppadpm77",
-          "label": "12",
+          "label": "5",
           "description": "Cycle Time Optimisation",
           "electricalConstraint": "",
           "mechanicalConstraint": "",
@@ -117,7 +117,7 @@
         },
         {
           "id": "mscroxpp1x2gun",
-          "label": "13",
+          "label": "6",
           "description": "Documentation",
           "electricalConstraint": "",
           "mechanicalConstraint": "",
@@ -191,9 +191,9 @@
           ]
         }
       ],
-      "lastUpdated": "2026-08-03T06:37:07.431Z",
+      "lastUpdated": "2026-08-03T06:41:57.650Z",
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-08-03T06:37:07.431Z"
+  "lastUpdated": "2026-08-03T06:41:57.650Z"
 }
