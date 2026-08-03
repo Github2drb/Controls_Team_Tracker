@@ -2413,7 +2413,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1785731109900",
+      "engineerName": "Dhanesh M",
+      "weekStart": "2026-08-03",
+      "projectName": "3A-IE1-26042 & 3A-IE1-26043 -INDIC-Wave Soldering Machine Conveyor Assembly -Misumi & Bosch",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1785731104101",
+          "taskName": "Trials Continuation and Completion",
+          "type": "weekly",
+          "assignedDate": "2026-08-03",
+          "status": "not_started",
+          "targetDate": "2026-08-03"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-03T04:24:41.877Z"
+  "lastUpdated": "2026-08-03T04:25:09.900Z"
 }
