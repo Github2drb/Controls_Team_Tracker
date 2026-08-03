@@ -1656,8 +1656,9 @@
           "taskName": "Close All BOM points",
           "type": "weekly",
           "assignedDate": "2026-07-13",
-          "status": "not_started",
-          "targetDate": "2026-07-13"
+          "status": "completed",
+          "targetDate": "2026-07-13",
+          "completionDate": "2026-08-03"
         }
       ],
       "currentStatus": "not_started",
