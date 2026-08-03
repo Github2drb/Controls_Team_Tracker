@@ -2561,7 +2561,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1785731257102",
+      "engineerName": "Praveen Kumar C",
+      "weekStart": "2026-08-03",
+      "projectName": "3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1785731255517",
+          "taskName": "IO Check,Communication Check",
+          "type": "weekly",
+          "assignedDate": "2026-08-03",
+          "status": "not_started",
+          "targetDate": "2026-08-03"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-03T04:27:05.445Z"
+  "lastUpdated": "2026-08-03T04:27:37.102Z"
 }
