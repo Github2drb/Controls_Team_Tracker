@@ -1,0 +1,19 @@
+{
+  "projects": {
+    "3a-dk2-25143_step 4-leak testing machine": {
+      "projectName": "3A-DK2-25143_STEP 4-Leak Testing Machine",
+      "engineers": {
+        "santosh n, indrakumar": {
+          "displayName": "Santosh N, Indrakumar",
+          "currentStatus": "electrical_assembly",
+          "resourceLockedFrom": "2026-06-01",
+          "resourceLockedTill": "2026-09-30",
+          "internalTarget": "2026-08-24",
+          "customerTarget": "2026-09-25",
+          "updatedAt": "2026-08-03T07:32:25.029Z"
+        }
+      }
+    }
+  },
+  "lastUpdated": "2026-08-03T07:32:25.029Z"
+}
