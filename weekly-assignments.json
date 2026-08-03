@@ -2441,10 +2441,10 @@
       "engineerName": "Harsha K",
       "weekStart": "2026-08-03",
       "projectName": "DK1-25110- ODU Assembly auto line",
-      "resourceLockedFrom": "",
-      "resourceLockedTill": "",
-      "internalTarget": "",
-      "customerTarget": "",
+      "resourceLockedFrom": "2026-08-03",
+      "resourceLockedTill": "2026-08-31",
+      "internalTarget": "2026-08-05",
+      "customerTarget": "2026-08-08",
       "tasks": [
         {
           "id": "t-1785731122296",
@@ -2455,8 +2455,8 @@
           "targetDate": "2026-08-03"
         }
       ],
-      "currentStatus": "not_started",
-      "constraint": ""
+      "currentStatus": "in_progress",
+      "constraint": "HMI Modification inline with Dehydration Equipment"
     },
     {
       "id": "wa-1785731149945",
@@ -2607,5 +2607,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-03T04:33:38.316Z"
+  "lastUpdated": "2026-08-03T04:34:26.904Z"
 }
