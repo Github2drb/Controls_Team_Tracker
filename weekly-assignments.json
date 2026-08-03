@@ -2246,8 +2246,9 @@
           "taskName": "Offline PLC and HMI Completion",
           "type": "weekly",
           "assignedDate": "2026-07-27",
-          "status": "not_started",
-          "targetDate": "2026-07-27"
+          "status": "completed",
+          "targetDate": "2026-07-27",
+          "completionDate": "2026-08-03"
         },
         {
           "id": "t-1785138664634",
