@@ -1712,10 +1712,10 @@
       "engineerName": "Deekshitha HC",
       "weekStart": "2026-07-13",
       "projectName": "3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station",
-      "resourceLockedFrom": "",
-      "resourceLockedTill": "",
-      "internalTarget": "",
-      "customerTarget": "",
+      "resourceLockedFrom": "2026-07-20",
+      "resourceLockedTill": "2026-08-14",
+      "internalTarget": "2026-08-06",
+      "customerTarget": "2026-07-31",
       "tasks": [
         {
           "id": "t-1784213373535",
@@ -1726,7 +1726,7 @@
           "targetDate": "2026-07-16"
         }
       ],
-      "currentStatus": "not_started",
+      "currentStatus": "in_progress",
       "constraint": ""
     },
     {
@@ -2607,5 +2607,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-03T06:05:55.699Z"
+  "lastUpdated": "2026-08-03T06:07:37.366Z"
 }
