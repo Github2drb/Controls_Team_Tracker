@@ -2583,7 +2583,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1785731295630",
+      "engineerName": "Deekshitha HC",
+      "weekStart": "2026-08-03",
+      "projectName": "3A-AV1-25120-Eddy Current Testing Equipment",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1785731294895",
+          "taskName": "Electrical Documentation",
+          "type": "weekly",
+          "assignedDate": "2026-08-03",
+          "status": "not_started",
+          "targetDate": "2026-08-03"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-03T04:27:37.102Z"
+  "lastUpdated": "2026-08-03T04:28:15.630Z"
 }
