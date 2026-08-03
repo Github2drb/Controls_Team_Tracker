@@ -966,8 +966,9 @@
           "taskName": "Safety Wiring Check, Support to Electrical Integration Team",
           "type": "weekly",
           "assignedDate": "2026-06-29",
-          "status": "in_progress",
-          "targetDate": "2026-06-29"
+          "status": "completed",
+          "targetDate": "2026-06-29",
+          "completionDate": "2026-08-03"
         }
       ],
       "currentStatus": "completed",
