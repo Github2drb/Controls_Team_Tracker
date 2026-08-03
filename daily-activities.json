@@ -8537,6 +8537,72 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Praveen Kumar C",
+      "date": "2026-08-03",
+      "targetTasks": [
+        {
+          "id": "wa-1785731258304-10vd",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Praveen Kumar C",
+      "date": "2026-08-04",
+      "targetTasks": [
+        {
+          "id": "wa-1785731258304-b41v",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Praveen Kumar C",
+      "date": "2026-08-05",
+      "targetTasks": [
+        {
+          "id": "wa-1785731258304-8klq",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Praveen Kumar C",
+      "date": "2026-08-06",
+      "targetTasks": [
+        {
+          "id": "wa-1785731258304-axzo",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Praveen Kumar C",
+      "date": "2026-08-07",
+      "targetTasks": [
+        {
+          "id": "wa-1785731258305-ilpi",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Praveen Kumar C",
+      "date": "2026-08-08",
+      "targetTasks": [
+        {
+          "id": "wa-1785731258305-bt8v",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] Weekly project task"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
