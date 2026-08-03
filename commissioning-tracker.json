@@ -29,7 +29,7 @@
           "id": "mscroxpo37ka9r",
           "label": "3",
           "description": "SERVO MOTOR ",
-          "electricalConstraint": "ROOTING NEED TO DONE .",
+          "electricalConstraint": "ROUTING NEED TO DONE .",
           "mechanicalConstraint": "MOUNTING NEED PLACE ON POSITION",
           "trialTime": "",
           "status": "not_started",
@@ -40,7 +40,7 @@
           "id": "mscroxpofzs22e",
           "label": "4",
           "description": "LINEAR ACTAUTOR SIDE",
-          "electricalConstraint": "ROOTING NEED TO DONE.",
+          "electricalConstraint": "ROUTING NEED TO DONE.",
           "mechanicalConstraint": "HOSE PENDING, AND CYL MOUNT",
           "trialTime": "",
           "status": "not_started",
@@ -191,9 +191,9 @@
           ]
         }
       ],
-      "lastUpdated": "2026-08-03T06:36:35.981Z",
+      "lastUpdated": "2026-08-03T06:37:07.431Z",
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-08-03T06:36:35.981Z"
+  "lastUpdated": "2026-08-03T06:37:07.431Z"
 }
