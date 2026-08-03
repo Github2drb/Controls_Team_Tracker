@@ -2517,7 +2517,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1785731203712",
+      "engineerName": "Eswanth Potnuri",
+      "weekStart": "2026-08-03",
+      "projectName": "3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1785731202670",
+          "taskName": "Offline Logic Completion",
+          "type": "weekly",
+          "assignedDate": "2026-08-03",
+          "status": "not_started",
+          "targetDate": "2026-08-03"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-03T04:26:24.972Z"
+  "lastUpdated": "2026-08-03T04:26:43.712Z"
 }
