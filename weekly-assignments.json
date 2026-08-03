@@ -2457,7 +2457,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1785731149945",
+      "engineerName": "Indrakumar",
+      "weekStart": "2026-08-03",
+      "projectName": "3A-AV1-25120-Eddy Current Testing Equipment",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1785731149044",
+          "taskName": "Servo Check and Inkjet Printing trials",
+          "type": "weekly",
+          "assignedDate": "2026-08-03",
+          "status": "not_started",
+          "targetDate": "2026-08-03"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-03T04:25:25.627Z"
+  "lastUpdated": "2026-08-03T04:25:49.945Z"
 }
