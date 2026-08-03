@@ -8471,6 +8471,72 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Sumanjali",
+      "date": "2026-08-03",
+      "targetTasks": [
+        {
+          "id": "wa-1785731226562-8hef",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Sumanjali",
+      "date": "2026-08-04",
+      "targetTasks": [
+        {
+          "id": "wa-1785731226562-fw0c",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Sumanjali",
+      "date": "2026-08-05",
+      "targetTasks": [
+        {
+          "id": "wa-1785731226562-6e4u",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Sumanjali",
+      "date": "2026-08-06",
+      "targetTasks": [
+        {
+          "id": "wa-1785731226562-yok8",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Sumanjali",
+      "date": "2026-08-07",
+      "targetTasks": [
+        {
+          "id": "wa-1785731226563-23zc",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Sumanjali",
+      "date": "2026-08-08",
+      "targetTasks": [
+        {
+          "id": "wa-1785731226563-iyz8",
+          "text": "[3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine] Weekly project task"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
