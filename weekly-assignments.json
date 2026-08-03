@@ -1846,8 +1846,9 @@
           "taskName": "Complete BOM  and loading in ODOO",
           "type": "weekly",
           "assignedDate": "2026-07-23",
-          "status": "not_started",
-          "targetDate": "2026-07-23"
+          "status": "completed",
+          "targetDate": "2026-07-23",
+          "completionDate": "2026-08-03"
         },
         {
           "id": "t-1784784590216",
