@@ -61,28 +61,6 @@
       ],
       "commInterface": [
         {
-          "id": "mscroxpp8hh549",
-          "label": "1",
-          "description": "Rexroth Press Display – 3 Press Integration",
-          "electricalConstraint": "",
-          "mechanicalConstraint": "",
-          "trialTime": "",
-          "status": "not_started",
-          "notes": "",
-          "images": []
-        },
-        {
-          "id": "mscroxppniycnb",
-          "label": "2",
-          "description": "Press Display Thrust Checking Station",
-          "electricalConstraint": "",
-          "mechanicalConstraint": "",
-          "trialTime": "",
-          "status": "not_started",
-          "notes": "",
-          "images": []
-        },
-        {
           "id": "mscroxppgj1r9r",
           "label": "3",
           "description": "Safety PLC Integration with Main PLC",
@@ -116,64 +94,9 @@
           "images": []
         },
         {
-          "id": "mscroxppm28hyr",
-          "label": "6",
-          "description": "Servo, Induction Motor Safety Check",
-          "electricalConstraint": "",
-          "mechanicalConstraint": "",
-          "trialTime": "",
-          "status": "not_started",
-          "notes": "",
-          "images": []
-        },
-        {
-          "id": "mscroxppf2pztm",
-          "label": "7",
-          "description": "ID Scanner Check",
-          "electricalConstraint": "",
-          "mechanicalConstraint": "",
-          "trialTime": "",
-          "status": "not_started",
-          "notes": "",
-          "images": []
-        },
-        {
-          "id": "mscroxppuiy6ae",
-          "label": "8",
-          "description": "Vision System Check in All Stations",
-          "electricalConstraint": "",
-          "mechanicalConstraint": "",
-          "trialTime": "",
-          "status": "not_started",
-          "notes": "",
-          "images": []
-        },
-        {
           "id": "mscroxpp4xpmel",
           "label": "9",
           "description": "Both HMI Manual and Auto Screens Completion as per Standard",
-          "electricalConstraint": "",
-          "mechanicalConstraint": "",
-          "trialTime": "",
-          "status": "not_started",
-          "notes": "",
-          "images": []
-        },
-        {
-          "id": "mscroxppwnhcb0",
-          "label": "10",
-          "description": "RFID Tracking",
-          "electricalConstraint": "",
-          "mechanicalConstraint": "",
-          "trialTime": "",
-          "status": "not_started",
-          "notes": "",
-          "images": []
-        },
-        {
-          "id": "mscroxpptmip94",
-          "label": "11",
-          "description": "Pallet Tracking and Data Saving",
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "",
@@ -268,9 +191,9 @@
           ]
         }
       ],
-      "lastUpdated": "2026-08-03T05:22:48.582Z",
-      "updatedBy": "Indrakumar"
+      "lastUpdated": "2026-08-03T06:36:35.981Z",
+      "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-08-03T05:22:48.582Z"
+  "lastUpdated": "2026-08-03T06:36:35.981Z"
 }
