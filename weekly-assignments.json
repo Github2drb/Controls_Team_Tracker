@@ -302,8 +302,8 @@
       "projectName": "3A-AV1-25120-Eddy Current Testing Equipment",
       "resourceLockedFrom": "2026-05-01",
       "resourceLockedTill": "2026-07-30",
-      "internalTarget": "2026-07-15",
-      "customerTarget": "2026-07-28",
+      "internalTarget": "2026-08-08",
+      "customerTarget": "2026-08-10",
       "tasks": [
         {
           "id": "task-1778655624157",
@@ -2607,5 +2607,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-03T07:32:35.901Z"
+  "lastUpdated": "2026-08-04T00:26:57.595Z"
 }
