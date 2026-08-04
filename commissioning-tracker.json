@@ -10,7 +10,7 @@
           "electricalConstraint": "REEDSWITCH WIRING DUE TO CYL NOT MOUNT,\nPART DETECT PRX SENSOR MOUNT AND WIRING.",
           "mechanicalConstraint": "HOSE PENDING, AND CYL MOUNT",
           "trialTime": "",
-          "status": "not_started",
+          "status": "electrical_pending",
           "notes": "",
           "images": [
             {
@@ -28,7 +28,7 @@
           "electricalConstraint": "REEDSWITCH WIRING DUE TO CYL NOT MOUNT",
           "mechanicalConstraint": "HOSE PENDING, AND CYL MOUNT",
           "trialTime": "",
-          "status": "not_started",
+          "status": "electrical_pending",
           "notes": "",
           "images": []
         },
@@ -39,7 +39,7 @@
           "electricalConstraint": "ROUTING NEED TO DONE .",
           "mechanicalConstraint": "MOUNTING NEED PLACE ON POSITION",
           "trialTime": "",
-          "status": "not_started",
+          "status": "electrical_pending",
           "notes": "",
           "images": []
         },
@@ -50,7 +50,7 @@
           "electricalConstraint": "ROUTING NEED TO DONE.",
           "mechanicalConstraint": "HOSE PENDING, AND CYL MOUNT",
           "trialTime": "",
-          "status": "not_started",
+          "status": "electrical_pending",
           "notes": "",
           "images": []
         },
@@ -198,9 +198,9 @@
           ]
         }
       ],
-      "lastUpdated": "2026-08-04T12:13:04.057Z",
+      "lastUpdated": "2026-08-04T12:13:48.531Z",
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-08-04T12:13:04.057Z"
+  "lastUpdated": "2026-08-04T12:13:48.531Z"
 }
