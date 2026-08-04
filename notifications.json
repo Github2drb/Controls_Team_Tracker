@@ -168,10 +168,12 @@
       "type": "alert",
       "link": "",
       "isTicker": true,
-      "readBy": [],
+      "readBy": [
+        "device-jxgp0gr6f"
+      ],
       "author": "Admin",
       "createdAt": "2026-08-04T00:34:53.035Z"
     }
   ],
-  "lastUpdated": "2026-08-04T00:34:56.712Z"
+  "lastUpdated": "2026-08-04T11:08:31.392Z"
 }
