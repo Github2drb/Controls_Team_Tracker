@@ -12,7 +12,14 @@
           "trialTime": "",
           "status": "not_started",
           "notes": "",
-          "images": []
+          "images": [
+            {
+              "name": "comm-3a-av1-25120-eddy-current-testing-equipm-mscroxpopwh20b-1785845582340-fc5m8.jpg",
+              "url": "/api/commissioning-images/file/comm-3a-av1-25120-eddy-current-testing-equipm-mscroxpopwh20b-1785845582340-fc5m8.jpg",
+              "uploadedBy": "Admin",
+              "uploadedAt": "2026-08-04T12:13:02.816Z"
+            }
+          ]
         },
         {
           "id": "mscroxpo9je0vr",
@@ -191,9 +198,9 @@
           ]
         }
       ],
-      "lastUpdated": "2026-08-03T06:42:29.154Z",
+      "lastUpdated": "2026-08-04T12:13:04.057Z",
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-08-03T06:42:29.155Z"
+  "lastUpdated": "2026-08-04T12:13:04.057Z"
 }
