@@ -167,11 +167,11 @@
       "message": "Select the assigned project and fill all Electrical and Mechanical Constraints with Photo. Complete the activity on or before 05/08",
       "type": "alert",
       "link": "",
-      "isTicker": false,
+      "isTicker": true,
       "readBy": [],
       "author": "Admin",
       "createdAt": "2026-08-04T00:34:53.035Z"
     }
   ],
-  "lastUpdated": "2026-08-04T00:34:53.035Z"
+  "lastUpdated": "2026-08-04T00:34:56.712Z"
 }
