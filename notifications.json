@@ -154,7 +154,7 @@
       "message": "Customer expecting it to be functional and up to their expectations during their visit.",
       "type": "alert",
       "link": "",
-      "isTicker": true,
+      "isTicker": false,
       "readBy": [
         "device-t0t4nve89"
       ],
@@ -162,5 +162,5 @@
       "createdAt": "2026-07-31T12:42:26.849Z"
     }
   ],
-  "lastUpdated": "2026-08-03T06:45:30.578Z"
+  "lastUpdated": "2026-08-04T00:33:18.686Z"
 }
