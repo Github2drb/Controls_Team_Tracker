@@ -3,13 +3,6 @@
     "eswanth potnuri": {
       "comments": [
         {
-          "id": "c-1781933129233",
-          "text": "3A-SS1-26012_Variant Selection Logic",
-          "date": "2026-06-20",
-          "type": "note",
-          "createdAt": "2026-06-20T05:25:29.233Z"
-        },
-        {
           "id": "c-1781945884033",
           "text": "3A-CC1-26040_BOM Preparation and review",
           "date": "2026-06-20",
@@ -351,6 +344,13 @@
           "date": "2026-08-05",
           "type": "note",
           "createdAt": "2026-08-05T06:28:44.542Z"
+        },
+        {
+          "id": "c-1785922462639",
+          "text": "3A-TC1-26039_Meeting with Customer at the office",
+          "date": "2026-08-05",
+          "type": "note",
+          "createdAt": "2026-08-05T09:34:22.639Z"
         }
       ],
       "dismissedMissed": []
@@ -368,5 +368,5 @@
       "dismissedMissed": []
     }
   },
-  "lastUpdated": "2026-08-05T06:28:44.542Z"
+  "lastUpdated": "2026-08-05T09:34:22.639Z"
 }
