@@ -2635,7 +2635,37 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1785912155221",
+      "engineerName": "Harsha K",
+      "weekStart": "2026-08-03",
+      "projectName": "DK1-25110- ODU Assembly auto line",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1785912150210",
+          "taskName": "Bearing Stacker Lifter HMI Parameter for Positioning Stn-3",
+          "type": "daily",
+          "assignedDate": "2026-08-05",
+          "status": "not_started",
+          "targetDate": "2026-08-05"
+        },
+        {
+          "id": "t-1785912154111",
+          "taskName": "Bearing Stacker Lifter HMI Parameter for Positioning Stn-5",
+          "type": "daily",
+          "assignedDate": "2026-08-05",
+          "status": "not_started",
+          "targetDate": "2026-08-05"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-05T06:41:59.818Z"
+  "lastUpdated": "2026-08-05T06:42:35.222Z"
 }
