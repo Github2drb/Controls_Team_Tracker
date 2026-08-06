@@ -2651,8 +2651,9 @@
           "taskName": "Bearing Stacker Lifter HMI Parameter for Positioning Stn-3",
           "type": "daily",
           "assignedDate": "2026-08-05",
-          "status": "not_started",
-          "targetDate": "2026-08-05"
+          "status": "completed",
+          "targetDate": "2026-08-05",
+          "completionDate": "2026-08-06"
         },
         {
           "id": "t-1785912154111",
