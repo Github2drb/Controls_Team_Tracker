@@ -3,13 +3,6 @@
     "eswanth potnuri": {
       "comments": [
         {
-          "id": "c-1781945884033",
-          "text": "3A-CC1-26040_BOM Preparation and review",
-          "date": "2026-06-20",
-          "type": "update",
-          "createdAt": "2026-06-20T08:58:04.033Z"
-        },
-        {
           "id": "c-1782102135394",
           "text": "3A-SS1-26012_Logic Development, HMI Development , Variant Logic Improvisation",
           "date": "2026-06-22",
@@ -351,6 +344,13 @@
           "date": "2026-08-05",
           "type": "note",
           "createdAt": "2026-08-05T09:34:22.639Z"
+        },
+        {
+          "id": "c-1785987652438",
+          "text": "3A-TC1-26039_PLC Logic Development",
+          "date": "2026-08-06",
+          "type": "note",
+          "createdAt": "2026-08-06T03:40:52.438Z"
         }
       ],
       "dismissedMissed": []
@@ -368,5 +368,5 @@
       "dismissedMissed": []
     }
   },
-  "lastUpdated": "2026-08-05T09:34:22.639Z"
+  "lastUpdated": "2026-08-06T03:40:52.438Z"
 }
