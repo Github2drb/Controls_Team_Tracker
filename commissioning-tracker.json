@@ -39,7 +39,7 @@
           "electricalConstraint": "ROUTING NEED TO DONE .",
           "mechanicalConstraint": "MOUNTING NEED PLACE ON POSITION",
           "trialTime": "",
-          "status": "electrical_pending",
+          "status": "ready_for_trials",
           "notes": "",
           "images": []
         },
@@ -61,7 +61,7 @@
           "electricalConstraint": "PENDING WERE TO MOUNT ",
           "mechanicalConstraint": "",
           "trialTime": "",
-          "status": "not_started",
+          "status": "completed",
           "notes": "",
           "images": []
         }
@@ -198,9 +198,9 @@
           ]
         }
       ],
-      "lastUpdated": "2026-08-04T12:13:48.531Z",
+      "lastUpdated": "2026-08-06T07:51:32.168Z",
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-08-04T12:13:48.531Z"
+  "lastUpdated": "2026-08-06T07:51:32.168Z"
 }
