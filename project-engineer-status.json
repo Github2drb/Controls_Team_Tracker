@@ -23,7 +23,17 @@
           "updatedAt": "2026-08-06T04:22:05.812Z"
         }
       }
+    },
+    "3a-ad1-26046-asahi denso-switch endurance testing station": {
+      "projectName": "3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station",
+      "engineers": {
+        "santosh n, dhanesh m": {
+          "displayName": "Santosh N, Dhanesh M",
+          "currentStatus": "sat",
+          "updatedAt": "2026-08-06T04:22:57.281Z"
+        }
+      }
     }
   },
-  "lastUpdated": "2026-08-06T04:22:05.812Z"
+  "lastUpdated": "2026-08-06T04:22:57.281Z"
 }
