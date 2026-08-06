@@ -3,13 +3,6 @@
     "eswanth potnuri": {
       "comments": [
         {
-          "id": "c-1782102135394",
-          "text": "3A-SS1-26012_Logic Development, HMI Development , Variant Logic Improvisation",
-          "date": "2026-06-22",
-          "type": "update",
-          "createdAt": "2026-06-22T04:22:15.394Z"
-        },
-        {
           "id": "c-1782102407539",
           "text": "3A-TC1-26039_Offline Logic Development",
           "date": "2026-06-22",
@@ -351,6 +344,13 @@
           "date": "2026-08-06",
           "type": "note",
           "createdAt": "2026-08-06T03:40:52.438Z"
+        },
+        {
+          "id": "c-1785987678129",
+          "text": "3A-CC1-26040_Architecture development in the network",
+          "date": "2026-08-06",
+          "type": "note",
+          "createdAt": "2026-08-06T03:41:18.129Z"
         }
       ],
       "dismissedMissed": []
@@ -368,5 +368,5 @@
       "dismissedMissed": []
     }
   },
-  "lastUpdated": "2026-08-06T03:40:52.438Z"
+  "lastUpdated": "2026-08-06T03:41:18.129Z"
 }
