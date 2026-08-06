@@ -2351,7 +2351,7 @@
           "targetDate": "2026-07-30"
         }
       ],
-      "currentStatus": "installation_completed",
+      "currentStatus": "completed",
       "constraint": ""
     },
     {
@@ -2667,5 +2667,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-06T04:21:57.239Z"
+  "lastUpdated": "2026-08-06T04:22:18.967Z"
 }
