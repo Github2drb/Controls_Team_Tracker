@@ -403,7 +403,7 @@
       "internalTarget": "2026-07-14",
       "customerTarget": "2026-08-25",
       "tasks": [],
-      "currentStatus": "installation_completed",
+      "currentStatus": "equipment_handover",
       "notes": "Chennai Installation Pending",
       "constraint": "Installation at customer site is pending.\nTentative plan on Aug 2nd week"
     },
@@ -2667,5 +2667,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-06T04:21:36.256Z"
+  "lastUpdated": "2026-08-06T04:21:47.660Z"
 }
