@@ -335,7 +335,7 @@
         }
       ],
       "currentStatus": "installation_in_progress",
-      "constraint": "DAP Completed. Offline PLC and HMI completed\nMechanical installation at customer site\nElectrical Assembly installation at customer site\nConveyor taken to customer area and remaining activities to be completed from site.\nConveyor tested. 29/07 -  Line need to be explained to customer.\nSanthosh deputed to site to inspect motor on 31/07/26(Issue on mechanical chain side)"
+      "constraint": "DAP Completed. Offline PLC and HMI completed\nMechanical installation at customer site\nElectrical Assembly installation at customer site\nConveyor taken to customer area and remaining activities to be completed from site.\nConveyor tested. 29/07 -  Line need to be explained to customer.\nSanthosh deputed to site to inspect motor on 31/07/26(Issue on mechanical chain side)\nDhanesh working on Manual testing(06-08)"
     },
     {
       "id": "wa-1779455033744",
@@ -2667,5 +2667,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-06T07:48:16.824Z"
+  "lastUpdated": "2026-08-06T07:49:00.996Z"
 }
