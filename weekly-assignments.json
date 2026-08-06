@@ -347,7 +347,7 @@
       "internalTarget": "2026-05-29",
       "customerTarget": "2026-06-05",
       "tasks": [],
-      "currentStatus": "fat",
+      "currentStatus": "dispatch_stage",
       "notes": "Hardware Integration in Progress",
       "constraint": "CIP Communication Completed\nBarcode Scanning Pending\nPart Flush Check on E-Stop Completed\nCycle time optimization completed.\nF.A.T to be resumed and completed\nF.A.T started on 31/07/26. - Stoppage issue in Stage-1."
     },
@@ -2667,5 +2667,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-05T06:42:35.222Z"
+  "lastUpdated": "2026-08-06T04:20:37.587Z"
 }
