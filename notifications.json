@@ -141,7 +141,7 @@
       "message": "Engineers who are working at site need to update attendance in new office connect. if it is not working, take a screenshot and send mail to HR",
       "type": "info",
       "link": "https://newofficeconnect.3dcad-global.com/#/auth/signin",
-      "isTicker": true,
+      "isTicker": false,
       "readBy": [
         "admin",
         "device-vwr6asc34",
@@ -187,5 +187,5 @@
       "createdAt": "2026-08-04T00:34:53.035Z"
     }
   ],
-  "lastUpdated": "2026-08-06T08:21:15.337Z"
+  "lastUpdated": "2026-08-07T02:49:07.951Z"
 }
