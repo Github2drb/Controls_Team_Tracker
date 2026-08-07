@@ -3,13 +3,6 @@
     "eswanth potnuri": {
       "comments": [
         {
-          "id": "c-1782275077587",
-          "text": "3A-SS1-26012_HMI Development , Servo Program Logic Development and Communication Configuration for Watchdog",
-          "date": "2026-06-24",
-          "type": "note",
-          "createdAt": "2026-06-24T04:24:37.587Z"
-        },
-        {
           "id": "c-1782282213802",
           "text": "3A-CC1-26040_BOM and RFQ Finalisation",
           "date": "2026-06-24",
@@ -351,6 +344,13 @@
           "date": "2026-08-07",
           "type": "note",
           "createdAt": "2026-08-07T04:17:49.550Z"
+        },
+        {
+          "id": "c-1786076280031",
+          "text": "3A-CC1-26040_BOM and Architecture",
+          "date": "2026-08-07",
+          "type": "note",
+          "createdAt": "2026-08-07T04:18:00.031Z"
         }
       ],
       "dismissedMissed": []
@@ -368,5 +368,5 @@
       "dismissedMissed": []
     }
   },
-  "lastUpdated": "2026-08-07T04:17:49.550Z"
+  "lastUpdated": "2026-08-07T04:18:00.032Z"
 }
