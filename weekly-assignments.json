@@ -89,7 +89,7 @@
           "status": "not_started"
         }
       ],
-      "currentStatus": "mechanical_assembly",
+      "currentStatus": "installation_in_progress",
       "notes": "",
       "constraint": "Control Panel Assembled with PLC - 3 no's",
       "resourceLockedFrom": "2026-03-23",
@@ -2691,5 +2691,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-07T06:51:02.064Z"
+  "lastUpdated": "2026-08-07T06:51:37.503Z"
 }
