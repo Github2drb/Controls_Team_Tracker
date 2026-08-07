@@ -5,12 +5,12 @@
       "engineers": {
         "santosh n, indrakumar": {
           "displayName": "Santosh N, Indrakumar",
-          "currentStatus": "electrical_assembly",
+          "currentStatus": "installation_in_progress",
           "resourceLockedFrom": "2026-06-01",
           "resourceLockedTill": "2026-09-30",
           "internalTarget": "2026-08-24",
           "customerTarget": "2026-09-25",
-          "updatedAt": "2026-08-03T07:32:25.029Z"
+          "updatedAt": "2026-08-07T06:51:27.663Z"
         }
       }
     },
@@ -35,5 +35,5 @@
       }
     }
   },
-  "lastUpdated": "2026-08-06T04:22:57.281Z"
+  "lastUpdated": "2026-08-07T06:51:27.663Z"
 }
