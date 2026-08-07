@@ -2667,7 +2667,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1786070900189",
+      "engineerName": "Susanth K M",
+      "weekStart": "2026-08-03",
+      "projectName": "DK1-25110- ODU Assembly auto line",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1786070899190",
+          "taskName": "Rubber - A Manual Testing and Trials",
+          "type": "daily",
+          "assignedDate": "2026-08-07",
+          "status": "not_started",
+          "targetDate": "2026-08-07"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-06T07:50:48.581Z"
+  "lastUpdated": "2026-08-07T02:48:20.189Z"
 }
