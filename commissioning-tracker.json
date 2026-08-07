@@ -74,7 +74,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "",
-          "status": "not_started",
+          "status": "ready_for_trials",
           "notes": "",
           "images": []
         },
@@ -85,7 +85,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "",
-          "status": "not_started",
+          "status": "ready_for_trials",
           "notes": "",
           "images": []
         },
@@ -96,7 +96,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "",
-          "status": "not_started",
+          "status": "mechanical_pending",
           "notes": "",
           "images": []
         },
@@ -107,7 +107,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "",
-          "status": "not_started",
+          "status": "trials_in_progress",
           "notes": "",
           "images": []
         },
@@ -198,9 +198,9 @@
           ]
         }
       ],
-      "lastUpdated": "2026-08-06T07:51:32.168Z",
+      "lastUpdated": "2026-08-07T02:50:14.362Z",
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-08-06T07:51:32.168Z"
+  "lastUpdated": "2026-08-07T02:50:14.362Z"
 }
