@@ -3,13 +3,6 @@
     "eswanth potnuri": {
       "comments": [
         {
-          "id": "c-1782102451542",
-          "text": "3A-CC1-26040_Discussion with Designer",
-          "date": "2026-06-22",
-          "type": "note",
-          "createdAt": "2026-06-22T04:27:31.542Z"
-        },
-        {
           "id": "c-1782275077587",
           "text": "3A-SS1-26012_HMI Development , Servo Program Logic Development and Communication Configuration for Watchdog",
           "date": "2026-06-24",
@@ -351,6 +344,13 @@
           "date": "2026-08-06",
           "type": "note",
           "createdAt": "2026-08-06T10:30:10.555Z"
+        },
+        {
+          "id": "c-1786076269550",
+          "text": "3A-TC1-26039_Logic Development for Recipe and Production Count ; Meeting with the client for Technical requirements in the Electrical.",
+          "date": "2026-08-07",
+          "type": "note",
+          "createdAt": "2026-08-07T04:17:49.550Z"
         }
       ],
       "dismissedMissed": []
@@ -368,5 +368,5 @@
       "dismissedMissed": []
     }
   },
-  "lastUpdated": "2026-08-06T10:30:10.555Z"
+  "lastUpdated": "2026-08-07T04:17:49.550Z"
 }
