@@ -2803,7 +2803,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1786343136406",
+      "engineerName": "Indrakumar",
+      "weekStart": "2026-08-10",
+      "projectName": "3A-AV1-25120-Eddy Current Testing Equipment",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1786343132855",
+          "taskName": "Auto Cycle Completion for all variants",
+          "type": "weekly",
+          "assignedDate": "2026-08-10",
+          "status": "not_started",
+          "targetDate": "2026-08-10"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-10T06:24:41.211Z"
+  "lastUpdated": "2026-08-10T06:25:36.406Z"
 }
