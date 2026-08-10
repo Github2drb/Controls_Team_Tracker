@@ -2743,7 +2743,37 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1786343035759",
+      "engineerName": "Harsha K",
+      "weekStart": "2026-08-10",
+      "projectName": "DK1-25110- ODU Assembly auto line",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1786343018609",
+          "taskName": "HMI Screen Modification",
+          "type": "daily",
+          "assignedDate": "2026-08-14",
+          "status": "not_started",
+          "targetDate": "2026-08-14"
+        },
+        {
+          "id": "t-1786343031968",
+          "taskName": "Rexroth Display Check",
+          "type": "daily",
+          "assignedDate": "2026-08-14",
+          "status": "not_started",
+          "targetDate": "2026-08-14"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-10T06:23:10.232Z"
+  "lastUpdated": "2026-08-10T06:23:55.759Z"
 }
