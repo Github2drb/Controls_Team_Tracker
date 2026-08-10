@@ -2689,7 +2689,61 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1786342990232",
+      "engineerName": "Susanth K M",
+      "weekStart": "2026-08-10",
+      "projectName": "DK1-25110- ODU Assembly auto line",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1786342927974",
+          "taskName": "Rubber - A with Greasing",
+          "type": "weekly",
+          "assignedDate": "2026-08-10",
+          "status": "not_started",
+          "targetDate": "2026-08-10"
+        },
+        {
+          "id": "t-1786342940545",
+          "taskName": "Rubber - B with Greasing",
+          "type": "daily",
+          "assignedDate": "2026-08-13",
+          "status": "not_started",
+          "targetDate": "2026-08-13"
+        },
+        {
+          "id": "t-1786342953948",
+          "taskName": "Part Traceability using RFID",
+          "type": "daily",
+          "assignedDate": "2026-08-13",
+          "status": "not_started",
+          "targetDate": "2026-08-13"
+        },
+        {
+          "id": "t-1786342967607",
+          "taskName": "Door Unlock and Lock Sequence",
+          "type": "daily",
+          "assignedDate": "2026-08-13",
+          "status": "not_started",
+          "targetDate": "2026-08-13"
+        },
+        {
+          "id": "t-1786342986179",
+          "taskName": "All E-Stop safety Interlock",
+          "type": "daily",
+          "assignedDate": "2026-08-14",
+          "status": "not_started",
+          "targetDate": "2026-08-14"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-10T06:20:22.796Z"
+  "lastUpdated": "2026-08-10T06:23:10.232Z"
 }
