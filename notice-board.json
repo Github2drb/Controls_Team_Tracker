@@ -3,13 +3,6 @@
     "eswanth potnuri": {
       "comments": [
         {
-          "id": "c-1782363043991",
-          "text": "3A-SS1-26012_Robot and Servo Logic improvisation for Variant and angle request logic.",
-          "date": "2026-06-25",
-          "type": "update",
-          "createdAt": "2026-06-25T04:50:43.991Z"
-        },
-        {
           "id": "c-1782363067761",
           "text": "3A-TC1-26039_Control Architecture and Manual Logic Development.",
           "date": "2026-06-25",
@@ -351,6 +344,13 @@
           "date": "2026-08-07",
           "type": "note",
           "createdAt": "2026-08-07T09:49:58.014Z"
+        },
+        {
+          "id": "c-1786337356132",
+          "text": "3A-TC1-26039_Logic Development",
+          "date": "2026-08-10",
+          "type": "note",
+          "createdAt": "2026-08-10T04:49:16.132Z"
         }
       ],
       "dismissedMissed": []
@@ -368,5 +368,5 @@
       "dismissedMissed": []
     }
   },
-  "lastUpdated": "2026-08-07T09:49:58.014Z"
+  "lastUpdated": "2026-08-10T04:49:16.132Z"
 }
