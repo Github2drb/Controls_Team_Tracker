@@ -2825,7 +2825,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1786343215440",
+      "engineerName": "Ramkumar Annamalai",
+      "weekStart": "2026-08-10",
+      "projectName": "3A-S02-25054_Surface Hinge Assembly",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1786343212532",
+          "taskName": "Surface Hinge Assembly Final Trials before dismantling",
+          "type": "daily",
+          "assignedDate": "2026-08-11",
+          "status": "not_started",
+          "targetDate": "2026-08-11"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-10T06:25:36.406Z"
+  "lastUpdated": "2026-08-10T06:26:55.440Z"
 }
