@@ -61,7 +61,7 @@
       ],
       "currentStatus": "trials_stage",
       "notes": "",
-      "constraint": "Mechanical, Electrical Assembly in Progress.\nOffline PLC Program done.\nEquipment powered up and communication interface in progress\nRexroth Servo Press Display Communication completed.\nRotor Bearing Pressing Completed. Stator Rotor bearing pressing completed, Stator Bearing Pressing in progress.\nRotor Bearing complete individual cycle trials.\nStator Bearing stacker individual cycle planned (06/08) - Completed",
+      "constraint": "Mechanical, Electrical Assembly in Progress.\nOffline PLC Program done.\nEquipment powered up and communication interface in progress\nRexroth Servo Press Display Communication completed.\nRotor Bearing Pressing Completed. Stator Rotor bearing pressing completed, Stator Bearing Pressing in progress.\nRotor Bearing complete individual cycle trials.\nStator Bearing stacker individual cycle planned (06/08) - Completed.\nCap Pressing with load and travel, Rubber - A with greasing and Rubber B need to violate",
       "resourceLockedFrom": "2026-03-30",
       "resourceLockedTill": "2026-08-30",
       "internalTarget": "2026-08-05",
@@ -2691,5 +2691,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-10T06:19:45.379Z"
+  "lastUpdated": "2026-08-10T06:20:22.796Z"
 }
