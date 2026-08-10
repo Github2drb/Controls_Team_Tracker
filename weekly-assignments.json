@@ -244,7 +244,7 @@
       "resourceLockedTill": "2026-07-30",
       "internalTarget": "2026-07-15",
       "customerTarget": "2026-07-28",
-      "constraint": "ICP CON Communication with PLC Completed\nPower supply replaced and checked\nData Logger checking completed.\nAuto Trials Completed\nMultivariant Connector Wiring Design in Progress\nRobot Replaced with Project one.(Nachi)\nIO tested and Data Logger issue need to be sorted out.\nEquipment dispatched and powered on 30/07/26 at site.\nBIW Ganesh supporting Installation at site on 31/07/26\nData logger has been sent for service.\nHarsha KA has been deputed for Equipment Demonstration(07/08)"
+      "constraint": "ICP CON Communication with PLC Completed\nPower supply replaced and checked\nData Logger checking completed.\nAuto Trials Completed\nMultivariant Connector Wiring Design in Progress\nRobot Replaced with Project one.(Nachi)\nIO tested and Data Logger issue need to be sorted out.\nEquipment dispatched and powered on 30/07/26 at site.\nBIW Ganesh supporting Installation at site on 31/07/26\nData logger has been sent for service.\nHarsha KA has been deputed for Equipment Demonstration(07/08)\nAfter Datalogger receipt after service, site support need to be given "
     },
     {
       "id": "wa-1777017351622",
@@ -2691,5 +2691,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-07T06:52:33.892Z"
+  "lastUpdated": "2026-08-10T06:13:49.706Z"
 }
