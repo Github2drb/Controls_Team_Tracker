@@ -3,13 +3,6 @@
     "eswanth potnuri": {
       "comments": [
         {
-          "id": "c-1782451311664",
-          "text": "3A-CC1-26040_Discussions regarding DAQ System, Torques Sensors, Noise Sensors and RPM Sensors with Vendor, PR Raise issue with Shishir P Bombe.",
-          "date": "2026-06-26",
-          "type": "note",
-          "createdAt": "2026-06-26T05:21:51.664Z"
-        },
-        {
           "id": "c-1782709627553",
           "text": "3A-CC1-26040_EOL Technical Meeting with Burster Mesaurement Systems Pvt. Ltd.",
           "date": "2026-06-29",
@@ -351,6 +344,13 @@
           "date": "2026-08-11",
           "type": "note",
           "createdAt": "2026-08-11T07:51:45.236Z"
+        },
+        {
+          "id": "c-1786434728578",
+          "text": "3A-TC1-26039_Phoenix Safety Relay",
+          "date": "2026-08-11",
+          "type": "note",
+          "createdAt": "2026-08-11T07:52:08.578Z"
         }
       ],
       "dismissedMissed": []
@@ -368,5 +368,5 @@
       "dismissedMissed": []
     }
   },
-  "lastUpdated": "2026-08-11T07:51:45.236Z"
+  "lastUpdated": "2026-08-11T07:52:08.578Z"
 }
