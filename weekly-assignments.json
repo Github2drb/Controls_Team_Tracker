@@ -2713,8 +2713,9 @@
           "taskName": "Rubber - B with Greasing",
           "type": "daily",
           "assignedDate": "2026-08-13",
-          "status": "not_started",
-          "targetDate": "2026-08-13"
+          "status": "completed",
+          "targetDate": "2026-08-13",
+          "completionDate": "2026-08-11"
         },
         {
           "id": "t-1786342953948",
