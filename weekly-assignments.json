@@ -989,8 +989,9 @@
           "taskName": "Support to Electrical Designer",
           "type": "weekly",
           "assignedDate": "2026-06-29",
-          "status": "not_started",
-          "targetDate": "2026-06-29"
+          "status": "completed",
+          "targetDate": "2026-06-29",
+          "completionDate": "2026-08-11"
         }
       ],
       "currentStatus": "completed",
