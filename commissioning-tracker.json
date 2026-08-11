@@ -512,7 +512,9 @@
             {
               "id": "msmpln3hqhoem4",
               "text": "Servo/VFD Configuration",
-              "done": false
+              "done": true,
+              "doneBy": "Eswanth Potnuri",
+              "doneAt": "2026-08-11T15:14:48.974Z"
             },
             {
               "id": "msmpln3hb36j3s",
@@ -571,9 +573,9 @@
           ]
         }
       ],
-      "lastUpdated": "2026-08-10T04:07:23.029Z",
-      "updatedBy": "Admin"
+      "lastUpdated": "2026-08-11T15:16:08.514Z",
+      "updatedBy": "Eswanth Potnuri"
     }
   },
-  "lastUpdated": "2026-08-10T04:07:23.029Z"
+  "lastUpdated": "2026-08-11T15:16:08.514Z"
 }
