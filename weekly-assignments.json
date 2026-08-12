@@ -2880,7 +2880,37 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1786509861931",
+      "engineerName": "Harsha K",
+      "weekStart": "2026-08-10",
+      "projectName": "3A-DK1-25077-Dehydration Project",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1786509825092",
+          "taskName": "Pick Bin Sensor Logic Completion",
+          "type": "weekly",
+          "assignedDate": "2026-08-12",
+          "status": "not_started",
+          "targetDate": "2026-08-12"
+        },
+        {
+          "id": "t-1786509850518",
+          "taskName": "Outward station to NG pallet not presence validation",
+          "type": "weekly",
+          "assignedDate": "2026-08-12",
+          "status": "not_started",
+          "targetDate": "2026-08-12"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-12T04:43:16.895Z"
+  "lastUpdated": "2026-08-12T04:44:21.931Z"
 }
