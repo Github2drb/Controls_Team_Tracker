@@ -91,11 +91,11 @@
       ],
       "currentStatus": "installation_in_progress",
       "notes": "",
-      "constraint": "Control Panel Assembled with PLC - 3 no's",
+      "constraint": "Control Panel Assembled with PLC - 3 no's\nSent to customer site for installation.\nMechanical installation in progress",
       "resourceLockedFrom": "2026-03-23",
-      "resourceLockedTill": "2026-08-08",
-      "internalTarget": "2026-07-30",
-      "customerTarget": "2026-08-05"
+      "resourceLockedTill": "2026-09-30",
+      "internalTarget": "2026-08-31",
+      "customerTarget": "2026-09-15"
     },
     {
       "id": "Eswanth Potnuri-2026-03-30-1775039664482",
@@ -2860,5 +2860,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-12T04:26:47.611Z"
+  "lastUpdated": "2026-08-12T04:28:16.145Z"
 }
