@@ -3,13 +3,6 @@
     "eswanth potnuri": {
       "comments": [
         {
-          "id": "c-1782709627553",
-          "text": "3A-CC1-26040_EOL Technical Meeting with Burster Mesaurement Systems Pvt. Ltd.",
-          "date": "2026-06-29",
-          "type": "update",
-          "createdAt": "2026-06-29T05:07:07.553Z"
-        },
-        {
           "id": "c-1782789167557",
           "text": "3A-TC1-26039_PLC Logic Development for Station-1 & 2",
           "date": "2026-06-30",
@@ -351,6 +344,13 @@
           "date": "2026-08-11",
           "type": "note",
           "createdAt": "2026-08-11T07:52:08.578Z"
+        },
+        {
+          "id": "c-1786508078183",
+          "text": "3A-TC1-26039_Manual Logic",
+          "date": "2026-08-12",
+          "type": "note",
+          "createdAt": "2026-08-12T04:14:38.183Z"
         }
       ],
       "dismissedMissed": []
@@ -368,5 +368,5 @@
       "dismissedMissed": []
     }
   },
-  "lastUpdated": "2026-08-11T07:52:08.578Z"
+  "lastUpdated": "2026-08-12T04:14:38.183Z"
 }
