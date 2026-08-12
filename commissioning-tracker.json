@@ -10,7 +10,7 @@
           "electricalConstraint": "REEDSWITCH WIRING DUE TO CYL NOT MOUNT,\nPART DETECT PRX SENSOR MOUNT AND WIRING.",
           "mechanicalConstraint": "HOSE PENDING, AND CYL MOUNT",
           "trialTime": "",
-          "status": "electrical_pending",
+          "status": "completed",
           "notes": "",
           "images": [
             {
@@ -28,7 +28,7 @@
           "electricalConstraint": "REEDSWITCH WIRING DUE TO CYL NOT MOUNT",
           "mechanicalConstraint": "HOSE PENDING, AND CYL MOUNT",
           "trialTime": "",
-          "status": "electrical_pending",
+          "status": "completed",
           "notes": "",
           "images": []
         },
@@ -39,7 +39,7 @@
           "electricalConstraint": "ROUTING NEED TO DONE .",
           "mechanicalConstraint": "MOUNTING NEED PLACE ON POSITION",
           "trialTime": "",
-          "status": "ready_for_trials",
+          "status": "completed",
           "notes": "",
           "images": []
         },
@@ -50,7 +50,7 @@
           "electricalConstraint": "ROUTING NEED TO DONE.",
           "mechanicalConstraint": "HOSE PENDING, AND CYL MOUNT",
           "trialTime": "",
-          "status": "electrical_pending",
+          "status": "completed",
           "notes": "",
           "images": []
         },
@@ -143,7 +143,9 @@
             {
               "id": "mscroxppkj3wu2",
               "text": "Checklist to be duly filled with standard template",
-              "done": false
+              "done": true,
+              "doneBy": "Admin",
+              "doneAt": "2026-08-12T06:55:15.468Z"
             },
             {
               "id": "mscroxppvq88qc",
@@ -169,12 +171,16 @@
             {
               "id": "mscroxppsucwu0",
               "text": "Field IO",
-              "done": false
+              "done": true,
+              "doneBy": "Admin",
+              "doneAt": "2026-08-12T06:55:08.868Z"
             },
             {
               "id": "mscroxppyddr5c",
               "text": "Servo Check for program ",
-              "done": false
+              "done": true,
+              "doneBy": "Admin",
+              "doneAt": "2026-08-12T06:55:10.023Z"
             }
           ]
         },
@@ -186,7 +192,9 @@
             {
               "id": "mscrtbsog4y7u8",
               "text": "Manual operation test for auto logic update",
-              "done": false
+              "done": true,
+              "doneBy": "Admin",
+              "doneAt": "2026-08-12T06:55:13.645Z"
             },
             {
               "id": "mscrx28li02ybv",
@@ -198,7 +206,7 @@
           ]
         }
       ],
-      "lastUpdated": "2026-08-07T02:50:14.362Z",
+      "lastUpdated": "2026-08-12T06:55:33.668Z",
       "updatedBy": "Admin"
     },
     "3a-tc-26039_assy_stn_for_46p_and_6p_connector": {
@@ -577,5 +585,5 @@
       "updatedBy": "Eswanth Potnuri"
     }
   },
-  "lastUpdated": "2026-08-11T15:16:08.514Z"
+  "lastUpdated": "2026-08-12T06:55:33.668Z"
 }
