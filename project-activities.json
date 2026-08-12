@@ -407,7 +407,8 @@
         "2026-07-30": "3DCADVS-183_ESP_Gantry Sequence and recipe program development",
         "2026-07-31": "3DCADVS-183_ESP_PLC Logic for Stage-4",
         "2026-08-06": "3DCADVS-183_ESP_PLC Logic for Stage-1,2,3,4",
-        "2026-08-07": "3DCADVS-183_ESP_PLC Logic for Recipe and Production Count ."
+        "2026-08-07": "3DCADVS-183_ESP_PLC Logic for Recipe and Production Count .",
+        "2026-08-10": "3DCADVS-183_ESP_PLC Logic for safety IO."
       }
     },
     {
