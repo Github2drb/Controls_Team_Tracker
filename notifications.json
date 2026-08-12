@@ -187,7 +187,18 @@
       ],
       "author": "Admin",
       "createdAt": "2026-08-04T00:34:53.035Z"
+    },
+    {
+      "id": "notif-1786531138999",
+      "title": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO",
+      "message": "BOM, Drawing has to be finalized.\nFinal IO validation , Hardware Configuration in TIA Portal ",
+      "type": "info",
+      "link": "",
+      "isTicker": false,
+      "readBy": [],
+      "author": "Admin",
+      "createdAt": "2026-08-12T10:38:58.999Z"
     }
   ],
-  "lastUpdated": "2026-08-12T10:37:30.863Z"
+  "lastUpdated": "2026-08-12T10:38:58.999Z"
 }
