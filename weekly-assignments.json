@@ -2940,7 +2940,37 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1786509937431",
+      "engineerName": "Indrakumar",
+      "weekStart": "2026-08-10",
+      "projectName": "3A-DK2-25143_STEP 4-Leak Testing Machine",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1786509921989",
+          "taskName": "BOM and IO List Validation",
+          "type": "weekly",
+          "assignedDate": "2026-08-12",
+          "status": "not_started",
+          "targetDate": "2026-08-12"
+        },
+        {
+          "id": "t-1786509935048",
+          "taskName": "Sequence Chart and Interlock sheet from Design team",
+          "type": "weekly",
+          "assignedDate": "2026-08-12",
+          "status": "not_started",
+          "targetDate": "2026-08-12"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-12T04:45:00.950Z"
+  "lastUpdated": "2026-08-12T04:45:37.431Z"
 }
