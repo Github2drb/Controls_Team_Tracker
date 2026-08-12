@@ -2858,7 +2858,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1786509796895",
+      "engineerName": "Dhanesh M",
+      "weekStart": "2026-08-10",
+      "projectName": "3A-IE1-26042 & 3A-IE1-26043 -INDIC-Wave Soldering Machine Conveyor Assembly -Misumi & Bosch",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1786509794213",
+          "taskName": "Wavesoldering Entry and Exit validation",
+          "type": "weekly",
+          "assignedDate": "2026-08-12",
+          "status": "not_started",
+          "targetDate": "2026-08-12"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-12T04:31:46.280Z"
+  "lastUpdated": "2026-08-12T04:43:16.895Z"
 }
