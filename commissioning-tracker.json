@@ -515,7 +515,9 @@
             {
               "id": "msmpln3hc1b16k",
               "text": "PLC, Remote Module IP Configuration",
-              "done": false
+              "done": true,
+              "doneBy": "Admin",
+              "doneAt": "2026-08-13T10:21:30.317Z"
             },
             {
               "id": "msmpln3hqhoem4",
@@ -581,9 +583,9 @@
           ]
         }
       ],
-      "lastUpdated": "2026-08-11T15:16:08.514Z",
-      "updatedBy": "Eswanth Potnuri"
+      "lastUpdated": "2026-08-13T10:21:45.912Z",
+      "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-08-13T10:17:12.271Z"
+  "lastUpdated": "2026-08-13T10:21:45.912Z"
 }
