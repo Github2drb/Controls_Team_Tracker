@@ -313,7 +313,7 @@
           "status": "completed"
         }
       ],
-      "currentStatus": "fat",
+      "currentStatus": "installation_pending",
       "constraint": "DAP Submitted on 26-05-26.\nOffline Logic to be started.\nRisk Assessment pending\nInkjet Marking received\nMechanical and Electrical Wiring in progress\nVibrant Visited on28-07 and demonstrated Eddy coil.\nEthernet switch was not supporting communication between IPC and Driver. \nEthernet Switch procured and mounted and working well.\nServo Drive wiring in progress./Completed on 31/07/26.\nAuto Cycle Tested for 1 variants. Sensors not mounted for other variant referencing for Inkjet marking. - Mounted  but need to validate for all variants.\nSafety Audit done today(11-08-26) from customer end.-Completed.\nF.A.T Completed.  "
     },
     {
@@ -2972,5 +2972,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-12T04:45:37.431Z"
+  "lastUpdated": "2026-08-13T03:53:25.745Z"
 }
