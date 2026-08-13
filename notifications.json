@@ -195,10 +195,12 @@
       "type": "info",
       "link": "",
       "isTicker": true,
-      "readBy": [],
+      "readBy": [
+        "device-t0t4nve89"
+      ],
       "author": "Admin",
       "createdAt": "2026-08-12T10:38:58.999Z"
     }
   ],
-  "lastUpdated": "2026-08-12T10:39:01.814Z"
+  "lastUpdated": "2026-08-13T10:18:08.133Z"
 }
