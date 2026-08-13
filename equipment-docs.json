@@ -1,0 +1,23 @@
+[
+  {
+    "projectName": "3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector",
+    "synopsis": "",
+    "plcArchitecture": "",
+    "safetyLayout": "",
+    "hasMultipleStations": true,
+    "stations": [
+      {
+        "id": "station-1786617970867-0",
+        "name": "Station 1A",
+        "status": "not_started",
+        "electricalParts": "",
+        "process": "",
+        "inputs": "",
+        "outputs": "",
+        "images": []
+      }
+    ],
+    "updatedAt": "2026-08-13T10:46:20.928Z",
+    "updatedBy": "admin"
+  }
+]
