@@ -1030,7 +1030,7 @@
           "completionDate": "2026-07-11"
         }
       ],
-      "currentStatus": "electrical_design",
+      "currentStatus": "completed",
       "constraint": "BOM Loading Completed"
     },
     {
@@ -2972,5 +2972,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-13T04:06:11.894Z"
+  "lastUpdated": "2026-08-13T04:06:57.601Z"
 }
