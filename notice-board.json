@@ -3,13 +3,6 @@
     "eswanth potnuri": {
       "comments": [
         {
-          "id": "c-1782789167557",
-          "text": "3A-TC1-26039_PLC Logic Development for Station-1 & 2",
-          "date": "2026-06-30",
-          "type": "note",
-          "createdAt": "2026-06-30T03:12:47.557Z"
-        },
-        {
           "id": "c-1782789799735",
           "text": "3A-CC1-26040_Internal and Vendor Discussions",
           "date": "2026-06-30",
@@ -351,6 +344,13 @@
           "date": "2026-08-12",
           "type": "note",
           "createdAt": "2026-08-12T04:14:38.183Z"
+        },
+        {
+          "id": "c-1786594153795",
+          "text": "3A-TC1-26039_IO Checking Planned and complete manual operations testing",
+          "date": "2026-08-13",
+          "type": "note",
+          "createdAt": "2026-08-13T04:09:13.795Z"
         }
       ],
       "dismissedMissed": []
@@ -368,5 +368,5 @@
       "dismissedMissed": []
     }
   },
-  "lastUpdated": "2026-08-12T04:14:38.183Z"
+  "lastUpdated": "2026-08-13T04:09:13.795Z"
 }
