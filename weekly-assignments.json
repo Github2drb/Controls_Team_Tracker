@@ -239,7 +239,7 @@
           "status": "in_progress"
         }
       ],
-      "currentStatus": "sat",
+      "currentStatus": "installation_completed",
       "resourceLockedFrom": "2026-04-21",
       "resourceLockedTill": "2026-07-30",
       "internalTarget": "2026-07-15",
@@ -2972,5 +2972,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-13T03:53:25.745Z"
+  "lastUpdated": "2026-08-13T03:53:36.898Z"
 }
