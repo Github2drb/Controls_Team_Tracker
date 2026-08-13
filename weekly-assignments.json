@@ -201,7 +201,7 @@
       ],
       "currentStatus": "plc_power_up",
       "notes": "Hardware Configuration",
-      "constraint": "DAP Submission\nOffline PLC Program In progress\nCustomer meeting on 26-05(They Shared Safety Documents)\nPanel Mounting plate planned on 31/07/26\nMounting plate assembly completed.\nField Wiring in progress. PLC and HMI Powered up."
+      "constraint": "DAP Submission\nOffline PLC Program In progress\nCustomer meeting on 26-05(They Shared Safety Documents)\nPanel Mounting plate planned on 31/07/26\nMounting plate assembly completed.\nField Wiring in progress. PLC and HMI Powered up.\nServo Gantry Checked"
     },
     {
       "id": "wa-1776664930168",
@@ -2972,5 +2972,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-13T04:07:11.002Z"
+  "lastUpdated": "2026-08-13T04:07:22.272Z"
 }
