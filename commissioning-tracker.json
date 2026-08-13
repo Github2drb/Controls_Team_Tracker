@@ -96,7 +96,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "",
-          "status": "trials_in_progress",
+          "status": "completed",
           "notes": "",
           "images": []
         },
@@ -206,7 +206,7 @@
           ]
         }
       ],
-      "lastUpdated": "2026-08-13T10:16:54.162Z",
+      "lastUpdated": "2026-08-13T10:17:12.271Z",
       "updatedBy": "Admin"
     },
     "3a-tc-26039_assy_stn_for_46p_and_6p_connector": {
@@ -585,5 +585,5 @@
       "updatedBy": "Eswanth Potnuri"
     }
   },
-  "lastUpdated": "2026-08-13T10:16:54.162Z"
+  "lastUpdated": "2026-08-13T10:17:12.271Z"
 }
