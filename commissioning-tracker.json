@@ -283,7 +283,7 @@
         {
           "id": "msmpln3h64gb95",
           "label": "1",
-          "description": "Rexroth Press Display – 3 Press Integration",
+          "description": "Festo Gantry",
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "",
@@ -294,7 +294,7 @@
         {
           "id": "msmpln3h2he2ra",
           "label": "2",
-          "description": "Press Display Thrust Checking Station",
+          "description": "Safety Header Integration",
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "",
@@ -305,7 +305,7 @@
         {
           "id": "msmpln3hgrq740",
           "label": "3",
-          "description": "Safety PLC Integration with Main PLC",
+          "description": "HMI Screens",
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "",
@@ -338,7 +338,7 @@
         {
           "id": "msmpln3hch3pij",
           "label": "6",
-          "description": "Servo, Induction Motor Safety Check",
+          "description": "Safety Curtain Integration and Muting",
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "",
@@ -380,20 +380,9 @@
           "images": []
         },
         {
-          "id": "msmpln3hl92ym8",
-          "label": "10",
-          "description": "RFID Tracking",
-          "electricalConstraint": "",
-          "mechanicalConstraint": "",
-          "trialTime": "",
-          "status": "not_started",
-          "notes": "",
-          "images": []
-        },
-        {
           "id": "msmpln3hr9iskt",
           "label": "11",
-          "description": "Pallet Tracking and Data Saving",
+          "description": "Data Tracking and Saving",
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "",
@@ -506,9 +495,9 @@
           ]
         }
       ],
-      "lastUpdated": "2026-08-14T09:56:48.312Z",
+      "lastUpdated": "2026-08-14T09:58:00.490Z",
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-08-14T09:56:48.312Z"
+  "lastUpdated": "2026-08-14T09:58:00.490Z"
 }
