@@ -33,7 +33,17 @@
           "updatedAt": "2026-08-14T05:04:13.773Z"
         }
       }
+    },
+    "3a-tc-26039_assy_stn_for_46p_and_6p_connector": {
+      "projectName": "3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector",
+      "engineers": {
+        "eswanth potnuri, santhosh n": {
+          "displayName": "Eswanth Potnuri, Santhosh N",
+          "currentStatus": "plc_power_up",
+          "updatedAt": "2026-08-14T05:06:34.340Z"
+        }
+      }
     }
   },
-  "lastUpdated": "2026-08-14T05:04:13.773Z"
+  "lastUpdated": "2026-08-14T05:06:34.340Z"
 }
