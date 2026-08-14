@@ -277,83 +277,6 @@
           "status": "not_started",
           "notes": "",
           "images": []
-        },
-        {
-          "id": "msmpln3hb0f9mq",
-          "label": "7",
-          "description": "Flipping Station",
-          "electricalConstraint": "",
-          "mechanicalConstraint": "",
-          "trialTime": "",
-          "status": "not_started",
-          "notes": "",
-          "images": []
-        },
-        {
-          "id": "msmpln3he7scg8",
-          "label": "8",
-          "description": "Rubber-A Assembly Station",
-          "electricalConstraint": "",
-          "mechanicalConstraint": "",
-          "trialTime": "",
-          "status": "not_started",
-          "notes": "",
-          "images": []
-        },
-        {
-          "id": "msmpln3hxb31qj",
-          "label": "9",
-          "description": "Rubber-B Assembly Station",
-          "electricalConstraint": "",
-          "mechanicalConstraint": "",
-          "trialTime": "",
-          "status": "not_started",
-          "notes": "",
-          "images": []
-        },
-        {
-          "id": "msmpln3h91qw61",
-          "label": "10",
-          "description": "Unloading Station",
-          "electricalConstraint": "",
-          "mechanicalConstraint": "",
-          "trialTime": "",
-          "status": "not_started",
-          "notes": "",
-          "images": []
-        },
-        {
-          "id": "msmpln3hbjk8n1",
-          "label": "A",
-          "description": "Bowl Feeder Integration",
-          "electricalConstraint": "",
-          "mechanicalConstraint": "",
-          "trialTime": "",
-          "status": "not_started",
-          "notes": "",
-          "images": []
-        },
-        {
-          "id": "msmpln3h8gmaej",
-          "label": "B",
-          "description": "Grease Dispenser Unit Integration",
-          "electricalConstraint": "",
-          "mechanicalConstraint": "",
-          "trialTime": "",
-          "status": "not_started",
-          "notes": "",
-          "images": []
-        },
-        {
-          "id": "msmpln3hoyrj7v",
-          "label": "C",
-          "description": "Bearing Stacker Unit Check on Both Stations",
-          "electricalConstraint": "",
-          "mechanicalConstraint": "",
-          "trialTime": "",
-          "status": "not_started",
-          "notes": "",
-          "images": []
         }
       ],
       "commInterface": [
@@ -583,9 +506,9 @@
           ]
         }
       ],
-      "lastUpdated": "2026-08-14T09:45:13.616Z",
+      "lastUpdated": "2026-08-14T09:56:48.312Z",
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-08-14T09:45:13.616Z"
+  "lastUpdated": "2026-08-14T09:56:48.312Z"
 }
