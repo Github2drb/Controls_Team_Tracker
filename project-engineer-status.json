@@ -40,10 +40,14 @@
         "eswanth potnuri, santhosh n": {
           "displayName": "Eswanth Potnuri, Santhosh N",
           "currentStatus": "plc_power_up",
-          "updatedAt": "2026-08-14T05:06:34.340Z"
+          "resourceLockedFrom": "2026-06-08",
+          "resourceLockedTill": "2026-08-31",
+          "internalTarget": "2026-08-20",
+          "customerTarget": "2026-08-28",
+          "updatedAt": "2026-08-14T05:06:54.682Z"
         }
       }
     }
   },
-  "lastUpdated": "2026-08-14T05:06:34.340Z"
+  "lastUpdated": "2026-08-14T05:06:54.682Z"
 }
