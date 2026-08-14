@@ -2037,7 +2037,7 @@
       "customerTarget": "2026-07-27",
       "tasks": [],
       "currentStatus": "in_progress",
-      "constraint": ""
+      "constraint": "Mechanical jam happend and thereafter drive shows error when moved in jog mode"
     },
     {
       "id": "wa-1785138436736",
@@ -2972,5 +2972,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-14T05:07:40.152Z"
+  "lastUpdated": "2026-08-14T05:08:18.873Z"
 }
