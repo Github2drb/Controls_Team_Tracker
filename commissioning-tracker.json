@@ -215,7 +215,7 @@
         {
           "id": "msmpln3hbtmach",
           "label": "1",
-          "description": "Loading Station",
+          "description": "Station-1",
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "",
@@ -226,7 +226,7 @@
         {
           "id": "msmpln3hd26u12",
           "label": "2",
-          "description": "Greasing Station",
+          "description": "Station-2A",
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "",
@@ -237,7 +237,7 @@
         {
           "id": "msmpln3h06znrg",
           "label": "3",
-          "description": "Rotor Bearing Pressing Station",
+          "description": "Station-2B",
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "",
@@ -248,7 +248,7 @@
         {
           "id": "msmpln3hwdjzzo",
           "label": "4",
-          "description": "Rotor Stator Pressing Station",
+          "description": "Station-3A",
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "",
@@ -259,7 +259,7 @@
         {
           "id": "msmpln3h3sij2w",
           "label": "5",
-          "description": "Stator Bearing Pressing Station",
+          "description": "Station-3B",
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "",
@@ -270,7 +270,7 @@
         {
           "id": "msmpln3hmytfj9",
           "label": "6",
-          "description": "Thrust Checking Station",
+          "description": "Station-4",
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "",
@@ -583,9 +583,9 @@
           ]
         }
       ],
-      "lastUpdated": "2026-08-13T10:21:45.912Z",
+      "lastUpdated": "2026-08-14T09:45:13.616Z",
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-08-13T10:21:45.912Z"
+  "lastUpdated": "2026-08-14T09:45:13.616Z"
 }
