@@ -174,7 +174,7 @@
       ],
       "currentStatus": "equipment_handover",
       "notes": "",
-      "constraint": "CC link IE Field Completed\nQ26UDV installed.\nHandy HMI Address assignment for Q PLC\nDry Cycle with Single PLC Completed\nSQD and IOT points to be closed(10no's)\nIOT Communication Pending\nPilot Trials on 29th second half and 30th Completed.\nOutward station pallet move interlock, Pick to Bin senor logic and Return Conveyor buffering using additional sensor needs to be completed on 14-08-2026.\nMES Integration on 14-08. ",
+      "constraint": "CC link IE Field Completed\nQ26UDV installed.\nHandy HMI Address assignment for Q PLC\nDry Cycle with Single PLC Completed\nSQD and IOT points to be closed(10no's)\nIOT Communication Pending\nPilot Trials on 29th second half and 30th Completed.\nOutward station pallet move interlock, Pick to Bin senor logic and Return Conveyor buffering using additional sensor needs to be completed on 14-08-2026.\nMES Integration on 14-08. -Communication completed with customer IOT server",
       "resourceLockedFrom": "2026-01-05",
       "resourceLockedTill": "2026-07-10",
       "internalTarget": "2026-07-03",
@@ -2973,5 +2973,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-15T02:23:00.050Z"
+  "lastUpdated": "2026-08-15T02:23:33.711Z"
 }
