@@ -413,7 +413,8 @@
         "2026-08-11": "3DCADVS-183_ESP_Servo Configuration Done using Automation Suite.",
         "2026-08-12": "3DCADVS-183_ESP_Manual Logic for all the cylinders",
         "2026-08-13": "3DCADVS-183_ESP_IO Checking and Validation , Manual sequence testing",
-        "2026-08-14": "3DCADVS-183_ESP_Vision Communication done and manual testing of all the cylinders completed "
+        "2026-08-14": "3DCADVS-183_ESP_Vision Communication done and manual testing of all the cylinders completed ",
+        "2026-08-15": "3DCADVS-183_ESP_Servo Manual Pick and Insert length checking interlocks"
       }
     },
     {
