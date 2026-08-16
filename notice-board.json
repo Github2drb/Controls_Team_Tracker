@@ -3,13 +3,6 @@
     "eswanth potnuri": {
       "comments": [
         {
-          "id": "c-1782789799735",
-          "text": "3A-CC1-26040_Internal and Vendor Discussions",
-          "date": "2026-06-30",
-          "type": "update",
-          "createdAt": "2026-06-30T03:23:19.735Z"
-        },
-        {
           "id": "c-1783312052851",
           "text": "3A-SS1-26012_HMI Screen Development",
           "date": "2026-07-06",
@@ -351,6 +344,13 @@
           "date": "2026-08-13",
           "type": "note",
           "createdAt": "2026-08-13T04:09:13.795Z"
+        },
+        {
+          "id": "c-1786859397221",
+          "text": "3A-TC1-26039_Auto Trails for Stage-4 and Stage-2 & 3 Pick and Insert Teaching",
+          "date": "2026-08-16",
+          "type": "note",
+          "createdAt": "2026-08-16T05:49:57.221Z"
         }
       ],
       "dismissedMissed": []
@@ -368,5 +368,5 @@
       "dismissedMissed": []
     }
   },
-  "lastUpdated": "2026-08-13T04:09:13.795Z"
+  "lastUpdated": "2026-08-16T05:49:57.221Z"
 }
