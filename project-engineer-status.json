@@ -47,7 +47,17 @@
           "updatedAt": "2026-08-14T05:06:54.682Z"
         }
       }
+    },
+    "3s-so1-26025_gen6 ev charge port e-lock assembly machine": {
+      "projectName": "3S-SO1-26025_Gen6 EV Charge Port E-Lock Assembly Machine",
+      "engineers": {
+        "praveen kumar c": {
+          "displayName": "Praveen Kumar C",
+          "currentStatus": "completed",
+          "updatedAt": "2026-08-17T04:49:00.871Z"
+        }
+      }
     }
   },
-  "lastUpdated": "2026-08-14T05:06:54.682Z"
+  "lastUpdated": "2026-08-17T04:49:00.871Z"
 }
