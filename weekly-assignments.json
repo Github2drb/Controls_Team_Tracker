@@ -2768,8 +2768,9 @@
           "taskName": "HMI Screen Modification",
           "type": "daily",
           "assignedDate": "2026-08-14",
-          "status": "not_started",
-          "targetDate": "2026-08-14"
+          "status": "completed",
+          "targetDate": "2026-08-14",
+          "completionDate": "2026-08-17"
         },
         {
           "id": "t-1786343031968",
