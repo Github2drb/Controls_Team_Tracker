@@ -3045,7 +3045,53 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1786944277826",
+      "engineerName": "Indrakumar",
+      "weekStart": "2026-08-17",
+      "projectName": "3A-AV1-25120-Eddy Current Testing Equipment",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1786944212723",
+          "taskName": "Electrical Power up and Check",
+          "type": "daily",
+          "assignedDate": "2026-08-17",
+          "status": "not_started",
+          "targetDate": "2026-08-17"
+        },
+        {
+          "id": "t-1786944223697",
+          "taskName": "Manual testing and Auto trials",
+          "type": "weekly",
+          "assignedDate": "2026-08-17",
+          "status": "not_started",
+          "targetDate": "2026-08-17"
+        },
+        {
+          "id": "t-1786944239200",
+          "taskName": "Auto Trials Completion for all variants",
+          "type": "weekly",
+          "assignedDate": "2026-08-17",
+          "status": "not_started",
+          "targetDate": "2026-08-17"
+        },
+        {
+          "id": "t-1786944276387",
+          "taskName": "Equipment Handover",
+          "type": "weekly",
+          "assignedDate": "2026-08-17",
+          "status": "not_started",
+          "targetDate": "2026-08-17"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-17T05:19:21.308Z"
+  "lastUpdated": "2026-08-17T05:24:37.826Z"
 }
