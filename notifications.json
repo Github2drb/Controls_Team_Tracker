@@ -196,7 +196,8 @@
       "link": "",
       "isTicker": true,
       "readBy": [
-        "device-t0t4nve89"
+        "device-t0t4nve89",
+        "admin"
       ],
       "author": "Admin",
       "createdAt": "2026-08-12T10:38:58.999Z"
@@ -213,5 +214,5 @@
       "createdAt": "2026-08-17T08:01:36.916Z"
     }
   ],
-  "lastUpdated": "2026-08-17T08:01:40.600Z"
+  "lastUpdated": "2026-08-17T09:08:37.700Z"
 }
