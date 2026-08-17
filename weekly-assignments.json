@@ -3023,7 +3023,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1786943961308",
+      "engineerName": "Harsha K",
+      "weekStart": "2026-08-17",
+      "projectName": "3A-DK1-25077-Dehydration Project",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1786943960545",
+          "taskName": "Outwards NG Pallet absence in Conveyor Validation",
+          "type": "daily",
+          "assignedDate": "2026-08-17",
+          "status": "not_started",
+          "targetDate": "2026-08-17"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-17T04:58:56.685Z"
+  "lastUpdated": "2026-08-17T05:19:21.308Z"
 }
