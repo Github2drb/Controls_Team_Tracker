@@ -2223,16 +2223,7 @@
       "resourceLockedTill": "",
       "internalTarget": "",
       "customerTarget": "",
-      "tasks": [
-        {
-          "id": "t-1785138628355",
-          "taskName": "Electrical Documentation",
-          "type": "weekly",
-          "assignedDate": "2026-07-27",
-          "status": "not_started",
-          "targetDate": "2026-07-27"
-        }
-      ],
+      "tasks": [],
       "currentStatus": "completed",
       "constraint": ""
     },
