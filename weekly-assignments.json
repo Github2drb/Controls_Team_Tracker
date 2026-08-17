@@ -36,9 +36,9 @@
           "status": "not_started"
         }
       ],
-      "currentStatus": "trials_stage",
+      "currentStatus": "completed",
       "notes": "",
-      "constraint": "E-Plan,PLC and HMI Program in progress\nLCMR Configuration Completed",
+      "constraint": "E-Plan,PLC and HMI Program in progress\nLCMR Configuration Completed.\nRajiv Gandhi -Controls manager will be heading the project",
       "resourceLockedFrom": "2026-03-25",
       "resourceLockedTill": "2026-07-31",
       "internalTarget": "2026-08-28",
@@ -2973,5 +2973,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-17T04:48:11.816Z"
+  "lastUpdated": "2026-08-17T04:48:44.931Z"
 }
