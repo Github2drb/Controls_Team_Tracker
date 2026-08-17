@@ -3091,7 +3091,61 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1786944339498",
+      "engineerName": "Eswanth Potnuri",
+      "weekStart": "2026-08-17",
+      "projectName": "3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1786944303951",
+          "taskName": "Station-2 Auto Trials Completion",
+          "type": "daily",
+          "assignedDate": "2026-08-17",
+          "status": "not_started",
+          "targetDate": "2026-08-17"
+        },
+        {
+          "id": "t-1786944313266",
+          "taskName": "Station-3 Auto Trials Completion",
+          "type": "weekly",
+          "assignedDate": "2026-08-17",
+          "status": "not_started",
+          "targetDate": "2026-08-17"
+        },
+        {
+          "id": "t-1786944323414",
+          "taskName": "Station1 & 2 Auto Trials Completion",
+          "type": "weekly",
+          "assignedDate": "2026-08-17",
+          "status": "not_started",
+          "targetDate": "2026-08-17"
+        },
+        {
+          "id": "t-1786944330592",
+          "taskName": "Safety Module Integration",
+          "type": "weekly",
+          "assignedDate": "2026-08-17",
+          "status": "not_started",
+          "targetDate": "2026-08-17"
+        },
+        {
+          "id": "t-1786944338422",
+          "taskName": "Safety Logic inclusion and Validation",
+          "type": "weekly",
+          "assignedDate": "2026-08-17",
+          "status": "not_started",
+          "targetDate": "2026-08-17"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-17T05:24:37.826Z"
+  "lastUpdated": "2026-08-17T05:25:39.498Z"
 }
