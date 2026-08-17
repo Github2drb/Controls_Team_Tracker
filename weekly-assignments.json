@@ -3145,7 +3145,45 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1786944402192",
+      "engineerName": "Ramkumar Annamalai",
+      "weekStart": "2026-08-17",
+      "projectName": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1786944366015",
+          "taskName": "Final IO list Validation",
+          "type": "weekly",
+          "assignedDate": "2026-08-17",
+          "status": "not_started",
+          "targetDate": "2026-08-17"
+        },
+        {
+          "id": "t-1786944379374",
+          "taskName": "Complete BOM finalization",
+          "type": "weekly",
+          "assignedDate": "2026-08-17",
+          "status": "not_started",
+          "targetDate": "2026-08-17"
+        },
+        {
+          "id": "t-1786944401297",
+          "taskName": "Hardware Configuration in TIA Portal",
+          "type": "weekly",
+          "assignedDate": "2026-08-17",
+          "status": "not_started",
+          "targetDate": "2026-08-17"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-17T05:25:39.498Z"
+  "lastUpdated": "2026-08-17T05:26:42.192Z"
 }
