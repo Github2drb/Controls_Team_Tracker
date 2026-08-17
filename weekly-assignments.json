@@ -1719,16 +1719,7 @@
       "resourceLockedTill": "2026-08-14",
       "internalTarget": "2026-08-06",
       "customerTarget": "2026-07-31",
-      "tasks": [
-        {
-          "id": "t-1784213373535",
-          "taskName": "Electrical Manual Preparation",
-          "type": "weekly",
-          "assignedDate": "2026-07-16",
-          "status": "not_started",
-          "targetDate": "2026-07-16"
-        }
-      ],
+      "tasks": [],
       "currentStatus": "completed",
       "constraint": ""
     },
