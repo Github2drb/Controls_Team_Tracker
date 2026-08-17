@@ -3156,7 +3156,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1786970850665",
+      "engineerName": "Susanth K M",
+      "weekStart": "2026-08-17",
+      "projectName": "DK1-25110- ODU Assembly auto line",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1786970850358",
+          "taskName": "Palletizer with Lifter Up and Return",
+          "type": "daily",
+          "assignedDate": "2026-08-18",
+          "status": "not_started",
+          "targetDate": "2026-08-18"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-17T07:34:38.817Z"
+  "lastUpdated": "2026-08-17T12:47:30.665Z"
 }
