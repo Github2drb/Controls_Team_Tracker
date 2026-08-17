@@ -209,10 +209,12 @@
       "type": "info",
       "link": "",
       "isTicker": true,
-      "readBy": [],
+      "readBy": [
+        "admin"
+      ],
       "author": "Admin",
       "createdAt": "2026-08-17T08:01:36.916Z"
     }
   ],
-  "lastUpdated": "2026-08-17T09:08:37.700Z"
+  "lastUpdated": "2026-08-17T11:45:27.990Z"
 }
