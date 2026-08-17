@@ -2971,7 +2971,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1786942703106",
+      "engineerName": "Susanth K M",
+      "weekStart": "2026-08-17",
+      "projectName": "DK1-25110- ODU Assembly auto line",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1786942701849",
+          "taskName": "Press Trials Support, Rubber - A Trials Check",
+          "type": "daily",
+          "assignedDate": "2026-08-17",
+          "status": "not_started",
+          "targetDate": "2026-08-17"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-17T04:49:06.444Z"
+  "lastUpdated": "2026-08-17T04:58:23.106Z"
 }
