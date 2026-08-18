@@ -423,7 +423,7 @@
       "weekStart": "2026-05-27",
       "projectName": "3A-SO1-25025_Bailer_Assembly",
       "tasks": [],
-      "currentStatus": "in_progress",
+      "currentStatus": "trials_stage",
       "notes": "Trial Support",
       "constraint": "RFID with new Gripper logic need to be implemented",
       "resourceLockedFrom": "2025-06-04",
@@ -3216,5 +3216,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-18T11:32:54.945Z"
+  "lastUpdated": "2026-08-18T11:33:10.033Z"
 }
