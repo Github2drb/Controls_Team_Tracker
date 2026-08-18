@@ -3208,7 +3208,7 @@
           "taskName": "Place timeout fault for all station in conveyor",
           "type": "daily",
           "assignedDate": "2026-08-19",
-          "status": "not_started",
+          "status": "in_progress",
           "targetDate": "2026-08-19"
         }
       ],
