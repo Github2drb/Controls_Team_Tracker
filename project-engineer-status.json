@@ -81,7 +81,21 @@
           "updatedAt": "2026-08-18T11:07:09.222Z"
         }
       }
+    },
+    "3a-s03-25066 - d8 press-in blind hole receptacle - auto assembly - southco": {
+      "projectName": "3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo",
+      "engineers": {
+        "susanth k m, veeresh m": {
+          "displayName": "Susanth K M, Veeresh M",
+          "currentStatus": "fat",
+          "resourceLockedFrom": "2025-10-18",
+          "resourceLockedTill": "2026-09-30",
+          "internalTarget": "2026-08-28",
+          "customerTarget": "2026-08-31",
+          "updatedAt": "2026-08-18T11:32:50.185Z"
+        }
+      }
     }
   },
-  "lastUpdated": "2026-08-18T11:08:27.786Z"
+  "lastUpdated": "2026-08-18T11:32:50.185Z"
 }
