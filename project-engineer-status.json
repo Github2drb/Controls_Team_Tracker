@@ -67,7 +67,21 @@
           "updatedAt": "2026-08-18T09:12:09.986Z"
         }
       }
+    },
+    "dk1-25110- odu assembly auto line": {
+      "projectName": "DK1-25110- ODU Assembly auto line",
+      "engineers": {
+        "susanth k m, santosh n": {
+          "displayName": "Susanth K M, Santosh N",
+          "currentStatus": "ready_to_dispatch",
+          "resourceLockedFrom": "2026-06-22",
+          "resourceLockedTill": "2026-09-15",
+          "internalTarget": "2026-08-31",
+          "customerTarget": "2026-09-04",
+          "updatedAt": "2026-08-18T11:07:09.222Z"
+        }
+      }
     }
   },
-  "lastUpdated": "2026-08-18T09:12:09.986Z"
+  "lastUpdated": "2026-08-18T11:07:09.222Z"
 }
