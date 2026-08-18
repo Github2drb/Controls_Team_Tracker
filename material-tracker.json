@@ -603,10 +603,15 @@
           "bomDate": "2026-07-24",
           "prCreated": "2026-07-24",
           "prApproved": "2026-07-27",
-          "poCreated": "",
+          "poCreated": "2026-07-28",
           "targetReceipt": "2026-07-30",
           "notes": "Critical item, single vendor",
-          "currentStatus": "Received"
+          "currentStatus": "Received",
+          "actualReceipt": "2026-08-11",
+          "hwIntegrationTarget": "2026-08-15",
+          "hwIntegrationDone": "2026-08-17",
+          "scmCommittedDate": "2026-07-30",
+          "poApproved": "2026-07-28"
         },
         {
           "id": "mat-1785318402559-2-a9n1",
@@ -616,10 +621,15 @@
           "bomDate": "2026-07-24",
           "prCreated": "2026-07-24",
           "prApproved": "2026-07-27",
-          "poCreated": "",
+          "poCreated": "2026-07-28",
           "targetReceipt": "2026-07-30",
           "notes": "Confirm resolution with design",
-          "currentStatus": "PR Raised"
+          "currentStatus": "PR Raised",
+          "poApproved": "2026-07-28",
+          "scmCommittedDate": "2026-08-30",
+          "actualReceipt": "2026-08-11",
+          "hwIntegrationTarget": "2026-08-15",
+          "hwIntegrationDone": "2026-08-17"
         },
         {
           "id": "mat-1785318402559-3-filu",
@@ -629,10 +639,15 @@
           "bomDate": "2026-07-24",
           "prCreated": "2026-07-24",
           "prApproved": "2026-07-27",
-          "poCreated": "",
+          "poCreated": "2026-07-28",
           "targetReceipt": "2026-07-30",
           "notes": "Long lead item — order early",
-          "currentStatus": "Received"
+          "currentStatus": "Received",
+          "poApproved": "2026-07-28",
+          "scmCommittedDate": "2026-07-30",
+          "actualReceipt": "2026-08-11",
+          "hwIntegrationTarget": "2026-08-15",
+          "hwIntegrationDone": "2026-08-17"
         },
         {
           "id": "mat-1785321596495-1-cuvq",
@@ -644,7 +659,13 @@
           "prApproved": "2026-07-22",
           "targetReceipt": "2026-07-30",
           "notes": "Critical item, single vendor",
-          "currentStatus": "Received"
+          "currentStatus": "Received",
+          "poApproved": "2026-07-23",
+          "scmCommittedDate": "2026-07-27",
+          "actualReceipt": "2026-08-10",
+          "hwIntegrationTarget": "2026-08-14",
+          "hwIntegrationDone": "2026-08-17",
+          "poCreated": "2026-07-23"
         },
         {
           "id": "mat-1785321596495-2-221z",
@@ -656,7 +677,13 @@
           "prApproved": "2026-07-22",
           "targetReceipt": "2026-07-30",
           "notes": "Confirm resolution with design",
-          "currentStatus": "Received"
+          "currentStatus": "Received",
+          "poApproved": "2026-07-23",
+          "scmCommittedDate": "2026-07-30",
+          "actualReceipt": "2026-08-11",
+          "hwIntegrationTarget": "2026-08-15",
+          "hwIntegrationDone": "2026-08-17",
+          "poCreated": "2026-07-18"
         },
         {
           "id": "mat-1785321596495-3-rvmw",
@@ -668,18 +695,29 @@
           "prApproved": "2026-07-22",
           "targetReceipt": "2026-07-30",
           "notes": "Long lead item — order early",
-          "currentStatus": "Received"
+          "currentStatus": "Received",
+          "poApproved": "2026-07-30",
+          "scmCommittedDate": "2026-07-31",
+          "actualReceipt": "2026-08-11",
+          "hwIntegrationTarget": "2026-08-15",
+          "hwIntegrationDone": "2026-08-17",
+          "poCreated": "2026-07-23"
         },
         {
           "id": "mat-1785321596495-4-ompk",
           "name": "[E2B-M18KS08-M1-B1 OMI] Proximity sensor, inductive, nickel-brass, short body, M18, shielded, 8 mm, DC, 3-wire, PNP NO, M12 connector",
           "qty": "6",
           "unit": "Nos",
-          "bomDate": "2026-07-23",
+          "bomDate": "2026-07-02",
           "prCreated": "2026-07-22",
           "prApproved": "2026-07-22",
           "targetReceipt": "2026-07-30",
-          "currentStatus": "Received"
+          "currentStatus": "Received",
+          "poApproved": "2026-07-23",
+          "scmCommittedDate": "2026-07-30",
+          "actualReceipt": "2026-08-11",
+          "hwIntegrationTarget": "2026-08-15",
+          "hwIntegrationDone": "2026-08-17"
         },
         {
           "id": "mat-1785323360775-1-qgzb",
@@ -691,7 +729,12 @@
           "notes": "Critical item, single vendor",
           "prCreated": "2026-07-10",
           "prApproved": "2026-07-10",
-          "currentStatus": "Received"
+          "currentStatus": "Received",
+          "poApproved": "2026-07-21",
+          "scmCommittedDate": "2026-08-18",
+          "actualReceipt": "2026-08-10",
+          "hwIntegrationTarget": "2026-08-14",
+          "hwIntegrationDone": "2026-08-17"
         },
         {
           "id": "mat-1785323360775-2-x61l",
@@ -703,7 +746,12 @@
           "notes": "Confirm resolution with design",
           "prCreated": "2026-07-10",
           "prApproved": "2026-07-10",
-          "currentStatus": "Received"
+          "currentStatus": "Received",
+          "poApproved": "2026-07-22",
+          "scmCommittedDate": "2026-07-24",
+          "actualReceipt": "2026-08-05",
+          "hwIntegrationTarget": "2026-08-09",
+          "hwIntegrationDone": "2026-08-17"
         },
         {
           "id": "mat-1785323360775-3-w554",
@@ -715,16 +763,15 @@
           "notes": "Long lead item — order early",
           "prCreated": "2026-07-10",
           "prApproved": "2026-07-10",
-          "currentStatus": "Received"
-        },
-        {
-          "id": "mat-1787044453520-9503",
-          "name": "",
-          "qty": "",
-          "unit": ""
+          "currentStatus": "Received",
+          "poApproved": "2026-07-21",
+          "scmCommittedDate": "2026-07-24",
+          "actualReceipt": "2026-08-10",
+          "hwIntegrationTarget": "2026-08-14",
+          "hwIntegrationDone": "2026-08-17"
         }
       ]
     }
   },
-  "lastUpdated": "2026-08-18T09:14:25.349Z"
+  "lastUpdated": "2026-08-18T09:20:32.718Z"
 }
