@@ -2960,8 +2960,9 @@
           "taskName": "Press Trials Support, Rubber - A Trials Check",
           "type": "daily",
           "assignedDate": "2026-08-17",
-          "status": "in_progress",
-          "targetDate": "2026-08-17"
+          "status": "completed",
+          "targetDate": "2026-08-17",
+          "completionDate": "2026-08-18"
         }
       ],
       "currentStatus": "in_progress",
