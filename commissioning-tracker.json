@@ -755,6 +755,16 @@
               "id": "msyaelj1a47vbk",
               "text": "Vision IP Configuration",
               "done": false
+            },
+            {
+              "id": "msyazbwvp5tzn9",
+              "text": "Laser Marking Controller Configuration",
+              "done": false
+            },
+            {
+              "id": "msyazhv9926t1d",
+              "text": "Torque Controller Configuration",
+              "done": false
             }
           ]
         },
@@ -782,6 +792,11 @@
               "id": "msyaelj1y22lxs",
               "text": "Vision Check",
               "done": false
+            },
+            {
+              "id": "msyb5fbnqdgwek",
+              "text": "Torque Check",
+              "done": false
             }
           ]
         },
@@ -803,9 +818,9 @@
           ]
         }
       ],
-      "lastUpdated": "2026-08-18T06:49:50.709Z",
+      "lastUpdated": "2026-08-18T07:00:34.661Z",
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-08-18T06:49:50.709Z"
+  "lastUpdated": "2026-08-18T07:00:34.661Z"
 }
