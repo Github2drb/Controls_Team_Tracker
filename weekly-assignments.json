@@ -3013,7 +3013,7 @@
           "taskName": "Outwards NG Pallet absence in Conveyor Validation",
           "type": "daily",
           "assignedDate": "2026-08-17",
-          "status": "not_started",
+          "status": "in_progress",
           "targetDate": "2026-08-17"
         }
       ],
