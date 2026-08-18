@@ -264,7 +264,7 @@
           "status": "not_started"
         }
       ],
-      "currentStatus": "procurement_stage",
+      "currentStatus": "completed",
       "constraint": "DAP Completed. Project handed over to BIW team.\nMitsubishi complete item finalization still in progress"
     },
     {
@@ -3180,5 +3180,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-18T05:30:31.421Z"
+  "lastUpdated": "2026-08-18T05:30:51.201Z"
 }
