@@ -3,13 +3,6 @@
     "eswanth potnuri": {
       "comments": [
         {
-          "id": "c-1783312052851",
-          "text": "3A-SS1-26012_HMI Screen Development",
-          "date": "2026-07-06",
-          "type": "note",
-          "createdAt": "2026-07-06T04:27:32.851Z"
-        },
-        {
           "id": "c-1783395153338",
           "text": "3A-SS1-26012_HMI Screen Configuration and Development.",
           "date": "2026-07-07",
@@ -351,6 +344,13 @@
           "date": "2026-08-16",
           "type": "note",
           "createdAt": "2026-08-16T05:49:57.221Z"
+        },
+        {
+          "id": "c-1787053132090",
+          "text": "Auto Trails interlock for x axis and z axis movements",
+          "date": "2026-08-18",
+          "type": "note",
+          "createdAt": "2026-08-18T11:38:52.090Z"
         }
       ],
       "dismissedMissed": []
@@ -368,5 +368,5 @@
       "dismissedMissed": []
     }
   },
-  "lastUpdated": "2026-08-16T05:49:57.221Z"
+  "lastUpdated": "2026-08-18T11:38:52.090Z"
 }
