@@ -349,7 +349,7 @@
       "tasks": [],
       "currentStatus": "dispatch_stage",
       "notes": "Hardware Integration in Progress",
-      "constraint": "CIP Communication Completed\nBarcode Scanning Pending\nPart Flush Check on E-Stop Completed\nCycle time optimization completed.\nF.A.T to be resumed and completed\nF.A.T started on 31/07/26. - Stoppage issue in Stage-1.\nF.A.T Completed and approved for dispatch\nIntertek Documentation Verification for UL certification today(17/08)"
+      "constraint": "CIP Communication Completed\nBarcode Scanning Pending\nPart Flush Check on E-Stop Completed\nCycle time optimization completed.\nF.A.T to be resumed and completed\nF.A.T started on 31/07/26. - Stoppage issue in Stage-1.\nF.A.T Completed and approved for dispatch\nIntertek Documentation Verification for UL certification today(17/08).\nEquipment Dismantling process (18/08/26)"
     },
     {
       "id": "wa-1779455140013",
@@ -3180,5 +3180,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-18T05:30:02.722Z"
+  "lastUpdated": "2026-08-18T05:30:31.421Z"
 }
