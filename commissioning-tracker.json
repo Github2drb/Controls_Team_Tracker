@@ -498,7 +498,314 @@
       ],
       "lastUpdated": "2026-08-18T05:36:28.223Z",
       "updatedBy": "Admin"
+    },
+    "[3a-cc1-26040] classified cycling-7sp hub assembly & eo": {
+      "projectName": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO",
+      "stations": [
+        {
+          "id": "msyaelj1jugnhe",
+          "label": "1",
+          "description": "Actuation Assembly-1A",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "msyaelj1jjc2mv",
+          "label": "2",
+          "description": "Actuation Assembly-1B",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "msyaelj19vhb82",
+          "label": "3",
+          "description": "Shift Ring+Input/output Clutch Sub Assembly",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "msyaelj1he6vdh",
+          "label": "4",
+          "description": "Actuation+Output+OWB",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "msyaelj19hpuiv",
+          "label": "5",
+          "description": "PSG 1-2-3 Sub Assembly",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "msyaelj11i0ivb",
+          "label": "6",
+          "description": "Hub Shell +Complete Assembly",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "msyaelj1ngl7nm",
+          "label": "7",
+          "description": "EOL Station",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        }
+      ],
+      "commInterface": [
+        {
+          "id": "msyaelj1669imp",
+          "label": "1",
+          "description": "Rexroth Press Display – 3 Press Integration",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "msyaelj1n38oc0",
+          "label": "2",
+          "description": "Press Display Thrust Checking Station",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "msyaelj167ynyr",
+          "label": "3",
+          "description": "Safety PLC Integration with Main PLC",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "msyaelj1q4eblf",
+          "label": "4",
+          "description": "All E-Stop Integration",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "msyaelj14uc79g",
+          "label": "5",
+          "description": "All Safety Door Integration",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "msyaelj16j98fy",
+          "label": "6",
+          "description": "Servo, Induction Motor Safety Check",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "msyaelj1wtx2gx",
+          "label": "7",
+          "description": "ID Scanner Check",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "msyaelj1shv2ft",
+          "label": "8",
+          "description": "Vision System Check in All Stations",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "msyaelj10czi3o",
+          "label": "9",
+          "description": "Both HMI Manual and Auto Screens Completion as per Standard",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "msyaelj1omlnhh",
+          "label": "10",
+          "description": "RFID Tracking",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "msyaelj1p1yqv7",
+          "label": "11",
+          "description": "Pallet Tracking and Data Saving",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "msyaelj1yns7pj",
+          "label": "12",
+          "description": "Cycle Time Optimisation",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "msyaelj12dgyx5",
+          "label": "13",
+          "description": "Documentation",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        }
+      ],
+      "phases": [
+        {
+          "id": "msyaelj11mc9oz",
+          "title": "Equipment Powerup",
+          "subtitle": "Power Up Check List",
+          "items": [
+            {
+              "id": "msyaelj10fe3i5",
+              "text": "Checklist to be duly filled with standard template",
+              "done": false
+            },
+            {
+              "id": "msyaelj1x318t3",
+              "text": "PLC, Remote Module IP Configuration",
+              "done": false
+            },
+            {
+              "id": "msyaelj1xyc1u7",
+              "text": "Servo/VFD Configuration",
+              "done": false
+            },
+            {
+              "id": "msyaelj1ojk1s4",
+              "text": "ID Scanner Configuration",
+              "done": false
+            },
+            {
+              "id": "msyaelj1a47vbk",
+              "text": "Vision IP Configuration",
+              "done": false
+            }
+          ]
+        },
+        {
+          "id": "msyaelj1uwjbns",
+          "title": "IO List Testing",
+          "subtitle": "IO duly tested along with Electrical and Mechanical Integration",
+          "items": [
+            {
+              "id": "msyaelj15utqof",
+              "text": "Field IO",
+              "done": false
+            },
+            {
+              "id": "msyaelj1q6n7qq",
+              "text": "Servo Check",
+              "done": false
+            },
+            {
+              "id": "msyaelj1z7e5b5",
+              "text": "VFD → Motor Rotation Check",
+              "done": false
+            },
+            {
+              "id": "msyaelj1y22lxs",
+              "text": "Vision Check",
+              "done": false
+            }
+          ]
+        },
+        {
+          "id": "msyaelj1caa4d0",
+          "title": "Manual Testing",
+          "subtitle": "Set Feedback Sensors and Actuation",
+          "items": [
+            {
+              "id": "msyaelj14wkk4c",
+              "text": "XY Gantry Pick and Place Position Check",
+              "done": false
+            },
+            {
+              "id": "msyaelj1owzaw1",
+              "text": "Pneumatic Actuation and Feedback Check",
+              "done": false
+            }
+          ]
+        }
+      ],
+      "lastUpdated": "2026-08-18T06:48:00.143Z",
+      "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-08-18T05:36:28.223Z"
+  "lastUpdated": "2026-08-18T06:48:00.143Z"
 }
