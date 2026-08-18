@@ -140,8 +140,8 @@
       "constraint": "Electrical Assembly in Progress\nOffline PLC and HMI in Progress\nRobot<->PLC Sequence needs to be tested.\nIndex Servo bypassed temporarily\nRobot Assy. Completed at site\nindex motor and Robot communication planned on 31/07/26\nServo Communication not completed as drive has been send for service to Mitsubishi pune. Servo sent for service is unable to use. Alternate servo order has been placed.",
       "resourceLockedFrom": "2026-03-17",
       "resourceLockedTill": "2026-08-31",
-      "internalTarget": "2026-04-11",
-      "customerTarget": "2026-08-22"
+      "internalTarget": "2026-08-24",
+      "customerTarget": "2026-08-28"
     },
     {
       "id": "Harsha-2026-03-30-1775042956583",
@@ -3216,5 +3216,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-18T11:08:35.240Z"
+  "lastUpdated": "2026-08-18T11:09:08.165Z"
 }
