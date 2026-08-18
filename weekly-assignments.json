@@ -2427,9 +2427,9 @@
       "weekStart": "2026-08-03",
       "projectName": "DK1-25110- ODU Assembly auto line",
       "resourceLockedFrom": "2026-08-03",
-      "resourceLockedTill": "2026-08-31",
-      "internalTarget": "2026-08-05",
-      "customerTarget": "2026-08-08",
+      "resourceLockedTill": "2026-09-15",
+      "internalTarget": "2026-08-31",
+      "customerTarget": "2026-09-04",
       "tasks": [
         {
           "id": "t-1785731122296",
@@ -3216,5 +3216,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-18T11:06:36.554Z"
+  "lastUpdated": "2026-08-18T11:07:27.190Z"
 }
