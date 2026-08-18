@@ -3174,8 +3174,9 @@
           "taskName": "Palletizer with Lifter Up and Return",
           "type": "daily",
           "assignedDate": "2026-08-18",
-          "status": "not_started",
-          "targetDate": "2026-08-18"
+          "status": "completed",
+          "targetDate": "2026-08-18",
+          "completionDate": "2026-08-18"
         }
       ],
       "currentStatus": "in_progress",
