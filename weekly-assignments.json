@@ -187,9 +187,9 @@
       "projectName": "3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector",
       "projectTargetDate": "2026-06-30",
       "resourceLockedFrom": "2026-04-08",
-      "resourceLockedTill": "2026-06-30",
-      "internalTarget": "2026-08-11",
-      "customerTarget": "2026-08-15",
+      "resourceLockedTill": "2026-08-31",
+      "internalTarget": "2026-08-18",
+      "customerTarget": "2026-08-21",
       "tasks": [
         {
           "id": "task-1775624060388",
@@ -201,7 +201,7 @@
       ],
       "currentStatus": "trials_stage",
       "notes": "Hardware Configuration",
-      "constraint": "DAP Submission\nOffline PLC Program In progress\nCustomer meeting on 26-05(They Shared Safety Documents)\nPanel Mounting plate planned on 31/07/26\nMounting plate assembly completed.\nField Wiring in progress. PLC and HMI Powered up.\nServo Gantry Checked. Auto Cycle in Station-2 and Station-3 in progress.\nStation-4 Auto Cycle completed on 16-07-26"
+      "constraint": "DAP Submission\nOffline PLC Program In progress\nCustomer meeting on 26-05(They Shared Safety Documents)\nPanel Mounting plate planned on 31/07/26\nMounting plate assembly completed.\nField Wiring in progress. PLC and HMI Powered up.\nServo Gantry Checked. Auto Cycle in Station-2 and Station-3 in progress.\nStation-4 Auto Cycle completed on 16-07-26\nStation-2 Auto Trials - 18/08"
     },
     {
       "id": "wa-1776664930168",
@@ -3216,5 +3216,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-18T11:07:27.190Z"
+  "lastUpdated": "2026-08-18T11:08:20.508Z"
 }
