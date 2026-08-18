@@ -214,9 +214,9 @@
       "notes": "Washer Gantry Pick and Place and All gantry Initialization",
       "constraint": "Washer Gantry new logic validation completed.\nMachine Stopping abruptly due to communication cable.\nReplacing Manually Crimped cables with machine crimped cables are in progress.\nFixture Clamp on both sides of conveyor removed.\nCycle time optimization done.\nAwaiting for F.A.T",
       "resourceLockedFrom": "2025-11-01",
-      "resourceLockedTill": "2026-04-30",
-      "internalTarget": "2026-04-29",
-      "customerTarget": "2026-04-30"
+      "resourceLockedTill": "2026-09-30",
+      "internalTarget": "2026-08-28",
+      "customerTarget": "2026-08-31"
     },
     {
       "id": "wa-1776787633399",
@@ -3216,5 +3216,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-18T11:09:08.165Z"
+  "lastUpdated": "2026-08-18T11:09:45.981Z"
 }
