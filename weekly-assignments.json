@@ -2719,7 +2719,7 @@
           "taskName": "All E-Stop safety Interlock",
           "type": "daily",
           "assignedDate": "2026-08-14",
-          "status": "not_started",
+          "status": "in_progress",
           "targetDate": "2026-08-14"
         }
       ],
