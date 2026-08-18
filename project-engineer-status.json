@@ -57,7 +57,17 @@
           "updatedAt": "2026-08-17T04:49:00.871Z"
         }
       }
+    },
+    "3a-av1-25120-eddy current testing equipment": {
+      "projectName": "3A-AV1-25120-Eddy Current Testing Equipment",
+      "engineers": {
+        "santosh n, indrakumar": {
+          "displayName": "Santosh N, Indrakumar",
+          "currentStatus": "equipment_handover",
+          "updatedAt": "2026-08-18T09:12:09.986Z"
+        }
+      }
     }
   },
-  "lastUpdated": "2026-08-17T07:34:53.058Z"
+  "lastUpdated": "2026-08-18T09:12:09.986Z"
 }
