@@ -2382,8 +2382,9 @@
           "taskName": "E-Stop and Fence Gate Check",
           "type": "weekly",
           "assignedDate": "2026-08-03",
-          "status": "not_started",
-          "targetDate": "2026-08-03"
+          "status": "completed",
+          "targetDate": "2026-08-03",
+          "completionDate": "2026-08-18"
         },
         {
           "id": "t-1785731079252",
