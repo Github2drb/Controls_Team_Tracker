@@ -313,7 +313,7 @@
           "status": "completed"
         }
       ],
-      "currentStatus": "installation_in_progress",
+      "currentStatus": "equipment_handover",
       "constraint": "DAP Submitted on 26-05-26.\nOffline Logic to be started.\nRisk Assessment pending - Customer Safety Audit Completed\nInkjet Marking received\nMechanical and Electrical Wiring in progress - Completed\nVibrant Visited on28-07 and demonstrated Eddy coil.\nEthernet switch was not supporting communication between IPC and Driver. \nEthernet Switch procured and mounted and working well.\nServo Drive wiring in progress./Completed on 31/07/26.\nAuto Cycle Tested for 1 variants. Sensors not mounted for other variant referencing for Inkjet marking. - Mounted  but need to validate for all variants.\nSafety Audit done today(11-08-26) from customer end.-Completed.\nF.A.T Completed.  Equipment dispatched to customer site on 12/08. Equipment unpacked and placed at designated position on 13/08. Commissioning activities will start from 17/08 - Started.\n18-08-26 : Bigger Variant completed. smaller variant in progress"
     },
     {
@@ -3216,5 +3216,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-18T08:56:13.682Z"
+  "lastUpdated": "2026-08-18T09:11:56.407Z"
 }
