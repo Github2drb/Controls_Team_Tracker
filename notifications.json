@@ -222,10 +222,12 @@
       "type": "info",
       "link": "",
       "isTicker": true,
-      "readBy": [],
+      "readBy": [
+        "admin"
+      ],
       "author": "Admin",
       "createdAt": "2026-08-18T07:11:21.911Z"
     }
   ],
-  "lastUpdated": "2026-08-18T07:11:25.377Z"
+  "lastUpdated": "2026-08-18T07:13:27.103Z"
 }
