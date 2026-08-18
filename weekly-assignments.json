@@ -61,11 +61,11 @@
       ],
       "currentStatus": "ready_to_dispatch",
       "notes": "",
-      "constraint": "Mechanical, Electrical Assembly in Progress.\nOffline PLC Program done.\nEquipment powered up and communication interface in progress\nRexroth Servo Press Display Communication completed.\nRotor Bearing Pressing Completed. Stator Rotor bearing pressing completed, Stator Bearing Pressing in progress.\nRotor Bearing complete individual cycle trials.\nStator Bearing stacker individual cycle planned (06/08) - Completed.\nCap Pressing with load and travel, Rubber - A with greasing validated on 13/08 & Rubber B validation completed without part presence. Cap pressing completed",
+      "constraint": "Mechanical, Electrical Assembly in Progress.\nOffline PLC Program done.\nEquipment powered up and communication interface in progress\nRexroth Servo Press Display Communication completed.\nRotor Bearing Pressing Completed. Stator Rotor bearing pressing completed, Stator Bearing Pressing in progress.\nRotor Bearing complete individual cycle trials.\nStator Bearing stacker individual cycle planned (06/08) - Completed.\nCap Pressing with load and travel, Rubber - A with greasing validated on 13/08 & Rubber B validation completed without part presence. Cap pressing completed.\nPalletizer with slider up trials completed on 18-08\nAll Press videos has been shared with customer on 18/08",
       "resourceLockedFrom": "2026-03-30",
-      "resourceLockedTill": "2026-08-30",
-      "internalTarget": "2026-08-05",
-      "customerTarget": "2026-08-08"
+      "resourceLockedTill": "2026-09-15",
+      "internalTarget": "2026-08-31",
+      "customerTarget": "2026-09-04"
     },
     {
       "id": "Dyumith NV-2026-03-30-1775039588114",
@@ -3216,5 +3216,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-18T09:11:56.407Z"
+  "lastUpdated": "2026-08-18T11:06:36.554Z"
 }
