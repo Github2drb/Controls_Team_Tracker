@@ -606,7 +606,7 @@
           "poCreated": "",
           "targetReceipt": "2026-07-30",
           "notes": "Critical item, single vendor",
-          "currentStatus": "PR Raised"
+          "currentStatus": "Received"
         },
         {
           "id": "mat-1785318402559-2-a9n1",
@@ -632,7 +632,7 @@
           "poCreated": "",
           "targetReceipt": "2026-07-30",
           "notes": "Long lead item — order early",
-          "currentStatus": "PR Raised"
+          "currentStatus": "Received"
         },
         {
           "id": "mat-1785321596495-1-cuvq",
@@ -644,7 +644,7 @@
           "prApproved": "2026-07-22",
           "targetReceipt": "2026-07-30",
           "notes": "Critical item, single vendor",
-          "currentStatus": "PR Raised"
+          "currentStatus": "Received"
         },
         {
           "id": "mat-1785321596495-2-221z",
@@ -656,7 +656,7 @@
           "prApproved": "2026-07-22",
           "targetReceipt": "2026-07-30",
           "notes": "Confirm resolution with design",
-          "currentStatus": "PR Raised"
+          "currentStatus": "Received"
         },
         {
           "id": "mat-1785321596495-3-rvmw",
@@ -668,7 +668,7 @@
           "prApproved": "2026-07-22",
           "targetReceipt": "2026-07-30",
           "notes": "Long lead item — order early",
-          "currentStatus": "PR Raised"
+          "currentStatus": "Received"
         },
         {
           "id": "mat-1785321596495-4-ompk",
@@ -679,7 +679,7 @@
           "prCreated": "2026-07-22",
           "prApproved": "2026-07-22",
           "targetReceipt": "2026-07-30",
-          "currentStatus": "PR Raised"
+          "currentStatus": "Received"
         },
         {
           "id": "mat-1785323360775-1-qgzb",
@@ -691,7 +691,7 @@
           "notes": "Critical item, single vendor",
           "prCreated": "2026-07-10",
           "prApproved": "2026-07-10",
-          "currentStatus": "PR Raised"
+          "currentStatus": "Received"
         },
         {
           "id": "mat-1785323360775-2-x61l",
@@ -703,7 +703,7 @@
           "notes": "Confirm resolution with design",
           "prCreated": "2026-07-10",
           "prApproved": "2026-07-10",
-          "currentStatus": "PR Raised"
+          "currentStatus": "Received"
         },
         {
           "id": "mat-1785323360775-3-w554",
@@ -715,10 +715,16 @@
           "notes": "Long lead item — order early",
           "prCreated": "2026-07-10",
           "prApproved": "2026-07-10",
-          "currentStatus": "PR Raised"
+          "currentStatus": "Received"
+        },
+        {
+          "id": "mat-1787044453520-9503",
+          "name": "",
+          "qty": "",
+          "unit": ""
         }
       ]
     }
   },
-  "lastUpdated": "2026-07-31T07:08:37.191Z"
+  "lastUpdated": "2026-08-18T09:14:25.349Z"
 }
