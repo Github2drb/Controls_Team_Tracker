@@ -584,7 +584,7 @@
         {
           "id": "msyaelj1669imp",
           "label": "1",
-          "description": "Rexroth Press Display – 3 Press Integration",
+          "description": "Conveyor Power Up",
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "",
@@ -595,7 +595,7 @@
         {
           "id": "msyaelj1n38oc0",
           "label": "2",
-          "description": "Press Display Thrust Checking Station",
+          "description": "Vision Inspection in All Station",
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "",
@@ -606,7 +606,7 @@
         {
           "id": "msyaelj167ynyr",
           "label": "3",
-          "description": "Safety PLC Integration with Main PLC",
+          "description": "Laser Marking Station",
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "",
@@ -617,7 +617,7 @@
         {
           "id": "msyaelj1q4eblf",
           "label": "4",
-          "description": "All E-Stop Integration",
+          "description": "Torque Actuation",
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "",
@@ -628,7 +628,7 @@
         {
           "id": "msyaelj14uc79g",
           "label": "5",
-          "description": "All Safety Door Integration",
+          "description": "Remote IO Integration",
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "",
@@ -661,7 +661,7 @@
         {
           "id": "msyaelj1shv2ft",
           "label": "8",
-          "description": "Vision System Check in All Stations",
+          "description": "EOL Station",
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "",
@@ -803,9 +803,9 @@
           ]
         }
       ],
-      "lastUpdated": "2026-08-18T06:48:00.143Z",
+      "lastUpdated": "2026-08-18T06:49:50.709Z",
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-08-18T06:48:00.143Z"
+  "lastUpdated": "2026-08-18T06:49:50.709Z"
 }
