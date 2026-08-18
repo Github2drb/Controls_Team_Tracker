@@ -427,9 +427,9 @@
       "notes": "Trial Support",
       "constraint": "RFID with new Gripper logic need to be implemented",
       "resourceLockedFrom": "2025-06-04",
-      "resourceLockedTill": "2026-07-31",
+      "resourceLockedTill": "2026-08-31",
       "internalTarget": "2026-07-17",
-      "customerTarget": "2026-07-20"
+      "customerTarget": "2026-08-31"
     },
     {
       "id": "wa-1780639432350",
@@ -3216,5 +3216,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-18T11:09:45.981Z"
+  "lastUpdated": "2026-08-18T11:32:54.945Z"
 }
