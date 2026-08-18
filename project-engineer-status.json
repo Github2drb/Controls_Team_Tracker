@@ -95,7 +95,21 @@
           "updatedAt": "2026-08-18T11:32:50.185Z"
         }
       }
+    },
+    "3a-so1-25025_bailer_assembly": {
+      "projectName": "3A-SO1-25025_Bailer_Assembly",
+      "engineers": {
+        "praveen kumar c": {
+          "displayName": "Praveen Kumar C",
+          "currentStatus": "trials_stage",
+          "resourceLockedFrom": "2025-09-18",
+          "resourceLockedTill": "2026-09-30",
+          "internalTarget": "2026-08-28",
+          "customerTarget": "2026-08-31",
+          "updatedAt": "2026-08-18T11:33:46.316Z"
+        }
+      }
     }
   },
-  "lastUpdated": "2026-08-18T11:32:50.185Z"
+  "lastUpdated": "2026-08-18T11:33:46.316Z"
 }
