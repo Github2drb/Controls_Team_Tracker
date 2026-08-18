@@ -3043,8 +3043,9 @@
           "taskName": "Manual testing and Auto trials",
           "type": "weekly",
           "assignedDate": "2026-08-17",
-          "status": "not_started",
-          "targetDate": "2026-08-17"
+          "status": "completed",
+          "targetDate": "2026-08-17",
+          "completionDate": "2026-08-18"
         },
         {
           "id": "t-1786944239200",
