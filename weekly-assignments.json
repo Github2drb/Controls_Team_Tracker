@@ -3201,8 +3201,9 @@
           "taskName": "Cycle Time Optimization",
           "type": "daily",
           "assignedDate": "2026-08-19",
-          "status": "in_progress",
-          "targetDate": "2026-08-19"
+          "status": "completed",
+          "targetDate": "2026-08-19",
+          "completionDate": "2026-08-19"
         },
         {
           "id": "t-1787043216339",
