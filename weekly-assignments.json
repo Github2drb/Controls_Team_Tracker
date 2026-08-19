@@ -3139,8 +3139,9 @@
           "taskName": "Final IO list Validation",
           "type": "weekly",
           "assignedDate": "2026-08-17",
-          "status": "in_progress",
-          "targetDate": "2026-08-17"
+          "status": "completed",
+          "targetDate": "2026-08-17",
+          "completionDate": "2026-08-19"
         },
         {
           "id": "t-1786944379374",
