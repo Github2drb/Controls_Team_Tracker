@@ -221,7 +221,7 @@
       "message": "Dhanesh & Santhosh - 3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station\nIndira Kumar - 3A-AV1-25120-Eddy Current Testing Equipment",
       "type": "info",
       "link": "",
-      "isTicker": true,
+      "isTicker": false,
       "readBy": [
         "admin"
       ],
@@ -229,5 +229,5 @@
       "createdAt": "2026-08-18T07:11:21.911Z"
     }
   ],
-  "lastUpdated": "2026-08-18T07:13:27.103Z"
+  "lastUpdated": "2026-08-19T07:08:16.964Z"
 }
