@@ -3215,7 +3215,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1787121196503",
+      "engineerName": "Indrakumar",
+      "weekStart": "2026-08-17",
+      "projectName": "3A-AV1-25120-Eddy Current Testing Equipment",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1787121193988",
+          "taskName": "MOM points Completion",
+          "type": "weekly",
+          "assignedDate": "2026-08-19",
+          "status": "not_started",
+          "targetDate": "2026-08-19"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-19T05:16:15.933Z"
+  "lastUpdated": "2026-08-19T06:33:16.503Z"
 }
