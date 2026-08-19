@@ -79,6 +79,15 @@
           "internalTarget": "2026-08-31",
           "customerTarget": "2026-09-04",
           "updatedAt": "2026-08-19T05:16:09.875Z"
+        },
+        "susanth k m, santhosh n": {
+          "displayName": "Susanth K M, Santhosh N",
+          "currentStatus": "equipment_dispatched",
+          "resourceLockedFrom": "2026-01-19",
+          "resourceLockedTill": "2026-09-18",
+          "internalTarget": "2026-09-04",
+          "customerTarget": "2026-09-07",
+          "updatedAt": "2026-08-19T10:04:18.590Z"
         }
       }
     },
@@ -111,5 +120,5 @@
       }
     }
   },
-  "lastUpdated": "2026-08-19T05:16:09.875Z"
+  "lastUpdated": "2026-08-19T10:04:18.590Z"
 }
