@@ -73,12 +73,12 @@
       "engineers": {
         "susanth k m, santosh n": {
           "displayName": "Susanth K M, Santosh N",
-          "currentStatus": "ready_to_dispatch",
+          "currentStatus": "installation_pending",
           "resourceLockedFrom": "2026-06-22",
           "resourceLockedTill": "2026-09-15",
           "internalTarget": "2026-08-31",
           "customerTarget": "2026-09-04",
-          "updatedAt": "2026-08-18T11:07:09.222Z"
+          "updatedAt": "2026-08-19T05:16:09.875Z"
         }
       }
     },
@@ -111,5 +111,5 @@
       }
     }
   },
-  "lastUpdated": "2026-08-18T11:33:46.316Z"
+  "lastUpdated": "2026-08-19T05:16:09.875Z"
 }
