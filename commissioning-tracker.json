@@ -820,7 +820,405 @@
       ],
       "lastUpdated": "2026-08-18T07:00:34.661Z",
       "updatedBy": "Admin"
+    },
+    "dk1-25110- odu assembly auto line": {
+      "projectName": "DK1-25110- ODU Assembly auto line",
+      "stations": [
+        {
+          "id": "mszq3tp0ydpsgx",
+          "label": "1",
+          "description": "Loading Station",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "1",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "mszq3tp0mrzb8a",
+          "label": "2",
+          "description": "Greasing Station",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "1",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "mszq3tp0ducova",
+          "label": "3",
+          "description": "Rotor Bearing Pressing Station",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "1",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "mszq3tp00yrdug",
+          "label": "4",
+          "description": "Rotor Stator Pressing Station",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "1",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "mszq3tp0hmmk7a",
+          "label": "5",
+          "description": "Stator Bearing Pressing Station",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "1",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "mszq3tp09rz1gz",
+          "label": "6",
+          "description": "Thrust Checking Station",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "1",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "mszq3tp0igm7ku",
+          "label": "7",
+          "description": "Flipping Station",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "1",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "mszq3tp05k2zy9",
+          "label": "8",
+          "description": "Rubber-A Assembly Station",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "1",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "mszq3tp0227a37",
+          "label": "9",
+          "description": "Rubber-B Assembly Station",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "1",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "mszq3tp08fksgi",
+          "label": "10",
+          "description": "Unloading Station",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "1",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "mszq3tp01q9ya3",
+          "label": "A",
+          "description": "Bowl Feeder Integration",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "1",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "mszq3tp03qc811",
+          "label": "B",
+          "description": "Grease Dispenser Unit Integration",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "1",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "mszq3tp0awmt0t",
+          "label": "C",
+          "description": "Bearing Stacker Unit Check on Both Stations",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "1",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        }
+      ],
+      "commInterface": [
+        {
+          "id": "mszq3tp006crii",
+          "label": "1",
+          "description": "Rexroth Press Display – 3 Press Integration",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "mszq3tp070fo69",
+          "label": "2",
+          "description": "Press Display Thrust Checking Station",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "mszq3tp0t7cez7",
+          "label": "3",
+          "description": "Safety PLC Integration with Main PLC",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "mszq3tp0pcg9de",
+          "label": "4",
+          "description": "All E-Stop Integration",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "mszq3tp0zwrskl",
+          "label": "5",
+          "description": "All Safety Door Integration",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "mszq3tp07u2n0n",
+          "label": "6",
+          "description": "Servo, Induction Motor Safety Check",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "mszq3tp0n0inig",
+          "label": "7",
+          "description": "ID Scanner Check",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "mszq3tp0xko8s1",
+          "label": "8",
+          "description": "Vision System Check in All Stations",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "mszq3tp02kxlbe",
+          "label": "9",
+          "description": "Both HMI Manual and Auto Screens Completion as per Standard",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "mszq3tp0u0gzvp",
+          "label": "10",
+          "description": "RFID Tracking",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "mszq3tp04mb1ym",
+          "label": "11",
+          "description": "Pallet Tracking and Data Saving",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "mszq3tp0wqzjfo",
+          "label": "12",
+          "description": "Cycle Time Optimisation",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "mszq3tp06b349k",
+          "label": "13",
+          "description": "Documentation",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        }
+      ],
+      "phases": [
+        {
+          "id": "mszq3tp048apv2",
+          "title": "Equipment Powerup",
+          "subtitle": "Power Up Check List",
+          "items": [
+            {
+              "id": "mszq3tp0jj2c95",
+              "text": "Checklist to be duly filled with standard template",
+              "done": false
+            },
+            {
+              "id": "mszq3tp07oerhy",
+              "text": "PLC, Remote Module IP Configuration",
+              "done": false
+            },
+            {
+              "id": "mszq3tp0phqm9m",
+              "text": "Servo/VFD Configuration",
+              "done": false
+            },
+            {
+              "id": "mszq3tp029e57n",
+              "text": "ID Scanner Configuration",
+              "done": false
+            },
+            {
+              "id": "mszq3tp0bk01fp",
+              "text": "Vision IP Configuration",
+              "done": false
+            },
+            {
+              "id": "mszq4o1b1aa8sv",
+              "text": "Bowl Feeder Assembly Power Up",
+              "done": false
+            }
+          ]
+        },
+        {
+          "id": "mszq3tp0fxc3dg",
+          "title": "IO List Testing",
+          "subtitle": "IO duly tested along with Electrical and Mechanical Integration",
+          "items": [
+            {
+              "id": "mszq3tp0ci26iq",
+              "text": "Field IO",
+              "done": false
+            },
+            {
+              "id": "mszq3tp0cacowq",
+              "text": "Servo Check",
+              "done": false
+            },
+            {
+              "id": "mszq3tp0o2fa77",
+              "text": "VFD → Motor Rotation Check",
+              "done": false
+            },
+            {
+              "id": "mszq3tp0vj8jdm",
+              "text": "Vision Check",
+              "done": false
+            },
+            {
+              "id": "mszq4usf39fc5d",
+              "text": "Safety PLC IO Check",
+              "done": false
+            },
+            {
+              "id": "mszq5157tdck90",
+              "text": "Rubber- A Servo Check",
+              "done": false
+            },
+            {
+              "id": "mszq56a8t3c6g0",
+              "text": "Rexroth Servo Press Check",
+              "done": false
+            },
+            {
+              "id": "mszq5mvyipy1vk",
+              "text": "RFID Reader Check",
+              "done": false
+            }
+          ]
+        },
+        {
+          "id": "mszq3tp0uezzrv",
+          "title": "Manual Testing",
+          "subtitle": "Set Feedback Sensors and Actuation",
+          "items": [
+            {
+              "id": "mszq3tp01xt5r9",
+              "text": "XY Gantry Pick and Place Position Check",
+              "done": false
+            },
+            {
+              "id": "mszq3tp0f8y7ig",
+              "text": "Pneumatic Actuation and Feedback Check",
+              "done": false
+            }
+          ]
+        }
+      ],
+      "lastUpdated": "2026-08-19T06:43:12.665Z",
+      "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-08-18T07:00:34.661Z"
+  "lastUpdated": "2026-08-19T06:43:12.665Z"
 }
