@@ -391,7 +391,7 @@
       "customerTarget": "2026-09-26",
       "tasks": [],
       "currentStatus": "electrical_design",
-      "constraint": "DAP Submitted\nBOM in progress.\nDispenser Unit Discussion concluded. Technical Details awaited.\nFurther discussion will held on 20-07-2026\nElectrical Drawing in progress. Expected date of completion :06/08/26 >GA drawing given for mounting plate of all stations."
+      "constraint": "DAP Submitted\nBOM in progress.\nDispenser Unit Discussion concluded. Technical Details awaited.\nFurther discussion will held on 20-07-2026\nElectrical Drawing in progress. Expected date of completion :06/08/26 >GA drawing given for mounting plate of all stations.\nComplete IO list stationwise derived - 19/08"
     },
     {
       "id": "wa-1779862941175",
@@ -3284,5 +3284,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-19T10:06:42.556Z"
+  "lastUpdated": "2026-08-19T10:07:21.540Z"
 }
