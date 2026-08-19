@@ -118,7 +118,21 @@
           "updatedAt": "2026-08-18T11:33:46.316Z"
         }
       }
+    },
+    "3a-s02-25054_surface hinge assembly": {
+      "projectName": "3A-S02-25054_Surface Hinge Assembly",
+      "engineers": {
+        "ramkumar annamalai, veeresh m, indrakumar": {
+          "displayName": "Ramkumar Annamalai, Veeresh M, Indrakumar",
+          "currentStatus": "ready_to_dispatch",
+          "resourceLockedFrom": "2025-12-09",
+          "resourceLockedTill": "2026-08-31",
+          "internalTarget": "2026-08-28",
+          "customerTarget": "2026-08-27",
+          "updatedAt": "2026-08-19T10:05:12.255Z"
+        }
+      }
     }
   },
-  "lastUpdated": "2026-08-19T10:04:18.590Z"
+  "lastUpdated": "2026-08-19T10:05:12.255Z"
 }
