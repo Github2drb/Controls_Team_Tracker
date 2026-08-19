@@ -500,7 +500,10 @@
           "notes": "Symbiotic Automation Systems (P) Ltd.",
           "hwIntegrationTarget": "2026-08-03",
           "scmCommittedDate": "2026-07-15",
-          "currentStatus": "Received"
+          "currentStatus": "Received",
+          "poCreated": "2026-05-15",
+          "poApproved": "2026-05-15",
+          "hwIntegrationDone": "2026-08-12"
         },
         {
           "id": "mat-1785481341607-3-yks9",
@@ -515,7 +518,10 @@
           "notes": "Symbiotic Automation Systems (P) Ltd.",
           "hwIntegrationTarget": "2026-08-03",
           "scmCommittedDate": "2026-07-15",
-          "currentStatus": "Received"
+          "currentStatus": "Received",
+          "poCreated": "2026-05-15",
+          "poApproved": "2026-05-15",
+          "hwIntegrationDone": "2026-08-12"
         },
         {
           "id": "mat-1785481341607-4-gke7",
@@ -530,7 +536,10 @@
           "notes": "Symbiotic Automation Systems (P) Ltd.",
           "hwIntegrationTarget": "2026-08-03",
           "scmCommittedDate": "2026-07-15",
-          "currentStatus": "Received"
+          "currentStatus": "Received",
+          "poCreated": "2026-05-15",
+          "poApproved": "2026-05-15",
+          "hwIntegrationDone": "2026-08-12"
         },
         {
           "id": "mat-1785481341607-5-wwa7",
@@ -545,7 +554,10 @@
           "notes": "Symbiotic Automation Systems (P) Ltd.",
           "hwIntegrationTarget": "2026-08-03",
           "scmCommittedDate": "2026-07-15",
-          "currentStatus": "Received"
+          "currentStatus": "Received",
+          "poCreated": "2026-05-15",
+          "poApproved": "2026-05-15",
+          "hwIntegrationDone": "2026-08-12"
         },
         {
           "id": "mat-1785481341607-6-aq4m",
@@ -560,7 +572,10 @@
           "hwIntegrationTarget": "2026-08-03",
           "scmCommittedDate": "2026-07-15",
           "currentStatus": "Received",
-          "notes": "Symbiotic Automation Systems (P) Ltd."
+          "notes": "Symbiotic Automation Systems (P) Ltd.",
+          "poCreated": "2026-05-19",
+          "poApproved": "2026-05-15",
+          "hwIntegrationDone": "2026-08-12"
         },
         {
           "id": "mat-1785481341607-7-n62m",
@@ -575,7 +590,10 @@
           "hwIntegrationTarget": "2026-08-03",
           "scmCommittedDate": "2026-07-15",
           "currentStatus": "Received",
-          "notes": "Symbiotic Automation Systems (P) Ltd."
+          "notes": "Symbiotic Automation Systems (P) Ltd.",
+          "poCreated": "2026-05-15",
+          "poApproved": "2026-05-14",
+          "hwIntegrationDone": "2026-08-12"
         },
         {
           "id": "mat-1785481341607-8-eiik",
@@ -590,7 +608,10 @@
           "hwIntegrationTarget": "2026-08-03",
           "scmCommittedDate": "2026-07-15",
           "currentStatus": "Received",
-          "notes": "Symbiotic Automation Systems (P) Ltd."
+          "notes": "Symbiotic Automation Systems (P) Ltd.",
+          "poCreated": "2026-05-14",
+          "poApproved": "2026-05-15",
+          "hwIntegrationDone": "2026-08-12"
         }
       ]
     },
@@ -776,5 +797,5 @@
       ]
     }
   },
-  "lastUpdated": "2026-08-19T11:42:24.494Z"
+  "lastUpdated": "2026-08-19T11:44:43.738Z"
 }
