@@ -482,7 +482,10 @@
           "notes": "Symbiotic Automation Systems (P) Ltd.",
           "hwIntegrationTarget": "2026-08-03",
           "scmCommittedDate": "2026-07-15",
-          "currentStatus": "Received"
+          "currentStatus": "Received",
+          "poCreated": "2026-05-21",
+          "hwIntegrationDone": "2026-08-03",
+          "poApproved": "2026-05-21"
         },
         {
           "id": "mat-1785481341607-2-vqnj",
@@ -773,5 +776,5 @@
       ]
     }
   },
-  "lastUpdated": "2026-08-18T09:20:32.718Z"
+  "lastUpdated": "2026-08-19T11:42:24.494Z"
 }
