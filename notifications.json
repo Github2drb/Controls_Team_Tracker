@@ -227,7 +227,18 @@
       ],
       "author": "Admin",
       "createdAt": "2026-08-18T07:11:21.911Z"
+    },
+    {
+      "id": "notif-1787123338383",
+      "title": "Engineers Deployed to Site for Installaton",
+      "message": "Dhanesh - 3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station \nIndira Kumar - 3A-AV1-25120-Eddy Current Testing Equipment\nHarsha KA - 3A-DK1-25077-Dehydration Project",
+      "type": "info",
+      "link": "",
+      "isTicker": false,
+      "readBy": [],
+      "author": "Admin",
+      "createdAt": "2026-08-19T07:08:58.383Z"
     }
   ],
-  "lastUpdated": "2026-08-19T07:08:16.964Z"
+  "lastUpdated": "2026-08-19T07:08:58.383Z"
 }
