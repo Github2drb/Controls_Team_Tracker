@@ -3237,7 +3237,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1787121257425",
+      "engineerName": "Dhanesh M",
+      "weekStart": "2026-08-17",
+      "projectName": "3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1787121254862",
+          "taskName": "All Variant Machine Trials Completion",
+          "type": "weekly",
+          "assignedDate": "2026-08-19",
+          "status": "not_started",
+          "targetDate": "2026-08-19"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-19T06:33:16.503Z"
+  "lastUpdated": "2026-08-19T06:34:17.425Z"
 }
