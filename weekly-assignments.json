@@ -2441,7 +2441,7 @@
           "completionDate": "2026-08-17"
         }
       ],
-      "currentStatus": "ready_to_dispatch",
+      "currentStatus": "installation_pending",
       "constraint": "HMI Modification inline with Dehydration Equipment"
     },
     {
@@ -3216,5 +3216,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-19T05:15:54.098Z"
+  "lastUpdated": "2026-08-19T05:16:15.933Z"
 }
