@@ -3259,7 +3259,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1787121286276",
+      "engineerName": "Santhosh N",
+      "weekStart": "2026-08-17",
+      "projectName": "3A-SO1-25025_Bailer_Assembly",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1787121283805",
+          "taskName": "Electrical Drawing, Load Details Sharing to Customer",
+          "type": "weekly",
+          "assignedDate": "2026-08-19",
+          "status": "not_started",
+          "targetDate": "2026-08-19"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-19T06:34:17.425Z"
+  "lastUpdated": "2026-08-19T06:34:46.276Z"
 }
