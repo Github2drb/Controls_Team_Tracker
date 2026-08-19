@@ -9515,6 +9515,72 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Santhosh N",
+      "date": "2026-08-17",
+      "targetTasks": [
+        {
+          "id": "wa-1787121287830-bqvj",
+          "text": "[3A-SO1-25025_Bailer_Assembly] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santhosh N",
+      "date": "2026-08-18",
+      "targetTasks": [
+        {
+          "id": "wa-1787121287830-c25r",
+          "text": "[3A-SO1-25025_Bailer_Assembly] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santhosh N",
+      "date": "2026-08-19",
+      "targetTasks": [
+        {
+          "id": "wa-1787121287830-9cbe",
+          "text": "[3A-SO1-25025_Bailer_Assembly] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santhosh N",
+      "date": "2026-08-20",
+      "targetTasks": [
+        {
+          "id": "wa-1787121287831-0btq",
+          "text": "[3A-SO1-25025_Bailer_Assembly] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santhosh N",
+      "date": "2026-08-21",
+      "targetTasks": [
+        {
+          "id": "wa-1787121287832-adfq",
+          "text": "[3A-SO1-25025_Bailer_Assembly] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santhosh N",
+      "date": "2026-08-22",
+      "targetTasks": [
+        {
+          "id": "wa-1787121287832-ka0c",
+          "text": "[3A-SO1-25025_Bailer_Assembly] Weekly project task"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
