@@ -3266,10 +3266,10 @@
       "engineerName": "Santhosh N",
       "weekStart": "2026-08-17",
       "projectName": "3A-SO1-25025_Bailer_Assembly",
-      "resourceLockedFrom": "",
-      "resourceLockedTill": "",
-      "internalTarget": "",
-      "customerTarget": "",
+      "resourceLockedFrom": "2025-08-04",
+      "resourceLockedTill": "2026-08-31",
+      "internalTarget": "2026-08-28",
+      "customerTarget": "2026-08-31",
       "tasks": [
         {
           "id": "t-1787121283805",
@@ -3284,5 +3284,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-20T07:34:54.190Z"
+  "lastUpdated": "2026-08-20T07:35:45.788Z"
 }
