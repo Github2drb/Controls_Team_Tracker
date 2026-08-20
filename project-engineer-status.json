@@ -31,6 +31,15 @@
           "displayName": "Santhosh N, Dhanesh M",
           "currentStatus": "installation_completed",
           "updatedAt": "2026-08-14T05:04:13.773Z"
+        },
+        "santhosh n, dhanesh m": {
+          "displayName": "Santhosh N, Dhanesh M",
+          "currentStatus": "equipment_handover",
+          "resourceLockedFrom": "2026-06-09",
+          "resourceLockedTill": "2026-08-31",
+          "internalTarget": "2026-08-13",
+          "customerTarget": "2026-08-27",
+          "updatedAt": "2026-08-20T12:07:37.928Z"
         }
       }
     },
@@ -134,5 +143,5 @@
       }
     }
   },
-  "lastUpdated": "2026-08-19T10:05:12.255Z"
+  "lastUpdated": "2026-08-20T12:07:37.928Z"
 }
