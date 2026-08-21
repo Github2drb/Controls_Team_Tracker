@@ -760,7 +760,7 @@
           "completionDate": "2026-07-04"
         }
       ],
-      "currentStatus": "equipment_handover",
+      "currentStatus": "completed",
       "constraint": "SQD with Customer Pending\n"
     },
     {
@@ -3306,5 +3306,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-21T06:11:59.608Z"
+  "lastUpdated": "2026-08-21T06:12:14.122Z"
 }
