@@ -194,7 +194,7 @@
       "message": "BOM, Drawing has to be finalized.\nFinal IO validation , Hardware Configuration in TIA Portal ",
       "type": "info",
       "link": "",
-      "isTicker": true,
+      "isTicker": false,
       "readBy": [
         "device-t0t4nve89",
         "admin"
@@ -243,5 +243,5 @@
       "createdAt": "2026-08-19T07:08:58.383Z"
     }
   ],
-  "lastUpdated": "2026-08-21T04:40:06.056Z"
+  "lastUpdated": "2026-08-21T04:40:17.021Z"
 }
