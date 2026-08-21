@@ -3280,7 +3280,7 @@
           "targetDate": "2026-08-19"
         }
       ],
-      "currentStatus": "in_progress",
+      "currentStatus": "trials_stage",
       "constraint": ""
     },
     {
@@ -3306,5 +3306,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-21T06:16:05.187Z"
+  "lastUpdated": "2026-08-21T10:14:36.150Z"
 }
