@@ -2018,7 +2018,7 @@
       "internalTarget": "2026-07-27",
       "customerTarget": "2026-07-27",
       "tasks": [],
-      "currentStatus": "dispatch_stage",
+      "currentStatus": "completed",
       "constraint": "Mechanical jam happened and thereafter drive shows error when moved in jog mode. Due to electrical wiring, drive was misidentified as faulty one. now all issues are resolved"
     },
     {
@@ -3306,5 +3306,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-21T06:15:52.499Z"
+  "lastUpdated": "2026-08-21T06:16:05.187Z"
 }
