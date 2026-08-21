@@ -133,12 +133,12 @@
       "engineers": {
         "ramkumar annamalai, veeresh m, indrakumar": {
           "displayName": "Ramkumar Annamalai, Veeresh M, Indrakumar",
-          "currentStatus": "ready_to_dispatch",
+          "currentStatus": "equipment_dispatched",
           "resourceLockedFrom": "2025-12-09",
           "resourceLockedTill": "2026-08-31",
           "internalTarget": "2026-08-28",
           "customerTarget": "2026-08-27",
-          "updatedAt": "2026-08-19T10:05:12.255Z"
+          "updatedAt": "2026-08-21T06:15:01.093Z"
         }
       }
     },
@@ -153,5 +153,5 @@
       }
     }
   },
-  "lastUpdated": "2026-08-21T06:13:01.867Z"
+  "lastUpdated": "2026-08-21T06:15:01.093Z"
 }
