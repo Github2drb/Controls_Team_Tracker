@@ -141,7 +141,17 @@
           "updatedAt": "2026-08-19T10:05:12.255Z"
         }
       }
+    },
+    "3a-dk1-25077-dehydration project": {
+      "projectName": "3A-DK1-25077-Dehydration Project",
+      "engineers": {
+        "harsha k": {
+          "displayName": "Harsha K",
+          "currentStatus": "completed",
+          "updatedAt": "2026-08-21T06:13:01.867Z"
+        }
+      }
     }
   },
-  "lastUpdated": "2026-08-20T12:07:37.928Z"
+  "lastUpdated": "2026-08-21T06:13:01.867Z"
 }
