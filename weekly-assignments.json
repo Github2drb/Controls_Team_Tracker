@@ -59,7 +59,7 @@
           "status": "not_started"
         }
       ],
-      "currentStatus": "installation_pending",
+      "currentStatus": "installation_in_progress",
       "notes": "",
       "constraint": "Mechanical, Electrical Assembly in Progress.\nOffline PLC Program done.\nEquipment powered up and communication interface in progress\nRexroth Servo Press Display Communication completed.\nRotor Bearing Pressing Completed. Stator Rotor bearing pressing completed, Stator Bearing Pressing in progress.\nRotor Bearing complete individual cycle trials.\nStator Bearing stacker individual cycle planned (06/08) - Completed.\nCap Pressing with load and travel, Rubber - A with greasing validated on 13/08 & Rubber B validation completed without part presence. Cap pressing completed.\nPalletizer with slider up trials completed on 18-08\nAll Press videos has been shared with customer on 18/08\nMachine has been dispatched to customer site",
       "resourceLockedFrom": "2026-03-30",
@@ -3306,5 +3306,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-21T06:15:35.546Z"
+  "lastUpdated": "2026-08-21T06:15:41.567Z"
 }
