@@ -195,8 +195,8 @@
           "id": "task-1775624060388",
           "taskName": "Hardware Configuration",
           "targetDate": "2026-04-11",
-          "completionDate": "",
-          "status": "not_started"
+          "completionDate": "2026-08-26",
+          "status": "completed"
         }
       ],
       "currentStatus": "trials_stage",
