@@ -74,6 +74,11 @@
           "displayName": "Santhosh N, Indrakumar",
           "currentStatus": "equipment_handover",
           "updatedAt": "2026-08-18T09:12:09.986Z"
+        },
+        "indrakumar": {
+          "displayName": "Indrakumar",
+          "currentStatus": "completed",
+          "updatedAt": "2026-08-24T07:56:25.830Z"
         }
       }
     },
@@ -153,5 +158,5 @@
       }
     }
   },
-  "lastUpdated": "2026-08-21T06:15:01.093Z"
+  "lastUpdated": "2026-08-24T07:56:25.830Z"
 }
