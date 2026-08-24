@@ -309,7 +309,7 @@
           "id": "task-1778655624157",
           "taskName": "DAP Preparation",
           "targetDate": "2026-05-15",
-          "completionDate": "",
+          "completionDate": "2026-08-21",
           "status": "completed"
         }
       ],
@@ -513,10 +513,10 @@
       "engineerName": "Santhosh N",
       "weekStart": "2026-06-08",
       "projectName": "3A-AV1-25120-Eddy Current Testing Equipment",
-      "resourceLockedFrom": "",
-      "resourceLockedTill": "",
-      "internalTarget": "",
-      "customerTarget": "",
+      "resourceLockedFrom": "2026-06-14",
+      "resourceLockedTill": "2026-07-11",
+      "internalTarget": "2026-06-14",
+      "customerTarget": "2026-06-14",
       "tasks": [
         {
           "id": "t-1781434538566",
@@ -1033,28 +1033,7 @@
       "currentStatus": "completed",
       "constraint": "BOM Loading Completed"
     },
-    {
-      "id": "wa-1782971801171",
-      "engineerName": "Deekshitha HC",
-      "weekStart": "2026-06-29",
-      "projectName": "3A-AV1-25120-Eddy Current Testing Equipment",
-      "resourceLockedFrom": "",
-      "resourceLockedTill": "",
-      "internalTarget": "",
-      "customerTarget": "",
-      "tasks": [
-        {
-          "id": "t-1782971800881",
-          "taskName": "BOM Addition to material tracker",
-          "type": "weekly",
-          "assignedDate": "2026-07-02",
-          "status": "not_started",
-          "targetDate": "2026-07-02"
-        }
-      ],
-      "currentStatus": "completed",
-      "constraint": ""
-    },
+   
     {
       "id": "wa-1782971864474",
       "engineerName": "Ramkumar Annamalai",
@@ -1754,10 +1733,10 @@
       "engineerName": "Indrakumar",
       "weekStart": "2026-07-13",
       "projectName": "3A-AV1-25120-Eddy Current Testing Equipment",
-      "resourceLockedFrom": "",
-      "resourceLockedTill": "",
-      "internalTarget": "",
-      "customerTarget": "",
+      "resourceLockedFrom": "2026-07-17",
+      "resourceLockedTill": "2026-08-03",
+      "internalTarget": "2026-08-03",
+      "customerTarget": "2026-08-03",
       "tasks": [
         {
           "id": "t-1784268121470",
@@ -1777,10 +1756,10 @@
       "engineerName": "Santhosh N",
       "weekStart": "2026-07-20",
       "projectName": "3A-AV1-25120-Eddy Current Testing Equipment",
-      "resourceLockedFrom": "",
-      "resourceLockedTill": "",
-      "internalTarget": "",
-      "customerTarget": "",
+      "resourceLockedFrom": "2026-07-23",
+      "resourceLockedTill": "2026-07-23",
+      "internalTarget": "2026-07-23",
+      "customerTarget": "2026-07-23",
       "tasks": [
         {
           "id": "t-1784784577602",
@@ -1971,10 +1950,10 @@
       "engineerName": "Santhosh N",
       "weekStart": "2026-07-27",
       "projectName": "3A-AV1-25120-Eddy Current Testing Equipment",
-      "resourceLockedFrom": "",
-      "resourceLockedTill": "",
-      "internalTarget": "",
-      "customerTarget": "",
+      "resourceLockedFrom": "2026-07-27",
+      "resourceLockedTill": "2026-07-28",
+      "internalTarget": "2026-07-28",
+      "customerTarget": "2026-07-28",
       "tasks": [
         {
           "id": "t-1785138428767",
@@ -2517,19 +2496,7 @@
       "currentStatus": "completed",
       "constraint": ""
     },
-    {
-      "id": "wa-1785731295630",
-      "engineerName": "Deekshitha HC",
-      "weekStart": "2026-08-03",
-      "projectName": "3A-AV1-25120-Eddy Current Testing Equipment",
-      "resourceLockedFrom": "",
-      "resourceLockedTill": "",
-      "internalTarget": "",
-      "customerTarget": "",
-      "tasks": [],
-      "currentStatus": "completed",
-      "constraint": ""
-    },
+   
     {
       "id": "wa-1785912119818",
       "engineerName": "Susanth K M",
@@ -2738,10 +2705,10 @@
       "engineerName": "Indrakumar",
       "weekStart": "2026-08-10",
       "projectName": "3A-AV1-25120-Eddy Current Testing Equipment",
-      "resourceLockedFrom": "",
-      "resourceLockedTill": "",
-      "internalTarget": "",
-      "customerTarget": "",
+      "resourceLockedFrom": "2026-08-10",
+      "resourceLockedTill": "2026-08-10",
+      "internalTarget": "2026-08-10",
+      "customerTarget": "2026-08-10",
       "tasks": [
         {
           "id": "t-1786343132855",
@@ -3167,21 +3134,21 @@
       "engineerName": "Indrakumar",
       "weekStart": "2026-08-17",
       "projectName": "3A-AV1-25120-Eddy Current Testing Equipment",
-      "resourceLockedFrom": "",
-      "resourceLockedTill": "",
-      "internalTarget": "",
-      "customerTarget": "",
+      "resourceLockedFrom": "2026-08-19",
+      "resourceLockedTill": "2026-08-19",
+      "internalTarget": "2026-08-19",
+      "customerTarget": "2026-08-19",
       "tasks": [
         {
           "id": "t-1787121193988",
           "taskName": "MOM points Completion",
           "type": "weekly",
           "assignedDate": "2026-08-19",
-          "status": "not_started",
+          "status": "Completed",
           "targetDate": "2026-08-19"
         }
       ],
-      "currentStatus": "in_progress",
+      "currentStatus": "Completed",
       "constraint": ""
     },
     {
