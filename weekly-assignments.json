@@ -1460,29 +1460,6 @@
       "constraint": ""
     },
     {
-      "id": "wa-1783570954878",
-      "engineerName": "Indrakumar",
-      "weekStart": "2026-07-06",
-      "projectName": "3A-AV1-25120-Eddy Current Testing Equipment",
-      "resourceLockedFrom": "",
-      "resourceLockedTill": "",
-      "internalTarget": "",
-      "customerTarget": "",
-      "tasks": [
-        {
-          "id": "t-1783570951791",
-          "taskName": "Project Study.BOM List study,Sequence Study",
-          "type": "weekly",
-          "assignedDate": "2026-07-09",
-          "status": "completed",
-          "targetDate": "2026-07-09",
-          "completionDate": "2026-08-03"
-        }
-      ],
-      "currentStatus": "in_progress",
-      "constraint": ""
-    },
-    {
       "id": "wa-1783677680073",
       "engineerName": "Harsha K",
       "weekStart": "2026-07-06",
@@ -3306,5 +3283,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-24T07:56:14.531Z"
+  "lastUpdated": "2026-08-24T07:56:41.494Z"
 }
