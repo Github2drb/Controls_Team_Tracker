@@ -3306,7 +3306,45 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1787569014997",
+      "engineerName": "Indrakumar",
+      "weekStart": "2026-08-24",
+      "projectName": "3A-DK2-25143_STEP 4-Leak Testing Machine",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1787568987898",
+          "taskName": "Complete IO Generation",
+          "type": "weekly",
+          "assignedDate": "2026-08-24",
+          "status": "not_started",
+          "targetDate": "2026-08-24"
+        },
+        {
+          "id": "t-1787569001421",
+          "taskName": "Complete Hardware Check",
+          "type": "weekly",
+          "assignedDate": "2026-08-24",
+          "status": "not_started",
+          "targetDate": "2026-08-24"
+        },
+        {
+          "id": "t-1787569013069",
+          "taskName": "Manual Testing",
+          "type": "weekly",
+          "assignedDate": "2026-08-24",
+          "status": "not_started",
+          "targetDate": "2026-08-24"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-24T10:56:05.604Z"
+  "lastUpdated": "2026-08-24T10:56:54.997Z"
 }
