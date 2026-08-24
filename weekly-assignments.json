@@ -3284,7 +3284,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1787568965604",
+      "engineerName": "Susanth K M",
+      "weekStart": "2026-08-24",
+      "projectName": "3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1787568964092",
+          "taskName": "Purge and Cycle time Optimization",
+          "type": "weekly",
+          "assignedDate": "2026-08-24",
+          "status": "not_started",
+          "targetDate": "2026-08-24"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-24T10:55:32.594Z"
+  "lastUpdated": "2026-08-24T10:56:05.604Z"
 }
