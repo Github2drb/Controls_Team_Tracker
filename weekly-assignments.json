@@ -2972,10 +2972,10 @@
       "engineerName": "Indrakumar",
       "weekStart": "2026-08-17",
       "projectName": "3A-AV1-25120-Eddy Current Testing Equipment",
-      "resourceLockedFrom": "",
-      "resourceLockedTill": "",
-      "internalTarget": "",
-      "customerTarget": "",
+      "resourceLockedFrom": "2026-08-01",
+      "resourceLockedTill": "2026-08-21",
+      "internalTarget": "2026-08-10",
+      "customerTarget": "2026-08-12",
       "tasks": [
         {
           "id": "t-1786944212723",
@@ -3368,5 +3368,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-24T10:59:39.075Z"
+  "lastUpdated": "2026-08-24T11:00:06.389Z"
 }
