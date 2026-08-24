@@ -3249,7 +3249,20 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1787568876212",
+      "engineerName": "Harsha K",
+      "weekStart": "2026-08-24",
+      "projectName": "DK1-25110- ODU Assembly auto line",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-24T07:57:39.359Z"
+  "lastUpdated": "2026-08-24T10:54:36.212Z"
 }
