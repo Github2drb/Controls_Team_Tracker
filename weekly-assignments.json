@@ -3262,7 +3262,29 @@
       "tasks": [],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1787568932589",
+      "engineerName": "Harsha K",
+      "weekStart": "2026-08-24",
+      "projectName": "DK1-25110- ODU Assembly auto line",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1787568930377",
+          "taskName": "IO Testing, Servo Check and Servo press Check",
+          "type": "weekly",
+          "assignedDate": "2026-08-24",
+          "status": "not_started",
+          "targetDate": "2026-08-24"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-24T10:54:36.212Z"
+  "lastUpdated": "2026-08-24T10:55:32.594Z"
 }
