@@ -1033,7 +1033,6 @@
       "currentStatus": "completed",
       "constraint": "BOM Loading Completed"
     },
-   
     {
       "id": "wa-1782971864474",
       "engineerName": "Ramkumar Annamalai",
@@ -2496,7 +2495,6 @@
       "currentStatus": "completed",
       "constraint": ""
     },
-   
     {
       "id": "wa-1785912119818",
       "engineerName": "Susanth K M",
@@ -3134,10 +3132,10 @@
       "engineerName": "Indrakumar",
       "weekStart": "2026-08-17",
       "projectName": "3A-AV1-25120-Eddy Current Testing Equipment",
-      "resourceLockedFrom": "2026-08-19",
+      "resourceLockedFrom": "2026-08-01",
       "resourceLockedTill": "2026-08-19",
       "internalTarget": "2026-08-19",
-      "customerTarget": "2026-08-19",
+      "customerTarget": "2026-08-21",
       "tasks": [
         {
           "id": "t-1787121193988",
@@ -3148,7 +3146,7 @@
           "targetDate": "2026-08-19"
         }
       ],
-      "currentStatus": "Completed",
+      "currentStatus": "completed",
       "constraint": ""
     },
     {
@@ -3335,5 +3333,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-24T11:00:40.684Z"
+  "lastUpdated": "2026-08-24T11:12:05.045Z"
 }
