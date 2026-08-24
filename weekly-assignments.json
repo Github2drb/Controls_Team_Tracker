@@ -1379,7 +1379,7 @@
           "completionDate": "2026-08-11"
         }
       ],
-      "currentStatus": "procurement_stage",
+      "currentStatus": "waiting_for_materials",
       "constraint": ""
     },
     {
@@ -3306,5 +3306,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-21T10:15:34.021Z"
+  "lastUpdated": "2026-08-24T07:16:00.918Z"
 }
