@@ -300,9 +300,18 @@
           "internalTarget": "2026-08-28",
           "customerTarget": "2026-08-31",
           "updatedAt": "2026-08-25T09:55:51.150Z"
+        },
+        "dhanesh m": {
+          "displayName": "Dhanesh M",
+          "currentStatus": "sat",
+          "resourceLockedFrom": "2026-06-15",
+          "resourceLockedTill": "2026-08-31",
+          "internalTarget": "2026-08-28",
+          "customerTarget": "2026-08-31",
+          "updatedAt": "2026-08-25T09:56:08.218Z"
         }
       }
     }
   },
-  "lastUpdated": "2026-08-25T09:55:51.150Z"
+  "lastUpdated": "2026-08-25T09:56:08.218Z"
 }
