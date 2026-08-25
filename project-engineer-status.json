@@ -11,6 +11,15 @@
           "internalTarget": "2026-08-24",
           "customerTarget": "2026-09-25",
           "updatedAt": "2026-08-07T06:51:27.663Z"
+        },
+        "santhosh n": {
+          "displayName": "Santhosh N",
+          "currentStatus": "installation_in_progress",
+          "resourceLockedFrom": "2026-06-15",
+          "resourceLockedTill": "2026-10-30",
+          "internalTarget": "2026-09-28",
+          "customerTarget": "2026-09-29",
+          "updatedAt": "2026-08-25T09:54:02.569Z"
         }
       }
     },
@@ -240,5 +249,5 @@
       }
     }
   },
-  "lastUpdated": "2026-08-25T09:53:34.948Z"
+  "lastUpdated": "2026-08-25T09:54:02.569Z"
 }
