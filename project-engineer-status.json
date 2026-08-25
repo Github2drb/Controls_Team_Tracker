@@ -288,7 +288,21 @@
           "updatedAt": "2026-08-25T09:55:28.594Z"
         }
       }
+    },
+    "3a-ie1-26042 & 3a-ie1-26043 -indic-wave soldering machine conveyor assembly -misumi & bosch": {
+      "projectName": "3A-IE1-26042 & 3A-IE1-26043 -INDIC-Wave Soldering Machine Conveyor Assembly -Misumi & Bosch",
+      "engineers": {
+        "santhosh n": {
+          "displayName": "Santhosh N",
+          "currentStatus": "sat",
+          "resourceLockedFrom": "2026-06-15",
+          "resourceLockedTill": "2026-08-31",
+          "internalTarget": "2026-08-28",
+          "customerTarget": "2026-08-31",
+          "updatedAt": "2026-08-25T09:55:51.150Z"
+        }
+      }
     }
   },
-  "lastUpdated": "2026-08-25T09:55:28.594Z"
+  "lastUpdated": "2026-08-25T09:55:51.150Z"
 }
