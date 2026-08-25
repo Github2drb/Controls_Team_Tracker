@@ -265,7 +265,21 @@
           "updatedAt": "2026-08-25T09:53:34.948Z"
         }
       }
+    },
+    "3a-gb1-26007_ge_pressure tester": {
+      "projectName": "3A-GB1-26007_GE_Pressure Tester",
+      "engineers": {
+        "santhosh n": {
+          "displayName": "Santhosh N",
+          "currentStatus": "waiting_for_materials",
+          "resourceLockedFrom": "2026-03-25",
+          "resourceLockedTill": "2026-09-30",
+          "internalTarget": "2026-09-15",
+          "customerTarget": "2026-09-18",
+          "updatedAt": "2026-08-25T09:55:10.801Z"
+        }
+      }
     }
   },
-  "lastUpdated": "2026-08-25T09:54:48.096Z"
+  "lastUpdated": "2026-08-25T09:55:10.801Z"
 }
