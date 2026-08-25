@@ -218,9 +218,18 @@
           "internalTarget": "2026-09-14",
           "customerTarget": "2026-09-30",
           "updatedAt": "2026-08-25T09:52:53.067Z"
+        },
+        "harsha k": {
+          "displayName": "Harsha K",
+          "currentStatus": "electrical_assembly",
+          "resourceLockedFrom": "2026-08-31",
+          "resourceLockedTill": "2026-10-30",
+          "internalTarget": "2026-09-29",
+          "customerTarget": "2026-09-30",
+          "updatedAt": "2026-08-25T09:53:11.826Z"
         }
       }
     }
   },
-  "lastUpdated": "2026-08-25T09:52:53.067Z"
+  "lastUpdated": "2026-08-25T09:53:11.826Z"
 }
