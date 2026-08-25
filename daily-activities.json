@@ -2605,6 +2605,10 @@
         {
           "id": "wa-1779455034648-ahfq",
           "text": "[3A-S02-25054_Surface Hinge Assembly] Hardware Integration in Progress"
+        },
+        {
+          "id": "wa-1787636053484-lnxx",
+          "text": "[[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO] DAP Submitted\nBOM in progress.\nDispenser Unit Discussion concluded. Technical Details awaited.\nFurther discussion will held on 20-07-2026\nElectrical Drawing in progress. Expected date of completion :06/08/26 >GA drawing given for mounting plate of all stations.\nComplete IO list station wise derived - 19/08\nElectrical Drawing In progress\nAdditional Siemens IO need to be ordered as per final IO"
         }
       ],
       "completedActivities": []
@@ -2616,6 +2620,10 @@
         {
           "id": "wa-1779455034648-4b44",
           "text": "[3A-S02-25054_Surface Hinge Assembly] Hardware Integration in Progress"
+        },
+        {
+          "id": "wa-1787636053484-skp4",
+          "text": "[[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO] DAP Submitted\nBOM in progress.\nDispenser Unit Discussion concluded. Technical Details awaited.\nFurther discussion will held on 20-07-2026\nElectrical Drawing in progress. Expected date of completion :06/08/26 >GA drawing given for mounting plate of all stations.\nComplete IO list station wise derived - 19/08\nElectrical Drawing In progress\nAdditional Siemens IO need to be ordered as per final IO"
         }
       ],
       "completedActivities": []
@@ -2631,6 +2639,10 @@
         {
           "id": "t-1779856464862-1i2s8",
           "text": "Illuminiated PB BOM for Surface Hinge Assy Project"
+        },
+        {
+          "id": "wa-1787636053484-x77c",
+          "text": "[[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO] DAP Submitted\nBOM in progress.\nDispenser Unit Discussion concluded. Technical Details awaited.\nFurther discussion will held on 20-07-2026\nElectrical Drawing in progress. Expected date of completion :06/08/26 >GA drawing given for mounting plate of all stations.\nComplete IO list station wise derived - 19/08\nElectrical Drawing In progress\nAdditional Siemens IO need to be ordered as per final IO"
         }
       ],
       "completedActivities": []
@@ -9936,6 +9948,39 @@
         {
           "id": "wa-1787569070599-zefc",
           "text": "[[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Veeresh M",
+      "date": "2026-05-28",
+      "targetTasks": [
+        {
+          "id": "wa-1787636053484-ob25",
+          "text": "[[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO] DAP Submitted\nBOM in progress.\nDispenser Unit Discussion concluded. Technical Details awaited.\nFurther discussion will held on 20-07-2026\nElectrical Drawing in progress. Expected date of completion :06/08/26 >GA drawing given for mounting plate of all stations.\nComplete IO list station wise derived - 19/08\nElectrical Drawing In progress\nAdditional Siemens IO need to be ordered as per final IO"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Veeresh M",
+      "date": "2026-05-29",
+      "targetTasks": [
+        {
+          "id": "wa-1787636053485-pso8",
+          "text": "[[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO] DAP Submitted\nBOM in progress.\nDispenser Unit Discussion concluded. Technical Details awaited.\nFurther discussion will held on 20-07-2026\nElectrical Drawing in progress. Expected date of completion :06/08/26 >GA drawing given for mounting plate of all stations.\nComplete IO list station wise derived - 19/08\nElectrical Drawing In progress\nAdditional Siemens IO need to be ordered as per final IO"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Veeresh M",
+      "date": "2026-05-30",
+      "targetTasks": [
+        {
+          "id": "wa-1787636053485-ew6t",
+          "text": "[[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO] DAP Submitted\nBOM in progress.\nDispenser Unit Discussion concluded. Technical Details awaited.\nFurther discussion will held on 20-07-2026\nElectrical Drawing in progress. Expected date of completion :06/08/26 >GA drawing given for mounting plate of all stations.\nComplete IO list station wise derived - 19/08\nElectrical Drawing In progress\nAdditional Siemens IO need to be ordered as per final IO"
         }
       ],
       "completedActivities": []
