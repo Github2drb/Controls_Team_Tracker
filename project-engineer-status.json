@@ -29,6 +29,15 @@
           "internalTarget": "2026-09-28",
           "customerTarget": "2026-09-30",
           "updatedAt": "2026-08-25T09:54:22.551Z"
+        },
+        "harsha k": {
+          "displayName": "Harsha K",
+          "currentStatus": "installation_in_progress",
+          "resourceLockedFrom": "2026-08-31",
+          "resourceLockedTill": "2026-10-30",
+          "internalTarget": "2026-09-29",
+          "customerTarget": "2026-09-30",
+          "updatedAt": "2026-08-25T09:54:48.096Z"
         }
       }
     },
@@ -258,5 +267,5 @@
       }
     }
   },
-  "lastUpdated": "2026-08-25T09:54:22.551Z"
+  "lastUpdated": "2026-08-25T09:54:48.096Z"
 }
