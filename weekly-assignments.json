@@ -446,9 +446,13 @@
           "status": "completed"
         }
       ],
-      "currentStatus": "completed",
+      "currentStatus": "electrical_design",
       "notes": "",
-      "constraint": ""
+      "constraint": "",
+      "resourceLockedFrom": "2026-07-20",
+      "resourceLockedTill": "2026-09-30",
+      "internalTarget": "2026-09-21",
+      "customerTarget": "2026-09-24"
     },
     {
       "id": "wa-1781434328554",
@@ -3333,5 +3337,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-25T07:06:02.502Z"
+  "lastUpdated": "2026-08-25T07:06:39.611Z"
 }
