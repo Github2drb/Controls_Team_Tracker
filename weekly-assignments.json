@@ -115,10 +115,10 @@
       "currentStatus": "waiting_for_materials",
       "notes": "",
       "constraint": "Offline Logic Ready. Electrical Assembly Pending,\nPLC PO not yet created till 31/07/26",
-      "resourceLockedFrom": "2026-03-30",
-      "resourceLockedTill": "2026-05-31",
-      "internalTarget": "2026-05-06",
-      "customerTarget": "2026-05-11"
+      "resourceLockedFrom": "2026-08-25",
+      "resourceLockedTill": "2026-09-30",
+      "internalTarget": "2026-09-15",
+      "customerTarget": "2026-09-14"
     },
     {
       "id": "Eswanth Potnuri, Santhosh N, Anand-2026-03-30-1775039981894",
@@ -3337,5 +3337,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-25T07:18:48.949Z"
+  "lastUpdated": "2026-08-25T07:19:47.920Z"
 }
