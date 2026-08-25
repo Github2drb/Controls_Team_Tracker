@@ -425,7 +425,7 @@
       "tasks": [],
       "currentStatus": "trials_stage",
       "notes": "Trial Support",
-      "constraint": "RFID with new Gripper logic need to be implemented",
+      "constraint": "RFID with new Gripper logic need to be implemented\nIndexing with new gripper,keyence profile integration need to be checked - 25-08-26",
       "resourceLockedFrom": "2025-06-04",
       "resourceLockedTill": "2026-08-31",
       "internalTarget": "2026-07-17",
@@ -3333,5 +3333,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-25T05:30:01.640Z"
+  "lastUpdated": "2026-08-25T05:31:23.574Z"
 }
