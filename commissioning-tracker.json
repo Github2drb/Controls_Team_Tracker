@@ -230,7 +230,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "",
-          "status": "ready_for_trials",
+          "status": "completed",
           "notes": "",
           "images": []
         },
@@ -241,7 +241,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "",
-          "status": "ready_for_trials",
+          "status": "completed",
           "notes": "",
           "images": []
         },
@@ -252,7 +252,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "",
-          "status": "ready_for_trials",
+          "status": "completed",
           "notes": "",
           "images": []
         },
@@ -263,7 +263,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "",
-          "status": "ready_for_trials",
+          "status": "completed",
           "notes": "",
           "images": []
         },
@@ -422,7 +422,9 @@
             {
               "id": "msmpln3hths9zi",
               "text": "Checklist to be duly filled with standard template",
-              "done": false
+              "done": true,
+              "doneBy": "Admin",
+              "doneAt": "2026-08-25T11:52:44.510Z"
             },
             {
               "id": "msmpln3hc1b16k",
@@ -439,14 +441,11 @@
               "doneAt": "2026-08-11T15:14:48.974Z"
             },
             {
-              "id": "msmpln3hb36j3s",
-              "text": "ID Scanner Configuration",
-              "done": false
-            },
-            {
               "id": "msmpln3hk7xryj",
               "text": "Vision IP Configuration",
-              "done": false
+              "done": true,
+              "doneBy": "Admin",
+              "doneAt": "2026-08-25T11:52:42.590Z"
             }
           ]
         },
@@ -465,12 +464,16 @@
             {
               "id": "msmpln3h0yyfqr",
               "text": "Servo Check",
-              "done": false
+              "done": true,
+              "doneBy": "Admin",
+              "doneAt": "2026-08-25T11:52:38.247Z"
             },
             {
               "id": "msmpln3ht41anb",
               "text": "Vision Check",
-              "done": false
+              "done": true,
+              "doneBy": "Admin",
+              "doneAt": "2026-08-25T11:52:38.960Z"
             }
           ]
         },
@@ -496,7 +499,7 @@
           ]
         }
       ],
-      "lastUpdated": "2026-08-18T05:36:28.223Z",
+      "lastUpdated": "2026-08-25T11:52:59.815Z",
       "updatedBy": "Admin"
     },
     "[3a-cc1-26040] classified cycling-7sp hub assembly & eo": {
@@ -1231,5 +1234,5 @@
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-08-25T11:09:14.413Z"
+  "lastUpdated": "2026-08-25T11:52:59.815Z"
 }
