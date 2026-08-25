@@ -1277,10 +1277,10 @@
       "engineerName": "Deekshitha HC",
       "weekStart": "2026-07-06",
       "projectName": "3A-DK1-25077-Dehydration Project",
-      "resourceLockedFrom": "",
-      "resourceLockedTill": "",
-      "internalTarget": "",
-      "customerTarget": "",
+      "resourceLockedFrom": "2026-01-01",
+      "resourceLockedTill": "2026-07-30",
+      "internalTarget": "2026-07-17",
+      "customerTarget": "2026-08-19",
       "tasks": [
         {
           "id": "t-1783334538227",
@@ -3337,5 +3337,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-25T07:35:07.141Z"
+  "lastUpdated": "2026-08-25T07:36:03.558Z"
 }
