@@ -277,9 +277,18 @@
           "internalTarget": "2026-09-15",
           "customerTarget": "2026-09-18",
           "updatedAt": "2026-08-25T09:55:10.801Z"
+        },
+        "indrakumar": {
+          "displayName": "Indrakumar",
+          "currentStatus": "waiting_for_materials",
+          "resourceLockedFrom": "2026-08-26",
+          "resourceLockedTill": "2026-09-30",
+          "internalTarget": "2026-09-14",
+          "customerTarget": "2026-09-18",
+          "updatedAt": "2026-08-25T09:55:28.594Z"
         }
       }
     }
   },
-  "lastUpdated": "2026-08-25T09:55:10.801Z"
+  "lastUpdated": "2026-08-25T09:55:28.594Z"
 }
