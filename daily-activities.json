@@ -10205,6 +10205,10 @@
         {
           "id": "wa-1787642486155-oivr",
           "text": "[3A-DK2-25142_STEP 4 - Dehydration] DAP Completed"
+        },
+        {
+          "id": "wa-1787643573522-y8v1",
+          "text": "[3A-IS1-26051 Final Line Filling Equipment Interlinking with Conveyor] Electrical Drawing Except PLC IO Address"
         }
       ],
       "completedActivities": []
@@ -10216,6 +10220,10 @@
         {
           "id": "wa-1787642486155-9x44",
           "text": "[3A-DK2-25142_STEP 4 - Dehydration] DAP Completed"
+        },
+        {
+          "id": "wa-1787643573522-p5bg",
+          "text": "[3A-IS1-26051 Final Line Filling Equipment Interlinking with Conveyor] Electrical Drawing Except PLC IO Address"
         }
       ],
       "completedActivities": []
@@ -10227,6 +10235,10 @@
         {
           "id": "wa-1787642486156-pxmb",
           "text": "[3A-DK2-25142_STEP 4 - Dehydration] DAP Completed"
+        },
+        {
+          "id": "wa-1787643573523-93ct",
+          "text": "[3A-IS1-26051 Final Line Filling Equipment Interlinking with Conveyor] Electrical Drawing Except PLC IO Address"
         }
       ],
       "completedActivities": []
@@ -10317,6 +10329,39 @@
         {
           "id": "wa-1787643308518-d26s",
           "text": "[3A-DK1-25077-Dehydration Project] CC link IE Field Completed\nQ26UDV installed.\nHandy HMI Address assignment for Q PLC\nDry Cycle with Single PLC Completed\nSQD and IOT points to be closed(10no's)\nIOT Communication Pending\nPilot Trials on 29th second half and 30th Completed.\nOutward station pallet move interlock, Pick to Bin senor logic and Return Conveyor buffering using additional sensor needs to be completed on 14-08-2026.\nMES Integration on 14-08. -Communication completed with customer IOT server.\nData Saving at IOT server for Dehydration line in progress.-Completed"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Harsha K",
+      "date": "2026-05-28",
+      "targetTasks": [
+        {
+          "id": "wa-1787643573523-osks",
+          "text": "[3A-IS1-26051 Final Line Filling Equipment Interlinking with Conveyor] Electrical Drawing Except PLC IO Address"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Harsha K",
+      "date": "2026-05-29",
+      "targetTasks": [
+        {
+          "id": "wa-1787643573523-21jq",
+          "text": "[3A-IS1-26051 Final Line Filling Equipment Interlinking with Conveyor] Electrical Drawing Except PLC IO Address"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Harsha K",
+      "date": "2026-05-30",
+      "targetTasks": [
+        {
+          "id": "wa-1787643573524-m9a0",
+          "text": "[3A-IS1-26051 Final Line Filling Equipment Interlinking with Conveyor] Electrical Drawing Except PLC IO Address"
         }
       ],
       "completedActivities": []
