@@ -14,7 +14,8 @@
         "device-l842pfrhj",
         "device-rk9qar0jl",
         "admin",
-        "device-jxgp0gr6f"
+        "device-jxgp0gr6f",
+        "device-t0t4nve89"
       ]
     },
     {
@@ -29,7 +30,8 @@
         "__all__",
         "device-rk9qar0jl",
         "admin",
-        "device-jxgp0gr6f"
+        "device-jxgp0gr6f",
+        "device-t0t4nve89"
       ]
     },
     {
@@ -45,7 +47,8 @@
         "__all__",
         "device-rk9qar0jl",
         "admin",
-        "device-jxgp0gr6f"
+        "device-jxgp0gr6f",
+        "device-t0t4nve89"
       ]
     },
     {
@@ -210,7 +213,8 @@
       "link": "",
       "isTicker": false,
       "readBy": [
-        "admin"
+        "admin",
+        "device-t0t4nve89"
       ],
       "author": "Admin",
       "createdAt": "2026-08-17T08:01:36.916Z"
@@ -223,7 +227,8 @@
       "link": "",
       "isTicker": false,
       "readBy": [
-        "admin"
+        "admin",
+        "device-t0t4nve89"
       ],
       "author": "Admin",
       "createdAt": "2026-08-18T07:11:21.911Z"
@@ -243,5 +248,5 @@
       "createdAt": "2026-08-19T07:08:58.383Z"
     }
   ],
-  "lastUpdated": "2026-08-21T04:40:17.021Z"
+  "lastUpdated": "2026-08-25T10:17:10.272Z"
 }
