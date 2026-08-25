@@ -292,7 +292,7 @@
           "status": "in_progress"
         }
       ],
-      "currentStatus": "equipment_handover",
+      "currentStatus": "completed",
       "constraint": "Equipment Study Completed on 07-05-2026\n Electrical Drawing Completed, Material Procurement Completed.\nWiring planned  on 31/07/26 and partially completed\nRemaining Wiring Completion planned on 22-08-2026-completed"
     },
     {
@@ -3337,5 +3337,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-25T07:36:48.708Z"
+  "lastUpdated": "2026-08-25T07:37:40.826Z"
 }
