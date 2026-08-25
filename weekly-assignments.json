@@ -3325,7 +3325,7 @@
           "taskName": "Station-1A and 1B Manual and Auto Testing",
           "type": "weekly",
           "assignedDate": "2026-08-24",
-          "status": "not_started",
+          "status": "in_progress",
           "targetDate": "2026-08-24"
         }
       ],
