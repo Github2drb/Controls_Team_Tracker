@@ -10365,6 +10365,72 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Dhanesh M",
+      "date": "2026-03-30",
+      "targetTasks": [
+        {
+          "id": "wa-1787643684407-rkvv",
+          "text": "[3A-SS1-26012-Sartorius- Glass bead blasting automation] Electrical Assembly in Progress\nOffline PLC and HMI in Progress\nRobot<->PLC Sequence needs to be tested.\nIndex Servo bypassed temporarily\nRobot Assy. Completed at site\nindex motor and Robot communication planned on 31/07/26\nServo Communication not completed as drive has been send for service to Mitsubishi pune. Servo sent for service is unable to use. Alternate servo order has been placed."
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Dhanesh M",
+      "date": "2026-03-31",
+      "targetTasks": [
+        {
+          "id": "wa-1787643684407-l1sc",
+          "text": "[3A-SS1-26012-Sartorius- Glass bead blasting automation] Electrical Assembly in Progress\nOffline PLC and HMI in Progress\nRobot<->PLC Sequence needs to be tested.\nIndex Servo bypassed temporarily\nRobot Assy. Completed at site\nindex motor and Robot communication planned on 31/07/26\nServo Communication not completed as drive has been send for service to Mitsubishi pune. Servo sent for service is unable to use. Alternate servo order has been placed."
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Dhanesh M",
+      "date": "2026-04-01",
+      "targetTasks": [
+        {
+          "id": "wa-1787643684408-jzmj",
+          "text": "[3A-SS1-26012-Sartorius- Glass bead blasting automation] Electrical Assembly in Progress\nOffline PLC and HMI in Progress\nRobot<->PLC Sequence needs to be tested.\nIndex Servo bypassed temporarily\nRobot Assy. Completed at site\nindex motor and Robot communication planned on 31/07/26\nServo Communication not completed as drive has been send for service to Mitsubishi pune. Servo sent for service is unable to use. Alternate servo order has been placed."
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Dhanesh M",
+      "date": "2026-04-02",
+      "targetTasks": [
+        {
+          "id": "wa-1787643684408-mq6d",
+          "text": "[3A-SS1-26012-Sartorius- Glass bead blasting automation] Electrical Assembly in Progress\nOffline PLC and HMI in Progress\nRobot<->PLC Sequence needs to be tested.\nIndex Servo bypassed temporarily\nRobot Assy. Completed at site\nindex motor and Robot communication planned on 31/07/26\nServo Communication not completed as drive has been send for service to Mitsubishi pune. Servo sent for service is unable to use. Alternate servo order has been placed."
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Dhanesh M",
+      "date": "2026-04-03",
+      "targetTasks": [
+        {
+          "id": "wa-1787643684408-6lhu",
+          "text": "[3A-SS1-26012-Sartorius- Glass bead blasting automation] Electrical Assembly in Progress\nOffline PLC and HMI in Progress\nRobot<->PLC Sequence needs to be tested.\nIndex Servo bypassed temporarily\nRobot Assy. Completed at site\nindex motor and Robot communication planned on 31/07/26\nServo Communication not completed as drive has been send for service to Mitsubishi pune. Servo sent for service is unable to use. Alternate servo order has been placed."
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Dhanesh M",
+      "date": "2026-04-04",
+      "targetTasks": [
+        {
+          "id": "wa-1787643684408-f2u5",
+          "text": "[3A-SS1-26012-Sartorius- Glass bead blasting automation] Electrical Assembly in Progress\nOffline PLC and HMI in Progress\nRobot<->PLC Sequence needs to be tested.\nIndex Servo bypassed temporarily\nRobot Assy. Completed at site\nindex motor and Robot communication planned on 31/07/26\nServo Communication not completed as drive has been send for service to Mitsubishi pune. Servo sent for service is unable to use. Alternate servo order has been placed."
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
