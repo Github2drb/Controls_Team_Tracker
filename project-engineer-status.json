@@ -284,10 +284,10 @@
           "displayName": "Veeresh M",
           "currentStatus": "equipment_dispatched",
           "resourceLockedFrom": "2025-11-25",
-          "resourceLockedTill": "2026-08-31",
+          "resourceLockedTill": "2026-08-21",
           "internalTarget": "2026-08-18",
           "customerTarget": "2026-08-21",
-          "updatedAt": "2026-08-25T09:57:06.517Z"
+          "updatedAt": "2026-08-25T10:18:37.261Z"
         },
         "indrakumar": {
           "displayName": "Indrakumar",
@@ -453,5 +453,5 @@
       }
     }
   },
-  "lastUpdated": "2026-08-25T10:17:57.945Z"
+  "lastUpdated": "2026-08-25T10:18:37.262Z"
 }
