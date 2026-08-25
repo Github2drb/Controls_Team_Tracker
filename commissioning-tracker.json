@@ -297,7 +297,7 @@
           "description": "Safety Header Integration",
           "electricalConstraint": "",
           "mechanicalConstraint": "",
-          "trialTime": "",
+          "trialTime": "3 days",
           "status": "not_started",
           "notes": "",
           "images": []
@@ -308,7 +308,7 @@
           "description": "HMI Screens",
           "electricalConstraint": "",
           "mechanicalConstraint": "",
-          "trialTime": "",
+          "trialTime": "2 days",
           "status": "trials_in_progress",
           "notes": "",
           "images": []
@@ -363,7 +363,7 @@
           "description": "Both HMI Manual and Auto Screens Completion as per Standard",
           "electricalConstraint": "",
           "mechanicalConstraint": "",
-          "trialTime": "",
+          "trialTime": "2 days",
           "status": "trials_in_progress",
           "notes": "",
           "images": []
@@ -374,7 +374,7 @@
           "description": "Data Tracking and Saving",
           "electricalConstraint": "",
           "mechanicalConstraint": "",
-          "trialTime": "",
+          "trialTime": "2 days",
           "status": "trials_in_progress",
           "notes": "",
           "images": []
@@ -385,7 +385,7 @@
           "description": "Cycle Time Optimisation",
           "electricalConstraint": "",
           "mechanicalConstraint": "",
-          "trialTime": "",
+          "trialTime": "1 day",
           "status": "trials_in_progress",
           "notes": "",
           "images": []
@@ -396,7 +396,7 @@
           "description": "Documentation",
           "electricalConstraint": "",
           "mechanicalConstraint": "",
-          "trialTime": "",
+          "trialTime": "2 days",
           "status": "trials_in_progress",
           "notes": "",
           "images": []
@@ -488,7 +488,7 @@
           ]
         }
       ],
-      "lastUpdated": "2026-08-25T11:54:46.366Z",
+      "lastUpdated": "2026-08-25T11:55:24.880Z",
       "updatedBy": "Admin"
     },
     "[3a-cc1-26040] classified cycling-7sp hub assembly & eo": {
@@ -1223,5 +1223,5 @@
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-08-25T11:54:46.366Z"
+  "lastUpdated": "2026-08-25T11:55:24.880Z"
 }
