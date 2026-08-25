@@ -20,6 +20,15 @@
           "internalTarget": "2026-09-28",
           "customerTarget": "2026-09-29",
           "updatedAt": "2026-08-25T09:54:02.569Z"
+        },
+        "indrakumar": {
+          "displayName": "Indrakumar",
+          "currentStatus": "installation_in_progress",
+          "resourceLockedFrom": "2026-08-31",
+          "resourceLockedTill": "2026-10-30",
+          "internalTarget": "2026-09-28",
+          "customerTarget": "2026-09-30",
+          "updatedAt": "2026-08-25T09:54:22.551Z"
         }
       }
     },
@@ -249,5 +258,5 @@
       }
     }
   },
-  "lastUpdated": "2026-08-25T09:54:02.569Z"
+  "lastUpdated": "2026-08-25T09:54:22.551Z"
 }
