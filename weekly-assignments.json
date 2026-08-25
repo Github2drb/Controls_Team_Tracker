@@ -509,7 +509,7 @@
       "internalTarget": "2026-07-15",
       "customerTarget": "2026-07-10",
       "tasks": [],
-      "currentStatus": "in_progress",
+      "currentStatus": "equipment_handover",
       "constraint": ""
     },
     {
@@ -3337,5 +3337,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-25T07:07:39.253Z"
+  "lastUpdated": "2026-08-25T07:07:56.284Z"
 }
