@@ -1655,10 +1655,10 @@
       "engineerName": "Deekshitha HC",
       "weekStart": "2026-07-13",
       "projectName": "3A-DK2-25142_STEP 4 - Dehydration",
-      "resourceLockedFrom": "",
-      "resourceLockedTill": "",
-      "internalTarget": "",
-      "customerTarget": "",
+      "resourceLockedFrom": "2026-05-04",
+      "resourceLockedTill": "2026-08-31",
+      "internalTarget": "2026-08-31",
+      "customerTarget": "2026-09-15",
       "tasks": [
         {
           "id": "t-1784213416437",
@@ -3337,5 +3337,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-25T07:08:36.494Z"
+  "lastUpdated": "2026-08-25T07:08:57.248Z"
 }
