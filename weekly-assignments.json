@@ -382,7 +382,7 @@
     },
     {
       "id": "wa-1779862815702",
-      "engineerName": "Ramkumar Annamalai, Veeresh M",
+      "engineerName": "Ramkumar Annamalai",
       "weekStart": "2026-05-25",
       "projectName": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO",
       "resourceLockedFrom": "2026-05-26",
@@ -3333,5 +3333,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-25T07:05:42.987Z"
+  "lastUpdated": "2026-08-25T07:06:02.502Z"
 }
