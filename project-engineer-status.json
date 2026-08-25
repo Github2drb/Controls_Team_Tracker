@@ -365,7 +365,21 @@
           "updatedAt": "2026-08-25T09:56:15.471Z"
         }
       }
+    },
+    "3a-ss1-26012-sartorius- glass bead blasting automation": {
+      "projectName": "3A-SS1-26012-Sartorius- Glass bead blasting automation",
+      "engineers": {
+        "eswanth potnuri": {
+          "displayName": "Eswanth Potnuri",
+          "currentStatus": "installation_in_progress",
+          "resourceLockedFrom": "2026-06-01",
+          "resourceLockedTill": "2026-08-18",
+          "internalTarget": "2026-09-07",
+          "customerTarget": "2026-09-10",
+          "updatedAt": "2026-08-25T09:59:33.889Z"
+        }
+      }
     }
   },
-  "lastUpdated": "2026-08-25T09:59:10.591Z"
+  "lastUpdated": "2026-08-25T09:59:33.889Z"
 }
