@@ -170,6 +170,15 @@
           "internalTarget": "2026-09-03",
           "customerTarget": "2026-09-10",
           "updatedAt": "2026-08-25T09:57:58.083Z"
+        },
+        "veeresh m": {
+          "displayName": "Veeresh M",
+          "currentStatus": "fat",
+          "resourceLockedFrom": "2025-08-04",
+          "resourceLockedTill": "2026-09-10",
+          "internalTarget": "2026-09-08",
+          "customerTarget": "2026-09-09",
+          "updatedAt": "2026-08-25T09:58:26.976Z"
         }
       }
     },
@@ -349,5 +358,5 @@
       }
     }
   },
-  "lastUpdated": "2026-08-25T09:57:58.083Z"
+  "lastUpdated": "2026-08-25T09:58:26.976Z"
 }
