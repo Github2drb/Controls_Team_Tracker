@@ -508,7 +508,7 @@
           "description": "Actuation Assembly-1A",
           "electricalConstraint": "",
           "mechanicalConstraint": "",
-          "trialTime": "",
+          "trialTime": "4 days",
           "status": "not_started",
           "notes": "",
           "images": []
@@ -519,7 +519,7 @@
           "description": "Actuation Assembly-1B",
           "electricalConstraint": "",
           "mechanicalConstraint": "",
-          "trialTime": "",
+          "trialTime": "2 days",
           "status": "not_started",
           "notes": "",
           "images": []
@@ -530,7 +530,7 @@
           "description": "Shift Ring+Input/output Clutch Sub Assembly",
           "electricalConstraint": "",
           "mechanicalConstraint": "",
-          "trialTime": "",
+          "trialTime": "3 days",
           "status": "not_started",
           "notes": "",
           "images": []
@@ -541,7 +541,7 @@
           "description": "Actuation+Output+OWB",
           "electricalConstraint": "",
           "mechanicalConstraint": "",
-          "trialTime": "",
+          "trialTime": "3 days",
           "status": "not_started",
           "notes": "",
           "images": []
@@ -552,7 +552,7 @@
           "description": "PSG 1-2-3 Sub Assembly",
           "electricalConstraint": "",
           "mechanicalConstraint": "",
-          "trialTime": "",
+          "trialTime": " 3 days",
           "status": "not_started",
           "notes": "",
           "images": []
@@ -563,7 +563,7 @@
           "description": "Hub Shell +Complete Assembly",
           "electricalConstraint": "",
           "mechanicalConstraint": "",
-          "trialTime": "",
+          "trialTime": "5 Days",
           "status": "not_started",
           "notes": "",
           "images": []
@@ -574,7 +574,18 @@
           "description": "EOL Station",
           "electricalConstraint": "",
           "mechanicalConstraint": "",
-          "trialTime": "",
+          "trialTime": "4 days",
+          "status": "not_started",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "mt8kakzhh80uf8",
+          "label": "8",
+          "description": "Main and Conveyor",
+          "electricalConstraint": "",
+          "mechanicalConstraint": "",
+          "trialTime": "3 days",
           "status": "not_started",
           "notes": "",
           "images": []
@@ -818,7 +829,7 @@
           ]
         }
       ],
-      "lastUpdated": "2026-08-18T07:00:34.661Z",
+      "lastUpdated": "2026-08-25T11:08:56.473Z",
       "updatedBy": "Admin"
     },
     "dk1-25110- odu assembly auto line": {
@@ -1220,5 +1231,5 @@
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-08-19T06:46:13.988Z"
+  "lastUpdated": "2026-08-25T11:08:56.473Z"
 }
