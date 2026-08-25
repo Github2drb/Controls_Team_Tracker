@@ -706,13 +706,13 @@
     },
     {
       "id": "wa-1782109675960",
-      "engineerName": "",
+      "engineerName": "Veeresh M",
       "weekStart": "2026-06-22",
       "projectName": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO",
-      "resourceLockedFrom": "",
-      "resourceLockedTill": "",
-      "internalTarget": "",
-      "customerTarget": "",
+      "resourceLockedFrom": "2026-07-20",
+      "resourceLockedTill": "2026-09-30",
+      "internalTarget": "2026-09-15",
+      "customerTarget": "2026-09-18",
       "tasks": [
         {
           "id": "t-1782109662654",
@@ -724,7 +724,7 @@
           "completionDate": "2026-07-11"
         }
       ],
-      "currentStatus": "completed",
+      "currentStatus": "electrical_design",
       "constraint": ""
     },
     {
@@ -3333,5 +3333,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-25T05:34:23.893Z"
+  "lastUpdated": "2026-08-25T07:05:42.987Z"
 }
