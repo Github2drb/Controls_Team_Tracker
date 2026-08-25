@@ -375,7 +375,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "",
-          "status": "not_started",
+          "status": "trials_in_progress",
           "notes": "",
           "images": []
         },
@@ -488,7 +488,7 @@
           ]
         }
       ],
-      "lastUpdated": "2026-08-25T11:54:00.728Z",
+      "lastUpdated": "2026-08-25T11:54:46.366Z",
       "updatedBy": "Admin"
     },
     "[3a-cc1-26040] classified cycling-7sp hub assembly & eo": {
@@ -1223,5 +1223,5 @@
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-08-25T11:54:00.728Z"
+  "lastUpdated": "2026-08-25T11:54:46.366Z"
 }
