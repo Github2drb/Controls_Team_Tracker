@@ -227,9 +227,18 @@
           "internalTarget": "2026-09-29",
           "customerTarget": "2026-09-30",
           "updatedAt": "2026-08-25T09:53:11.826Z"
+        },
+        "susanth k m": {
+          "displayName": "Susanth K M",
+          "currentStatus": "electrical_assembly",
+          "resourceLockedFrom": "2026-08-31",
+          "resourceLockedTill": "2026-10-30",
+          "internalTarget": "2026-09-29",
+          "customerTarget": "2026-09-30",
+          "updatedAt": "2026-08-25T09:53:34.948Z"
         }
       }
     }
   },
-  "lastUpdated": "2026-08-25T09:53:11.826Z"
+  "lastUpdated": "2026-08-25T09:53:34.948Z"
 }
