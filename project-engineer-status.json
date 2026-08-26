@@ -305,8 +305,12 @@
       "engineers": {
         "harsha k": {
           "displayName": "Harsha K",
-          "currentStatus": "completed",
-          "updatedAt": "2026-08-21T06:13:01.867Z"
+          "currentStatus": "equipment_handover",
+          "resourceLockedFrom": "2026-01-01",
+          "resourceLockedTill": "2026-09-10",
+          "internalTarget": "2026-09-07",
+          "customerTarget": "2026-09-11",
+          "updatedAt": "2026-08-26T04:08:55.425Z"
         }
       }
     },
@@ -453,5 +457,5 @@
       }
     }
   },
-  "lastUpdated": "2026-08-25T10:18:44.803Z"
+  "lastUpdated": "2026-08-26T04:08:55.425Z"
 }
