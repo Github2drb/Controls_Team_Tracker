@@ -201,7 +201,7 @@
       ],
       "currentStatus": "trials_stage",
       "notes": "Hardware Configuration",
-      "constraint": "DAP Submission\nOffline PLC Program In progress\nCustomer meeting on 26-05(They Shared Safety Documents)\nPanel Mounting plate planned on 31/07/26\nMounting plate assembly completed.\nField Wiring in progress. PLC and HMI Powered up.\nServo Gantry Checked. Auto Cycle in Station-2 and Station-3 in progress.\nStation-4 Auto Cycle completed on 16-07-26\nStation-2 Auto Trials - 18/08\n20-08 - Station-2 Partially ready, Station-3 Not ready. Susanth has been assigned to resume programming activities\nSwapnil has completed Station-2 LH and RH on 22-08 and 23-08\nStation-3 LH Completed and RH trial in progress- Completed\nStation-4 LH Completed and RH trial in progress-Completed\nAlarms, Recipe pending"
+      "constraint": "DAP Submission\nOffline PLC Program In progress\nCustomer meeting on 26-05(They Shared Safety Documents)\nPanel Mounting plate planned on 31/07/26\nMounting plate assembly completed.\nField Wiring in progress. PLC and HMI Powered up.\nServo Gantry Checked. Auto Cycle in Station-2 and Station-3 in progress.\nStation-4 Auto Cycle completed on 16-07-26\nStation-2 Auto Trials - 18/08\n20-08 - Station-2 Partially ready, Station-3 Not ready. Susanth has been assigned to resume programming activities\nSwapnil has completed Station-2 LH and RH on 22-08 and 23-08\nStation-3 LH Completed and RH trial in progress- Completed\nStation-4 LH Completed and RH trial in progress-Completed\nAlarms, Recipe pending\n46P,6P Receptacle,46P Tab Sequence check completed on 26-08-26"
     },
     {
       "id": "wa-1776664930168",
@@ -3337,5 +3337,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-27T04:09:19.881Z"
+  "lastUpdated": "2026-08-27T04:10:03.625Z"
 }
