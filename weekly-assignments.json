@@ -212,7 +212,7 @@
       "tasks": [],
       "currentStatus": "fat",
       "notes": "Washer Gantry Pick and Place and All gantry Initialization",
-      "constraint": "Washer Gantry new logic validation completed.\nMachine Stopping abruptly due to communication cable.\nReplacing Manually Crimped cables with machine crimped cables are in progress.\nFixture Clamp on both sides of conveyor removed.\nCycle time optimization done.\nAwaiting for F.A.T\nPurging, Picking second if first part slip logic need to be included for cycle time optimisation",
+      "constraint": "Washer Gantry new logic validation completed.\nMachine Stopping abruptly due to communication cable.\nReplacing Manually Crimped cables with machine crimped cables are in progress.\nFixture Clamp on both sides of conveyor removed.\nCycle time optimization done.\nAwaiting for F.A.T\nPurging, Picking second if first part slip logic need to be included for cycle time optimization- Completed at conveyor side",
       "resourceLockedFrom": "2025-11-01",
       "resourceLockedTill": "2026-09-30",
       "internalTarget": "2026-08-28",
@@ -3337,5 +3337,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-27T04:08:02.491Z"
+  "lastUpdated": "2026-08-27T04:08:18.181Z"
 }
