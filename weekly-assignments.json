@@ -3269,8 +3269,9 @@
           "taskName": "Purge and Cycle time Optimization",
           "type": "weekly",
           "assignedDate": "2026-08-24",
-          "status": "in_progress",
-          "targetDate": "2026-08-24"
+          "status": "completed",
+          "targetDate": "2026-08-24",
+          "completionDate": "2026-08-28"
         }
       ],
       "currentStatus": "completed",
