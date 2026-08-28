@@ -91,7 +91,7 @@
       ],
       "currentStatus": "installation_in_progress",
       "notes": "",
-      "constraint": "Control Panel Assembled with PLC - 3 no's\nSent to customer site for installation.\nMechanical installation in progress",
+      "constraint": "Control Panel Assembled with PLC - 3 no's\nSent to customer site for installation.\nMechanical installation in progress\nIndra Kumar has been planned for line study and gather offline PLC and HMI backup from 29/08 to 03/09",
       "resourceLockedFrom": "2026-03-23",
       "resourceLockedTill": "2026-09-30",
       "internalTarget": "2026-08-31",
@@ -3338,5 +3338,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-28T07:10:14.239Z"
+  "lastUpdated": "2026-08-28T07:11:05.082Z"
 }
