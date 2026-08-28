@@ -137,7 +137,7 @@
       ],
       "currentStatus": "installation_in_progress",
       "notes": "",
-      "constraint": "Electrical Assembly in Progress\nOffline PLC and HMI in Progress\nRobot<->PLC Sequence needs to be tested.\nIndex Servo bypassed temporarily\nRobot Assy. Completed at site\nindex motor and Robot communication planned on 31/07/26\nServo Communication not completed as drive has been send for service to Mitsubishi pune. Servo sent for service is unable to use. Alternate servo order has been placed.\nDhanesh will resume controls activity from 31/08",
+      "constraint": "Electrical Assembly in Progress\nOffline PLC and HMI in Progress\nRobot<->PLC Sequence needs to be tested.\nIndex Servo bypassed temporarily\nRobot Assy. Completed at site\nindex motor and Robot communication planned on 31/07/26\nServo Communication not completed as drive has been send for service to Mitsubishi pune. Servo sent for service is unable to use. Alternate servo order has been placed. - received\nDhanesh will resume controls activity from 31/08",
       "resourceLockedFrom": "2026-03-17",
       "resourceLockedTill": "2026-08-31",
       "internalTarget": "2026-08-24",
@@ -3338,5 +3338,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-28T07:07:50.724Z"
+  "lastUpdated": "2026-08-28T07:08:07.331Z"
 }
