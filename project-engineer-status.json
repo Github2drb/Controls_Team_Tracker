@@ -100,15 +100,6 @@
           "customerTarget": "2026-08-28",
           "updatedAt": "2026-08-18T11:08:27.786Z"
         },
-        "eswanth potnuri": {
-          "displayName": "Eswanth Potnuri",
-          "currentStatus": "trials_stage",
-          "resourceLockedFrom": "2026-06-01",
-          "resourceLockedTill": "2026-08-19",
-          "internalTarget": "2026-08-21",
-          "customerTarget": "2026-08-26",
-          "updatedAt": "2026-08-25T10:00:41.742Z"
-        },
         "santhosh n": {
           "displayName": "Santhosh N",
           "currentStatus": "trials_stage",
@@ -457,5 +448,5 @@
       }
     }
   },
-  "lastUpdated": "2026-08-28T13:54:46.543Z"
+  "lastUpdated": "2026-08-29T10:38:28.155Z"
 }
