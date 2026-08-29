@@ -10431,6 +10431,72 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Dhanesh M",
+      "date": "2026-04-06",
+      "targetTasks": [
+        {
+          "id": "wa-1787999893832-cv5l",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Hardware Configuration"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Dhanesh M",
+      "date": "2026-04-07",
+      "targetTasks": [
+        {
+          "id": "wa-1787999893832-kolx",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Hardware Configuration"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Dhanesh M",
+      "date": "2026-04-08",
+      "targetTasks": [
+        {
+          "id": "wa-1787999893832-e9zh",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Hardware Configuration"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Dhanesh M",
+      "date": "2026-04-09",
+      "targetTasks": [
+        {
+          "id": "wa-1787999893832-trw7",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Hardware Configuration"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Dhanesh M",
+      "date": "2026-04-10",
+      "targetTasks": [
+        {
+          "id": "wa-1787999893832-2t0t",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Hardware Configuration"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Dhanesh M",
+      "date": "2026-04-11",
+      "targetTasks": [
+        {
+          "id": "wa-1787999893832-3o3d",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Hardware Configuration"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
