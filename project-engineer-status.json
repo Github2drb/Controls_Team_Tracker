@@ -117,6 +117,15 @@
           "internalTarget": "2026-09-07",
           "customerTarget": "2026-09-10",
           "updatedAt": "2026-08-25T10:01:26.704Z"
+        },
+        "dhanesh m": {
+          "displayName": "Dhanesh M",
+          "currentStatus": "trials_stage",
+          "resourceLockedFrom": "2026-08-31",
+          "resourceLockedTill": "2026-09-04",
+          "internalTarget": "2026-08-31",
+          "customerTarget": "2026-09-01",
+          "updatedAt": "2026-08-29T10:39:51.662Z"
         }
       }
     },
@@ -448,5 +457,5 @@
       }
     }
   },
-  "lastUpdated": "2026-08-29T10:38:28.155Z"
+  "lastUpdated": "2026-08-29T10:39:51.662Z"
 }
