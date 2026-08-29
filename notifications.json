@@ -254,10 +254,12 @@
       "type": "info",
       "link": "",
       "isTicker": true,
-      "readBy": [],
+      "readBy": [
+        "device-nm8fimwig"
+      ],
       "author": "Admin",
       "createdAt": "2026-08-29T10:48:31.137Z"
     }
   ],
-  "lastUpdated": "2026-08-29T10:48:35.097Z"
+  "lastUpdated": "2026-08-29T11:52:12.891Z"
 }
