@@ -246,7 +246,18 @@
       ],
       "author": "Admin",
       "createdAt": "2026-08-19T07:08:58.383Z"
+    },
+    {
+      "id": "notif-1788000511137",
+      "title": "Engineers Deployed to Site for Installation- 31/08/2026",
+      "message": "Susanth - DK1-25110- ODU Assembly auto line Installation\nHarsha KA - 3A-DK1-25077-Dehydration Project - Production Support\nIndrakumar - 3A-DK2-25143 - STEP 4-Leak Testing Machine\n",
+      "type": "info",
+      "link": "",
+      "isTicker": false,
+      "readBy": [],
+      "author": "Admin",
+      "createdAt": "2026-08-29T10:48:31.137Z"
     }
   ],
-  "lastUpdated": "2026-08-25T10:17:10.272Z"
+  "lastUpdated": "2026-08-29T10:48:31.138Z"
 }
