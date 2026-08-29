@@ -1020,9 +1020,9 @@
       "weekStart": "2026-06-29",
       "projectName": "3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector",
       "resourceLockedFrom": "2026-03-02",
-      "resourceLockedTill": "2026-08-30",
+      "resourceLockedTill": "2026-09-04",
       "internalTarget": "2026-07-25",
-      "customerTarget": "2026-07-28",
+      "customerTarget": "2026-08-29",
       "tasks": [
         {
           "id": "t-1782800259590",
@@ -3338,5 +3338,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-29T10:38:12.662Z"
+  "lastUpdated": "2026-08-29T10:40:38.667Z"
 }
