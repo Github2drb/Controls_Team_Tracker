@@ -17,7 +17,8 @@
         "device-jxgp0gr6f",
         "device-t0t4nve89",
         "device-nm8fimwig",
-        "device-blp7dfr6r"
+        "device-blp7dfr6r",
+        "device-if0x34fpf"
       ]
     },
     {
@@ -35,7 +36,8 @@
         "device-jxgp0gr6f",
         "device-t0t4nve89",
         "device-nm8fimwig",
-        "device-blp7dfr6r"
+        "device-blp7dfr6r",
+        "device-if0x34fpf"
       ]
     },
     {
@@ -54,7 +56,8 @@
         "device-jxgp0gr6f",
         "device-t0t4nve89",
         "device-nm8fimwig",
-        "device-blp7dfr6r"
+        "device-blp7dfr6r",
+        "device-if0x34fpf"
       ]
     },
     {
@@ -74,7 +77,8 @@
         "device-zlfrrv9e7",
         "device-mik8699nq",
         "device-jxgp0gr6f",
-        "device-nm8fimwig"
+        "device-nm8fimwig",
+        "device-if0x34fpf"
       ],
       "author": "Admin",
       "createdAt": "2026-06-13T04:14:45.670Z"
@@ -96,7 +100,8 @@
         "device-y0cm3f1se",
         "device-mik8699nq",
         "device-jxgp0gr6f",
-        "device-nm8fimwig"
+        "device-nm8fimwig",
+        "device-if0x34fpf"
       ],
       "author": "Admin",
       "createdAt": "2026-06-13T07:10:51.821Z"
@@ -119,7 +124,8 @@
         "device-y0cm3f1se",
         "device-mik8699nq",
         "device-jxgp0gr6f",
-        "device-nm8fimwig"
+        "device-nm8fimwig",
+        "device-if0x34fpf"
       ],
       "author": "Admin",
       "createdAt": "2026-06-15T05:34:25.116Z"
@@ -143,7 +149,8 @@
         "device-5lkeu22dq",
         "device-mik8699nq",
         "device-jxgp0gr6f",
-        "device-nm8fimwig"
+        "device-nm8fimwig",
+        "device-if0x34fpf"
       ],
       "author": "Admin",
       "createdAt": "2026-06-24T08:38:38.670Z"
@@ -165,7 +172,8 @@
         "device-5lkeu22dq",
         "device-mik8699nq",
         "device-jxgp0gr6f",
-        "device-nm8fimwig"
+        "device-nm8fimwig",
+        "device-if0x34fpf"
       ],
       "author": "Admin",
       "createdAt": "2026-07-11T04:26:40.853Z"
@@ -183,7 +191,8 @@
         "device-5lkeu22dq",
         "admin",
         "device-nm8fimwig",
-        "device-blp7dfr6r"
+        "device-blp7dfr6r",
+        "device-if0x34fpf"
       ],
       "author": "Admin",
       "createdAt": "2026-07-31T12:42:26.849Z"
@@ -201,7 +210,8 @@
         "device-t0t4nve89",
         "admin",
         "device-nm8fimwig",
-        "device-blp7dfr6r"
+        "device-blp7dfr6r",
+        "device-if0x34fpf"
       ],
       "author": "Admin",
       "createdAt": "2026-08-04T00:34:53.035Z"
@@ -217,7 +227,8 @@
         "device-t0t4nve89",
         "admin",
         "device-nm8fimwig",
-        "device-blp7dfr6r"
+        "device-blp7dfr6r",
+        "device-if0x34fpf"
       ],
       "author": "Admin",
       "createdAt": "2026-08-12T10:38:58.999Z"
@@ -233,7 +244,8 @@
         "admin",
         "device-t0t4nve89",
         "device-nm8fimwig",
-        "device-blp7dfr6r"
+        "device-blp7dfr6r",
+        "device-if0x34fpf"
       ],
       "author": "Admin",
       "createdAt": "2026-08-17T08:01:36.916Z"
@@ -249,7 +261,8 @@
         "admin",
         "device-t0t4nve89",
         "device-nm8fimwig",
-        "device-blp7dfr6r"
+        "device-blp7dfr6r",
+        "device-if0x34fpf"
       ],
       "author": "Admin",
       "createdAt": "2026-08-18T07:11:21.911Z"
@@ -265,7 +278,8 @@
         "admin",
         "device-t0t4nve89",
         "device-nm8fimwig",
-        "device-blp7dfr6r"
+        "device-blp7dfr6r",
+        "device-if0x34fpf"
       ],
       "author": "Admin",
       "createdAt": "2026-08-19T07:08:58.383Z"
@@ -280,11 +294,12 @@
       "readBy": [
         "device-nm8fimwig",
         "device-blp7dfr6r",
-        "device-t0t4nve89"
+        "device-t0t4nve89",
+        "device-if0x34fpf"
       ],
       "author": "Admin",
       "createdAt": "2026-08-29T10:48:31.137Z"
     }
   ],
-  "lastUpdated": "2026-08-31T05:02:20.724Z"
+  "lastUpdated": "2026-08-31T08:25:11.520Z"
 }
