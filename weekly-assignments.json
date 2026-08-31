@@ -3444,7 +3444,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1788151729788",
+      "engineerName": "Dhanesh M",
+      "weekStart": "2026-08-31",
+      "projectName": "3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1788151717408",
+          "taskName": "PLC Training to customer and sign off",
+          "type": "daily",
+          "assignedDate": "2026-09-01",
+          "status": "not_started",
+          "targetDate": "2026-09-01"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-31T04:47:41.264Z"
+  "lastUpdated": "2026-08-31T04:48:49.788Z"
 }
