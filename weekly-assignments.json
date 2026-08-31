@@ -3532,7 +3532,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1788151920826",
+      "engineerName": "Harsha K",
+      "weekStart": "2026-08-31",
+      "projectName": "3A-DK1-25077-Dehydration Project",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1788151909475",
+          "taskName": "Production Trial final support",
+          "type": "daily",
+          "assignedDate": "2026-08-31",
+          "status": "not_started",
+          "targetDate": "2026-08-31"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-31T04:51:28.401Z"
+  "lastUpdated": "2026-08-31T04:52:00.826Z"
 }
