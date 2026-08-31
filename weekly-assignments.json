@@ -3488,7 +3488,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1788151850495",
+      "engineerName": "Indrakumar",
+      "weekStart": "2026-08-31",
+      "projectName": "3A-DK2-25143_STEP 4-Leak Testing Machine",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1788151838763",
+          "taskName": "Get Program and HMI backup from customer. Study Line",
+          "type": "weekly",
+          "assignedDate": "2026-08-31",
+          "status": "not_started",
+          "targetDate": "2026-08-31"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-31T04:50:05.875Z"
+  "lastUpdated": "2026-08-31T04:50:50.495Z"
 }
