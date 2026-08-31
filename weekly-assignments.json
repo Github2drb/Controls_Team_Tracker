@@ -3398,7 +3398,53 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1788151661264",
+      "engineerName": "Dhanesh M",
+      "weekStart": "2026-08-31",
+      "projectName": "3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1788151605031",
+          "taskName": "Station-3 Trials inline with Station-2",
+          "type": "daily",
+          "assignedDate": "2026-08-31",
+          "status": "not_started",
+          "targetDate": "2026-08-31"
+        },
+        {
+          "id": "t-1788151623107",
+          "taskName": "Get Festo Support to increase Gantry speed in Station2 & 3",
+          "type": "daily",
+          "assignedDate": "2026-08-31",
+          "status": "not_started",
+          "targetDate": "2026-08-31"
+        },
+        {
+          "id": "t-1788151636083",
+          "taskName": "Alarm Messages Check",
+          "type": "daily",
+          "assignedDate": "2026-08-31",
+          "status": "not_started",
+          "targetDate": "2026-08-31"
+        },
+        {
+          "id": "t-1788151649958",
+          "taskName": "Cycle Start Conditions indicator in HMI",
+          "type": "daily",
+          "assignedDate": "2026-08-31",
+          "status": "not_started",
+          "targetDate": "2026-08-31"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-31T04:46:24.568Z"
+  "lastUpdated": "2026-08-31T04:47:41.264Z"
 }
