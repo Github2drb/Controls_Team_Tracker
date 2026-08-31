@@ -3336,7 +3336,69 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1788151584568",
+      "engineerName": "Susanth K M",
+      "weekStart": "2026-08-31",
+      "projectName": "DK1-25110- ODU Assembly auto line",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1788151526444",
+          "taskName": "Individual Cycle trials - station-2,3,4,5",
+          "type": "daily",
+          "assignedDate": "2026-08-31",
+          "status": "not_started",
+          "targetDate": "2026-08-31"
+        },
+        {
+          "id": "t-1788151541475",
+          "taskName": "Individual Cycle Trials Station-6,7,8,9,10",
+          "type": "daily",
+          "assignedDate": "2026-09-01",
+          "status": "not_started",
+          "targetDate": "2026-09-01"
+        },
+        {
+          "id": "t-1788151552830",
+          "taskName": "Auto Cycle Trials",
+          "type": "weekly",
+          "assignedDate": "2026-09-01",
+          "status": "not_started",
+          "targetDate": "2026-09-01"
+        },
+        {
+          "id": "t-1788151559445",
+          "taskName": "Safety Logic Integration",
+          "type": "weekly",
+          "assignedDate": "2026-09-01",
+          "status": "not_started",
+          "targetDate": "2026-09-01"
+        },
+        {
+          "id": "t-1788151565400",
+          "taskName": "HMI Screens completion",
+          "type": "weekly",
+          "assignedDate": "2026-09-01",
+          "status": "not_started",
+          "targetDate": "2026-09-01"
+        },
+        {
+          "id": "t-1788151573268",
+          "taskName": "RFID Data Tracking",
+          "type": "weekly",
+          "assignedDate": "2026-09-01",
+          "status": "not_started",
+          "targetDate": "2026-09-01"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-31T04:42:30.409Z"
+  "lastUpdated": "2026-08-31T04:46:24.568Z"
 }
