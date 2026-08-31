@@ -3510,7 +3510,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1788151888401",
+      "engineerName": "Ramkumar Annamalai",
+      "weekStart": "2026-08-31",
+      "projectName": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1788151876353",
+          "taskName": "Station-3 and 4 Offline PLC and HMI  Development",
+          "type": "weekly",
+          "assignedDate": "2026-08-31",
+          "status": "not_started",
+          "targetDate": "2026-08-31"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-31T04:50:50.495Z"
+  "lastUpdated": "2026-08-31T04:51:28.401Z"
 }
