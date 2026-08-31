@@ -10563,6 +10563,72 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Dhanesh M",
+      "date": "2026-08-31",
+      "targetTasks": [
+        {
+          "id": "wa-1788151662275-n9gb",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Dhanesh M",
+      "date": "2026-09-01",
+      "targetTasks": [
+        {
+          "id": "wa-1788151662276-84dz",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Dhanesh M",
+      "date": "2026-09-02",
+      "targetTasks": [
+        {
+          "id": "wa-1788151662276-gzwe",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Dhanesh M",
+      "date": "2026-09-03",
+      "targetTasks": [
+        {
+          "id": "wa-1788151662277-1v77",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Dhanesh M",
+      "date": "2026-09-04",
+      "targetTasks": [
+        {
+          "id": "wa-1788151662277-p6r0",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Dhanesh M",
+      "date": "2026-09-05",
+      "targetTasks": [
+        {
+          "id": "wa-1788151662277-khkh",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Weekly project task"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
