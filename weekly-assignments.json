@@ -3576,7 +3576,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1788154978882",
+      "engineerName": "Indrakumar",
+      "weekStart": "2026-08-31",
+      "projectName": "DK1-25110- ODU Assembly auto line",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1788154967632",
+          "taskName": "Mitsubishi MR-J4 Servo Issue Support from Manoj",
+          "type": "daily",
+          "assignedDate": "2026-08-31",
+          "status": "not_started",
+          "targetDate": "2026-08-31"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-31T05:01:14.768Z"
+  "lastUpdated": "2026-08-31T05:42:58.882Z"
 }
