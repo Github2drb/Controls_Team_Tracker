@@ -3554,7 +3554,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1788152474768",
+      "engineerName": "Veeresh M",
+      "weekStart": "2026-08-31",
+      "projectName": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1788152463481",
+          "taskName": "Electrical Drawing Completion",
+          "type": "weekly",
+          "assignedDate": "2026-08-31",
+          "status": "not_started",
+          "targetDate": "2026-08-31"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-31T04:52:00.826Z"
+  "lastUpdated": "2026-08-31T05:01:14.768Z"
 }
