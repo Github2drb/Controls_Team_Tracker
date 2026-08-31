@@ -10677,6 +10677,72 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Indrakumar",
+      "date": "2026-08-31",
+      "targetTasks": [
+        {
+          "id": "wa-1788151851703-rc7p",
+          "text": "[3A-DK2-25143_STEP 4-Leak Testing Machine] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Indrakumar",
+      "date": "2026-09-01",
+      "targetTasks": [
+        {
+          "id": "wa-1788151851703-qnk9",
+          "text": "[3A-DK2-25143_STEP 4-Leak Testing Machine] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Indrakumar",
+      "date": "2026-09-02",
+      "targetTasks": [
+        {
+          "id": "wa-1788151851704-gj31",
+          "text": "[3A-DK2-25143_STEP 4-Leak Testing Machine] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Indrakumar",
+      "date": "2026-09-03",
+      "targetTasks": [
+        {
+          "id": "wa-1788151851704-mvdw",
+          "text": "[3A-DK2-25143_STEP 4-Leak Testing Machine] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Indrakumar",
+      "date": "2026-09-04",
+      "targetTasks": [
+        {
+          "id": "wa-1788151851705-wh9v",
+          "text": "[3A-DK2-25143_STEP 4-Leak Testing Machine] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Indrakumar",
+      "date": "2026-09-05",
+      "targetTasks": [
+        {
+          "id": "wa-1788151851705-21sc",
+          "text": "[3A-DK2-25143_STEP 4-Leak Testing Machine] Weekly project task"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
