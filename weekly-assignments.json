@@ -3422,8 +3422,9 @@
           "taskName": "Get Festo Support to increase Gantry speed in Station2 & 3",
           "type": "daily",
           "assignedDate": "2026-08-31",
-          "status": "in_progress",
-          "targetDate": "2026-08-31"
+          "status": "completed",
+          "targetDate": "2026-08-31",
+          "completionDate": "2026-08-31"
         },
         {
           "id": "t-1788151636083",
