@@ -3414,8 +3414,9 @@
           "taskName": "Station-3 Trials inline with Station-2",
           "type": "daily",
           "assignedDate": "2026-08-31",
-          "status": "in_progress",
-          "targetDate": "2026-08-31"
+          "status": "completed",
+          "targetDate": "2026-08-31",
+          "completionDate": "2026-09-01"
         },
         {
           "id": "t-1788151623107",
