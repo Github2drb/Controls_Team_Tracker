@@ -2268,10 +2268,10 @@
       "engineerName": "Eswanth Potnuri",
       "weekStart": "2026-07-27",
       "projectName": "3A-SS1-26012-Sartorius- Glass bead blasting automation",
-      "resourceLockedFrom": "",
-      "resourceLockedTill": "",
-      "internalTarget": "",
-      "customerTarget": "",
+      "resourceLockedFrom": "2026-03-02",
+      "resourceLockedTill": "2026-08-19",
+      "internalTarget": "2026-08-18",
+      "customerTarget": "2026-08-19",
       "tasks": [
         {
           "id": "t-1785471887622",
@@ -2282,8 +2282,8 @@
           "targetDate": "2026-07-31"
         }
       ],
-      "currentStatus": "in_progress",
-      "constraint": ""
+      "currentStatus": "completed",
+      "constraint": "Relieved from Project from 19-08-26"
     },
     {
       "id": "wa-1785731081877",
@@ -3601,5 +3601,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-09-01T07:08:42.652Z"
+  "lastUpdated": "2026-09-01T07:09:34.739Z"
 }
