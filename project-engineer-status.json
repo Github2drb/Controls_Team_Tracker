@@ -120,12 +120,12 @@
         },
         "dhanesh m": {
           "displayName": "Dhanesh M",
-          "currentStatus": "completed",
+          "currentStatus": "fat",
           "resourceLockedFrom": "2026-08-31",
-          "resourceLockedTill": "2026-08-26",
-          "internalTarget": "2026-08-26",
-          "customerTarget": "2026-08-28",
-          "updatedAt": "2026-08-29T10:42:48.773Z"
+          "resourceLockedTill": "2026-09-04",
+          "internalTarget": "2026-09-03",
+          "customerTarget": "2026-09-03",
+          "updatedAt": "2026-09-01T07:12:15.573Z"
         },
         "eswanth potnuri": {
           "displayName": "Eswanth Potnuri",
@@ -466,5 +466,5 @@
       }
     }
   },
-  "lastUpdated": "2026-09-01T07:11:33.124Z"
+  "lastUpdated": "2026-09-01T07:12:15.573Z"
 }
