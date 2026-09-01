@@ -199,7 +199,7 @@
           "status": "completed"
         }
       ],
-      "currentStatus": "trials_stage",
+      "currentStatus": "fat",
       "notes": "Hardware Configuration",
       "constraint": "DAP Submission\nOffline PLC Program In progress\nCustomer meeting on 26-05(They Shared Safety Documents)\nPanel Mounting plate planned on 31/07/26\nMounting plate assembly completed.\nField Wiring in progress. PLC and HMI Powered up.\nServo Gantry Checked. Auto Cycle in Station-2 and Station-3 in progress.\nStation-4 Auto Cycle completed on 16-07-26\nStation-2 Auto Trials - 18/08\n20-08 - Station-2 Partially ready, Station-3 Not ready. Susanth has been assigned to resume programming activities\nSwapnil has completed Station-2 LH and RH on 22-08 and 23-08\nStation-3 LH Completed and RH trial in progress- Completed\nStation-4 LH Completed and RH trial in progress-Completed\nAlarms, Recipe pending\n46P,6P Receptacle,46P Tab Sequence check completed on 26-08-26\nCycle Time optimization in progress\nStation-2 Sequence positions changed\nStation-3 Sequence position needs to be modified inline with station-2 as on 29-08-2026.\nFesto Support planned for increasing gantry speed - 31-08-26 - Completed\nStation-2 Z Axis Safe Distance to be increased to 130mm\nStation-3 Logic Completed. Trials need to be taken for all variants"
     },
@@ -3601,5 +3601,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-09-01T07:10:37.386Z"
+  "lastUpdated": "2026-09-01T07:12:29.082Z"
 }
