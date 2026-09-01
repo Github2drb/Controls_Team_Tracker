@@ -126,6 +126,15 @@
           "internalTarget": "2026-08-26",
           "customerTarget": "2026-08-28",
           "updatedAt": "2026-08-29T10:42:48.773Z"
+        },
+        "eswanth potnuri": {
+          "displayName": "Eswanth Potnuri",
+          "currentStatus": "completed",
+          "resourceLockedFrom": "2026-03-02",
+          "resourceLockedTill": "2026-08-18",
+          "internalTarget": "2026-08-17",
+          "customerTarget": "2026-08-19",
+          "updatedAt": "2026-09-01T07:11:19.972Z"
         }
       }
     },
@@ -457,5 +466,5 @@
       }
     }
   },
-  "lastUpdated": "2026-08-29T10:42:48.773Z"
+  "lastUpdated": "2026-09-01T07:11:19.972Z"
 }
