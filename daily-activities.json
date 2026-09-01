@@ -10965,6 +10965,72 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Santhosh N",
+      "date": "2026-08-31",
+      "targetTasks": [
+        {
+          "id": "wa-1788255693029-9b5z",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santhosh N",
+      "date": "2026-09-01",
+      "targetTasks": [
+        {
+          "id": "wa-1788255693029-ooit",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santhosh N",
+      "date": "2026-09-02",
+      "targetTasks": [
+        {
+          "id": "wa-1788255693030-9lng",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santhosh N",
+      "date": "2026-09-03",
+      "targetTasks": [
+        {
+          "id": "wa-1788255693035-2mue",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santhosh N",
+      "date": "2026-09-04",
+      "targetTasks": [
+        {
+          "id": "wa-1788255693036-2bni",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Santhosh N",
+      "date": "2026-09-05",
+      "targetTasks": [
+        {
+          "id": "wa-1788255693036-elj2",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Weekly project task"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
