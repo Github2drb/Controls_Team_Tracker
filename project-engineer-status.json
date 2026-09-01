@@ -111,12 +111,12 @@
         },
         "susanth k m": {
           "displayName": "Susanth K M",
-          "currentStatus": "trials_stage",
+          "currentStatus": "completed",
           "resourceLockedFrom": "2026-08-20",
           "resourceLockedTill": "2026-09-10",
           "internalTarget": "2026-09-07",
           "customerTarget": "2026-09-10",
-          "updatedAt": "2026-08-25T10:01:26.704Z"
+          "updatedAt": "2026-09-01T07:11:33.124Z"
         },
         "dhanesh m": {
           "displayName": "Dhanesh M",
@@ -466,5 +466,5 @@
       }
     }
   },
-  "lastUpdated": "2026-09-01T07:11:19.972Z"
+  "lastUpdated": "2026-09-01T07:11:33.124Z"
 }
