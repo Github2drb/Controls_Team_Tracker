@@ -241,10 +241,10 @@
       ],
       "currentStatus": "equipment_handover",
       "resourceLockedFrom": "2026-04-21",
-      "resourceLockedTill": "2026-07-30",
+      "resourceLockedTill": "2026-09-02",
       "internalTarget": "2026-07-15",
       "customerTarget": "2026-07-28",
-      "constraint": "ICP CON Communication with PLC Completed\nPower supply replaced and checked\nData Logger checking completed.\nAuto Trials Completed\nMultivariant Connector Wiring Design in Progress\nRobot Replaced with Project one.(Nachi)\nIO tested and Data Logger issue need to be sorted out.\nEquipment dispatched and powered on 30/07/26 at site.\nBIW Ganesh supporting Installation at site on 31/07/26\nData logger has been sent for service.\nHarsha KA has been deputed for Equipment Demonstration(07/08)\nAfter Datalogger receipt after service, site support need to be given .\nSantosh and Dhanesh has been planned to install and complete datalogger today(18-08-26)-Completed for 2 variants.\nRest of the variant PT planned to complete on 19-08\nFinal Variant Validation today(21-08-26)-completed\nEquipment Training completed.\nElectrical and Robot Training Completed.\nPLC Training Planned on 01/09/26"
+      "constraint": "ICP CON Communication with PLC Completed\nPower supply replaced and checked\nData Logger checking completed.\nAuto Trials Completed\nMultivariant Connector Wiring Design in Progress\nRobot Replaced with Project one.(Nachi)\nIO tested and Data Logger issue need to be sorted out.\nEquipment dispatched and powered on 30/07/26 at site.\nBIW Ganesh supporting Installation at site on 31/07/26\nData logger has been sent for service.\nHarsha KA has been deputed for Equipment Demonstration(07/08)\nAfter Datalogger receipt after service, site support need to be given .\nSantosh and Dhanesh has been planned to install and complete datalogger today(18-08-26)-Completed for 2 variants.\nRest of the variant PT planned to complete on 19-08\nFinal Variant Validation today(21-08-26)-completed\nEquipment Training completed.\nElectrical and Robot Training Completed.\nPLC Training Planned on 01/09/26 - in progress"
     },
     {
       "id": "wa-1777017351622",
@@ -3601,5 +3601,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-08-31T08:44:12.861Z"
+  "lastUpdated": "2026-09-01T07:07:29.720Z"
 }
