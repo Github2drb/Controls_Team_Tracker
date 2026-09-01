@@ -3600,7 +3600,29 @@
       ],
       "currentStatus": "installation_in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1788255690954",
+      "engineerName": "Santhosh N",
+      "weekStart": "2026-08-31",
+      "projectName": "3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1788255689633",
+          "taskName": "IO list updation and Drawing updation",
+          "type": "daily",
+          "assignedDate": "2026-09-02",
+          "status": "not_started",
+          "targetDate": "2026-09-02"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-09-01T09:10:48.535Z"
+  "lastUpdated": "2026-09-01T09:41:30.954Z"
 }
