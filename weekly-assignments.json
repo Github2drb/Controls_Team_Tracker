@@ -239,7 +239,7 @@
           "status": "in_progress"
         }
       ],
-      "currentStatus": "equipment_handover",
+      "currentStatus": "completed",
       "resourceLockedFrom": "2026-04-21",
       "resourceLockedTill": "2026-09-11",
       "internalTarget": "2026-07-15",
@@ -3624,5 +3624,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-09-02T05:25:58.696Z"
+  "lastUpdated": "2026-09-02T05:26:12.984Z"
 }
