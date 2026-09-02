@@ -314,12 +314,12 @@
       "engineers": {
         "harsha k": {
           "displayName": "Harsha K",
-          "currentStatus": "equipment_handover",
+          "currentStatus": "completed",
           "resourceLockedFrom": "2026-01-01",
           "resourceLockedTill": "2026-09-10",
           "internalTarget": "2026-09-07",
           "customerTarget": "2026-09-11",
-          "updatedAt": "2026-08-26T04:08:55.425Z"
+          "updatedAt": "2026-09-02T05:32:49.338Z"
         },
         "santhosh n": {
           "displayName": "Santhosh N",
@@ -493,5 +493,5 @@
       }
     }
   },
-  "lastUpdated": "2026-09-02T05:32:36.570Z"
+  "lastUpdated": "2026-09-02T05:32:49.338Z"
 }
