@@ -338,6 +338,15 @@
           "internalTarget": "2026-07-07",
           "customerTarget": "2026-07-16",
           "updatedAt": "2026-09-02T05:32:03.090Z"
+        },
+        "susanth k m": {
+          "displayName": "Susanth K M",
+          "currentStatus": "completed",
+          "resourceLockedFrom": "2026-08-02",
+          "resourceLockedTill": "2026-08-27",
+          "internalTarget": "2026-08-12",
+          "customerTarget": "2026-08-14",
+          "updatedAt": "2026-09-02T05:32:36.570Z"
         }
       }
     },
@@ -484,5 +493,5 @@
       }
     }
   },
-  "lastUpdated": "2026-09-02T05:32:03.090Z"
+  "lastUpdated": "2026-09-02T05:32:36.570Z"
 }
