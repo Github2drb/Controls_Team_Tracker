@@ -427,9 +427,9 @@
       "notes": "Trial Support",
       "constraint": "RFID with new Gripper logic need to be implemented\nIndexing with new gripper, Keyence profile integration need to be checked - 25-08-26\nKeyence and Stepper trials going on -26/08 - Completed",
       "resourceLockedFrom": "2025-06-04",
-      "resourceLockedTill": "2026-08-31",
+      "resourceLockedTill": "2026-09-18",
       "internalTarget": "2026-07-17",
-      "customerTarget": "2026-08-31"
+      "customerTarget": "2026-09-10"
     },
     {
       "id": "wa-1780639432350",
@@ -3624,5 +3624,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-09-02T05:26:12.984Z"
+  "lastUpdated": "2026-09-02T05:33:28.333Z"
 }
