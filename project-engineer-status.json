@@ -329,6 +329,15 @@
           "internalTarget": "2026-08-12",
           "customerTarget": "2026-09-01",
           "updatedAt": "2026-09-02T05:31:26.417Z"
+        },
+        "rahul": {
+          "displayName": "Rahul(Ampere)",
+          "currentStatus": "completed",
+          "resourceLockedFrom": "2025-12-17",
+          "resourceLockedTill": "2026-07-30",
+          "internalTarget": "2026-07-07",
+          "customerTarget": "2026-07-16",
+          "updatedAt": "2026-09-02T05:32:03.090Z"
         }
       }
     },
@@ -475,5 +484,5 @@
       }
     }
   },
-  "lastUpdated": "2026-09-02T05:31:26.417Z"
+  "lastUpdated": "2026-09-02T05:32:03.090Z"
 }
