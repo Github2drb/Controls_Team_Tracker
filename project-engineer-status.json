@@ -323,12 +323,12 @@
         },
         "santhosh n": {
           "displayName": "Santhosh N",
-          "currentStatus": "equipment_handover",
+          "currentStatus": "completed",
           "resourceLockedFrom": "2025-10-01",
           "resourceLockedTill": "2026-09-02",
           "internalTarget": "2026-08-12",
           "customerTarget": "2026-09-01",
-          "updatedAt": "2026-09-02T05:31:17.441Z"
+          "updatedAt": "2026-09-02T05:31:26.417Z"
         }
       }
     },
@@ -475,5 +475,5 @@
       }
     }
   },
-  "lastUpdated": "2026-09-02T05:31:17.441Z"
+  "lastUpdated": "2026-09-02T05:31:26.417Z"
 }
