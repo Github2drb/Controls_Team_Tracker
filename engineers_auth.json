@@ -1,15 +1,6 @@
 {
   "engineers": [
     {
-      "id": "eng-3",
-      "name": "Praveen Kumar C",
-      "username": "praveen.kumar.c",
-      "password": "drb@123",
-      "role": "engineer",
-      "isActive": true,
-      "createdAt": "2026-01-25T01:20:43.699Z"
-    },
-    {
       "id": "eng-5",
       "name": "Santhosh N",
       "username": "santhosh.n",
@@ -209,5 +200,5 @@
       "createdAt": "2026-06-24T08:52:34.096Z"
     }
   ],
-  "lastUpdated": "2026-09-03T05:03:22.684Z"
+  "lastUpdated": "2026-09-03T05:04:04.230Z"
 }
