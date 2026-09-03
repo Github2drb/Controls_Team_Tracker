@@ -3453,8 +3453,9 @@
           "taskName": "Cycle Start Conditions indicator in HMI",
           "type": "daily",
           "assignedDate": "2026-08-31",
-          "status": "in_progress",
-          "targetDate": "2026-08-31"
+          "status": "completed",
+          "targetDate": "2026-08-31",
+          "completionDate": "2026-09-03"
         }
       ],
       "currentStatus": "in_progress",
