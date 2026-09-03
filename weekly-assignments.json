@@ -2828,8 +2828,9 @@
           "taskName": "Hardware Configuration in TIA Portal",
           "type": "weekly",
           "assignedDate": "2026-08-12",
-          "status": "not_started",
-          "targetDate": "2026-08-12"
+          "status": "completed",
+          "targetDate": "2026-08-12",
+          "completionDate": "2026-09-03"
         }
       ],
       "currentStatus": "not_started",
