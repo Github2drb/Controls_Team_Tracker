@@ -212,7 +212,7 @@
       "tasks": [],
       "currentStatus": "fat",
       "notes": "Washer Gantry Pick and Place and All gantry Initialization",
-      "constraint": "Washer Gantry new logic validation completed.\nMachine Stopping abruptly due to communication cable.\nReplacing Manually Crimped cables with machine crimped cables are in progress.\nFixture Clamp on both sides of conveyor removed.\nCycle time optimization done.\nAwaiting for F.A.T\nPurging, Picking second if first part slip logic need to be included for cycle time optimization- Completed at conveyor side on 26/08\nIndex interlock need to be changed to optimize cycle time.\nMarking Gantry Cycle time optimized by Dyumith on 29-08-26.\nToday(31-08-26) Susanth will support for Conveyor P&P\n",
+      "constraint": "Washer Gantry new logic validation completed.\nMachine Stopping abruptly due to communication cable.\nReplacing Manually Crimped cables with machine crimped cables are in progress.\nFixture Clamp on both sides of conveyor removed.\nCycle time optimization done.\nAwaiting for F.A.T\nPurging, Picking second if first part slip logic need to be included for cycle time optimization- Completed at conveyor side on 26/08\nIndex interlock need to be changed to optimize cycle time.\nMarking Gantry Cycle time optimized by Dyumith on 29-08-26.\nToday(31-08-26) Susanth will support for Conveyor P&P - 1 station completed\nRest of the station modification will be done by ampere harsha - 03-09-26\n",
       "resourceLockedFrom": "2025-11-01",
       "resourceLockedTill": "2026-09-30",
       "internalTarget": "2026-08-28",
@@ -3624,5 +3624,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-09-03T04:50:11.010Z"
+  "lastUpdated": "2026-09-03T04:51:41.574Z"
 }
