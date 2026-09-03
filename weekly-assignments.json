@@ -3247,8 +3247,9 @@
           "taskName": "IO Testing, Servo Check and Servo press Check",
           "type": "weekly",
           "assignedDate": "2026-08-24",
-          "status": "in_progress",
-          "targetDate": "2026-08-24"
+          "status": "completed",
+          "targetDate": "2026-08-24",
+          "completionDate": "2026-09-03"
         }
       ],
       "currentStatus": "in_progress",
