@@ -3202,8 +3202,9 @@
           "taskName": "Electrical Drawing, Load Details Sharing to Customer",
           "type": "weekly",
           "assignedDate": "2026-08-19",
-          "status": "not_started",
-          "targetDate": "2026-08-19"
+          "status": "completed",
+          "targetDate": "2026-08-19",
+          "completionDate": "2026-09-03"
         }
       ],
       "currentStatus": "trials_stage",
