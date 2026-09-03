@@ -3223,8 +3223,9 @@
           "taskName": "Station-3 Gantry Check,Manual Testing",
           "type": "daily",
           "assignedDate": "2026-08-21",
-          "status": "not_started",
-          "targetDate": "2026-08-21"
+          "status": "completed",
+          "targetDate": "2026-08-21",
+          "completionDate": "2026-09-03"
         }
       ],
       "currentStatus": "not_started",
