@@ -2794,8 +2794,9 @@
           "taskName": "Outward station to NG pallet not presence validation",
           "type": "weekly",
           "assignedDate": "2026-08-12",
-          "status": "in_progress",
-          "targetDate": "2026-08-12"
+          "status": "completed",
+          "targetDate": "2026-08-12",
+          "completionDate": "2026-09-03"
         }
       ],
       "currentStatus": "completed",
