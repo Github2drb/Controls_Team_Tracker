@@ -2970,8 +2970,9 @@
           "taskName": "Auto Trials Completion for all variants",
           "type": "weekly",
           "assignedDate": "2026-08-17",
-          "status": "in_progress",
-          "targetDate": "2026-08-17"
+          "status": "completed",
+          "targetDate": "2026-08-17",
+          "completionDate": "2026-09-03"
         },
         {
           "id": "t-1786944276387",
