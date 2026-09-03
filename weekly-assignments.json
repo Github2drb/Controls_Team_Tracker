@@ -363,7 +363,7 @@
       "tasks": [],
       "currentStatus": "electrical_assembly",
       "notes": "DAP Completed",
-      "constraint": "Material Procurement in Progress\nUvac Motors received on 10-07-26\nControl Panel wiring Completed\nCart Wiring in Progress - 31-08-26"
+      "constraint": "Material Procurement in Progress\nUvac Motors received on 10-07-26\nControl Panel wiring Completed\nCart Wiring in Progress - 31-08-26\nConveyor Cart panels in progress - 03/09/26"
     },
     {
       "id": "wa-1779856345294",
@@ -3624,5 +3624,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-09-02T06:00:50.565Z"
+  "lastUpdated": "2026-09-03T04:50:11.010Z"
 }
