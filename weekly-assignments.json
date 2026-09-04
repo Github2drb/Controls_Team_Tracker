@@ -3644,7 +3644,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1788496468445",
+      "engineerName": "Dhanesh M",
+      "weekStart": "2026-08-31",
+      "projectName": "3A-SS1-26012-Sartorius- Glass bead blasting automation",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1788496462250",
+          "taskName": "Visit to customer place for Installation",
+          "type": "weekly",
+          "assignedDate": "2026-09-04",
+          "status": "not_started",
+          "targetDate": "2026-09-04"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-09-04T04:26:27.344Z"
+  "lastUpdated": "2026-09-04T04:34:28.445Z"
 }
