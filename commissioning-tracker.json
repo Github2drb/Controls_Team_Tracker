@@ -836,7 +836,14 @@
           "trialTime": "1",
           "status": "not_started",
           "notes": "",
-          "images": []
+          "images": [
+            {
+              "name": "comm-dk1-25110-odu-assembly-auto-line-mszq3tp0ydpsgx-1788514299348-54pzc.jpg",
+              "url": "/api/commissioning-images/file/comm-dk1-25110-odu-assembly-auto-line-mszq3tp0ydpsgx-1788514299348-54pzc.jpg",
+              "uploadedBy": "Admin",
+              "uploadedAt": "2026-09-04T09:31:36.724Z"
+            }
+          ]
         },
         {
           "id": "mszq3tp0mrzb8a",
@@ -1219,9 +1226,9 @@
           ]
         }
       ],
-      "lastUpdated": "2026-08-19T06:46:13.988Z",
+      "lastUpdated": "2026-09-04T09:31:41.404Z",
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-08-25T11:55:24.880Z"
+  "lastUpdated": "2026-09-04T09:31:41.404Z"
 }
