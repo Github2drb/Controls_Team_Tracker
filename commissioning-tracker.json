@@ -833,7 +833,7 @@
           "description": "Loading Station",
           "electricalConstraint": "",
           "mechanicalConstraint": "Chain Safety Cover not properly tightened. Grouting not done in end lifters.",
-          "trialTime": "1d",
+          "trialTime": "1.5d",
           "status": "trials_in_progress",
           "notes": "",
           "images": [
@@ -1226,9 +1226,9 @@
           ]
         }
       ],
-      "lastUpdated": "2026-09-04T12:02:12.111Z",
+      "lastUpdated": "2026-09-04T12:02:20.360Z",
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-09-04T12:02:12.111Z"
+  "lastUpdated": "2026-09-04T12:02:20.360Z"
 }
