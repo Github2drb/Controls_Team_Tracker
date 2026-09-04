@@ -3666,7 +3666,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1788496523737",
+      "engineerName": "Harsha K",
+      "weekStart": "2026-08-31",
+      "projectName": "3A-DK1-25077-Dehydration Project",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1788496518203",
+          "taskName": "Clear Production stoppage points",
+          "type": "daily",
+          "assignedDate": "2026-09-04",
+          "status": "not_started",
+          "targetDate": "2026-09-04"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-09-04T04:34:28.445Z"
+  "lastUpdated": "2026-09-04T04:35:23.737Z"
 }
