@@ -834,7 +834,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "not_started",
+          "status": "trials_in_progress",
           "notes": "",
           "images": [
             {
@@ -852,7 +852,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "not_started",
+          "status": "mechanical_pending",
           "notes": "",
           "images": []
         },
@@ -863,7 +863,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "not_started",
+          "status": "mechanical_pending",
           "notes": "",
           "images": []
         },
@@ -874,7 +874,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "not_started",
+          "status": "mechanical_pending",
           "notes": "",
           "images": []
         },
@@ -885,7 +885,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "not_started",
+          "status": "mechanical_pending",
           "notes": "",
           "images": []
         },
@@ -896,7 +896,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "not_started",
+          "status": "mechanical_pending",
           "notes": "",
           "images": []
         },
@@ -907,7 +907,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "not_started",
+          "status": "mechanical_pending",
           "notes": "",
           "images": []
         },
@@ -918,7 +918,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "not_started",
+          "status": "mechanical_pending",
           "notes": "",
           "images": []
         },
@@ -929,7 +929,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "not_started",
+          "status": "mechanical_pending",
           "notes": "",
           "images": []
         },
@@ -940,7 +940,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "not_started",
+          "status": "mechanical_pending",
           "notes": "",
           "images": []
         },
@@ -951,7 +951,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "not_started",
+          "status": "mechanical_pending",
           "notes": "",
           "images": []
         },
@@ -962,7 +962,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "not_started",
+          "status": "mechanical_pending",
           "notes": "",
           "images": []
         },
@@ -973,7 +973,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "not_started",
+          "status": "mechanical_pending",
           "notes": "",
           "images": []
         }
@@ -1226,9 +1226,9 @@
           ]
         }
       ],
-      "lastUpdated": "2026-09-04T09:32:52.040Z",
+      "lastUpdated": "2026-09-04T09:33:24.155Z",
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-09-04T09:32:52.040Z"
+  "lastUpdated": "2026-09-04T09:33:24.155Z"
 }
