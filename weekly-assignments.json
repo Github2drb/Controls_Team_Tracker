@@ -3727,7 +3727,37 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1788756530893",
+      "engineerName": "Dhanesh M",
+      "weekStart": "2026-09-07",
+      "projectName": "3A-SS1-26012-Sartorius- Glass bead blasting automation",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1788756515067",
+          "taskName": "Auto Cycle Constrains Check",
+          "type": "weekly",
+          "assignedDate": "2026-09-07",
+          "status": "not_started",
+          "targetDate": "2026-09-07"
+        },
+        {
+          "id": "t-1788756529889",
+          "taskName": "Coordinating with Mitsubishi team to Check servo for Index Station",
+          "type": "weekly",
+          "assignedDate": "2026-09-07",
+          "status": "not_started",
+          "targetDate": "2026-09-07"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-09-07T04:48:04.914Z"
+  "lastUpdated": "2026-09-07T04:48:50.893Z"
 }
