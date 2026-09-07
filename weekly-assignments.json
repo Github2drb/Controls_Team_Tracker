@@ -3522,16 +3522,7 @@
       "resourceLockedTill": "",
       "internalTarget": "",
       "customerTarget": "",
-      "tasks": [
-        {
-          "id": "t-1788151838763",
-          "taskName": "Get Program and HMI backup from customer. Study Line",
-          "type": "weekly",
-          "assignedDate": "2026-08-31",
-          "status": "not_started",
-          "targetDate": "2026-08-31"
-        }
-      ],
+      "tasks": [],
       "currentStatus": "in_progress",
       "constraint": ""
     },
