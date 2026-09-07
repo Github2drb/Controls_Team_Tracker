@@ -3681,7 +3681,53 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1788756484914",
+      "engineerName": "Susanth K M",
+      "weekStart": "2026-09-07",
+      "projectName": "DK1-25110- ODU Assembly auto line",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1788756442089",
+          "taskName": "Rubber- A and B Individual Trials",
+          "type": "weekly",
+          "assignedDate": "2026-09-07",
+          "status": "not_started",
+          "targetDate": "2026-09-07"
+        },
+        {
+          "id": "t-1788756464815",
+          "taskName": "Thrust Checking Station Trials",
+          "type": "weekly",
+          "assignedDate": "2026-09-07",
+          "status": "not_started",
+          "targetDate": "2026-09-07"
+        },
+        {
+          "id": "t-1788756475003",
+          "taskName": "Cover Pressing Individual Trials",
+          "type": "weekly",
+          "assignedDate": "2026-09-07",
+          "status": "not_started",
+          "targetDate": "2026-09-07"
+        },
+        {
+          "id": "t-1788756482794",
+          "taskName": "Auto Cycle Trials",
+          "type": "weekly",
+          "assignedDate": "2026-09-07",
+          "status": "not_started",
+          "targetDate": "2026-09-07"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-09-07T04:36:01.759Z"
+  "lastUpdated": "2026-09-07T04:48:04.914Z"
 }
