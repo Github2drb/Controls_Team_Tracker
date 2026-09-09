@@ -3856,8 +3856,9 @@
       "internalTarget": "2026-10-20",
       "customerTarget": "2026-10-23",
       "tasks": [],
-      "currentStatus": "design_stage"
+      "currentStatus": "design_stage",
+      "constraint": "PHD done. Design and DAP yet to start"
     }
   ],
-  "lastUpdated": "2026-09-09T08:48:39.516Z"
+  "lastUpdated": "2026-09-09T09:00:56.003Z"
 }
