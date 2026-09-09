@@ -391,7 +391,7 @@
       "customerTarget": "2026-09-26",
       "tasks": [],
       "currentStatus": "mechanical_assembly",
-      "constraint": "DAP Submitted\nBOM in progress.\nDispenser Unit Discussion concluded. Technical Details awaited.\nFurther discussion will held on 20-07-2026\nElectrical Drawing in progress. Expected date of completion :06/08/26 >GA drawing given for mounting plate of all stations.\nComplete IO list station wise derived - 19/08\nElectrical Drawing In progress\nAdditional Siemens IO need to be ordered as per final IO\nStation1A & B Offline Development in progress\nBurster Meeting conducted on 25-08-26 for Status and hardware "
+      "constraint": "DAP Submitted\nBOM in progress.\nDispenser Unit Discussion concluded. Technical Details awaited.\nFurther discussion will held on 20-07-2026\nElectrical Drawing in progress. Expected date of completion :06/08/26 >GA drawing given for mounting plate of all stations.\nComplete IO list station wise derived - 19/08\nElectrical Drawing In progress\nAdditional Siemens IO need to be ordered as per final IO\nStation1A & B Offline Development in progress - Completed\nBurster Meeting conducted on 25-08-26 for Status and hardware \nStation-2 Offline Development in progress"
     },
     {
       "id": "wa-1779862941175",
@@ -3847,5 +3847,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-09-07T04:51:21.243Z"
+  "lastUpdated": "2026-09-09T04:11:02.121Z"
 }
