@@ -1148,22 +1148,30 @@
             {
               "id": "mszq3tp07oerhy",
               "text": "PLC, Remote Module IP Configuration",
-              "done": false
+              "done": true,
+              "doneBy": "Admin",
+              "doneAt": "2026-09-09T04:15:15.014Z"
             },
             {
               "id": "mszq3tp0phqm9m",
               "text": "Servo/VFD Configuration",
-              "done": false
+              "done": true,
+              "doneBy": "Admin",
+              "doneAt": "2026-09-09T04:15:17.646Z"
             },
             {
               "id": "mszq3tp029e57n",
               "text": "ID Scanner Configuration",
-              "done": false
+              "done": true,
+              "doneBy": "Admin",
+              "doneAt": "2026-09-09T04:15:19.041Z"
             },
             {
               "id": "mszq3tp0bk01fp",
               "text": "Vision IP Configuration",
-              "done": false
+              "done": true,
+              "doneBy": "Admin",
+              "doneAt": "2026-09-09T04:15:19.918Z"
             },
             {
               "id": "mszq4o1b1aa8sv",
@@ -1237,9 +1245,9 @@
           ]
         }
       ],
-      "lastUpdated": "2026-09-09T04:15:07.633Z",
+      "lastUpdated": "2026-09-09T04:15:24.286Z",
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-09-09T04:15:07.633Z"
+  "lastUpdated": "2026-09-09T04:15:24.286Z"
 }
