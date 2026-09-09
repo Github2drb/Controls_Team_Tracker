@@ -26,6 +26,15 @@
       },
       "engineerName": "Harsha",
       "subscribedAt": "2026-07-22T16:10:14.254Z"
+    },
+    "swapnil pradip patil": {
+      "endpoint": "https://fcm.googleapis.com/fcm/send/cd_cICQ5d74:APA91bFhkI95DYtVS3aTceT1qj1uxRY-Z7jIfqUdZ1Iuji9KgooGl9dF30Co_4ljC9QDK3LOivBJmUPiqBBj1llK9OEiddQuivmGtlamKVb1XeJa0-dVZ3po2_tzGDvSdt-kphU0eGC3",
+      "keys": {
+        "p256dh": "BFX0K_n_a42TTuwT1mqwZhi6niRLF8guXW26YFekKfdEywNF6PETmwIl56a34E-fJU1nFO6Av76M1VhNJ-XzMlo",
+        "auth": "fbJ65gwefO6Or4B0lC9tNg"
+      },
+      "engineerName": "Swapnil Pradip Patil",
+      "subscribedAt": "2026-09-09T09:38:42.531Z"
     }
   }
 }
