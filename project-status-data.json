@@ -265,6 +265,139 @@
       "≠",
       "ü",
       "ü"
+    ],
+    "live-3w-tk1-25135-ti-metal-robot-cell-integration": [
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü"
+    ],
+    "live-3a2409-glass-taping-and-o-cell-pick-place-station-pa23-phase-2": [
+      "û",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü"
+    ],
+    "live-3a-so1-25025-bailer-assembly": [
+      "û",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "û",
+      "û",
+      "û",
+      "û"
+    ],
+    "live-3a-s03-25066-d8-press-in-blind-hole-receptacle-auto-assembly-southco": [
+      "û",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "PC",
+      "û"
+    ],
+    "live-3a-s02-25054-surface-hinge-assembly": [
+      "û",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "û"
+    ],
+    "live-3a-gb1-25024-coil-soldering": [
+      "û",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü"
+    ],
+    "live-3a-dk2-25142-step-4-dehydration": [
+      "û",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "û",
+      "û",
+      "û",
+      "û",
+      "û",
+      "û",
+      "û",
+      "û",
+      "û",
+      "û",
+      "û"
     ]
   },
   "phases": [
@@ -356,7 +489,77 @@
       "id": "proj-15",
       "name": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO",
       "engineer": "Eswanth"
+    },
+    {
+      "id": "live-13-3a-gb1-25038-type-1-pressure-tester-machine-for-ultrasound-probes",
+      "name": "13) 3A-GB1-25038_(Type-1) Pressure Tester Machine for Ultrasound Probes",
+      "engineer": "—"
+    },
+    {
+      "id": "live-20-3a-gb1-25064-type-2-pressure-tester-machine-for-ultrasound-probes",
+      "name": "20) 3A-GB1-25064_(Type-2) Pressure Tester Machine for Ultrasound Probes",
+      "engineer": "—"
+    },
+    {
+      "id": "live-3a-bo1-25113-25114-cdm-face-error-inspection-unit-with-robot-system",
+      "name": "3A-BO1-25113 & 25114-CDM & Face error inspection unit with Robot system",
+      "engineer": "—"
+    },
+    {
+      "id": "live-3a-dk2-25142-step-4-dehydration",
+      "name": "3A-DK2-25142_STEP 4 - Dehydration",
+      "engineer": "Santhosh N, Harsha K, Susanth K M"
+    },
+    {
+      "id": "live-3a-gb1-25024-coil-soldering",
+      "name": "3A-GB1-25024-Coil soldering",
+      "engineer": "—"
+    },
+    {
+      "id": "live-3a-jc2-26110-jcb-india-limited-drop-box-assembly-line",
+      "name": "3A-JC2-26110-JCB India Limited-Drop Box Assembly Line",
+      "engineer": "Santhosh N, Swapnil Pradip Patil"
+    },
+    {
+      "id": "live-3a-s02-25054-surface-hinge-assembly",
+      "name": "3A-S02-25054_Surface Hinge Assembly",
+      "engineer": "Ramkumar Annamalai, Veeresh M, Indrakumar"
+    },
+    {
+      "id": "live-3a-s03-25066-d8-press-in-blind-hole-receptacle-auto-assembly-southco",
+      "name": "3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo",
+      "engineer": "Susanth K M, Veeresh M"
+    },
+    {
+      "id": "live-3a-so1-25025-bailer-assembly",
+      "name": "3A-SO1-25025_Bailer_Assembly",
+      "engineer": "Praveen Kumar C"
+    },
+    {
+      "id": "live-3a2409-glass-taping-and-o-cell-pick-place-station-pa23-phase-2",
+      "name": "3A2409 - GLASS TAPING AND O-CELL PICK & PLACE STATION (PA23 Phase -2)",
+      "engineer": "Praveen Kumar C"
+    },
+    {
+      "id": "live-3w-tk1-25135-ti-metal-robot-cell-integration",
+      "name": "3W-TK1-25135-TI Metal Robot Cell Integration",
+      "engineer": "Dhanesh"
+    },
+    {
+      "id": "live-a-gb1-25062-ge-cold-plate-assembly-station",
+      "name": "A-GB1-25062_GE_Cold plate assembly station",
+      "engineer": "—"
+    },
+    {
+      "id": "live-imtex-2026",
+      "name": "IMTEX-2026",
+      "engineer": "—"
+    },
+    {
+      "id": "live-trumpf-sheet-bending",
+      "name": "Trumpf Sheet Bending",
+      "engineer": "Dhanesh M"
     }
   ],
-  "lastUpdated": "2026-09-09T06:29:08.172Z"
+  "lastUpdated": "2026-09-09T09:25:24.958Z"
 }
