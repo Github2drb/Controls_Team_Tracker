@@ -3858,7 +3858,29 @@
       "tasks": [],
       "currentStatus": "design_stage",
       "constraint": "PHD done. Design and DAP yet to start"
+    },
+    {
+      "id": "wa-1788946999319",
+      "engineerName": "Susanth K M",
+      "weekStart": "2026-09-07",
+      "projectName": "DK1-25110- ODU Assembly auto line",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1788946996417",
+          "taskName": "Homing Sequence for all stations",
+          "type": "weekly",
+          "assignedDate": "2026-09-09",
+          "status": "not_started",
+          "targetDate": "2026-09-09"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-09-09T09:00:56.003Z"
+  "lastUpdated": "2026-09-09T09:43:19.319Z"
 }
