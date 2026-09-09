@@ -3845,7 +3845,19 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1788939220474",
+      "engineerName": "Santhosh N",
+      "weekStart": "2026-09-07",
+      "projectName": "3A-JC2-26110-JCB India Limited-Drop Box Assembly Line",
+      "resourceLockedFrom": "2026-09-07",
+      "resourceLockedTill": "2026-11-30",
+      "internalTarget": "2026-10-20",
+      "customerTarget": "2026-10-23",
+      "tasks": [],
+      "currentStatus": "not_started"
     }
   ],
-  "lastUpdated": "2026-09-09T04:12:02.191Z"
+  "lastUpdated": "2026-09-09T07:33:40.474Z"
 }
