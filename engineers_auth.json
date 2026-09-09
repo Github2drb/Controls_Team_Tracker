@@ -177,7 +177,8 @@
       "role": "engineer",
       "company": "",
       "isActive": true,
-      "createdAt": "2026-09-09T07:34:47.011Z"
+      "createdAt": "2026-09-09T07:34:47.011Z",
+      "lastLogin": "2026-09-09T09:05:36.624Z"
     },
     {
       "id": "eng-3",
@@ -217,5 +218,5 @@
       "createdAt": "2026-09-09T07:35:47.119Z"
     }
   ],
-  "lastUpdated": "2026-09-09T07:35:57.812Z"
+  "lastUpdated": "2026-09-09T09:05:36.624Z"
 }
