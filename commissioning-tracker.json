@@ -1188,7 +1188,9 @@
             {
               "id": "mszq3tp0ci26iq",
               "text": "Field IO",
-              "done": false
+              "done": true,
+              "doneBy": "Admin",
+              "doneAt": "2026-09-09T04:15:24.240Z"
             },
             {
               "id": "mszq3tp0cacowq",
@@ -1198,17 +1200,23 @@
             {
               "id": "mszq3tp0o2fa77",
               "text": "VFD → Motor Rotation Check",
-              "done": false
+              "done": true,
+              "doneBy": "Admin",
+              "doneAt": "2026-09-09T04:15:25.671Z"
             },
             {
               "id": "mszq3tp0vj8jdm",
               "text": "Vision Check",
-              "done": false
+              "done": true,
+              "doneBy": "Admin",
+              "doneAt": "2026-09-09T04:15:26.564Z"
             },
             {
               "id": "mszq4usf39fc5d",
               "text": "Safety PLC IO Check",
-              "done": false
+              "done": true,
+              "doneBy": "Admin",
+              "doneAt": "2026-09-09T04:15:27.997Z"
             },
             {
               "id": "mszq5157tdck90",
@@ -1218,7 +1226,9 @@
             {
               "id": "mszq56a8t3c6g0",
               "text": "Rexroth Servo Press Check",
-              "done": false
+              "done": true,
+              "doneBy": "Admin",
+              "doneAt": "2026-09-09T04:15:30.456Z"
             },
             {
               "id": "mszq5mvyipy1vk",
@@ -1245,9 +1255,9 @@
           ]
         }
       ],
-      "lastUpdated": "2026-09-09T04:15:24.286Z",
+      "lastUpdated": "2026-09-09T04:15:34.633Z",
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-09-09T04:15:24.286Z"
+  "lastUpdated": "2026-09-09T04:15:34.634Z"
 }
