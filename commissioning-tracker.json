@@ -852,7 +852,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "mechanical_pending",
+          "status": "ready_for_trials",
           "notes": "",
           "images": []
         },
@@ -863,7 +863,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "mechanical_pending",
+          "status": "ready_for_trials",
           "notes": "",
           "images": []
         },
@@ -874,7 +874,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "mechanical_pending",
+          "status": "ready_for_trials",
           "notes": "",
           "images": []
         },
@@ -885,7 +885,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "mechanical_pending",
+          "status": "ready_for_trials",
           "notes": "",
           "images": []
         },
@@ -907,7 +907,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "mechanical_pending",
+          "status": "ready_for_trials",
           "notes": "",
           "images": []
         },
@@ -915,7 +915,7 @@
           "id": "mszq3tp05k2zy9",
           "label": "8",
           "description": "Rubber-A Assembly Station",
-          "electricalConstraint": "",
+          "electricalConstraint": "Index Servo Not functioning.\nFesto Drive not responding",
           "mechanicalConstraint": "",
           "trialTime": "1",
           "status": "mechanical_pending",
@@ -929,7 +929,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "mechanical_pending",
+          "status": "ready_for_trials",
           "notes": "",
           "images": []
         },
@@ -940,7 +940,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "mechanical_pending",
+          "status": "ready_for_trials",
           "notes": "",
           "images": []
         },
@@ -974,6 +974,17 @@
           "mechanicalConstraint": "",
           "trialTime": "1",
           "status": "mechanical_pending",
+          "notes": "",
+          "images": []
+        },
+        {
+          "id": "mttl34mz8mdzfy",
+          "label": "14",
+          "description": "Cover Press Assembly",
+          "electricalConstraint": "LVDT signal need to be verified\nLoadcell Amplifier yet to come.",
+          "mechanicalConstraint": "",
+          "trialTime": "",
+          "status": "electrical_pending",
           "notes": "",
           "images": []
         }
@@ -1226,9 +1237,9 @@
           ]
         }
       ],
-      "lastUpdated": "2026-09-04T12:02:20.360Z",
+      "lastUpdated": "2026-09-09T04:15:07.633Z",
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-09-04T12:02:20.360Z"
+  "lastUpdated": "2026-09-09T04:15:07.633Z"
 }
