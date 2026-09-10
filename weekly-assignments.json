@@ -3890,7 +3890,53 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1789032880712",
+      "engineerName": "Susanth K M",
+      "weekStart": "2026-09-07",
+      "projectName": "DK1-25110- ODU Assembly auto line",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1789032832353",
+          "taskName": "Festo Drive Replacement in Rubber seal station",
+          "type": "daily",
+          "assignedDate": "2026-09-11",
+          "status": "not_started",
+          "targetDate": "2026-09-11"
+        },
+        {
+          "id": "t-1789032846318",
+          "taskName": "Mitsubishi Servo Check during their visit to Daikin",
+          "type": "daily",
+          "assignedDate": "2026-09-11",
+          "status": "not_started",
+          "targetDate": "2026-09-11"
+        },
+        {
+          "id": "t-1789032860157",
+          "taskName": "Rubber-A Full automated Individual Station",
+          "type": "daily",
+          "assignedDate": "2026-09-11",
+          "status": "not_started",
+          "targetDate": "2026-09-11"
+        },
+        {
+          "id": "t-1789032877745",
+          "taskName": "Safety Door Lock and Unlock",
+          "type": "daily",
+          "assignedDate": "2026-09-12",
+          "status": "not_started",
+          "targetDate": "2026-09-12"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-09-10T04:48:53.561Z"
+  "lastUpdated": "2026-09-10T09:34:40.712Z"
 }
