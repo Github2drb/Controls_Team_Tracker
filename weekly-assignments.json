@@ -3414,8 +3414,9 @@
           "taskName": "HMI Screens completion",
           "type": "weekly",
           "assignedDate": "2026-09-01",
-          "status": "not_started",
-          "targetDate": "2026-09-01"
+          "status": "completed",
+          "targetDate": "2026-09-01",
+          "completionDate": "2026-09-10"
         },
         {
           "id": "t-1788151573268",
