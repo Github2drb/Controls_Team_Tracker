@@ -309,11 +309,12 @@
       "link": "",
       "isTicker": true,
       "readBy": [
-        "admin"
+        "admin",
+        "device-nm8fimwig"
       ],
       "author": "Admin",
       "createdAt": "2026-09-10T06:09:14.419Z"
     }
   ],
-  "lastUpdated": "2026-09-10T06:35:54.723Z"
+  "lastUpdated": "2026-09-15T05:33:26.734Z"
 }
