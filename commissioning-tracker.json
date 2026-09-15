@@ -1178,7 +1178,9 @@
             {
               "id": "mszq4o1b1aa8sv",
               "text": "Bowl Feeder Assembly Power Up",
-              "done": false
+              "done": true,
+              "doneBy": "Admin",
+              "doneAt": "2026-09-15T16:37:09.781Z"
             }
           ]
         },
@@ -1223,7 +1225,9 @@
             {
               "id": "mszq5157tdck90",
               "text": "Rubber- A Servo Check",
-              "done": false
+              "done": true,
+              "doneBy": "Admin",
+              "doneAt": "2026-09-15T16:37:07.022Z"
             },
             {
               "id": "mszq56a8t3c6g0",
@@ -1247,21 +1251,25 @@
             {
               "id": "mszq3tp01xt5r9",
               "text": "XY Gantry Pick and Place Position Check",
-              "done": false
+              "done": true,
+              "doneBy": "Admin",
+              "doneAt": "2026-09-15T16:37:14.470Z"
             },
             {
               "id": "mszq3tp0f8y7ig",
               "text": "Pneumatic Actuation and Feedback Check",
-              "done": false
+              "done": true,
+              "doneBy": "Admin",
+              "doneAt": "2026-09-15T16:37:15.803Z"
             }
           ]
         }
       ],
       "siteInchargeEmail": "joel.quadros@3dcad-global.com",
       "programManagerEmail": "vijay.tv@3dcad-global.com",
-      "lastUpdated": "2026-09-10T08:53:59.923Z",
+      "lastUpdated": "2026-09-15T16:37:14.280Z",
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-09-10T08:53:59.923Z"
+  "lastUpdated": "2026-09-15T16:37:14.280Z"
 }
