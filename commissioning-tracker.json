@@ -1199,7 +1199,9 @@
             {
               "id": "mszq3tp0cacowq",
               "text": "Servo Check",
-              "done": false
+              "done": true,
+              "doneBy": "Admin",
+              "doneAt": "2026-09-15T16:37:22.426Z"
             },
             {
               "id": "mszq3tp0o2fa77",
@@ -1267,9 +1269,9 @@
       ],
       "siteInchargeEmail": "joel.quadros@3dcad-global.com",
       "programManagerEmail": "vijay.tv@3dcad-global.com",
-      "lastUpdated": "2026-09-15T16:37:14.280Z",
+      "lastUpdated": "2026-09-15T16:37:23.107Z",
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-09-15T16:37:14.280Z"
+  "lastUpdated": "2026-09-15T16:37:23.107Z"
 }
