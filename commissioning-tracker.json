@@ -999,7 +999,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "mechanical_pending",
+          "status": "trials_in_progress",
           "notes": "",
           "images": []
         },
@@ -1010,7 +1010,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "mechanical_pending",
+          "status": "trials_in_progress",
           "notes": "",
           "images": []
         },
@@ -1021,7 +1021,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "mechanical_pending",
+          "status": "trials_in_progress",
           "notes": "",
           "images": []
         },
@@ -1032,7 +1032,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1/2",
-          "status": "mechanical_pending",
+          "status": "completed",
           "notes": "",
           "images": []
         },
@@ -1054,7 +1054,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "mechanical_pending",
+          "status": "trials_in_progress",
           "notes": "",
           "images": []
         },
@@ -1065,7 +1065,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1/2",
-          "status": "mechanical_pending",
+          "status": "completed",
           "notes": "",
           "images": []
         },
@@ -1076,7 +1076,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1/2",
-          "status": "mechanical_pending",
+          "status": "completed",
           "notes": "",
           "images": []
         },
@@ -1087,7 +1087,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "mechanical_pending",
+          "status": "trials_in_progress",
           "notes": "",
           "images": []
         },
@@ -1120,7 +1120,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "mechanical_pending",
+          "status": "trials_in_progress",
           "notes": "",
           "images": []
         },
@@ -1269,9 +1269,9 @@
       ],
       "siteInchargeEmail": "joel.quadros@3dcad-global.com",
       "programManagerEmail": "vijay.tv@3dcad-global.com",
-      "lastUpdated": "2026-09-15T16:37:23.107Z",
+      "lastUpdated": "2026-09-15T16:38:38.918Z",
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-09-15T16:37:23.107Z"
+  "lastUpdated": "2026-09-15T16:38:38.918Z"
 }
