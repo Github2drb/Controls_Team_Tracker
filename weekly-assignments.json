@@ -4022,7 +4022,37 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1789536808407",
+      "engineerName": "Dhanesh M",
+      "weekStart": "2026-09-14",
+      "projectName": "3A-SS1-26012-Sartorius- Glass bead blasting automation",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1789536801137",
+          "taskName": "Auto Cycle Trials",
+          "type": "weekly",
+          "assignedDate": "2026-09-16",
+          "status": "not_started",
+          "targetDate": "2026-09-16"
+        },
+        {
+          "id": "t-1789536810656",
+          "taskName": "Safety Interlock Check",
+          "type": "weekly",
+          "assignedDate": "2026-09-16",
+          "status": "not_started",
+          "targetDate": "2026-09-16"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-09-16T05:32:21.531Z"
+  "lastUpdated": "2026-09-16T05:33:28.407Z"
 }
