@@ -3936,7 +3936,19 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1789533385503",
+      "engineerName": "Veeresh M",
+      "weekStart": "2026-09-14",
+      "projectName": "3A-CC1-26100 – Classified Cycling-Calibration Test Bench",
+      "resourceLockedFrom": "2026-09-11",
+      "resourceLockedTill": "2026-11-30",
+      "internalTarget": "2026-10-16",
+      "customerTarget": "2026-09-30",
+      "tasks": [],
+      "currentStatus": "design_stage"
     }
   ],
-  "lastUpdated": "2026-09-15T16:06:14.894Z"
+  "lastUpdated": "2026-09-16T04:36:25.503Z"
 }
