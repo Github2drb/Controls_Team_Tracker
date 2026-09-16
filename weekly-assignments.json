@@ -4096,7 +4096,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1789536997726",
+      "engineerName": "Ramkumar Annamalai",
+      "weekStart": "2026-09-14",
+      "projectName": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1789536999861",
+          "taskName": "Station-3 Offline Logic Completion",
+          "type": "weekly",
+          "assignedDate": "2026-09-16",
+          "status": "not_started",
+          "targetDate": "2026-09-16"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-09-16T05:34:57.646Z"
+  "lastUpdated": "2026-09-16T05:36:37.726Z"
 }
