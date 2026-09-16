@@ -171,15 +171,6 @@
       "lastLogin": "2026-09-09T09:34:46.406Z"
     },
     {
-      "id": "eng-3",
-      "name": "Praveen Kumar C",
-      "username": "praveen.kumar.c",
-      "password": "drb@123",
-      "role": "engineer",
-      "isActive": true,
-      "createdAt": "2026-09-09T07:35:47.119Z"
-    },
-    {
       "id": "eng-11",
       "name": "Harsha K",
       "username": "harsha.k",
@@ -208,5 +199,5 @@
       "createdAt": "2026-09-09T07:35:47.119Z"
     }
   ],
-  "lastUpdated": "2026-09-16T04:53:20.132Z"
+  "lastUpdated": "2026-09-16T04:53:30.130Z"
 }
