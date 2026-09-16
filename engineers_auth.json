@@ -84,16 +84,6 @@
       "lastLogin": "2026-06-24T15:16:04.300Z"
     },
     {
-      "id": "eng-17",
-      "name": "Eswanth Potnuri",
-      "username": "eswanth.potnuri",
-      "password": "drb@123",
-      "role": "engineer",
-      "isActive": true,
-      "createdAt": "2026-01-25T01:20:43.699Z",
-      "lastLogin": "2026-07-17T04:05:49.149Z"
-    },
-    {
       "id": "eng-19",
       "name": "Harsha (Ampere)",
       "username": "harsha",
@@ -218,5 +208,5 @@
       "createdAt": "2026-09-09T07:35:47.119Z"
     }
   ],
-  "lastUpdated": "2026-09-10T06:08:21.218Z"
+  "lastUpdated": "2026-09-16T04:53:20.132Z"
 }
