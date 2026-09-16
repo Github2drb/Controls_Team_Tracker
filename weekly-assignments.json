@@ -4052,7 +4052,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1789536871245",
+      "engineerName": "Veeresh M",
+      "weekStart": "2026-09-14",
+      "projectName": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1789536869256",
+          "taskName": "Support to Electrical Assembly team for wiring",
+          "type": "weekly",
+          "assignedDate": "2026-09-16",
+          "status": "not_started",
+          "targetDate": "2026-09-16"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-09-16T05:33:28.407Z"
+  "lastUpdated": "2026-09-16T05:34:31.245Z"
 }
