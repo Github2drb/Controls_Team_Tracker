@@ -307,7 +307,7 @@
       "message": "Susanth - DK1-25110- ODU Assembly auto line Installation\nDhanesh - 3A-SS1-26012-Sartorius- Glass bead blasting automation\n",
       "type": "info",
       "link": "",
-      "isTicker": true,
+      "isTicker": false,
       "readBy": [
         "admin",
         "device-nm8fimwig",
@@ -317,5 +317,5 @@
       "createdAt": "2026-09-10T06:09:14.419Z"
     }
   ],
-  "lastUpdated": "2026-09-16T04:54:07.540Z"
+  "lastUpdated": "2026-09-16T04:54:23.432Z"
 }
