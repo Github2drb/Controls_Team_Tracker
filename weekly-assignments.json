@@ -3970,7 +3970,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1789536705329",
+      "engineerName": "Santhosh N",
+      "weekStart": "2026-09-14",
+      "projectName": "3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1789536707503",
+          "taskName": "Pilz Safety Wiring Drawing and Support to electrical assembly team",
+          "type": "weekly",
+          "assignedDate": "2026-09-16",
+          "status": "not_started",
+          "targetDate": "2026-09-16"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-09-16T05:30:39.995Z"
+  "lastUpdated": "2026-09-16T05:31:45.329Z"
 }
