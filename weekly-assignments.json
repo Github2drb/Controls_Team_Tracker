@@ -3948,7 +3948,29 @@
       "customerTarget": "2026-09-30",
       "tasks": [],
       "currentStatus": "design_stage"
+    },
+    {
+      "id": "wa-1789536639995",
+      "engineerName": "Santhosh N",
+      "weekStart": "2026-09-14",
+      "projectName": "3A-JC2-26110-JCB India Limited-Drop Box Assembly Line",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1789536641755",
+          "taskName": "Electrical DAP",
+          "type": "weekly",
+          "assignedDate": "2026-09-16",
+          "status": "not_started",
+          "targetDate": "2026-09-16"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-09-16T04:43:49.830Z"
+  "lastUpdated": "2026-09-16T05:30:39.995Z"
 }
