@@ -3992,7 +3992,37 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1789536741531",
+      "engineerName": "Susanth K M",
+      "weekStart": "2026-09-14",
+      "projectName": "DK1-25110- ODU Assembly auto line",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1789536726546",
+          "taskName": "Rubber -A Individual test and Auto test",
+          "type": "daily",
+          "assignedDate": "2026-09-16",
+          "status": "not_started",
+          "targetDate": "2026-09-16"
+        },
+        {
+          "id": "t-1789536743640",
+          "taskName": "Safety Door Lock Switch",
+          "type": "weekly",
+          "assignedDate": "2026-09-16",
+          "status": "not_started",
+          "targetDate": "2026-09-16"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-09-16T05:31:45.329Z"
+  "lastUpdated": "2026-09-16T05:32:21.531Z"
 }
