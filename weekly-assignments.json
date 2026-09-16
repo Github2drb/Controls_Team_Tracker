@@ -4074,7 +4074,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1789536897646",
+      "engineerName": "Indrakumar",
+      "weekStart": "2026-09-14",
+      "projectName": "3A-DK2-25143_STEP 4-Leak Testing Machine",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1789536899850",
+          "taskName": "Auto Cycle Offline Logic Development",
+          "type": "weekly",
+          "assignedDate": "2026-09-16",
+          "status": "not_started",
+          "targetDate": "2026-09-16"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-09-16T05:34:31.245Z"
+  "lastUpdated": "2026-09-16T05:34:57.646Z"
 }
