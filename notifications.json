@@ -329,7 +329,18 @@
       ],
       "author": "Admin",
       "createdAt": "2026-09-16T04:54:48.614Z"
+    },
+    {
+      "id": "notif-1789640869451",
+      "title": "Engineers Deployed to Site for Installation- 17/09/2026",
+      "message": "Susanth - DK1-25110- ODU Assembly auto line Installation",
+      "type": "info",
+      "link": "",
+      "isTicker": false,
+      "readBy": [],
+      "author": "Admin",
+      "createdAt": "2026-09-17T10:27:49.451Z"
     }
   ],
-  "lastUpdated": "2026-09-17T10:27:04.220Z"
+  "lastUpdated": "2026-09-17T10:27:49.451Z"
 }
