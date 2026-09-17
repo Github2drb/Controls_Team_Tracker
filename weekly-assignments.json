@@ -3619,8 +3619,9 @@
           "taskName": "Mitsubishi MR-J4 Servo Issue Support from Manoj",
           "type": "daily",
           "assignedDate": "2026-08-31",
-          "status": "in_progress",
-          "targetDate": "2026-08-31"
+          "status": "completed",
+          "targetDate": "2026-08-31",
+          "completionDate": "2026-09-17"
         }
       ],
       "currentStatus": "installation_in_progress",
