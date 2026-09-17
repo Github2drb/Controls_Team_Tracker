@@ -836,7 +836,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "Chain Safety Cover not properly tightened. Grouting not done in end lifters.",
           "trialTime": "1.5d",
-          "status": "trials_in_progress",
+          "status": "completed",
           "notes": "",
           "images": [
             {
@@ -1269,9 +1269,9 @@
       ],
       "siteInchargeEmail": "joel.quadros@3dcad-global.com",
       "programManagerEmail": "vijay.tv@3dcad-global.com",
-      "lastUpdated": "2026-09-15T16:38:38.918Z",
+      "lastUpdated": "2026-09-17T09:48:23.849Z",
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-09-15T16:38:38.918Z"
+  "lastUpdated": "2026-09-17T09:48:23.849Z"
 }
