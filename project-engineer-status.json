@@ -460,12 +460,12 @@
       "engineers": {
         "santhosh n": {
           "displayName": "Santhosh N",
-          "currentStatus": "sat",
+          "currentStatus": "completed",
           "resourceLockedFrom": "2026-06-15",
           "resourceLockedTill": "2026-08-31",
           "internalTarget": "2026-08-28",
           "customerTarget": "2026-08-31",
-          "updatedAt": "2026-08-25T09:55:51.150Z"
+          "updatedAt": "2026-09-17T10:29:37.205Z"
         },
         "dhanesh m": {
           "displayName": "Dhanesh M",
@@ -511,5 +511,5 @@
       }
     }
   },
-  "lastUpdated": "2026-09-16T05:39:01.191Z"
+  "lastUpdated": "2026-09-17T10:29:37.205Z"
 }
