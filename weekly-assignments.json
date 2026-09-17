@@ -3911,8 +3911,9 @@
           "taskName": "Festo Drive Replacement in Rubber seal station",
           "type": "daily",
           "assignedDate": "2026-09-11",
-          "status": "not_started",
-          "targetDate": "2026-09-11"
+          "status": "completed",
+          "targetDate": "2026-09-11",
+          "completionDate": "2026-09-17"
         },
         {
           "id": "t-1789032846318",
