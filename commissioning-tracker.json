@@ -1043,7 +1043,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1/2",
-          "status": "mechanical_pending",
+          "status": "ready_for_trials",
           "notes": "",
           "images": []
         },
@@ -1269,9 +1269,9 @@
       ],
       "siteInchargeEmail": "joel.quadros@3dcad-global.com",
       "programManagerEmail": "vijay.tv@3dcad-global.com",
-      "lastUpdated": "2026-09-17T09:48:39.126Z",
+      "lastUpdated": "2026-09-17T09:49:24.859Z",
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-09-17T09:48:39.126Z"
+  "lastUpdated": "2026-09-17T09:49:24.859Z"
 }
