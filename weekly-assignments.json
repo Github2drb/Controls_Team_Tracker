@@ -3988,16 +3988,7 @@
       "resourceLockedTill": "",
       "internalTarget": "",
       "customerTarget": "",
-      "tasks": [
-        {
-          "id": "t-1789536707503",
-          "taskName": "Pilz Safety Wiring Drawing and Support to electrical assembly team",
-          "type": "weekly",
-          "assignedDate": "2026-09-16",
-          "status": "not_started",
-          "targetDate": "2026-09-16"
-        }
-      ],
+      "tasks": [],
       "currentStatus": "not_started",
       "constraint": ""
     },
