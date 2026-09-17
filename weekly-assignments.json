@@ -3929,8 +3929,9 @@
           "taskName": "Rubber-A Full automated Individual Station",
           "type": "daily",
           "assignedDate": "2026-09-11",
-          "status": "not_started",
-          "targetDate": "2026-09-11"
+          "status": "completed",
+          "targetDate": "2026-09-11",
+          "completionDate": "2026-09-17"
         },
         {
           "id": "t-1789032877745",
