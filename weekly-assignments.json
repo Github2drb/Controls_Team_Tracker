@@ -3725,8 +3725,9 @@
           "taskName": "Cover Pressing Individual Trials",
           "type": "weekly",
           "assignedDate": "2026-09-07",
-          "status": "not_started",
-          "targetDate": "2026-09-07"
+          "status": "completed",
+          "targetDate": "2026-09-07",
+          "completionDate": "2026-09-17"
         },
         {
           "id": "t-1788756482794",
