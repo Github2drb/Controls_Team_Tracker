@@ -496,8 +496,8 @@
     ],
     "live-3a-jc2-26110-jcb-india-limited-drop-box-assembly-line": [
       "y",
-      "û",
-      "û",
+      "y",
+      "y",
       "û",
       "û",
       "û",
@@ -530,6 +530,25 @@
       "ü",
       "ü",
       "ü",
+      "û"
+    ],
+    "live-3a-cc1-26100-classified-cycling-calibration-test-bench": [
+      "y",
+      "y",
+      "y",
+      "û",
+      "û",
+      "û",
+      "û",
+      "û",
+      "û",
+      "û",
+      "û",
+      "û",
+      "û",
+      "û",
+      "û",
+      "û",
       "û"
     ]
   },
@@ -639,6 +658,11 @@
       "engineer": "—"
     },
     {
+      "id": "live-3a-cc1-26100-classified-cycling-calibration-test-bench",
+      "name": "3A-CC1-26100 – Classified Cycling-Calibration Test Bench",
+      "engineer": "Veeresh M"
+    },
+    {
       "id": "live-3a-dk2-25142-step-4-dehydration",
       "name": "3A-DK2-25142_STEP 4 - Dehydration",
       "engineer": "Santhosh N, Harsha K, Susanth K M"
@@ -694,5 +718,5 @@
       "engineer": "Dhanesh M"
     }
   ],
-  "lastUpdated": "2026-09-10T11:16:15.154Z"
+  "lastUpdated": "2026-09-17T09:43:27.042Z"
 }
