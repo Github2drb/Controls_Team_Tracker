@@ -1131,7 +1131,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "not_started",
+          "status": "electrical_pending",
           "notes": "",
           "images": []
         }
@@ -1269,9 +1269,9 @@
       ],
       "siteInchargeEmail": "joel.quadros@3dcad-global.com",
       "programManagerEmail": "vijay.tv@3dcad-global.com",
-      "lastUpdated": "2026-09-17T09:48:23.849Z",
+      "lastUpdated": "2026-09-17T09:48:39.126Z",
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-09-17T09:48:23.849Z"
+  "lastUpdated": "2026-09-17T09:48:39.126Z"
 }
