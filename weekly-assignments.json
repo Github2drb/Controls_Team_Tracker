@@ -4122,7 +4122,19 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1789973413168",
+      "engineerName": "Dhanesh M",
+      "weekStart": "2026-09-21",
+      "projectName": "3A-RS1-26111 R-STAHL SHEET FOLLOWER PROJECT",
+      "resourceLockedFrom": "2026-09-21",
+      "resourceLockedTill": "2026-10-31",
+      "internalTarget": "2026-10-21",
+      "customerTarget": "2026-10-22",
+      "tasks": [],
+      "currentStatus": "not_started"
     }
   ],
-  "lastUpdated": "2026-09-21T06:47:20.824Z"
+  "lastUpdated": "2026-09-21T06:50:13.168Z"
 }
