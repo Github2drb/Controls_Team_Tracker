@@ -469,12 +469,12 @@
         },
         "dhanesh m": {
           "displayName": "Dhanesh M",
-          "currentStatus": "sat",
+          "currentStatus": "completed",
           "resourceLockedFrom": "2026-06-15",
           "resourceLockedTill": "2026-08-31",
           "internalTarget": "2026-08-28",
           "customerTarget": "2026-08-31",
-          "updatedAt": "2026-08-25T09:56:15.471Z"
+          "updatedAt": "2026-09-21T06:46:51.360Z"
         }
       }
     },
@@ -511,5 +511,5 @@
       }
     }
   },
-  "lastUpdated": "2026-09-17T10:30:02.463Z"
+  "lastUpdated": "2026-09-21T06:46:51.360Z"
 }
