@@ -386,12 +386,12 @@
       "weekStart": "2026-05-25",
       "projectName": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO",
       "resourceLockedFrom": "2026-05-26",
-      "resourceLockedTill": "2026-09-30",
-      "internalTarget": "2026-09-23",
-      "customerTarget": "2026-09-26",
+      "resourceLockedTill": "2026-10-30",
+      "internalTarget": "2026-09-30",
+      "customerTarget": "2026-10-08",
       "tasks": [],
       "currentStatus": "mechanical_assembly",
-      "constraint": "DAP Submitted\nBOM in progress.\nDispenser Unit Discussion concluded. Technical Details awaited.\nFurther discussion will held on 20-07-2026\nElectrical Drawing in progress. Expected date of completion :06/08/26 >GA drawing given for mounting plate of all stations.\nComplete IO list station wise derived - 19/08\nElectrical Drawing In progress\nAdditional Siemens IO need to be ordered as per final IO\nStation1A & B Offline Development in progress - Completed\nBurster Meeting conducted on 25-08-26 for Status and hardware \nStation-2 Offline Development in progress\nMounting Plate Wiring going on - Stationwise GA Completed.Main GA going on"
+      "constraint": "DAP Submitted\nBOM in progress.\nDispenser Unit Discussion concluded. Technical Details awaited.\nFurther discussion will held on 20-07-2026\nElectrical Drawing in progress. Expected date of completion :06/08/26 >GA drawing given for mounting plate of all stations.\nComplete IO list station wise derived - 19/08\nElectrical Drawing In progress\nAdditional Siemens IO need to be ordered as per final IO\nStation1A & B Offline Development in progress - Completed\nBurster Meeting conducted on 25-08-26 for Status and hardware \nStation-2 Offline Development in progress - Completed\nMounting Plate Wiring going on - Stationwise GA Completed.Main GA going on\nStation-3 Offline Development in Progress "
     },
     {
       "id": "wa-1779862941175",
@@ -4124,5 +4124,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-09-21T06:45:04.105Z"
+  "lastUpdated": "2026-09-21T06:45:43.105Z"
 }
