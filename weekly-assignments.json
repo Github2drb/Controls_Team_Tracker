@@ -3957,10 +3957,10 @@
       "resourceLockedFrom": "2026-09-11",
       "resourceLockedTill": "2026-11-30",
       "internalTarget": "2026-10-16",
-      "customerTarget": "2026-09-30",
+      "customerTarget": "2026-10-28",
       "tasks": [],
       "currentStatus": "design_stage",
-      "constraint": "Electrical DAP in progress"
+      "constraint": "Electrical DAP submitted\n"
     },
     {
       "id": "wa-1789536639995",
@@ -4136,5 +4136,5 @@
       "currentStatus": "not_started"
     }
   ],
-  "lastUpdated": "2026-09-21T06:50:13.168Z"
+  "lastUpdated": "2026-09-21T07:02:38.183Z"
 }
