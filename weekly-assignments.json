@@ -4127,18 +4127,6 @@
       "constraint": ""
     },
     {
-      "id": "wa-1789973413168",
-      "engineerName": "Dhanesh M",
-      "weekStart": "2026-09-21",
-      "projectName": "3A-RS1-26111 R-STAHL SHEET FOLLOWER PROJECT",
-      "resourceLockedFrom": "2026-09-21",
-      "resourceLockedTill": "2026-10-31",
-      "internalTarget": "2026-10-21",
-      "customerTarget": "2026-10-22",
-      "tasks": [],
-      "currentStatus": "not_started"
-    },
-    {
       "id": "wa-1790050767781",
       "engineerName": "Susanth K M",
       "weekStart": "2026-09-21",
@@ -4329,5 +4317,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-09-22T04:43:27.319Z"
+  "lastUpdated": "2026-09-22T04:44:35.137Z"
 }
