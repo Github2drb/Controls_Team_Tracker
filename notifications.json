@@ -337,7 +337,7 @@
       "message": "Susanth - DK1-25110- ODU Assembly auto line Installation",
       "type": "info",
       "link": "",
-      "isTicker": true,
+      "isTicker": false,
       "readBy": [
         "admin",
         "device-nm8fimwig",
@@ -347,5 +347,5 @@
       "createdAt": "2026-09-17T10:27:49.451Z"
     }
   ],
-  "lastUpdated": "2026-09-22T04:16:51.729Z"
+  "lastUpdated": "2026-09-22T04:17:04.162Z"
 }
