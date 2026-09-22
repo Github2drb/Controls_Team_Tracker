@@ -353,10 +353,12 @@
       "type": "info",
       "link": "",
       "isTicker": true,
-      "readBy": [],
+      "readBy": [
+        "admin"
+      ],
       "author": "Admin",
       "createdAt": "2026-09-22T04:18:08.446Z"
     }
   ],
-  "lastUpdated": "2026-09-22T04:18:11.637Z"
+  "lastUpdated": "2026-09-22T04:18:16.587Z"
 }
