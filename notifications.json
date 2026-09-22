@@ -345,7 +345,18 @@
       ],
       "author": "Admin",
       "createdAt": "2026-09-17T10:27:49.451Z"
+    },
+    {
+      "id": "notif-1790050688446",
+      "title": "Engineers Deployed to Site for Installation- 22/09/2026",
+      "message": "Susanth - DK1-25110- ODU Assembly auto line Installation \nDhanesh - 3A-SS1-26012-Sartorius- Glass bead blasting automation\nHarsha  - 3A-DK1-25077-Dehydration Project.",
+      "type": "info",
+      "link": "",
+      "isTicker": false,
+      "readBy": [],
+      "author": "Admin",
+      "createdAt": "2026-09-22T04:18:08.446Z"
     }
   ],
-  "lastUpdated": "2026-09-22T04:17:04.162Z"
+  "lastUpdated": "2026-09-22T04:18:08.446Z"
 }
