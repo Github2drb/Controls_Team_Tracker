@@ -4180,7 +4180,53 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1790050820105",
+      "engineerName": "Dhanesh M",
+      "weekStart": "2026-09-21",
+      "projectName": "3A-SS1-26012-Sartorius- Glass bead blasting automation",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1790050799069",
+          "taskName": "Indexing Table Check",
+          "type": "weekly",
+          "assignedDate": "2026-09-22",
+          "status": "not_started",
+          "targetDate": "2026-09-22"
+        },
+        {
+          "id": "t-1790050805459",
+          "taskName": "Auto Cycle Testing",
+          "type": "weekly",
+          "assignedDate": "2026-09-22",
+          "status": "not_started",
+          "targetDate": "2026-09-22"
+        },
+        {
+          "id": "t-1790050812382",
+          "taskName": "Safety Interlock Check",
+          "type": "weekly",
+          "assignedDate": "2026-09-22",
+          "status": "not_started",
+          "targetDate": "2026-09-22"
+        },
+        {
+          "id": "t-1790050819238",
+          "taskName": "HMI Alarms Check",
+          "type": "weekly",
+          "assignedDate": "2026-09-22",
+          "status": "not_started",
+          "targetDate": "2026-09-22"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-09-22T04:19:27.781Z"
+  "lastUpdated": "2026-09-22T04:20:20.105Z"
 }
