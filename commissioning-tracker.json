@@ -405,7 +405,7 @@
           "id": "mudn43d3lwhs1a",
           "label": "12",
           "description": "Phoenix Profisafe Module Configuration",
-          "electricalConstraint": "",
+          "electricalConstraint": "Electrical Wiring in progress",
           "mechanicalConstraint": "",
           "trialTime": "",
           "status": "electrical_pending",
@@ -501,7 +501,7 @@
       ],
       "siteInchargeEmail": "",
       "programManagerEmail": "",
-      "lastUpdated": "2026-09-23T05:06:23.168Z",
+      "lastUpdated": "2026-09-23T05:06:40.882Z",
       "updatedBy": "Admin"
     },
     "[3a-cc1-26040] classified cycling-7sp hub assembly & eo": {
@@ -1284,5 +1284,5 @@
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-09-23T05:06:23.168Z"
+  "lastUpdated": "2026-09-23T05:06:40.882Z"
 }
