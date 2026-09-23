@@ -12381,6 +12381,72 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Veeresh M",
+      "date": "2026-09-21",
+      "targetTasks": [
+        {
+          "id": "wa-1790166181598-1c7f",
+          "text": "[3A-S02-25054_Surface Hinge Assembly] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Veeresh M",
+      "date": "2026-09-22",
+      "targetTasks": [
+        {
+          "id": "wa-1790166181600-1aix",
+          "text": "[3A-S02-25054_Surface Hinge Assembly] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Veeresh M",
+      "date": "2026-09-23",
+      "targetTasks": [
+        {
+          "id": "wa-1790166181600-sx1t",
+          "text": "[3A-S02-25054_Surface Hinge Assembly] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Veeresh M",
+      "date": "2026-09-24",
+      "targetTasks": [
+        {
+          "id": "wa-1790166181600-cpb3",
+          "text": "[3A-S02-25054_Surface Hinge Assembly] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Veeresh M",
+      "date": "2026-09-25",
+      "targetTasks": [
+        {
+          "id": "wa-1790166181601-j4cc",
+          "text": "[3A-S02-25054_Surface Hinge Assembly] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Veeresh M",
+      "date": "2026-09-26",
+      "targetTasks": [
+        {
+          "id": "wa-1790166181601-9162",
+          "text": "[3A-S02-25054_Surface Hinge Assembly] Weekly project task"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
