@@ -354,11 +354,12 @@
       "link": "",
       "isTicker": true,
       "readBy": [
-        "admin"
+        "admin",
+        "device-t0t4nve89"
       ],
       "author": "Admin",
       "createdAt": "2026-09-22T04:18:08.446Z"
     }
   ],
-  "lastUpdated": "2026-09-22T04:18:16.587Z"
+  "lastUpdated": "2026-09-23T05:08:19.429Z"
 }
