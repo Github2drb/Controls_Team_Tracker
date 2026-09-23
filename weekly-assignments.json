@@ -4364,7 +4364,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1790166180372",
+      "engineerName": "Veeresh M",
+      "weekStart": "2026-09-21",
+      "projectName": "3A-S02-25054_Surface Hinge Assembly",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1790166177762",
+          "taskName": "Name Plate design as per southco",
+          "type": "daily",
+          "assignedDate": "2026-09-24",
+          "status": "not_started",
+          "targetDate": "2026-09-24"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-09-23T12:22:31.429Z"
+  "lastUpdated": "2026-09-23T12:23:00.372Z"
 }
