@@ -854,7 +854,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "ready_for_trials",
+          "status": "completed",
           "notes": "",
           "images": []
         },
@@ -865,7 +865,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "ready_for_trials",
+          "status": "completed",
           "notes": "",
           "images": []
         },
@@ -876,7 +876,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "ready_for_trials",
+          "status": "completed",
           "notes": "",
           "images": []
         },
@@ -887,7 +887,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "ready_for_trials",
+          "status": "completed",
           "notes": "",
           "images": []
         },
@@ -895,10 +895,10 @@
           "id": "mszq3tp09rz1gz",
           "label": "6",
           "description": "Thrust Checking Station",
-          "electricalConstraint": "",
+          "electricalConstraint": "Rexroth support need for loadcell value change",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "mechanical_pending",
+          "status": "trials_in_progress",
           "notes": "",
           "images": []
         },
@@ -909,7 +909,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "ready_for_trials",
+          "status": "completed",
           "notes": "",
           "images": []
         },
@@ -920,7 +920,7 @@
           "electricalConstraint": "Index Servo Not functioning.\nFesto Drive not responding",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "mechanical_pending",
+          "status": "completed",
           "notes": "",
           "images": []
         },
@@ -931,7 +931,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "ready_for_trials",
+          "status": "completed",
           "notes": "",
           "images": []
         },
@@ -942,7 +942,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "ready_for_trials",
+          "status": "completed",
           "notes": "",
           "images": []
         },
@@ -953,7 +953,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "mechanical_pending",
+          "status": "completed",
           "notes": "",
           "images": []
         },
@@ -964,7 +964,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "mechanical_pending",
+          "status": "completed",
           "notes": "",
           "images": []
         },
@@ -975,7 +975,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "mechanical_pending",
+          "status": "completed",
           "notes": "",
           "images": []
         },
@@ -1269,9 +1269,9 @@
       ],
       "siteInchargeEmail": "joel.quadros@3dcad-global.com",
       "programManagerEmail": "vijay.tv@3dcad-global.com",
-      "lastUpdated": "2026-09-23T04:48:51.974Z",
+      "lastUpdated": "2026-09-23T04:50:08.349Z",
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-09-23T04:48:51.974Z"
+  "lastUpdated": "2026-09-23T04:50:08.349Z"
 }
