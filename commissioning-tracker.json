@@ -446,6 +446,11 @@
               "done": true,
               "doneBy": "Admin",
               "doneAt": "2026-08-25T11:52:42.590Z"
+            },
+            {
+              "id": "mue2s5960qx02i",
+              "text": "Phoenix Profisafe Communication with S7-1200 PLC",
+              "done": false
             }
           ]
         },
@@ -474,6 +479,21 @@
               "done": true,
               "doneBy": "Admin",
               "doneAt": "2026-08-25T11:52:38.960Z"
+            },
+            {
+              "id": "mue2r6z0xhr1ft",
+              "text": "Safety Input Check",
+              "done": false
+            },
+            {
+              "id": "mue2r9hz95u1ce",
+              "text": "Safety Output Check",
+              "done": false
+            },
+            {
+              "id": "mue2rh5k0xq1rq",
+              "text": "Alarm on Safety IO fault",
+              "done": false
             }
           ]
         },
@@ -495,13 +515,18 @@
               "done": true,
               "doneBy": "Admin",
               "doneAt": "2026-08-18T05:35:36.093Z"
+            },
+            {
+              "id": "mue2rnwznzn12q",
+              "text": "Test Pause on Safety Fault",
+              "done": false
             }
           ]
         }
       ],
       "siteInchargeEmail": "",
       "programManagerEmail": "",
-      "lastUpdated": "2026-09-23T05:06:40.882Z",
+      "lastUpdated": "2026-09-23T12:24:43.330Z",
       "updatedBy": "Admin"
     },
     "[3a-cc1-26040] classified cycling-7sp hub assembly & eo": {
@@ -1284,5 +1309,5 @@
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-09-23T05:06:40.882Z"
+  "lastUpdated": "2026-09-23T12:24:43.330Z"
 }
