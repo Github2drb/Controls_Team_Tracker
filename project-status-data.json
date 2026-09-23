@@ -86,13 +86,13 @@
       "ü",
       "ü",
       "ü",
-      "y",
-      "û",
-      "û",
-      "û",
-      "û",
-      "û",
-      "û",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
       "ü"
     ],
     "proj-14": [
@@ -109,10 +109,10 @@
       "ü",
       "ü",
       "ü",
+      "ü",
       "PC",
-      "PC",
-      "y",
-      "y"
+      "PS",
+      "PS"
     ],
     "proj-10": [
       "ü",
@@ -126,11 +126,11 @@
       "ü",
       "ü",
       "ü",
-      "PC",
-      "PC",
+      "ü",
+      "ü",
       "PC",
       "y",
-      "û",
+      "y",
       "û"
     ],
     "proj-11": [
@@ -158,16 +158,16 @@
       "ü",
       "ü",
       "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
       "PC",
       "PC",
       "PC",
-      "PC",
-      "PC",
-      "PS",
-      "PS",
-      "y",
-      "û",
-      "û",
       "û",
       "û"
     ],
@@ -675,7 +675,7 @@
     {
       "id": "live-3a-jc2-26110-jcb-india-limited-drop-box-assembly-line",
       "name": "3A-JC2-26110-JCB India Limited-Drop Box Assembly Line",
-      "engineer": "Santhosh N, Swapnil Pradip Patil"
+      "engineer": "Swapnil Pradip Patil"
     },
     {
       "id": "live-3a-s02-25054-surface-hinge-assembly",
@@ -718,5 +718,5 @@
       "engineer": "Dhanesh M"
     }
   ],
-  "lastUpdated": "2026-09-17T09:43:27.042Z"
+  "lastUpdated": "2026-09-23T04:42:11.839Z"
 }
