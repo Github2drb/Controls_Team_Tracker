@@ -12315,6 +12315,72 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Swapnil Pradip Patil",
+      "date": "2026-04-06",
+      "targetTasks": [
+        {
+          "id": "wa-1790138301271-iwap",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Hardware Configuration"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Swapnil Pradip Patil",
+      "date": "2026-04-07",
+      "targetTasks": [
+        {
+          "id": "wa-1790138301271-rlu2",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Hardware Configuration"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Swapnil Pradip Patil",
+      "date": "2026-04-08",
+      "targetTasks": [
+        {
+          "id": "wa-1790138301271-3z6r",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Hardware Configuration"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Swapnil Pradip Patil",
+      "date": "2026-04-09",
+      "targetTasks": [
+        {
+          "id": "wa-1790138301272-8mos",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Hardware Configuration"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Swapnil Pradip Patil",
+      "date": "2026-04-10",
+      "targetTasks": [
+        {
+          "id": "wa-1790138301272-keqz",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Hardware Configuration"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Swapnil Pradip Patil",
+      "date": "2026-04-11",
+      "targetTasks": [
+        {
+          "id": "wa-1790138301272-jfay",
+          "text": "[3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector] Hardware Configuration"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
