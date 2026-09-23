@@ -135,6 +135,15 @@
           "internalTarget": "2026-08-17",
           "customerTarget": "2026-08-19",
           "updatedAt": "2026-09-01T07:31:42.323Z"
+        },
+        "swapnil pradip patil": {
+          "displayName": "Swapnil Pradip Patil",
+          "currentStatus": "fat",
+          "resourceLockedFrom": "2026-08-22",
+          "resourceLockedTill": "2026-09-30",
+          "internalTarget": "2026-09-28",
+          "customerTarget": "2026-09-30",
+          "updatedAt": "2026-09-23T04:39:12.970Z"
         }
       }
     },
@@ -520,5 +529,5 @@
       }
     }
   },
-  "lastUpdated": "2026-09-23T04:37:42.655Z"
+  "lastUpdated": "2026-09-23T04:39:12.970Z"
 }
