@@ -4318,7 +4318,53 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1790166151429",
+      "engineerName": "Swapnil Pradip Patil",
+      "weekStart": "2026-09-21",
+      "projectName": "3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1790166093750",
+          "taskName": "Pheonix Profisafe Communication with Main PLC",
+          "type": "weekly",
+          "assignedDate": "2026-09-23",
+          "status": "not_started",
+          "targetDate": "2026-09-23"
+        },
+        {
+          "id": "t-1790166115501",
+          "taskName": "Alarms and Test pause on safety over ride",
+          "type": "weekly",
+          "assignedDate": "2026-09-23",
+          "status": "not_started",
+          "targetDate": "2026-09-23"
+        },
+        {
+          "id": "t-1790166128627",
+          "taskName": "STO disable on Safety Fault",
+          "type": "weekly",
+          "assignedDate": "2026-09-23",
+          "status": "not_started",
+          "targetDate": "2026-09-23"
+        },
+        {
+          "id": "t-1790166148848",
+          "taskName": "Range for XY gantry in stn2 & 3.",
+          "type": "weekly",
+          "assignedDate": "2026-09-23",
+          "status": "not_started",
+          "targetDate": "2026-09-23"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-09-23T12:18:12.846Z"
+  "lastUpdated": "2026-09-23T12:22:31.429Z"
 }
