@@ -3878,7 +3878,7 @@
       "customerTarget": "2026-10-23",
       "tasks": [],
       "currentStatus": "design_stage",
-      "constraint": "PHD done. Design and DAP yet to start"
+      "constraint": "PHD done. DAP Submitted. Design in progress. "
     },
     {
       "id": "wa-1788946999319",
@@ -4317,5 +4317,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-09-23T12:14:49.466Z"
+  "lastUpdated": "2026-09-23T12:18:12.846Z"
 }
