@@ -27,14 +27,14 @@
     "safetyLayout": "",
     "hasMultipleStations": false,
     "stations": [],
-    "updatedAt": "2026-09-24T09:30:12.666Z",
+    "updatedAt": "2026-09-24T09:30:34.955Z",
     "alarms": [
       {
         "id": "alarm-1790242096051-syirb",
         "name": "AL010",
         "description": "",
         "category": "critical",
-        "group": "electropneumatic",
+        "group": "pneumatic",
         "status": "created_not_tested",
         "verifiedBy": ""
       }
