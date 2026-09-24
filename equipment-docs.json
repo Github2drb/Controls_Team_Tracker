@@ -27,7 +27,7 @@
     "safetyLayout": "",
     "hasMultipleStations": false,
     "stations": [],
-    "updatedAt": "2026-09-24T09:30:34.955Z",
+    "updatedAt": "2026-09-24T09:38:42.103Z",
     "alarms": [
       {
         "id": "alarm-1790242096051-syirb",
@@ -36,6 +36,60 @@
         "category": "critical",
         "group": "pneumatic",
         "status": "created_not_tested",
+        "verifiedBy": ""
+      },
+      {
+        "id": "alarm-1790242582923-gj5cc",
+        "name": "AL011",
+        "description": "",
+        "category": "mid",
+        "group": "generic",
+        "status": "not_created",
+        "verifiedBy": ""
+      },
+      {
+        "id": "alarm-1790242589058-hy38t",
+        "name": "AL012",
+        "description": "Tab not sensed after part push",
+        "category": "mid",
+        "group": "generic",
+        "status": "not_created",
+        "verifiedBy": ""
+      },
+      {
+        "id": "alarm-1790242647082-0wpyw",
+        "name": "AL013",
+        "description": "Tab Push Cylinder not forward",
+        "category": "mid",
+        "group": "generic",
+        "status": "not_created",
+        "verifiedBy": ""
+      },
+      {
+        "id": "alarm-1790242662556-f2cpn",
+        "name": "AL014",
+        "description": "Tab Push Cylinder not return",
+        "category": "mid",
+        "group": "generic",
+        "status": "not_created",
+        "verifiedBy": ""
+      },
+      {
+        "id": "alarm-1790242677241-811vc",
+        "name": "AL015",
+        "description": "Tab Singling Cylinder not Forward",
+        "category": "mid",
+        "group": "generic",
+        "status": "not_created",
+        "verifiedBy": ""
+      },
+      {
+        "id": "alarm-1790242692587-0v2nq",
+        "name": "AL016",
+        "description": "Tab Singling Cylinder not return",
+        "category": "mid",
+        "group": "generic",
+        "status": "not_created",
         "verifiedBy": ""
       }
     ],
