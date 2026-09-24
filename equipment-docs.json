@@ -27,7 +27,7 @@
     "safetyLayout": "",
     "hasMultipleStations": false,
     "stations": [],
-    "updatedAt": "2026-09-24T10:11:09.839Z",
+    "updatedAt": "2026-09-24T10:11:26.535Z",
     "alarms": [
       {
         "id": "alarm-1790242096051-syirb",
@@ -35,7 +35,7 @@
         "description": "Tab Gantry X Axis not in pick position",
         "category": "critical",
         "group": "pneumatic",
-        "status": "created_not_tested",
+        "status": "testing_in_progress",
         "verifiedBy": ""
       },
       {
@@ -44,7 +44,7 @@
         "description": "Tab Gantry Y axis not in position",
         "category": "critical",
         "group": "generic",
-        "status": "not_created",
+        "status": "testing_in_progress",
         "verifiedBy": ""
       },
       {
