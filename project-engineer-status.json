@@ -432,12 +432,12 @@
         },
         "harsha k": {
           "displayName": "Harsha K",
-          "currentStatus": "electrical_assembly",
+          "currentStatus": "completed",
           "resourceLockedFrom": "2026-08-31",
           "resourceLockedTill": "2026-10-30",
           "internalTarget": "2026-09-29",
           "customerTarget": "2026-09-30",
-          "updatedAt": "2026-08-25T09:53:11.826Z"
+          "updatedAt": "2026-09-24T11:31:22.872Z"
         },
         "susanth k m": {
           "displayName": "Susanth K M",
@@ -529,5 +529,5 @@
       }
     }
   },
-  "lastUpdated": "2026-09-23T12:17:38.304Z"
+  "lastUpdated": "2026-09-24T11:31:22.872Z"
 }
