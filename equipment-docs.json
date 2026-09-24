@@ -27,7 +27,7 @@
     "safetyLayout": "",
     "hasMultipleStations": false,
     "stations": [],
-    "updatedAt": "2026-09-24T09:52:31.960Z",
+    "updatedAt": "2026-09-24T10:03:27.985Z",
     "alarms": [
       {
         "id": "alarm-1790242096051-syirb",
@@ -184,7 +184,7 @@
       },
       {
         "id": "alarm-1790243327920-ewy6h",
-        "name": "",
+        "name": "AL026",
         "description": "",
         "category": "mid",
         "group": "generic",
