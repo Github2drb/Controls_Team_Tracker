@@ -19,5 +19,26 @@
     ],
     "updatedAt": "2026-08-13T10:46:20.928Z",
     "updatedBy": "admin"
+  },
+  {
+    "projectName": "3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo",
+    "synopsis": "",
+    "plcArchitecture": "",
+    "safetyLayout": "",
+    "hasMultipleStations": false,
+    "stations": [],
+    "updatedAt": "2026-09-24T09:30:12.666Z",
+    "alarms": [
+      {
+        "id": "alarm-1790242096051-syirb",
+        "name": "AL010",
+        "description": "",
+        "category": "critical",
+        "group": "electropneumatic",
+        "status": "created_not_tested",
+        "verifiedBy": ""
+      }
+    ],
+    "updatedBy": "admin"
   }
 ]
