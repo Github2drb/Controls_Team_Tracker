@@ -27,12 +27,12 @@
     "safetyLayout": "",
     "hasMultipleStations": false,
     "stations": [],
-    "updatedAt": "2026-09-24T09:42:55.957Z",
+    "updatedAt": "2026-09-24T09:48:01.059Z",
     "alarms": [
       {
         "id": "alarm-1790242096051-syirb",
         "name": "AL010",
-        "description": "",
+        "description": "Tab Gantry X Axis not in pick position",
         "category": "critical",
         "group": "pneumatic",
         "status": "created_not_tested",
@@ -41,7 +41,7 @@
       {
         "id": "alarm-1790242582923-gj5cc",
         "name": "AL011",
-        "description": "",
+        "description": "Tab Gantry Y axis not in position",
         "category": "mid",
         "group": "generic",
         "status": "not_created",
@@ -105,6 +105,42 @@
         "id": "alarm-1790242960873-r6kzy",
         "name": "AL018",
         "description": "Tab Hold Cylinder not return",
+        "category": "mid",
+        "group": "generic",
+        "status": "not_created",
+        "verifiedBy": ""
+      },
+      {
+        "id": "alarm-1790243194263-bavyc",
+        "name": "AL019",
+        "description": "Tab Gantry Y Axis Pick -1 Cylinder not forward",
+        "category": "mid",
+        "group": "generic",
+        "status": "not_created",
+        "verifiedBy": ""
+      },
+      {
+        "id": "alarm-1790243194780-srd3u",
+        "name": "AL020",
+        "description": "Tab Gantry Y Axis Pick -1 Cylinder not return",
+        "category": "mid",
+        "group": "generic",
+        "status": "not_created",
+        "verifiedBy": ""
+      },
+      {
+        "id": "alarm-1790243250726-ijna6",
+        "name": "AL021",
+        "description": "Tab Gantry Y Axis Pick -2 Cylinder not forward",
+        "category": "mid",
+        "group": "generic",
+        "status": "not_created",
+        "verifiedBy": ""
+      },
+      {
+        "id": "alarm-1790243251312-n4b58",
+        "name": "AL022",
+        "description": "Tab Gantry Y Axis Pick -2 Cylinder not return",
         "category": "mid",
         "group": "generic",
         "status": "not_created",
