@@ -27,7 +27,7 @@
     "safetyLayout": "",
     "hasMultipleStations": false,
     "stations": [],
-    "updatedAt": "2026-09-24T10:03:27.985Z",
+    "updatedAt": "2026-09-24T10:04:33.426Z",
     "alarms": [
       {
         "id": "alarm-1790242096051-syirb",
@@ -185,7 +185,7 @@
       {
         "id": "alarm-1790243327920-ewy6h",
         "name": "AL026",
-        "description": "",
+        "description": "Tab Gantry Y Axis Place -2 Cylinder not return",
         "category": "mid",
         "group": "generic",
         "status": "not_created",
