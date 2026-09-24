@@ -27,7 +27,7 @@
     "safetyLayout": "",
     "hasMultipleStations": false,
     "stations": [],
-    "updatedAt": "2026-09-24T10:04:33.426Z",
+    "updatedAt": "2026-09-24T10:11:09.839Z",
     "alarms": [
       {
         "id": "alarm-1790242096051-syirb",
@@ -42,7 +42,7 @@
         "id": "alarm-1790242582923-gj5cc",
         "name": "AL011",
         "description": "Tab Gantry Y axis not in position",
-        "category": "mid",
+        "category": "critical",
         "group": "generic",
         "status": "not_created",
         "verifiedBy": ""
