@@ -27,7 +27,7 @@
     "safetyLayout": "",
     "hasMultipleStations": false,
     "stations": [],
-    "updatedAt": "2026-09-24T09:38:42.103Z",
+    "updatedAt": "2026-09-24T09:42:55.957Z",
     "alarms": [
       {
         "id": "alarm-1790242096051-syirb",
@@ -87,6 +87,24 @@
         "id": "alarm-1790242692587-0v2nq",
         "name": "AL016",
         "description": "Tab Singling Cylinder not return",
+        "category": "mid",
+        "group": "generic",
+        "status": "not_created",
+        "verifiedBy": ""
+      },
+      {
+        "id": "alarm-1790242729032-n0202",
+        "name": "AL017",
+        "description": "Tab Hold Cylinder not forward",
+        "category": "mid",
+        "group": "generic",
+        "status": "not_created",
+        "verifiedBy": ""
+      },
+      {
+        "id": "alarm-1790242960873-r6kzy",
+        "name": "AL018",
+        "description": "Tab Hold Cylinder not return",
         "category": "mid",
         "group": "generic",
         "status": "not_created",
