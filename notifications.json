@@ -366,7 +366,7 @@
       "message": "Susanth - DK1-25110- ODU Assembly auto line Installation \nDhanesh - 3A-SS1-26012-Sartorius- Glass bead blasting automation \nHarsha - 3A-DK1-25077-Dehydration Project.",
       "type": "info",
       "link": "",
-      "isTicker": true,
+      "isTicker": false,
       "readBy": [
         "admin"
       ],
@@ -374,5 +374,5 @@
       "createdAt": "2026-09-23T05:09:04.969Z"
     }
   ],
-  "lastUpdated": "2026-09-23T05:09:13.442Z"
+  "lastUpdated": "2026-09-25T10:11:25.354Z"
 }
