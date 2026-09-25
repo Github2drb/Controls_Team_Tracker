@@ -536,8 +536,8 @@
           "id": "msyaelj1jugnhe",
           "label": "1",
           "description": "Actuation Assembly-1A",
-          "electricalConstraint": "",
-          "mechanicalConstraint": "",
+          "electricalConstraint": "Pushbutton wiring to Safety PLC\nVision wiring\nIR wiring\nGauss Controller Wiring",
+          "mechanicalConstraint": "Sensor Mounting Bracket, Gauss controller Mounting, IR Nutrunner Mounting",
           "trialTime": "4 days",
           "status": "not_started",
           "notes": "",
@@ -886,7 +886,7 @@
       ],
       "siteInchargeEmail": "",
       "programManagerEmail": "",
-      "lastUpdated": "2026-09-25T10:08:34.640Z",
+      "lastUpdated": "2026-09-25T10:09:52.425Z",
       "updatedBy": "Admin"
     },
     "dk1-25110- odu assembly auto line": {
@@ -1336,5 +1336,5 @@
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-09-25T10:08:34.640Z"
+  "lastUpdated": "2026-09-25T10:09:52.425Z"
 }
