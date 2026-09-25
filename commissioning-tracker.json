@@ -806,6 +806,11 @@
               "id": "msyazhv9926t1d",
               "text": "Torque Controller Configuration",
               "done": false
+            },
+            {
+              "id": "mugsru1dgo1hz8",
+              "text": "Gauss Controller Configuration",
+              "done": false
             }
           ]
         },
@@ -838,6 +843,11 @@
               "id": "msyb5fbnqdgwek",
               "text": "Torque Check",
               "done": false
+            },
+            {
+              "id": "mugsro32jzg8re",
+              "text": "Gauss Controller Check",
+              "done": false
             }
           ]
         },
@@ -855,11 +865,28 @@
               "id": "msyaelj1owzaw1",
               "text": "Pneumatic Actuation and Feedback Check",
               "done": false
+            },
+            {
+              "id": "mugss91ybanxws",
+              "text": "Wormwheel Press Check in Stn1A",
+              "done": false
+            },
+            {
+              "id": "mugssgl5bnddbj",
+              "text": "Rotary Drive Check in Stn1A",
+              "done": false
+            },
+            {
+              "id": "mugsssl3eplqh5",
+              "text": "Sensopart Vision Check in Stn1A",
+              "done": false
             }
           ]
         }
       ],
-      "lastUpdated": "2026-08-25T11:09:14.413Z",
+      "siteInchargeEmail": "",
+      "programManagerEmail": "",
+      "lastUpdated": "2026-09-25T10:08:34.640Z",
       "updatedBy": "Admin"
     },
     "dk1-25110- odu assembly auto line": {
@@ -1309,5 +1336,5 @@
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-09-25T04:43:12.779Z"
+  "lastUpdated": "2026-09-25T10:08:34.640Z"
 }
