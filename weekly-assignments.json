@@ -4441,7 +4441,37 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1790311030942",
+      "engineerName": "Harsha K",
+      "weekStart": "2026-09-21",
+      "projectName": "3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1790311016519",
+          "taskName": "D8 Silver small variant trials",
+          "type": "daily",
+          "assignedDate": "2026-09-25",
+          "status": "not_started",
+          "targetDate": "2026-09-25"
+        },
+        {
+          "id": "t-1790311029727",
+          "taskName": "Alarm Messages recheck in Both washer and spring gantry",
+          "type": "daily",
+          "assignedDate": "2026-09-25",
+          "status": "not_started",
+          "targetDate": "2026-09-25"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-09-25T04:36:32.944Z"
+  "lastUpdated": "2026-09-25T04:37:10.942Z"
 }
