@@ -4515,7 +4515,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1790311111579",
+      "engineerName": "Veeresh M",
+      "weekStart": "2026-09-21",
+      "projectName": "3A-S02-25054_Surface Hinge Assembly",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1790311110775",
+          "taskName": "Name Plate updation and Electrical Drawing First and Last page updation",
+          "type": "daily",
+          "assignedDate": "2026-09-25",
+          "status": "not_started",
+          "targetDate": "2026-09-25"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-09-25T04:37:57.057Z"
+  "lastUpdated": "2026-09-25T04:38:31.579Z"
 }
