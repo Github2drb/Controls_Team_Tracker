@@ -4142,8 +4142,9 @@
           "taskName": "Homing Sequence for entire line",
           "type": "weekly",
           "assignedDate": "2026-09-22",
-          "status": "in_progress",
-          "targetDate": "2026-09-22"
+          "status": "completed",
+          "targetDate": "2026-09-22",
+          "completionDate": "2026-09-25"
         },
         {
           "id": "t-1790050743543",
