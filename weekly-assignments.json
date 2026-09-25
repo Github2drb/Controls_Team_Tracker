@@ -3878,7 +3878,7 @@
       "customerTarget": "2026-10-23",
       "tasks": [],
       "currentStatus": "design_stage",
-      "constraint": "PHD done. DAP Submitted. Design in progress. "
+      "constraint": "PHD done. DAP Submitted. Design in progress. \nDAP Approved"
     },
     {
       "id": "wa-1788946999319",
@@ -4388,5 +4388,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-09-25T04:25:03.197Z"
+  "lastUpdated": "2026-09-25T04:25:23.806Z"
 }
