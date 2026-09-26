@@ -355,7 +355,8 @@
       "isTicker": false,
       "readBy": [
         "admin",
-        "device-t0t4nve89"
+        "device-t0t4nve89",
+        "device-nm8fimwig"
       ],
       "author": "Admin",
       "createdAt": "2026-09-22T04:18:08.446Z"
@@ -388,5 +389,5 @@
       "createdAt": "2026-09-25T10:14:47.901Z"
     }
   ],
-  "lastUpdated": "2026-09-26T10:22:21.501Z"
+  "lastUpdated": "2026-09-26T10:23:06.023Z"
 }
