@@ -92,7 +92,7 @@
       "company": "Ampere",
       "isActive": true,
       "createdAt": "2026-01-25T01:20:43.699Z",
-      "lastLogin": "2026-09-07T03:59:46.601Z"
+      "lastLogin": "2026-09-26T10:27:56.883Z"
     },
     {
       "id": "admin-1",
@@ -199,5 +199,5 @@
       "createdAt": "2026-09-09T07:35:47.119Z"
     }
   ],
-  "lastUpdated": "2026-09-16T05:30:07.677Z"
+  "lastUpdated": "2026-09-26T10:27:56.883Z"
 }
