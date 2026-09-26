@@ -380,10 +380,12 @@
       "type": "info",
       "link": "",
       "isTicker": true,
-      "readBy": [],
+      "readBy": [
+        "device-nm8fimwig"
+      ],
       "author": "Admin",
       "createdAt": "2026-09-25T10:14:47.901Z"
     }
   ],
-  "lastUpdated": "2026-09-25T10:14:50.701Z"
+  "lastUpdated": "2026-09-26T10:22:19.387Z"
 }
