@@ -4621,7 +4621,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1790580827944",
+      "engineerName": "Indrakumar",
+      "weekStart": "2026-09-28",
+      "projectName": "13) 3A-GB1-25038_(Type-1) Pressure Tester Machine for Ultrasound Probes",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1790580826420",
+          "taskName": "Resolve Recipe not loading properly issue",
+          "type": "daily",
+          "assignedDate": "2026-09-28",
+          "status": "not_started",
+          "targetDate": "2026-09-28"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-09-28T07:33:18.103Z"
+  "lastUpdated": "2026-09-28T07:33:47.944Z"
 }
