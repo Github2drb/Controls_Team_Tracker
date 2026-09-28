@@ -4458,8 +4458,9 @@
           "taskName": "D8 Silver small variant trials",
           "type": "daily",
           "assignedDate": "2026-09-25",
-          "status": "in_progress",
-          "targetDate": "2026-09-25"
+          "status": "completed",
+          "targetDate": "2026-09-25",
+          "completionDate": "2026-09-28"
         },
         {
           "id": "t-1790311029727",
