@@ -4643,7 +4643,45 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1790580885446",
+      "engineerName": "Ramkumar Annamalai",
+      "weekStart": "2026-09-28",
+      "projectName": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1790580854831",
+          "taskName": "Station1A and 1B IO checking, Offline program download",
+          "type": "weekly",
+          "assignedDate": "2026-09-28",
+          "status": "not_started",
+          "targetDate": "2026-09-28"
+        },
+        {
+          "id": "t-1790580868560",
+          "taskName": "Profinet communication with sensopart and nut runner",
+          "type": "weekly",
+          "assignedDate": "2026-09-28",
+          "status": "not_started",
+          "targetDate": "2026-09-28"
+        },
+        {
+          "id": "t-1790580883265",
+          "taskName": "Ethernet Communication with epsilon sensor",
+          "type": "weekly",
+          "assignedDate": "2026-09-28",
+          "status": "not_started",
+          "targetDate": "2026-09-28"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-09-28T07:33:47.944Z"
+  "lastUpdated": "2026-09-28T07:34:45.446Z"
 }
