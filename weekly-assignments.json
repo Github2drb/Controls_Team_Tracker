@@ -4045,8 +4045,9 @@
           "taskName": "Auto Cycle Trials",
           "type": "weekly",
           "assignedDate": "2026-09-16",
-          "status": "in_progress",
-          "targetDate": "2026-09-16"
+          "status": "completed",
+          "targetDate": "2026-09-16",
+          "completionDate": "2026-09-28"
         },
         {
           "id": "t-1789536810656",
