@@ -4681,7 +4681,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1790580931635",
+      "engineerName": "Swapnil Pradip Patil",
+      "weekStart": "2026-09-28",
+      "projectName": "3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1790580930008",
+          "taskName": "Phoenix PROFIsafe Communication, safety logic change",
+          "type": "weekly",
+          "assignedDate": "2026-09-28",
+          "status": "not_started",
+          "targetDate": "2026-09-28"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-09-28T07:34:45.446Z"
+  "lastUpdated": "2026-09-28T07:35:31.635Z"
 }
