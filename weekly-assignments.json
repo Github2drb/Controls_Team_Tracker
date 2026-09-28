@@ -3896,8 +3896,9 @@
           "taskName": "Homing Sequence for all stations",
           "type": "weekly",
           "assignedDate": "2026-09-09",
-          "status": "not_started",
-          "targetDate": "2026-09-09"
+          "status": "completed",
+          "targetDate": "2026-09-09",
+          "completionDate": "2026-09-28"
         }
       ],
       "currentStatus": "not_started",
