@@ -384,11 +384,12 @@
       "isTicker": false,
       "readBy": [
         "device-nm8fimwig",
-        "device-t0t4nve89"
+        "device-t0t4nve89",
+        "admin"
       ],
       "author": "Admin",
       "createdAt": "2026-09-25T10:14:47.901Z"
     }
   ],
-  "lastUpdated": "2026-09-30T13:24:37.630Z"
+  "lastUpdated": "2026-09-30T13:24:42.310Z"
 }
