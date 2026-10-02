@@ -780,7 +780,9 @@
             {
               "id": "msyaelj1x318t3",
               "text": "PLC, Remote Module IP Configuration",
-              "done": false
+              "done": true,
+              "doneBy": "Admin",
+              "doneAt": "2026-10-02T04:15:41.919Z"
             },
             {
               "id": "msyaelj1xyc1u7",
@@ -857,11 +859,6 @@
           "subtitle": "Set Feedback Sensors and Actuation",
           "items": [
             {
-              "id": "msyaelj14wkk4c",
-              "text": "XY Gantry Pick and Place Position Check",
-              "done": false
-            },
-            {
               "id": "msyaelj1owzaw1",
               "text": "Pneumatic Actuation and Feedback Check",
               "done": false
@@ -869,12 +866,16 @@
             {
               "id": "mugss91ybanxws",
               "text": "Wormwheel Press Check in Stn1A",
-              "done": false
+              "done": true,
+              "doneBy": "Admin",
+              "doneAt": "2026-10-02T04:15:55.734Z"
             },
             {
               "id": "mugssgl5bnddbj",
               "text": "Rotary Drive Check in Stn1A",
-              "done": false
+              "done": true,
+              "doneBy": "Admin",
+              "doneAt": "2026-10-02T04:15:57.361Z"
             },
             {
               "id": "mugsssl3eplqh5",
@@ -886,7 +887,7 @@
       ],
       "siteInchargeEmail": "",
       "programManagerEmail": "",
-      "lastUpdated": "2026-09-25T10:09:52.425Z",
+      "lastUpdated": "2026-10-02T04:16:10.098Z",
       "updatedBy": "Admin"
     },
     "dk1-25110- odu assembly auto line": {
@@ -1336,5 +1337,5 @@
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-09-25T10:09:52.425Z"
+  "lastUpdated": "2026-10-02T04:16:10.098Z"
 }
