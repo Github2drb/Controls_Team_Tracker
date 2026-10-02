@@ -538,22 +538,22 @@
           "id": "msyaelj1jugnhe",
           "label": "1",
           "description": "Actuation Assembly-1A",
-          "electricalConstraint": "Pushbutton wiring to Safety PLC\nVision wiring\nIR wiring\nGauss Controller Wiring",
-          "mechanicalConstraint": "Sensor Mounting Bracket, Gauss controller Mounting, IR Nutrunner Mounting",
+          "electricalConstraint": "1-Pushbutton wiring to Safety PLC (not available)\n2 - gauss controller wiring\n3 -rotary side dispense unit wiring\n4-actuator (stepper motor wiring)\n\n",
+          "mechanicalConstraint": "1 - Gauss Mounting\n2 - OD mounting\n3- actuator (stepper motor mounting)",
           "trialTime": "4 days",
           "status": "not_started",
-          "notes": "",
+          "notes": "0- HMI Screen in development (parallely for manual opearting screen working )\n1- Vision Teaching pending\n2 - IR Net Runner configuration\n3 - OD configuration \n",
           "images": []
         },
         {
           "id": "msyaelj1jjc2mv",
           "label": "2",
           "description": "Actuation Assembly-1B",
-          "electricalConstraint": "",
-          "mechanicalConstraint": "",
+          "electricalConstraint": "1-Pushbutton wiring to Safety PLC (not available)\n2 - gauss controller wiring\n3 -rotary side dispense unit wiring\n",
+          "mechanicalConstraint": "1 - Gauss Mounting\n2 - OD mounting",
           "trialTime": "2 days",
           "status": "not_started",
-          "notes": "",
+          "notes": "0- HMI Screen not in development (HMI not available)\n1- Vision Teaching pending\n2 - IR Net Runner configuration\n3 - OD configuration \n4- I/O check pending\n5 - servo configuration\n",
           "images": []
         },
         {
@@ -564,7 +564,7 @@
           "mechanicalConstraint": "",
           "trialTime": "3 days",
           "status": "not_started",
-          "notes": "",
+          "notes": "0- HMI Screen not in development (HMI not available)\n1- Vision Teaching pending\n2 - IR Net Runner configuration \n3- I/O check pending\n\n",
           "images": []
         },
         {
@@ -815,6 +815,11 @@
               "id": "mugsru1dgo1hz8",
               "text": "Gauss Controller Configuration",
               "done": false
+            },
+            {
+              "id": "muqgr93clfqesr",
+              "text": "Actuator not fixed (stepper motor) -stn1a/1b-OD CHECKING",
+              "done": false
             }
           ]
         },
@@ -831,12 +836,9 @@
             {
               "id": "msyaelj1q6n7qq",
               "text": "Servo Check",
-              "done": false
-            },
-            {
-              "id": "msyaelj1z7e5b5",
-              "text": "VFD → Motor Rotation Check",
-              "done": false
+              "done": true,
+              "doneBy": "Indrakumar",
+              "doneAt": "2026-10-02T04:29:26.478Z"
             },
             {
               "id": "msyaelj1y22lxs",
@@ -889,8 +891,8 @@
       ],
       "siteInchargeEmail": "rudramurthy.s@3dcad-global.com",
       "programManagerEmail": "",
-      "lastUpdated": "2026-10-02T04:21:03.305Z",
-      "updatedBy": "Admin"
+      "lastUpdated": "2026-10-02T04:45:19.656Z",
+      "updatedBy": "Indrakumar"
     },
     "dk1-25110- odu assembly auto line": {
       "projectName": "DK1-25110- ODU Assembly auto line",
@@ -1339,5 +1341,5 @@
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-10-02T04:40:17.222Z"
+  "lastUpdated": "2026-10-02T04:45:19.656Z"
 }
