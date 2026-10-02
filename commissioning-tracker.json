@@ -538,7 +538,7 @@
           "id": "msyaelj1jugnhe",
           "label": "1",
           "description": "Actuation Assembly-1A",
-          "electricalConstraint": "1-Pushbutton wiring to Safety PLC (not available)\n2 - gauss controller wiring\n3 -rotary side dispense unit wiring\n4-actuator (stepper motor wiring)\n\n",
+          "electricalConstraint": "2 - gauss controller wiring\n3 -rotary side dispense unit wiring\n4-actuator (stepper motor wiring)\n\n",
           "mechanicalConstraint": "1 - Gauss Mounting\n2 - OD mounting\n3- actuator (stepper motor mounting)",
           "trialTime": "4 days",
           "status": "not_started",
@@ -891,8 +891,8 @@
       ],
       "siteInchargeEmail": "rudramurthy.s@3dcad-global.com",
       "programManagerEmail": "",
-      "lastUpdated": "2026-10-02T04:45:19.656Z",
-      "updatedBy": "Indrakumar"
+      "lastUpdated": "2026-10-02T05:22:11.022Z",
+      "updatedBy": "Admin"
     },
     "dk1-25110- odu assembly auto line": {
       "projectName": "DK1-25110- ODU Assembly auto line",
@@ -1341,5 +1341,5 @@
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-10-02T04:45:19.656Z"
+  "lastUpdated": "2026-10-02T05:22:11.022Z"
 }
