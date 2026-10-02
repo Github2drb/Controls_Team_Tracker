@@ -18,7 +18,8 @@
         "device-t0t4nve89",
         "device-nm8fimwig",
         "device-blp7dfr6r",
-        "device-if0x34fpf"
+        "device-if0x34fpf",
+        "device-6om48dhjf"
       ]
     },
     {
@@ -37,7 +38,8 @@
         "device-t0t4nve89",
         "device-nm8fimwig",
         "device-blp7dfr6r",
-        "device-if0x34fpf"
+        "device-if0x34fpf",
+        "device-6om48dhjf"
       ]
     },
     {
@@ -57,7 +59,8 @@
         "device-t0t4nve89",
         "device-nm8fimwig",
         "device-blp7dfr6r",
-        "device-if0x34fpf"
+        "device-if0x34fpf",
+        "device-6om48dhjf"
       ]
     },
     {
@@ -78,7 +81,8 @@
         "device-mik8699nq",
         "device-jxgp0gr6f",
         "device-nm8fimwig",
-        "device-if0x34fpf"
+        "device-if0x34fpf",
+        "device-6om48dhjf"
       ],
       "author": "Admin",
       "createdAt": "2026-06-13T04:14:45.670Z"
@@ -101,7 +105,8 @@
         "device-mik8699nq",
         "device-jxgp0gr6f",
         "device-nm8fimwig",
-        "device-if0x34fpf"
+        "device-if0x34fpf",
+        "device-6om48dhjf"
       ],
       "author": "Admin",
       "createdAt": "2026-06-13T07:10:51.821Z"
@@ -125,7 +130,8 @@
         "device-mik8699nq",
         "device-jxgp0gr6f",
         "device-nm8fimwig",
-        "device-if0x34fpf"
+        "device-if0x34fpf",
+        "device-6om48dhjf"
       ],
       "author": "Admin",
       "createdAt": "2026-06-15T05:34:25.116Z"
@@ -150,7 +156,8 @@
         "device-mik8699nq",
         "device-jxgp0gr6f",
         "device-nm8fimwig",
-        "device-if0x34fpf"
+        "device-if0x34fpf",
+        "device-6om48dhjf"
       ],
       "author": "Admin",
       "createdAt": "2026-06-24T08:38:38.670Z"
@@ -173,7 +180,8 @@
         "device-mik8699nq",
         "device-jxgp0gr6f",
         "device-nm8fimwig",
-        "device-if0x34fpf"
+        "device-if0x34fpf",
+        "device-6om48dhjf"
       ],
       "author": "Admin",
       "createdAt": "2026-07-11T04:26:40.853Z"
@@ -192,7 +200,8 @@
         "admin",
         "device-nm8fimwig",
         "device-blp7dfr6r",
-        "device-if0x34fpf"
+        "device-if0x34fpf",
+        "device-6om48dhjf"
       ],
       "author": "Admin",
       "createdAt": "2026-07-31T12:42:26.849Z"
@@ -211,7 +220,8 @@
         "admin",
         "device-nm8fimwig",
         "device-blp7dfr6r",
-        "device-if0x34fpf"
+        "device-if0x34fpf",
+        "device-6om48dhjf"
       ],
       "author": "Admin",
       "createdAt": "2026-08-04T00:34:53.035Z"
@@ -228,7 +238,8 @@
         "admin",
         "device-nm8fimwig",
         "device-blp7dfr6r",
-        "device-if0x34fpf"
+        "device-if0x34fpf",
+        "device-6om48dhjf"
       ],
       "author": "Admin",
       "createdAt": "2026-08-12T10:38:58.999Z"
@@ -245,7 +256,8 @@
         "device-t0t4nve89",
         "device-nm8fimwig",
         "device-blp7dfr6r",
-        "device-if0x34fpf"
+        "device-if0x34fpf",
+        "device-6om48dhjf"
       ],
       "author": "Admin",
       "createdAt": "2026-08-17T08:01:36.916Z"
@@ -262,7 +274,8 @@
         "device-t0t4nve89",
         "device-nm8fimwig",
         "device-blp7dfr6r",
-        "device-if0x34fpf"
+        "device-if0x34fpf",
+        "device-6om48dhjf"
       ],
       "author": "Admin",
       "createdAt": "2026-08-18T07:11:21.911Z"
@@ -279,7 +292,8 @@
         "device-t0t4nve89",
         "device-nm8fimwig",
         "device-blp7dfr6r",
-        "device-if0x34fpf"
+        "device-if0x34fpf",
+        "device-6om48dhjf"
       ],
       "author": "Admin",
       "createdAt": "2026-08-19T07:08:58.383Z"
@@ -296,7 +310,8 @@
         "device-blp7dfr6r",
         "device-t0t4nve89",
         "device-if0x34fpf",
-        "admin"
+        "admin",
+        "device-6om48dhjf"
       ],
       "author": "Admin",
       "createdAt": "2026-08-29T10:48:31.137Z"
@@ -311,7 +326,8 @@
       "readBy": [
         "admin",
         "device-nm8fimwig",
-        "device-t0t4nve89"
+        "device-t0t4nve89",
+        "device-6om48dhjf"
       ],
       "author": "Admin",
       "createdAt": "2026-09-10T06:09:14.419Z"
@@ -326,7 +342,8 @@
       "readBy": [
         "device-nm8fimwig",
         "device-t0t4nve89",
-        "admin"
+        "admin",
+        "device-6om48dhjf"
       ],
       "author": "Admin",
       "createdAt": "2026-09-16T04:54:48.614Z"
@@ -341,7 +358,8 @@
       "readBy": [
         "admin",
         "device-nm8fimwig",
-        "device-t0t4nve89"
+        "device-t0t4nve89",
+        "device-6om48dhjf"
       ],
       "author": "Admin",
       "createdAt": "2026-09-17T10:27:49.451Z"
@@ -356,7 +374,8 @@
       "readBy": [
         "admin",
         "device-t0t4nve89",
-        "device-nm8fimwig"
+        "device-nm8fimwig",
+        "device-6om48dhjf"
       ],
       "author": "Admin",
       "createdAt": "2026-09-22T04:18:08.446Z"
@@ -370,7 +389,8 @@
       "isTicker": false,
       "readBy": [
         "admin",
-        "device-nm8fimwig"
+        "device-nm8fimwig",
+        "device-6om48dhjf"
       ],
       "author": "Admin",
       "createdAt": "2026-09-23T05:09:04.969Z"
@@ -385,11 +405,12 @@
       "readBy": [
         "device-nm8fimwig",
         "device-t0t4nve89",
-        "admin"
+        "admin",
+        "device-6om48dhjf"
       ],
       "author": "Admin",
       "createdAt": "2026-09-25T10:14:47.901Z"
     }
   ],
-  "lastUpdated": "2026-09-30T13:24:42.310Z"
+  "lastUpdated": "2026-10-02T04:50:53.787Z"
 }
