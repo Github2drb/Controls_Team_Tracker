@@ -4650,7 +4650,7 @@
         }
       ],
       "currentStatus": "in_progress",
-      "constraint": ""
+      "constraint": "Equipment powered up. need to take trials"
     },
     {
       "id": "wa-1790580885446",
@@ -4735,5 +4735,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-03T06:49:03.953Z"
+  "lastUpdated": "2026-10-03T06:49:27.503Z"
 }
