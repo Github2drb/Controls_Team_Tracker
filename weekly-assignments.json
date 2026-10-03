@@ -4635,10 +4635,10 @@
       "engineerName": "Indrakumar",
       "weekStart": "2026-09-28",
       "projectName": "13) 3A-GB1-25038_(Type-1) Pressure Tester Machine for Ultrasound Probes",
-      "resourceLockedFrom": "",
-      "resourceLockedTill": "",
-      "internalTarget": "",
-      "customerTarget": "",
+      "resourceLockedFrom": "2026-09-08",
+      "resourceLockedTill": "2026-10-16",
+      "internalTarget": "2026-10-07",
+      "customerTarget": "2026-10-09",
       "tasks": [
         {
           "id": "t-1790580826420",
@@ -4735,5 +4735,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-09-28T07:36:04.119Z"
+  "lastUpdated": "2026-10-03T06:49:03.953Z"
 }
