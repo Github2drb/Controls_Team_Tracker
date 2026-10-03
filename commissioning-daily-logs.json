@@ -97,9 +97,27 @@
           "daysNeeded": null,
           "createdAt": "2026-10-02T15:59:28.462Z",
           "updatedAt": "2026-10-02T15:59:28.462Z"
+        },
+        {
+          "id": "musdyjj2ozccs1",
+          "date": "2026-10-03",
+          "engineer": "Indrakumar",
+          "stationId": "msyaelj19vhb82",
+          "stationLabel": "Station 3 — Shift Ring+Input/output Clutch Sub Assembly",
+          "targetCount": 1,
+          "targetDescription": "- IR (screw tightening machine) communication check\n- need support to vision",
+          "completedCount": 1,
+          "completedDescription": "- IR (screw tightening machine) communication configuration activities were ongoing.\n- vision communication checked ( after teaching completed check with program)",
+          "pendingDescription": "-Need a proper GSD file from the supplier for IR communication (can't configure through PLC) \n- expected GSD file ( Sunday or Monday)",
+          "constraints": "",
+          "postponedDescription": "",
+          "postponedReason": "",
+          "daysNeeded": null,
+          "createdAt": "2026-10-03T12:46:20.097Z",
+          "updatedAt": "2026-10-03T12:46:20.097Z"
         }
       ]
     }
   },
-  "lastUpdated": "2026-10-02T15:59:28.462Z"
+  "lastUpdated": "2026-10-03T12:46:20.097Z"
 }
