@@ -4743,7 +4743,37 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1791219085725",
+      "engineerName": "Susanth K M",
+      "weekStart": "2026-10-05",
+      "projectName": "DK1-25110- ODU Assembly auto line",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1791219032977",
+          "taskName": "Data Saving in HMI based on RFID",
+          "type": "weekly",
+          "assignedDate": "2026-10-05",
+          "status": "not_started",
+          "targetDate": "2026-10-05"
+        },
+        {
+          "id": "t-1791219058898",
+          "taskName": "Overall Pallet Component Data at Rubber B Station",
+          "type": "weekly",
+          "assignedDate": "2026-10-05",
+          "status": "not_started",
+          "targetDate": "2026-10-05"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-03T06:49:27.503Z"
+  "lastUpdated": "2026-10-05T16:51:25.725Z"
 }
