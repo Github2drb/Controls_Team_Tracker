@@ -4817,7 +4817,37 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1791219170437",
+      "engineerName": "Veeresh M",
+      "weekStart": "2026-10-05",
+      "projectName": "3A-CC1-26100 – Classified Cycling-Calibration Test Bench",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1791219160799",
+          "taskName": "BOM Completion",
+          "type": "weekly",
+          "assignedDate": "2026-10-05",
+          "status": "not_started",
+          "targetDate": "2026-10-05"
+        },
+        {
+          "id": "t-1791219168179",
+          "taskName": "E-Plan Development",
+          "type": "weekly",
+          "assignedDate": "2026-10-05",
+          "status": "not_started",
+          "targetDate": "2026-10-05"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-05T16:52:13.746Z"
+  "lastUpdated": "2026-10-05T16:52:50.437Z"
 }
