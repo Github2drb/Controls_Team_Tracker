@@ -4773,7 +4773,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1791219108239",
+      "engineerName": "Dhanesh M",
+      "weekStart": "2026-10-05",
+      "projectName": "3A-SS1-26012-Sartorius- Glass bead blasting automation",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1791219105956",
+          "taskName": "Auto Cycle Completion",
+          "type": "weekly",
+          "assignedDate": "2026-10-05",
+          "status": "not_started",
+          "targetDate": "2026-10-05"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-05T16:51:25.725Z"
+  "lastUpdated": "2026-10-05T16:51:48.239Z"
 }
