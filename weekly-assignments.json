@@ -114,11 +114,11 @@
       ],
       "currentStatus": "waiting_for_materials",
       "notes": "",
-      "constraint": "Offline Logic Ready. Electrical Assembly Pending,\nPLC PO not yet created till 31/07/26\nPLC Material Status need to be checked\n17/09 - PLC yet to be received\nMechanical Assembly Completed. Electrical Assembly Pending.\nWaiting for Control Panel receipt(23/09)\nPanel and Electrical Assembly pending(24/09,28/09)",
+      "constraint": "Offline Logic Ready. Electrical Assembly Pending,\nPLC PO not yet created till 31/07/26\nPLC Material Status need to be checked\n17/09 - PLC yet to be received\nMechanical Assembly Completed. Electrical Assembly Pending.\nWaiting for Control Panel receipt(23/09)\nPanel and Electrical Assembly pending(24/09,28/09)-Completed\nPLC and HMI Program need to be downloaded and auto cycle need to be checked",
       "resourceLockedFrom": "2026-08-25",
-      "resourceLockedTill": "2026-09-30",
-      "internalTarget": "2026-09-15",
-      "customerTarget": "2026-09-14"
+      "resourceLockedTill": "2026-10-09",
+      "internalTarget": "2026-10-07",
+      "customerTarget": "2026-10-08"
     },
     {
       "id": "Eswanth Potnuri, Santhosh N, Anand-2026-03-30-1775039981894",
@@ -4909,5 +4909,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-05T16:55:43.550Z"
+  "lastUpdated": "2026-10-05T16:56:37.094Z"
 }
