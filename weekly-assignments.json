@@ -4658,7 +4658,7 @@
         }
       ],
       "currentStatus": "in_progress",
-      "constraint": "Equipment powered up. need to take trials"
+      "constraint": "Equipment powered up. need to take trials.\n05-10-26 - PLC and HMI program need to be download and auto test need to be checked"
     },
     {
       "id": "wa-1790580885446",
@@ -4909,5 +4909,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-05T16:53:49.755Z"
+  "lastUpdated": "2026-10-05T16:54:41.871Z"
 }
