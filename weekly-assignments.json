@@ -4419,8 +4419,9 @@
           "taskName": "Graph fort Stn3,4,6",
           "type": "daily",
           "assignedDate": "2026-09-25",
-          "status": "not_started",
-          "targetDate": "2026-09-25"
+          "status": "completed",
+          "targetDate": "2026-09-25",
+          "completionDate": "2026-10-05"
         },
         {
           "id": "t-1790310970413",
