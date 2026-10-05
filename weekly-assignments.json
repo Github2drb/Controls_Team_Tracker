@@ -4795,7 +4795,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1791219133746",
+      "engineerName": "Harsha K",
+      "weekStart": "2026-10-05",
+      "projectName": "3A-DK1-25077-Dehydration Project",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1791219131502",
+          "taskName": "Production Support and Maintenance Points Clear",
+          "type": "weekly",
+          "assignedDate": "2026-10-05",
+          "status": "not_started",
+          "targetDate": "2026-10-05"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-05T16:51:48.239Z"
+  "lastUpdated": "2026-10-05T16:52:13.746Z"
 }
