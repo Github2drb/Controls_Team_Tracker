@@ -4847,7 +4847,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1791219193664",
+      "engineerName": "Indrakumar",
+      "weekStart": "2026-10-05",
+      "projectName": "3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1791219191348",
+          "taskName": "F.A.T Support",
+          "type": "weekly",
+          "assignedDate": "2026-10-05",
+          "status": "not_started",
+          "targetDate": "2026-10-05"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-05T16:52:50.437Z"
+  "lastUpdated": "2026-10-05T16:53:13.664Z"
 }
