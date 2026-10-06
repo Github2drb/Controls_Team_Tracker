@@ -628,9 +628,9 @@
           "id": "msyaelj1669imp",
           "label": "1",
           "description": "Conveyor Power Up",
-          "electricalConstraint": "",
-          "mechanicalConstraint": "",
-          "trialTime": "",
+          "electricalConstraint": "Frame Constructed. Motor not wired.",
+          "mechanicalConstraint": "Motor Not mounted. Chain not assembled",
+          "trialTime": "2",
           "status": "not_started",
           "notes": "",
           "images": []
@@ -639,7 +639,7 @@
           "id": "msyaelj1n38oc0",
           "label": "2",
           "description": "Vision Inspection in All Station",
-          "electricalConstraint": "",
+          "electricalConstraint": "Sensorpart wiring to be completed in station2,3,4,5",
           "mechanicalConstraint": "",
           "trialTime": "",
           "status": "not_started",
@@ -672,7 +672,7 @@
           "id": "msyaelj14uc79g",
           "label": "5",
           "description": "Remote IO Integration",
-          "electricalConstraint": "",
+          "electricalConstraint": "Ethernet Switch not available",
           "mechanicalConstraint": "",
           "trialTime": "",
           "status": "not_started",
@@ -907,7 +907,7 @@
       ],
       "siteInchargeEmail": "rudramurthy.s@3dcad-global.com",
       "programManagerEmail": "",
-      "lastUpdated": "2026-10-06T04:52:29.055Z",
+      "lastUpdated": "2026-10-06T04:57:36.547Z",
       "updatedBy": "Admin"
     },
     "dk1-25110- odu assembly auto line": {
@@ -1357,5 +1357,5 @@
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-10-06T04:52:29.055Z"
+  "lastUpdated": "2026-10-06T04:57:36.547Z"
 }
