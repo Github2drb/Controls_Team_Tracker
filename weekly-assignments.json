@@ -4657,7 +4657,7 @@
           "completionDate": "2026-10-05"
         }
       ],
-      "currentStatus": "in_progress",
+      "currentStatus": "completed",
       "constraint": "Equipment powered up. need to take trials.\n05-10-26 - PLC and HMI program need to be download and auto test need to be checked"
     },
     {
@@ -4909,5 +4909,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-05T16:57:46.168Z"
+  "lastUpdated": "2026-10-06T05:15:24.924Z"
 }
