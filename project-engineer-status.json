@@ -464,12 +464,12 @@
         },
         "indrakumar": {
           "displayName": "Indrakumar",
-          "currentStatus": "waiting_for_materials",
+          "currentStatus": "trials_stage",
           "resourceLockedFrom": "2026-08-26",
           "resourceLockedTill": "2026-09-30",
           "internalTarget": "2026-09-14",
           "customerTarget": "2026-09-18",
-          "updatedAt": "2026-08-25T09:55:28.594Z"
+          "updatedAt": "2026-10-06T05:16:15.563Z"
         }
       }
     },
@@ -529,5 +529,5 @@
       }
     }
   },
-  "lastUpdated": "2026-10-06T05:16:09.455Z"
+  "lastUpdated": "2026-10-06T05:16:15.563Z"
 }
