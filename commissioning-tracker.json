@@ -789,7 +789,9 @@
             {
               "id": "msyaelj1xyc1u7",
               "text": "Servo/VFD Configuration",
-              "done": false
+              "done": true,
+              "doneBy": "Admin",
+              "doneAt": "2026-10-06T04:50:18.435Z"
             },
             {
               "id": "msyaelj1ojk1s4",
@@ -799,17 +801,23 @@
             {
               "id": "msyaelj1a47vbk",
               "text": "Vision IP Configuration",
-              "done": false
+              "done": true,
+              "doneBy": "Admin",
+              "doneAt": "2026-10-06T04:50:15.810Z"
             },
             {
               "id": "msyazbwvp5tzn9",
               "text": "Laser Marking Controller Configuration",
-              "done": false
+              "done": true,
+              "doneBy": "Admin",
+              "doneAt": "2026-10-06T04:50:19.336Z"
             },
             {
               "id": "msyazhv9926t1d",
               "text": "Torque Controller Configuration",
-              "done": false
+              "done": true,
+              "doneBy": "Admin",
+              "doneAt": "2026-10-06T04:50:21.292Z"
             },
             {
               "id": "mugsru1dgo1hz8",
@@ -831,7 +839,9 @@
             {
               "id": "msyaelj15utqof",
               "text": "Field IO",
-              "done": false
+              "done": true,
+              "doneBy": "Admin",
+              "doneAt": "2026-10-06T04:50:33.286Z"
             },
             {
               "id": "msyaelj1q6n7qq",
@@ -843,7 +853,9 @@
             {
               "id": "msyaelj1y22lxs",
               "text": "Vision Check",
-              "done": false
+              "done": true,
+              "doneBy": "Admin",
+              "doneAt": "2026-10-06T04:50:31.275Z"
             },
             {
               "id": "msyb5fbnqdgwek",
@@ -865,7 +877,9 @@
             {
               "id": "msyaelj1owzaw1",
               "text": "Pneumatic Actuation and Feedback Check",
-              "done": false
+              "done": true,
+              "doneBy": "Admin",
+              "doneAt": "2026-10-06T04:50:41.131Z"
             },
             {
               "id": "mugss91ybanxws",
@@ -884,14 +898,16 @@
             {
               "id": "mugsssl3eplqh5",
               "text": "Sensopart Vision Check in Stn1A",
-              "done": false
+              "done": true,
+              "doneBy": "Admin",
+              "doneAt": "2026-10-06T04:50:42.623Z"
             }
           ]
         }
       ],
       "siteInchargeEmail": "rudramurthy.s@3dcad-global.com",
       "programManagerEmail": "",
-      "lastUpdated": "2026-10-02T05:22:11.022Z",
+      "lastUpdated": "2026-10-06T04:52:29.055Z",
       "updatedBy": "Admin"
     },
     "dk1-25110- odu assembly auto line": {
@@ -1341,5 +1357,5 @@
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-10-02T05:22:11.022Z"
+  "lastUpdated": "2026-10-06T04:52:29.055Z"
 }
