@@ -343,13 +343,13 @@
       "weekStart": "2026-05-22",
       "projectName": "3A-S02-25054_Surface Hinge Assembly",
       "resourceLockedFrom": "2025-12-09",
-      "resourceLockedTill": "2026-09-30",
-      "internalTarget": "2026-05-29",
-      "customerTarget": "2026-09-29",
+      "resourceLockedTill": "2026-10-30",
+      "internalTarget": "2026-10-13",
+      "customerTarget": "2026-10-16",
       "tasks": [],
       "currentStatus": "installation_in_progress",
       "notes": "Hardware Integration in Progress",
-      "constraint": "CIP Communication Completed\nBarcode Scanning Pending\nPart Flush Check on E-Stop Completed\nCycle time optimization completed.\nF.A.T to be resumed and completed\nF.A.T started on 31/07/26. - Stoppage issue in Stage-1.\nF.A.T Completed and approved for dispatch\nIntertek Documentation Verification for UL certification today(17/08).\nEquipment Dismantling process (19/08/26)\nEquipment dispatch plan starts from customer site in progress(19/08)\nPacking still goes on as on 25-08-26\nMachines packing completed on 26-08-26\nPacked Equipment still in shop floor - 28-08-26 -01-09-26\nDispatch completed. Installation starts on 20th Sept26.\nElectrical Wiring Person joints the team on 24-09\nName Plate details as per Southco need to be submitted on 24-09 - Discussion happend and Power Consumption details has been modified and today Name plate will be shared again to customer - 25/09"
+      "constraint": "CIP Communication Completed\nBarcode Scanning Pending\nPart Flush Check on E-Stop Completed\nCycle time optimization completed.\nF.A.T to be resumed and completed\nF.A.T started on 31/07/26. - Stoppage issue in Stage-1.\nF.A.T Completed and approved for dispatch\nIntertek Documentation Verification for UL certification today(17/08).\nEquipment Dismantling process (19/08/26)\nEquipment dispatch plan starts from customer site in progress(19/08)\nPacking still goes on as on 25-08-26\nMachines packing completed on 26-08-26\nPacked Equipment still in shop floor - 28-08-26 -01-09-26\nDispatch completed. Installation starts on 20th Sept26.\nElectrical Wiring Person joints the team on 24-09\nName Plate details as per Southco need to be submitted on 24-09 - Discussion happend and Power Consumption details has been modified and today Name plate will be shared again to customer - 25/09\n05-10 - Main Panel powered up. Bowl Feeder powered up through main panel. Communication need to be checked"
     },
     {
       "id": "wa-1779455140013",
@@ -4909,5 +4909,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-06T05:15:59.089Z"
+  "lastUpdated": "2026-10-06T05:18:02.196Z"
 }
