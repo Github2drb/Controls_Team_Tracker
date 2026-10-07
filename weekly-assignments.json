@@ -4834,7 +4834,7 @@
           "taskName": "BOM Completion",
           "type": "weekly",
           "assignedDate": "2026-10-05",
-          "status": "not_started",
+          "status": "in_progress",
           "targetDate": "2026-10-05"
         },
         {
