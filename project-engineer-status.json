@@ -409,12 +409,12 @@
         },
         "veeresh m": {
           "displayName": "Veeresh M",
-          "currentStatus": "electrical_design",
+          "currentStatus": "trials_stage",
           "resourceLockedFrom": "2026-08-17",
           "resourceLockedTill": "2026-09-30",
           "internalTarget": "2026-09-09",
           "customerTarget": "2026-09-17",
-          "updatedAt": "2026-08-25T09:51:29.779Z"
+          "updatedAt": "2026-10-07T06:50:17.300Z"
         }
       }
     },
@@ -529,5 +529,5 @@
       }
     }
   },
-  "lastUpdated": "2026-10-07T06:50:06.073Z"
+  "lastUpdated": "2026-10-07T06:50:17.300Z"
 }
