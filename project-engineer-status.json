@@ -400,12 +400,12 @@
         },
         "ramkumar annamalai": {
           "displayName": "Ramkumar Annamalai",
-          "currentStatus": "electrical_assembly",
+          "currentStatus": "trials_stage",
           "resourceLockedFrom": "2026-07-20",
           "resourceLockedTill": "2026-09-30",
           "internalTarget": "2026-09-08",
           "customerTarget": "2026-09-16",
-          "updatedAt": "2026-09-23T12:17:38.304Z"
+          "updatedAt": "2026-10-07T06:50:06.072Z"
         },
         "veeresh m": {
           "displayName": "Veeresh M",
@@ -529,5 +529,5 @@
       }
     }
   },
-  "lastUpdated": "2026-10-06T05:16:15.563Z"
+  "lastUpdated": "2026-10-07T06:50:06.073Z"
 }
