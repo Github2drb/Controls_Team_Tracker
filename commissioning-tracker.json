@@ -408,7 +408,7 @@
           "electricalConstraint": "Electrical Wiring in progress",
           "mechanicalConstraint": "",
           "trialTime": "",
-          "status": "electrical_pending",
+          "status": "ready_for_trials",
           "notes": "",
           "images": []
         }
@@ -485,12 +485,16 @@
             {
               "id": "mue2r6z0xhr1ft",
               "text": "Safety Input Check",
-              "done": false
+              "done": true,
+              "doneBy": "Admin",
+              "doneAt": "2026-10-07T08:46:51.013Z"
             },
             {
               "id": "mue2r9hz95u1ce",
               "text": "Safety Output Check",
-              "done": false
+              "done": true,
+              "doneBy": "Admin",
+              "doneAt": "2026-10-07T08:46:51.928Z"
             },
             {
               "id": "mue2rh5k0xq1rq",
@@ -528,7 +532,7 @@
       ],
       "siteInchargeEmail": "",
       "programManagerEmail": "",
-      "lastUpdated": "2026-10-02T04:40:17.222Z",
+      "lastUpdated": "2026-10-07T08:47:08.417Z",
       "updatedBy": "Admin"
     },
     "[3a-cc1-26040] classified cycling-7sp hub assembly & eo": {
@@ -1357,5 +1361,5 @@
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-10-06T04:57:36.547Z"
+  "lastUpdated": "2026-10-07T08:47:08.417Z"
 }
