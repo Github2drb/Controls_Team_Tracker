@@ -245,12 +245,12 @@
         },
         "susanth k m": {
           "displayName": "Susanth K M",
-          "currentStatus": "completed",
+          "currentStatus": "installation_in_progress",
           "resourceLockedFrom": "2025-08-05",
-          "resourceLockedTill": "2026-09-16",
+          "resourceLockedTill": "2026-10-30",
           "internalTarget": "2026-09-03",
-          "customerTarget": "2026-09-10",
-          "updatedAt": "2026-09-17T10:30:02.463Z"
+          "customerTarget": "2026-10-20",
+          "updatedAt": "2026-10-08T05:02:29.064Z"
         },
         "veeresh m": {
           "displayName": "Veeresh M",
@@ -529,5 +529,5 @@
       }
     }
   },
-  "lastUpdated": "2026-10-08T05:01:59.725Z"
+  "lastUpdated": "2026-10-08T05:02:29.064Z"
 }
