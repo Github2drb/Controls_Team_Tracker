@@ -211,5 +211,27 @@
       }
     ],
     "updatedBy": "admin"
+  },
+  {
+    "projectName": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO",
+    "synopsis": "",
+    "plcArchitecture": "",
+    "safetyLayout": "",
+    "hasMultipleStations": true,
+    "stations": [
+      {
+        "id": "station-1791436370921-0",
+        "name": "Station 1A",
+        "status": "not_started",
+        "electricalParts": "",
+        "process": "",
+        "inputs": "",
+        "outputs": "",
+        "images": []
+      }
+    ],
+    "updatedAt": "2026-10-08T05:13:09.132Z",
+    "alarms": [],
+    "updatedBy": "admin"
   }
 ]
