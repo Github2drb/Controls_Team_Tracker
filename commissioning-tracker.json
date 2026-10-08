@@ -542,11 +542,11 @@
           "id": "msyaelj1jugnhe",
           "label": "1",
           "description": "Actuation Assembly-1A",
-          "electricalConstraint": "2 - gauss controller wiring\n3 -rotary side dispense unit wiring\n4-actuator (stepper motor wiring)\n\n",
+          "electricalConstraint": "2 - gauss controller wiring\n3 -rotary side dispense unit wiring\n4-actuator (servo motor wiring)\n\n",
           "mechanicalConstraint": "1 - Gauss Mounting\n2 - OD mounting\n3- actuator (stepper motor mounting)",
           "trialTime": "4 days",
           "status": "not_started",
-          "notes": "0- HMI Screen in development (parallely for manual opearting screen working )\n1- Vision Teaching pending\n2 - IR Net Runner configuration\n3 - OD configuration \n",
+          "notes": "0- HMI Screen in development (parallelly for manual operating screen working )\n1- Vision Teaching pending\n2 - IR Net Runner configuration\n3 - OD configuration\n4. Annunciator Check\n",
           "images": []
         },
         {
@@ -557,7 +557,7 @@
           "mechanicalConstraint": "1 - Gauss Mounting\n2 - OD mounting",
           "trialTime": "2 days",
           "status": "not_started",
-          "notes": "0- HMI Screen not in development (HMI not available)\n1- Vision Teaching pending\n2 - IR Net Runner configuration\n3 - OD configuration \n4- I/O check pending\n5 - servo configuration\n",
+          "notes": "0- HMI Screen in development (parallelly for manual operating screen working )\n1- Vision Teaching pending\n2 - IR Net Runner configuration\n3 - OD configuration\n4. Annunciator Check",
           "images": []
         },
         {
@@ -909,9 +909,9 @@
           ]
         }
       ],
-      "siteInchargeEmail": "rudramurthy.s@3dcad-global.com",
+      "siteInchargeEmail": "",
       "programManagerEmail": "",
-      "lastUpdated": "2026-10-06T04:57:36.547Z",
+      "lastUpdated": "2026-10-08T05:12:21.680Z",
       "updatedBy": "Admin"
     },
     "dk1-25110- odu assembly auto line": {
@@ -1361,5 +1361,5 @@
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-10-07T08:47:08.417Z"
+  "lastUpdated": "2026-10-08T05:12:21.680Z"
 }
