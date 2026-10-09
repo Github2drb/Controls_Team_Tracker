@@ -4952,7 +4952,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1791520117816",
+      "engineerName": "Indrakumar",
+      "weekStart": "2026-10-05",
+      "projectName": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1791520116769",
+          "taskName": "Station1B HMI",
+          "type": "weekly",
+          "assignedDate": "2026-10-09",
+          "status": "not_started",
+          "targetDate": "2026-10-09"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-09T04:28:16.301Z"
+  "lastUpdated": "2026-10-09T04:28:37.816Z"
 }
