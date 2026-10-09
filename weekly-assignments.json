@@ -4908,7 +4908,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1791520066888",
+      "engineerName": "Susanth K M",
+      "weekStart": "2026-10-05",
+      "projectName": "DK1-25110- ODU Assembly auto line",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1791520065931",
+          "taskName": "Close Customer Points",
+          "type": "daily",
+          "assignedDate": "2026-10-09",
+          "status": "not_started",
+          "targetDate": "2026-10-09"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-08T05:00:16.352Z"
+  "lastUpdated": "2026-10-09T04:27:46.888Z"
 }
