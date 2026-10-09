@@ -4930,7 +4930,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1791520096301",
+      "engineerName": "Dhanesh M",
+      "weekStart": "2026-10-05",
+      "projectName": "3A-AD1-26046-ASAHI DENSO-Switch Endurance Testing Station",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1791520095460",
+          "taskName": "All Variants run completion",
+          "type": "daily",
+          "assignedDate": "2026-10-09",
+          "status": "not_started",
+          "targetDate": "2026-10-09"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-09T04:27:46.888Z"
+  "lastUpdated": "2026-10-09T04:28:16.301Z"
 }
