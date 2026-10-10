@@ -391,7 +391,7 @@
       "customerTarget": "2026-10-08",
       "tasks": [],
       "currentStatus": "mechanical_assembly",
-      "constraint": "DAP Submitted\nBOM in progress.\nDispenser Unit Discussion concluded. Technical Details awaited.\nFurther discussion will held on 20-07-2026\nElectrical Drawing in progress. Expected date of completion :06/08/26 >GA drawing given for mounting plate of all stations.\nComplete IO list station wise derived - 19/08\nElectrical Drawing In progress\nAdditional Siemens IO need to be ordered as per final IO\nStation1A & B Offline Development in progress - Completed\nBurster Meeting conducted on 25-08-26 for Status and hardware \nStation-2 Offline Development in progress - Completed\nMounting Plate Wiring going on - Stationwise GA Completed.Main GA going on\nStation-3 Offline Development in Progress \nPLC,HMI,Festo Drive powered up along with ET200SP in all stations - 23-09. Push button wiring completed for all station-24/09\nStation1A and 1B Servo Configured in Festo Automation Suite - 25/09\nStation1 and 1B not completely ready to take trials - 28-09\nMechanical Assembly pending in station2-5\n08-10-26 - Nutrunner communication completed in 2,3& 5th station. Festo Press configuration done by supplier for station 4 & 5. Communication with PLC yet to be established.\n"
+      "constraint": "DAP Submitted\nBOM in progress.\nDispenser Unit Discussion concluded. Technical Details awaited.\nFurther discussion will held on 20-07-2026\nElectrical Drawing in progress. Expected date of completion :06/08/26 >GA drawing given for mounting plate of all stations.\nComplete IO list station wise derived - 19/08\nElectrical Drawing In progress\nAdditional Siemens IO need to be ordered as per final IO\nStation1A & B Offline Development in progress - Completed\nBurster Meeting conducted on 25-08-26 for Status and hardware \nStation-2 Offline Development in progress - Completed\nMounting Plate Wiring going on - Stationwise GA Completed.Main GA going on\nStation-3 Offline Development in Progress \nPLC,HMI,Festo Drive powered up along with ET200SP in all stations - 23-09. Push button wiring completed for all station-24/09\nStation1A and 1B Servo Configured in Festo Automation Suite - 25/09\nStation1 and 1B not completely ready to take trials - 28-09\nMechanical Assembly pending in station2-5\n08-10-26 - Nutrunner communication completed in 2,3& 5th station. Festo Press configuration done by supplier for station 4 & 5. Communication with PLC yet to be established.\nStation-2 Completed,Station-3 in progress\n"
     },
     {
       "id": "wa-1779862941175",
@@ -4976,5 +4976,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-09T04:28:37.816Z"
+  "lastUpdated": "2026-10-10T04:35:56.789Z"
 }
