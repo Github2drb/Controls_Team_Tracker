@@ -114,7 +114,7 @@
       ],
       "currentStatus": "io_check",
       "notes": "",
-      "constraint": "Offline Logic Ready. Electrical Assembly Pending,\nPLC PO not yet created till 31/07/26\nPLC Material Status need to be checked\n17/09 - PLC yet to be received\nMechanical Assembly Completed. Electrical Assembly Pending.\nWaiting for Control Panel receipt(23/09)\nPanel and Electrical Assembly pending(24/09,28/09)-Completed\nPLC and HMI Program need to be downloaded and auto cycle need to be checked",
+      "constraint": "Offline Logic Ready. Electrical Assembly Pending,\nPLC PO not yet created till 31/07/26\nPLC Material Status need to be checked\n17/09 - PLC yet to be received\nMechanical Assembly Completed. Electrical Assembly Pending.\nWaiting for Control Panel receipt(23/09)\nPanel and Electrical Assembly pending(24/09,28/09)-Completed\nPLC and HMI Program need to be downloaded and auto cycle need to be checked.\n10-10-26 - Analog DPS wire not yet connected. Set pressure completed",
       "resourceLockedFrom": "2026-08-25",
       "resourceLockedTill": "2026-10-09",
       "internalTarget": "2026-10-07",
@@ -4976,5 +4976,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-10T04:36:52.193Z"
+  "lastUpdated": "2026-10-10T04:37:59.367Z"
 }
