@@ -4928,8 +4928,9 @@
           "taskName": "Close Customer Points",
           "type": "daily",
           "assignedDate": "2026-10-09",
-          "status": "not_started",
-          "targetDate": "2026-10-09"
+          "status": "completed",
+          "targetDate": "2026-10-09",
+          "completionDate": "2026-10-12"
         }
       ],
       "currentStatus": "in_progress",
