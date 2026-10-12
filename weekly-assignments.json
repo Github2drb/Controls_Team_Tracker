@@ -5003,7 +5003,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1791795517221",
+      "engineerName": "Dhanesh M",
+      "weekStart": "2026-10-12",
+      "projectName": "3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1791795503871",
+          "taskName": "Safety Door Logic Support, Alarm Indication in HMI",
+          "type": "weekly",
+          "assignedDate": "2026-10-12",
+          "status": "not_started",
+          "targetDate": "2026-10-12"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-12T08:57:42.021Z"
+  "lastUpdated": "2026-10-12T08:58:37.221Z"
 }
