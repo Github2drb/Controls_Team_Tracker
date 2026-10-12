@@ -5025,7 +5025,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1791795569495",
+      "engineerName": "Dhanesh M",
+      "weekStart": "2026-10-12",
+      "projectName": "3A-GB1-26007_GE_Pressure Tester",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1791795567248",
+          "taskName": "Auto Trials",
+          "type": "weekly",
+          "assignedDate": "2026-10-12",
+          "status": "not_started",
+          "targetDate": "2026-10-12"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-12T08:58:37.221Z"
+  "lastUpdated": "2026-10-12T08:59:29.495Z"
 }
