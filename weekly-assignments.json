@@ -4981,7 +4981,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1791795462021",
+      "engineerName": "Susanth K M",
+      "weekStart": "2026-10-12",
+      "projectName": "DK1-25110- ODU Assembly auto line",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1791795459657",
+          "taskName": "Press Stable Result save with reference to RFID",
+          "type": "weekly",
+          "assignedDate": "2026-10-12",
+          "status": "not_started",
+          "targetDate": "2026-10-12"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-12T08:53:46.818Z"
+  "lastUpdated": "2026-10-12T08:57:42.021Z"
 }
