@@ -5047,7 +5047,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1791795647867",
+      "engineerName": "Indrakumar",
+      "weekStart": "2026-10-12",
+      "projectName": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1791795645755",
+          "taskName": "Station-2 &3 HMI Pending Points Completion",
+          "type": "weekly",
+          "assignedDate": "2026-10-12",
+          "status": "not_started",
+          "targetDate": "2026-10-12"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-12T08:59:29.495Z"
+  "lastUpdated": "2026-10-12T09:00:47.867Z"
 }
