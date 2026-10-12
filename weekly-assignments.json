@@ -3966,7 +3966,7 @@
       "internalTarget": "2026-10-16",
       "customerTarget": "2026-10-28",
       "tasks": [],
-      "currentStatus": "design_stage",
+      "currentStatus": "procurement_stage",
       "constraint": "Electrical DAP submitted.\n05-10-26 - BOM overall generation need to be completed\nE-Plan drawing to start\n"
     },
     {
@@ -4976,5 +4976,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-10T04:40:44.976Z"
+  "lastUpdated": "2026-10-12T08:52:42.258Z"
 }
