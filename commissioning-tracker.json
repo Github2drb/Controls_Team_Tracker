@@ -545,7 +545,7 @@
           "electricalConstraint": "2 - gauss controller wiring\n3 -rotary side dispense unit wiring\n4-actuator (servo motor wiring)\n\n",
           "mechanicalConstraint": "1 - Gauss Mounting\n2 - OD mounting\n3- actuator (stepper motor mounting)",
           "trialTime": "4 days",
-          "status": "not_started",
+          "status": "trials_in_progress",
           "notes": "0- HMI Screen in development (parallelly for manual operating screen working )\n1- Vision Teaching pending\n2 - IR Net Runner configuration\n3 - OD configuration\n4. Annunciator Check\n",
           "images": []
         },
@@ -567,7 +567,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "3 days",
-          "status": "not_started",
+          "status": "trials_in_progress",
           "notes": "0- HMI Screen not in development (HMI not available)\n1- Vision Teaching pending\n2 - IR Net Runner configuration \n3- I/O check pending\n\n",
           "images": []
         },
@@ -578,7 +578,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "3 days",
-          "status": "not_started",
+          "status": "ready_for_trials",
           "notes": "",
           "images": []
         },
@@ -589,7 +589,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": " 3 days",
-          "status": "not_started",
+          "status": "mechanical_pending",
           "notes": "",
           "images": []
         },
@@ -600,7 +600,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "5 Days",
-          "status": "not_started",
+          "status": "mechanical_pending",
           "notes": "",
           "images": []
         },
@@ -611,7 +611,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "4 days",
-          "status": "not_started",
+          "status": "mechanical_pending",
           "notes": "",
           "images": []
         },
@@ -911,7 +911,7 @@
       ],
       "siteInchargeEmail": "",
       "programManagerEmail": "",
-      "lastUpdated": "2026-10-08T05:12:21.680Z",
+      "lastUpdated": "2026-10-13T05:03:28.707Z",
       "updatedBy": "Admin"
     },
     "dk1-25110- odu assembly auto line": {
@@ -1361,5 +1361,5 @@
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-10-08T05:12:21.680Z"
+  "lastUpdated": "2026-10-13T05:03:28.707Z"
 }
