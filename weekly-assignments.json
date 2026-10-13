@@ -5152,7 +5152,37 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1791867173157",
+      "engineerName": "Indrakumar",
+      "weekStart": "2026-10-12",
+      "projectName": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1791867151781",
+          "taskName": "Station1A Trials Support",
+          "type": "daily",
+          "assignedDate": "2026-10-13",
+          "status": "not_started",
+          "targetDate": "2026-10-13"
+        },
+        {
+          "id": "t-1791867169588",
+          "taskName": "Station-3 Sequence Validation",
+          "type": "weekly",
+          "assignedDate": "2026-10-13",
+          "status": "not_started",
+          "targetDate": "2026-10-13"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-13T04:52:12.129Z"
+  "lastUpdated": "2026-10-13T04:52:53.157Z"
 }
