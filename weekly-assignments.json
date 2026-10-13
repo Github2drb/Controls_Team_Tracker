@@ -5064,7 +5064,7 @@
           "taskName": "Station-2 &3 HMI Pending Points Completion",
           "type": "weekly",
           "assignedDate": "2026-10-12",
-          "status": "not_started",
+          "status": "in_progress",
           "targetDate": "2026-10-12"
         }
       ],
