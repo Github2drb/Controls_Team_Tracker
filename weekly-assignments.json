@@ -5207,7 +5207,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1791955684462",
+      "engineerName": "Harsha K",
+      "weekStart": "2026-10-12",
+      "projectName": "3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1791955681585",
+          "taskName": "Pneumatic Cylinder addition at tab station for small variatn",
+          "type": "daily",
+          "assignedDate": "2026-10-14",
+          "status": "not_started",
+          "targetDate": "2026-10-14"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-13T04:53:14.480Z"
+  "lastUpdated": "2026-10-14T05:28:04.462Z"
 }
