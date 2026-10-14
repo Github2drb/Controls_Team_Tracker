@@ -5221,7 +5221,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1791972002389",
+      "engineerName": "Indrakumar",
+      "weekStart": "2026-10-12",
+      "projectName": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1791972000930",
+          "taskName": "Station1A Servo Press issue",
+          "type": "daily",
+          "assignedDate": "2026-10-14",
+          "status": "not_started",
+          "targetDate": "2026-10-14"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-14T08:24:36.351Z"
+  "lastUpdated": "2026-10-14T10:00:02.389Z"
 }
