@@ -5125,8 +5125,9 @@
           "taskName": "Auto Trial Validation for all variants",
           "type": "daily",
           "assignedDate": "2026-10-13",
-          "status": "not_started",
-          "targetDate": "2026-10-13"
+          "status": "completed",
+          "targetDate": "2026-10-13",
+          "completionDate": "2026-10-14"
         }
       ],
       "currentStatus": "in_progress",
