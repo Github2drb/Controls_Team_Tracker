@@ -327,12 +327,12 @@
         },
         "veeresh m": {
           "displayName": "Veeresh M",
-          "currentStatus": "installation_in_progress",
+          "currentStatus": "sat",
           "resourceLockedFrom": "2025-11-25",
           "resourceLockedTill": "2026-10-30",
           "internalTarget": "2026-08-24",
           "customerTarget": "2026-09-30",
-          "updatedAt": "2026-09-23T04:36:22.075Z"
+          "updatedAt": "2026-10-15T12:57:52.153Z"
         },
         "indrakumar": {
           "displayName": "Indrakumar",
@@ -547,5 +547,5 @@
       }
     }
   },
-  "lastUpdated": "2026-10-15T12:57:46.106Z"
+  "lastUpdated": "2026-10-15T12:57:52.153Z"
 }
