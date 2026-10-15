@@ -130,8 +130,8 @@
       "ü",
       "ü",
       "ü",
-      "PS",
-      "PS"
+      "ü",
+      "PC"
     ],
     "proj-11": [
       "ü",
@@ -165,7 +165,7 @@
       "ü",
       "ü",
       "ü",
-      "PC",
+      "ü",
       "PC",
       "PC",
       "û",
@@ -320,8 +320,8 @@
       "ü",
       "ü",
       "ü",
-      "y",
-      "y"
+      "ü",
+      "PS"
     ],
     "live-3a-s03-25066-d8-press-in-blind-hole-receptacle-auto-assembly-southco": [
       "ü",
@@ -340,7 +340,7 @@
       "ü",
       "ü",
       "PC",
-      "û"
+      "PS"
     ],
     "live-3a-s02-25054-surface-hinge-assembly": [
       "ü",
@@ -359,7 +359,7 @@
       "ü",
       "ü",
       "ü",
-      "û"
+      "PS"
     ],
     "live-3a-gb1-25024-coil-soldering": [
       "ü",
@@ -718,5 +718,5 @@
       "engineer": "Dhanesh M"
     }
   ],
-  "lastUpdated": "2026-10-15T13:01:00.627Z"
+  "lastUpdated": "2026-10-15T13:02:44.468Z"
 }
