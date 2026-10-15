@@ -295,12 +295,12 @@
         },
         "santhosh n": {
           "displayName": "Santhosh N",
-          "currentStatus": "trials_stage",
+          "currentStatus": "fat",
           "resourceLockedFrom": "2025-04-01",
           "resourceLockedTill": "2026-09-25",
           "internalTarget": "2026-09-08",
           "customerTarget": "2026-09-11",
-          "updatedAt": "2026-08-25T09:59:10.591Z"
+          "updatedAt": "2026-10-15T12:58:46.505Z"
         }
       }
     },
@@ -547,5 +547,5 @@
       }
     }
   },
-  "lastUpdated": "2026-10-15T12:58:39.206Z"
+  "lastUpdated": "2026-10-15T12:58:46.505Z"
 }
