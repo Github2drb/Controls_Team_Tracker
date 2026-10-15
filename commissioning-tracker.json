@@ -542,8 +542,8 @@
           "id": "msyaelj1jugnhe",
           "label": "1",
           "description": "Actuation Assembly-1A",
-          "electricalConstraint": "2 - gauss controller wiring\n3 -rotary side dispense unit wiring\n4-actuator (servo motor wiring)\n\n",
-          "mechanicalConstraint": "1 - Gauss Mounting\n2 - OD mounting\n3- actuator (stepper motor mounting)",
+          "electricalConstraint": "OD Checking Unit Servo Actuator wiring pending",
+          "mechanicalConstraint": "1 -Gauss Sensor Enclosure\n2- OD Servo Installation",
           "trialTime": "4 days",
           "status": "trials_in_progress",
           "notes": "0- HMI Screen in development (parallelly for manual operating screen working )\n1- Vision Teaching pending\n2 - IR Net Runner configuration\n3 - OD configuration\n4. Annunciator Check\n",
@@ -553,8 +553,8 @@
           "id": "msyaelj1jjc2mv",
           "label": "2",
           "description": "Actuation Assembly-1B",
-          "electricalConstraint": "1-Pushbutton wiring to Safety PLC (not available)\n2 - gauss controller wiring\n3 -rotary side dispense unit wiring\n",
-          "mechanicalConstraint": "1 - Gauss Mounting\n2 - OD mounting",
+          "electricalConstraint": "1-Pushbutton wiring to Safety PLC (not available)\nOD Checking Unit Servo Actuator wiring pending",
+          "mechanicalConstraint": "1 -Gauss Sensor Enclosure\n2- OD Servo Installation",
           "trialTime": "2 days",
           "status": "not_started",
           "notes": "0- HMI Screen in development (parallelly for manual operating screen working )\n1- Vision Teaching pending\n2 - IR Net Runner configuration\n3 - OD configuration\n4. Annunciator Check",
@@ -565,7 +565,7 @@
           "label": "3",
           "description": "Shift Ring+Input/output Clutch Sub Assembly",
           "electricalConstraint": "",
-          "mechanicalConstraint": "",
+          "mechanicalConstraint": "1- Sensor Mounting",
           "trialTime": "3 days",
           "status": "trials_in_progress",
           "notes": "0- HMI Screen not in development (HMI not available)\n1- Vision Teaching pending\n2 - IR Net Runner configuration \n3- I/O check pending\n\n",
@@ -911,7 +911,7 @@
       ],
       "siteInchargeEmail": "",
       "programManagerEmail": "",
-      "lastUpdated": "2026-10-13T05:04:02.460Z",
+      "lastUpdated": "2026-10-15T13:06:06.310Z",
       "updatedBy": "Admin"
     },
     "dk1-25110- odu assembly auto line": {
@@ -1361,5 +1361,5 @@
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-10-13T05:04:02.460Z"
+  "lastUpdated": "2026-10-15T13:06:06.310Z"
 }
