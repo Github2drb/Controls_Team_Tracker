@@ -3883,7 +3883,7 @@
       "customerTarget": "2026-10-23",
       "tasks": [],
       "currentStatus": "design_stage",
-      "constraint": "PHD done. DAP Submitted. Design in progress. \nDAP Approved. 25-09 - BOM Generated\nElectrical Design in progress"
+      "constraint": "PHD done. DAP Submitted. Design in progress. \nDAP Approved. 25-09 - BOM Generated\nElectrical Design in progress.\n15-10-26 - Material Procurement in progress"
     },
     {
       "id": "wa-1788946999319",
@@ -5245,5 +5245,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-15T04:15:35.237Z"
+  "lastUpdated": "2026-10-15T04:16:27.849Z"
 }
