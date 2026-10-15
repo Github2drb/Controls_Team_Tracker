@@ -1087,7 +1087,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "trials_in_progress",
+          "status": "completed",
           "notes": "",
           "images": []
         },
@@ -1098,7 +1098,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "trials_in_progress",
+          "status": "completed",
           "notes": "",
           "images": []
         },
@@ -1109,7 +1109,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "trials_in_progress",
+          "status": "completed",
           "notes": "",
           "images": []
         },
@@ -1131,7 +1131,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1/2",
-          "status": "ready_for_trials",
+          "status": "completed",
           "notes": "",
           "images": []
         },
@@ -1142,7 +1142,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "trials_in_progress",
+          "status": "completed",
           "notes": "",
           "images": []
         },
@@ -1186,7 +1186,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "ready_for_trials",
+          "status": "trials_in_progress",
           "notes": "",
           "images": []
         },
@@ -1197,7 +1197,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "1/2",
-          "status": "ready_for_trials",
+          "status": "trials_in_progress",
           "notes": "",
           "images": []
         },
@@ -1359,9 +1359,9 @@
       ],
       "siteInchargeEmail": "joel.quadros@3dcad-global.com",
       "programManagerEmail": "vijay.tv@3dcad-global.com",
-      "lastUpdated": "2026-10-15T13:16:17.089Z",
+      "lastUpdated": "2026-10-15T13:16:46.012Z",
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-10-15T13:16:17.089Z"
+  "lastUpdated": "2026-10-15T13:16:46.012Z"
 }
