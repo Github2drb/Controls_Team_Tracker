@@ -986,7 +986,7 @@
           "electricalConstraint": "Rexroth support need for loadcell value change - Completed\nWiring needs to be changed to detect change in load",
           "mechanicalConstraint": "",
           "trialTime": "1",
-          "status": "trials_in_progress",
+          "status": "completed",
           "notes": "",
           "images": []
         },
@@ -1074,7 +1074,7 @@
           "electricalConstraint": "LVDT signal need to be verified\nLoadcell Amplifier yet to come.",
           "mechanicalConstraint": "",
           "trialTime": "",
-          "status": "electrical_pending",
+          "status": "completed",
           "notes": "",
           "images": []
         }
@@ -1329,7 +1329,9 @@
             {
               "id": "mszq5mvyipy1vk",
               "text": "RFID Reader Check",
-              "done": false
+              "done": true,
+              "doneBy": "Admin",
+              "doneAt": "2026-10-15T13:16:06.342Z"
             }
           ]
         },
@@ -1357,9 +1359,9 @@
       ],
       "siteInchargeEmail": "joel.quadros@3dcad-global.com",
       "programManagerEmail": "vijay.tv@3dcad-global.com",
-      "lastUpdated": "2026-09-25T04:43:12.779Z",
+      "lastUpdated": "2026-10-15T13:16:17.089Z",
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-10-15T13:15:43.439Z"
+  "lastUpdated": "2026-10-15T13:16:17.089Z"
 }
