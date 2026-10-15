@@ -286,12 +286,12 @@
       "engineers": {
         "praveen kumar c": {
           "displayName": "Praveen Kumar C",
-          "currentStatus": "trials_stage",
+          "currentStatus": "fat",
           "resourceLockedFrom": "2025-09-18",
           "resourceLockedTill": "2026-09-30",
           "internalTarget": "2026-08-28",
           "customerTarget": "2026-08-31",
-          "updatedAt": "2026-08-18T11:33:46.316Z"
+          "updatedAt": "2026-10-15T12:58:39.206Z"
         },
         "santhosh n": {
           "displayName": "Santhosh N",
@@ -547,5 +547,5 @@
       }
     }
   },
-  "lastUpdated": "2026-10-15T12:58:17.308Z"
+  "lastUpdated": "2026-10-15T12:58:39.206Z"
 }
