@@ -423,7 +423,7 @@
       "weekStart": "2026-05-27",
       "projectName": "3A-SO1-25025_Bailer_Assembly",
       "tasks": [],
-      "currentStatus": "trials_stage",
+      "currentStatus": "fat",
       "notes": "Trial Support",
       "constraint": "RFID with new Gripper logic need to be implemented\nIndexing with new gripper, Keyence profile integration need to be checked - 25-08-26\nKeyence and Stepper trials going on -26/08 - Completed\n24-09 Keyence trial still going on\n09-10-26  - Auto Cycle Completed.F.A.T Planned on 13-10-26",
       "resourceLockedFrom": "2025-06-04",
@@ -5245,5 +5245,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-15T12:57:33.785Z"
+  "lastUpdated": "2026-10-15T12:58:30.224Z"
 }
