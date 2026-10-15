@@ -195,12 +195,12 @@
         },
         "susanth k m": {
           "displayName": "Susanth K M",
-          "currentStatus": "installation_in_progress",
+          "currentStatus": "sat",
           "resourceLockedFrom": "2026-03-25",
           "resourceLockedTill": "2026-10-17",
           "internalTarget": "2026-10-12",
           "customerTarget": "2026-10-14",
-          "updatedAt": "2026-10-08T05:01:22.204Z"
+          "updatedAt": "2026-10-15T04:19:32.609Z"
         },
         "santhosh n": {
           "displayName": "Santhosh N",
@@ -529,5 +529,5 @@
       }
     }
   },
-  "lastUpdated": "2026-10-08T05:02:29.064Z"
+  "lastUpdated": "2026-10-15T04:19:32.609Z"
 }
