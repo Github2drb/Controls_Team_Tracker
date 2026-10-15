@@ -349,7 +349,7 @@
       "tasks": [],
       "currentStatus": "installation_in_progress",
       "notes": "Hardware Integration in Progress",
-      "constraint": "CIP Communication Completed\nBarcode Scanning Pending\nPart Flush Check on E-Stop Completed\nCycle time optimization completed.\nF.A.T to be resumed and completed\nF.A.T started on 31/07/26. - Stoppage issue in Stage-1.\nF.A.T Completed and approved for dispatch\nIntertek Documentation Verification for UL certification today(17/08).\nEquipment Dismantling process (19/08/26)\nEquipment dispatch plan starts from customer site in progress(19/08)\nPacking still goes on as on 25-08-26\nMachines packing completed on 26-08-26\nPacked Equipment still in shop floor - 28-08-26 -01-09-26\nDispatch completed. Installation starts on 20th Sept26.\nElectrical Wiring Person joints the team on 24-09\nName Plate details as per Southco need to be submitted on 24-09 - Discussion happend and Power Consumption details has been modified and today Name plate will be shared again to customer - 25/09\n05-10 - Main Panel powered up. Bowl Feeder powered up through main panel. Communication need to be checked\n06-10-2026- Robot bypassed by ramkumar and controls on enabled\n09-10-26 Stage1 Control given, Robots Powered on by I&C team\n10-10-26 Support for Electrical Drawing Correction and all IO Check\n12-10-26 Stage-1 ready for trials. - Completed\n14-10-26 Stage-2 Manual and semi auto Check, Stage-4 Y axis Gantry not up after greasing due to physical position change"
+      "constraint": "CIP Communication Completed\nBarcode Scanning Pending\nPart Flush Check on E-Stop Completed\nCycle time optimization completed.\nF.A.T to be resumed and completed\nF.A.T started on 31/07/26. - Stoppage issue in Stage-1.\nF.A.T Completed and approved for dispatch\nIntertek Documentation Verification for UL certification today(17/08).\nEquipment Dismantling process (19/08/26)\nEquipment dispatch plan starts from customer site in progress(19/08)\nPacking still goes on as on 25-08-26\nMachines packing completed on 26-08-26\nPacked Equipment still in shop floor - 28-08-26 -01-09-26\nDispatch completed. Installation starts on 20th Sept26.\nElectrical Wiring Person joints the team on 24-09\nName Plate details as per Southco need to be submitted on 24-09 - Discussion happend and Power Consumption details has been modified and today Name plate will be shared again to customer - 25/09\n05-10 - Main Panel powered up. Bowl Feeder powered up through main panel. Communication need to be checked\n06-10-2026- Robot bypassed by ramkumar and controls on enabled\n09-10-26 Stage1 Control given, Robots Powered on by I&C team\n10-10-26 Support for Electrical Drawing Correction and all IO Check\n12-10-26 Stage-1 ready for trials. - Completed\n14-10-26 Stage-2 Manual and semi auto Check, Stage-4 Y axis Gantry not up after greasing due to physical position change-resolved\n15-10-26 All Stages has been checked and running in semi auto mode."
     },
     {
       "id": "wa-1779455140013",
@@ -5245,5 +5245,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-15T12:56:01.586Z"
+  "lastUpdated": "2026-10-15T12:57:33.785Z"
 }
