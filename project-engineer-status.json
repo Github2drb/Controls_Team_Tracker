@@ -120,12 +120,12 @@
         },
         "dhanesh m": {
           "displayName": "Dhanesh M",
-          "currentStatus": "completed",
+          "currentStatus": "fat",
           "resourceLockedFrom": "2026-08-31",
           "resourceLockedTill": "2026-09-30",
           "internalTarget": "2026-09-03",
           "customerTarget": "2026-09-09",
-          "updatedAt": "2026-10-07T07:12:58.678Z"
+          "updatedAt": "2026-10-15T12:59:17.315Z"
         },
         "eswanth potnuri": {
           "displayName": "Eswanth Potnuri",
@@ -547,5 +547,5 @@
       }
     }
   },
-  "lastUpdated": "2026-10-15T12:58:57.203Z"
+  "lastUpdated": "2026-10-15T12:59:17.315Z"
 }
