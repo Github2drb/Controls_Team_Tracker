@@ -5266,7 +5266,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1792383321374",
+      "engineerName": "Dhanesh M",
+      "weekStart": "2026-10-19",
+      "projectName": "3A-GB1-26007_GE_Pressure Tester",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1792383315970",
+          "taskName": "Pressure Regulator Issue and Electronic Regulator Issue",
+          "type": "daily",
+          "assignedDate": "2026-10-19",
+          "status": "not_started",
+          "targetDate": "2026-10-19"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-19T04:14:50.166Z"
+  "lastUpdated": "2026-10-19T04:15:21.374Z"
 }
