@@ -5392,7 +5392,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1792383551530",
+      "engineerName": "Swapnil Pradip Patil",
+      "weekStart": "2026-10-19",
+      "projectName": "3A-JC2-26110-JCB India Limited-Drop Box Assembly Line",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1792383546501",
+          "taskName": "PLC and HMI Offline Development",
+          "type": "weekly",
+          "assignedDate": "2026-10-19",
+          "status": "not_started",
+          "targetDate": "2026-10-19"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-19T04:18:14.157Z"
+  "lastUpdated": "2026-10-19T04:19:11.530Z"
 }
