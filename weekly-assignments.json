@@ -5310,7 +5310,45 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1792383399192",
+      "engineerName": "Harsha K",
+      "weekStart": "2026-10-19",
+      "projectName": "3A-DK1-25077-Dehydration Project",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1792383366425",
+          "taskName": "Production Line support to clear running issue",
+          "type": "weekly",
+          "assignedDate": "2026-10-19",
+          "status": "not_started",
+          "targetDate": "2026-10-19"
+        },
+        {
+          "id": "t-1792383382739",
+          "taskName": "Single Pallet Unloading Fail issue",
+          "type": "weekly",
+          "assignedDate": "2026-10-19",
+          "status": "not_started",
+          "targetDate": "2026-10-19"
+        },
+        {
+          "id": "t-1792383394027",
+          "taskName": "Motor Protection off Alarm Issue",
+          "type": "weekly",
+          "assignedDate": "2026-10-19",
+          "status": "not_started",
+          "targetDate": "2026-10-19"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-19T04:15:48.224Z"
+  "lastUpdated": "2026-10-19T04:16:39.192Z"
 }
