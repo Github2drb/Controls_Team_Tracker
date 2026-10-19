@@ -5348,7 +5348,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1792383467618",
+      "engineerName": "Indrakumar",
+      "weekStart": "2026-10-19",
+      "projectName": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1792383462430",
+          "taskName": "Station 1B Trials, OD Actuation Check in both 1A and 1B",
+          "type": "weekly",
+          "assignedDate": "2026-10-19",
+          "status": "not_started",
+          "targetDate": "2026-10-19"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-19T04:16:39.192Z"
+  "lastUpdated": "2026-10-19T04:17:47.618Z"
 }
