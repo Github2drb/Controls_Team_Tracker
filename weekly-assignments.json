@@ -5288,7 +5288,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1792383348224",
+      "engineerName": "Dhanesh M",
+      "weekStart": "2026-10-19",
+      "projectName": "3A-SS1-26012-Sartorius- Glass bead blasting automation",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1792383343122",
+          "taskName": "HMI and PLC Pending Points clear",
+          "type": "weekly",
+          "assignedDate": "2026-10-19",
+          "status": "not_started",
+          "targetDate": "2026-10-19"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-19T04:15:21.374Z"
+  "lastUpdated": "2026-10-19T04:15:48.224Z"
 }
