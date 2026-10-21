@@ -5261,8 +5261,9 @@
           "taskName": "Auto Cycle Trials",
           "type": "weekly",
           "assignedDate": "2026-10-19",
-          "status": "in_progress",
-          "targetDate": "2026-10-19"
+          "status": "completed",
+          "targetDate": "2026-10-19",
+          "completionDate": "2026-10-21"
         }
       ],
       "currentStatus": "in_progress",
