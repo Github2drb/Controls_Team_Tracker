@@ -5414,7 +5414,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1792583986502",
+      "engineerName": "Susanth K M",
+      "weekStart": "2026-10-19",
+      "projectName": "DK1-25110- ODU Assembly auto line",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1792583973485",
+          "taskName": "ODU Signoff",
+          "type": "weekly",
+          "assignedDate": "2026-10-21",
+          "status": "not_started",
+          "targetDate": "2026-10-21"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-21T10:12:50.791Z"
+  "lastUpdated": "2026-10-21T11:59:46.502Z"
 }
