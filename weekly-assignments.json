@@ -5502,7 +5502,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1792584114123",
+      "engineerName": "Harsha K",
+      "weekStart": "2026-10-19",
+      "projectName": "DK1-25110- ODU Assembly auto line",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1792584109893",
+          "taskName": "Customer Trial Support",
+          "type": "daily",
+          "assignedDate": "2026-10-21",
+          "status": "not_started",
+          "targetDate": "2026-10-21"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-21T12:01:29.293Z"
+  "lastUpdated": "2026-10-21T12:01:54.123Z"
 }
