@@ -5364,7 +5364,7 @@
           "taskName": "Station 1B Trials, OD Actuation Check in both 1A and 1B",
           "type": "weekly",
           "assignedDate": "2026-10-19",
-          "status": "not_started",
+          "status": "in_progress",
           "targetDate": "2026-10-19"
         }
       ],
