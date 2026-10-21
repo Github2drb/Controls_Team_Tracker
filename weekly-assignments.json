@@ -5546,7 +5546,37 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1792584182491",
+      "engineerName": "Indrakumar",
+      "weekStart": "2026-10-19",
+      "projectName": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1792584169139",
+          "taskName": "Station-2 Completion",
+          "type": "weekly",
+          "assignedDate": "2026-10-21",
+          "status": "not_started",
+          "targetDate": "2026-10-21"
+        },
+        {
+          "id": "t-1792584179782",
+          "taskName": "Station-3 Testing",
+          "type": "weekly",
+          "assignedDate": "2026-10-21",
+          "status": "not_started",
+          "targetDate": "2026-10-21"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-21T12:02:22.273Z"
+  "lastUpdated": "2026-10-21T12:03:02.491Z"
 }
