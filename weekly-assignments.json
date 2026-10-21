@@ -5576,7 +5576,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1792584206712",
+      "engineerName": "Ramkumar Annamalai",
+      "weekStart": "2026-10-19",
+      "projectName": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1792584203828",
+          "taskName": "Station-3 Completion and Station-4 Testing",
+          "type": "weekly",
+          "assignedDate": "2026-10-21",
+          "status": "not_started",
+          "targetDate": "2026-10-21"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-21T12:03:02.491Z"
+  "lastUpdated": "2026-10-21T12:03:26.712Z"
 }
