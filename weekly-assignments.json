@@ -344,8 +344,8 @@
       "projectName": "3A-S02-25054_Surface Hinge Assembly",
       "resourceLockedFrom": "2025-12-09",
       "resourceLockedTill": "2026-10-30",
-      "internalTarget": "2026-10-13",
-      "customerTarget": "2026-10-16",
+      "internalTarget": "2026-10-26",
+      "customerTarget": "2026-10-29",
       "tasks": [],
       "currentStatus": "installation_in_progress",
       "notes": "Hardware Integration in Progress",
@@ -5416,5 +5416,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-21T10:11:29.240Z"
+  "lastUpdated": "2026-10-21T10:12:50.791Z"
 }
