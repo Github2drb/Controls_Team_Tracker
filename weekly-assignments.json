@@ -94,8 +94,8 @@
       "constraint": "Control Panel Assembled with PLC - 3 no's\nSent to customer site for installation.\nMechanical installation in progress\nIndra Kumar has been planned for line study and gather offline PLC and HMI backup from 29/08 to 03/09. Mechanical integration completed. Electrical integration in progress",
       "resourceLockedFrom": "2026-08-03",
       "resourceLockedTill": "2026-10-31",
-      "internalTarget": "2026-09-30",
-      "customerTarget": "2026-10-02"
+      "internalTarget": "2026-10-26",
+      "customerTarget": "2026-10-29"
     },
     {
       "id": "Eswanth Potnuri-2026-03-30-1775039664482",
@@ -5416,5 +5416,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-21T10:09:35.730Z"
+  "lastUpdated": "2026-10-21T10:10:20.088Z"
 }
