@@ -5480,7 +5480,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1792584089293",
+      "engineerName": "Dhanesh M",
+      "weekStart": "2026-10-19",
+      "projectName": "3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1792584086605",
+          "taskName": "F.A.T Support",
+          "type": "weekly",
+          "assignedDate": "2026-10-21",
+          "status": "not_started",
+          "targetDate": "2026-10-21"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-21T12:01:07.643Z"
+  "lastUpdated": "2026-10-21T12:01:29.293Z"
 }
