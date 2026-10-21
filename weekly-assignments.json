@@ -357,7 +357,7 @@
       "weekStart": "2026-05-22",
       "projectName": "3A-DK2-25142_STEP 4 - Dehydration",
       "resourceLockedFrom": "2026-03-02",
-      "resourceLockedTill": "2026-10-31",
+      "resourceLockedTill": "2026-11-30",
       "internalTarget": "2026-09-18",
       "customerTarget": "2026-09-29",
       "tasks": [],
@@ -5416,5 +5416,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-21T10:08:16.067Z"
+  "lastUpdated": "2026-10-21T10:09:18.888Z"
 }
