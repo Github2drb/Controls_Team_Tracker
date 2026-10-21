@@ -5524,7 +5524,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1792584142273",
+      "engineerName": "Harsha K",
+      "weekStart": "2026-10-19",
+      "projectName": "3A-DK1-25077-Dehydration Project",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1792584139602",
+          "taskName": "Production running line support",
+          "type": "weekly",
+          "assignedDate": "2026-10-21",
+          "status": "not_started",
+          "targetDate": "2026-10-21"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-21T12:01:54.123Z"
+  "lastUpdated": "2026-10-21T12:02:22.273Z"
 }
