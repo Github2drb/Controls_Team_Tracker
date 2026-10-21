@@ -5458,7 +5458,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1792584067643",
+      "engineerName": "Dhanesh M",
+      "weekStart": "2026-10-19",
+      "projectName": "3A-GB1-26007_GE_Pressure Tester",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1792584064757",
+          "taskName": "Analog Output Module Check",
+          "type": "daily",
+          "assignedDate": "2026-10-22",
+          "status": "not_started",
+          "targetDate": "2026-10-22"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-21T12:00:34.528Z"
+  "lastUpdated": "2026-10-21T12:01:07.643Z"
 }
