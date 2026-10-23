@@ -413,7 +413,7 @@
           "notes": "Critical item, single vendor",
           "prCreated": "2026-05-04",
           "prApproved": "2026-05-04",
-          "currentStatus": "PR Raised"
+          "currentStatus": "Received"
         },
         {
           "id": "mat-1785410420950-2-00k0",
@@ -425,7 +425,7 @@
           "notes": "Confirm resolution with design",
           "prCreated": "2026-05-04",
           "prApproved": "2026-05-04",
-          "currentStatus": "PR Raised"
+          "currentStatus": "Received"
         },
         {
           "id": "mat-1785410420950-3-fj54",
@@ -437,7 +437,7 @@
           "notes": "Long lead item — order early",
           "prCreated": "2026-05-04",
           "prApproved": "2026-05-04",
-          "currentStatus": "PR Raised"
+          "currentStatus": "Received"
         },
         {
           "id": "mat-1785410420950-4-jb29",
@@ -449,7 +449,7 @@
           "notes": "Long lead item — order early",
           "prCreated": "2026-05-04",
           "prApproved": "2026-05-04",
-          "currentStatus": "PR Raised"
+          "currentStatus": "Received"
         },
         {
           "id": "mat-1785410420950-5-ikv7",
@@ -461,7 +461,7 @@
           "notes": "Long lead item — order early",
           "prCreated": "2026-05-04",
           "prApproved": "2026-05-11",
-          "currentStatus": "PR Raised"
+          "currentStatus": "Received"
         }
       ]
     },
@@ -797,5 +797,5 @@
       ]
     }
   },
-  "lastUpdated": "2026-08-19T11:44:43.738Z"
+  "lastUpdated": "2026-10-23T09:41:12.247Z"
 }
