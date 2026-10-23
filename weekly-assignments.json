@@ -5461,7 +5461,7 @@
           "taskName": "ENET Module Inclusion and move all small screens to Main HMI",
           "type": "weekly",
           "assignedDate": "2026-10-21",
-          "status": "not_started",
+          "status": "in_progress",
           "targetDate": "2026-10-21"
         }
       ],
