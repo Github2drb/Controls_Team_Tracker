@@ -510,7 +510,7 @@
       "customerTarget": "2026-07-10",
       "tasks": [],
       "currentStatus": "equipment_handover",
-      "constraint": "Actual Wave Soldering trials yet to be checked"
+      "constraint": "Switches with Load < 2mA not detected in ADAM and data logger"
     },
     {
       "id": "wa-1781434540501",
@@ -5608,5 +5608,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-23T09:26:23.341Z"
+  "lastUpdated": "2026-10-23T09:26:58.106Z"
 }
