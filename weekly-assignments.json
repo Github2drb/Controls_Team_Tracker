@@ -5604,8 +5604,9 @@
           "taskName": "Station-3 Completion and Station-4 Testing",
           "type": "weekly",
           "assignedDate": "2026-10-21",
-          "status": "not_started",
-          "targetDate": "2026-10-21"
+          "status": "completed",
+          "targetDate": "2026-10-21",
+          "completionDate": "2026-10-26"
         }
       ],
       "currentStatus": "not_started",
