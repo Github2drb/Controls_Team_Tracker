@@ -112,7 +112,7 @@
           "status": "Completed"
         }
       ],
-      "currentStatus": "io_check",
+      "currentStatus": "fat",
       "notes": "",
       "constraint": "Offline Logic Ready. Electrical Assembly Pending,\nPLC PO not yet created till 31/07/26\nPLC Material Status need to be checked\n17/09 - PLC yet to be received\nMechanical Assembly Completed. Electrical Assembly Pending.\nWaiting for Control Panel receipt(23/09)\nPanel and Electrical Assembly pending(24/09,28/09)-Completed\nPLC and HMI Program need to be downloaded and auto cycle need to be checked.\n10-10-26 - Analog DPS wire not yet connected. Set pressure completed\n15-10-26 - DPS Model mismatches with that of used in GE. Still issue exists\n16-10-26 - SMC inspected DPS but solution not given. Electronic regulator is not responding to current given\n19-10-26  SMC Analog o/p from DPS not on, Electronic Pressure regulator not responding to current signal given - Completed. Still DPS analog signal is not received in PLC(23/10)\nDPS Issue resolved on 24-10-26\nAuto Cycle shown to customer",
       "resourceLockedFrom": "2026-08-25",
@@ -5610,5 +5610,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-26T05:53:36.429Z"
+  "lastUpdated": "2026-10-26T05:53:44.066Z"
 }
