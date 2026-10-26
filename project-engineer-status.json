@@ -482,12 +482,12 @@
         },
         "dhanesh m": {
           "displayName": "Dhanesh M",
-          "currentStatus": "in_progress",
+          "currentStatus": "fat",
           "resourceLockedFrom": "2026-10-01",
-          "resourceLockedTill": "2026-10-23",
-          "internalTarget": "2026-10-19",
-          "customerTarget": "2026-10-22",
-          "updatedAt": "2026-10-15T12:56:24.874Z"
+          "resourceLockedTill": "2026-10-30",
+          "internalTarget": "2026-10-27",
+          "customerTarget": "2026-10-30",
+          "updatedAt": "2026-10-26T05:54:26.835Z"
         }
       }
     },
@@ -547,5 +547,5 @@
       }
     }
   },
-  "lastUpdated": "2026-10-21T10:10:49.483Z"
+  "lastUpdated": "2026-10-26T05:54:26.835Z"
 }
