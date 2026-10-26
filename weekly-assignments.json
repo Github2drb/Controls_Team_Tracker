@@ -5649,7 +5649,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1792995060432",
+      "engineerName": "Dhanesh M",
+      "weekStart": "2026-10-26",
+      "projectName": "3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1792995050628",
+          "taskName": "ENET Inclusion and Migrating small HMI screes to Main HMI",
+          "type": "weekly",
+          "assignedDate": "2026-10-26",
+          "status": "not_started",
+          "targetDate": "2026-10-26"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-26T06:10:29.136Z"
+  "lastUpdated": "2026-10-26T06:11:00.432Z"
 }
