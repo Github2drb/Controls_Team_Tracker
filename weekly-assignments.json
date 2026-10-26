@@ -5693,7 +5693,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1792995126266",
+      "engineerName": "Indrakumar",
+      "weekStart": "2026-10-26",
+      "projectName": "3A-AV1-25120-Eddy Current Testing Equipment",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1792995115551",
+          "taskName": "Site Visit for Sign off",
+          "type": "daily",
+          "assignedDate": "2026-10-28",
+          "status": "not_started",
+          "targetDate": "2026-10-28"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-26T06:11:25.308Z"
+  "lastUpdated": "2026-10-26T06:12:06.266Z"
 }
