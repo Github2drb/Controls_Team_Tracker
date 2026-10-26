@@ -5737,7 +5737,53 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1792995206170",
+      "engineerName": "Ramkumar Annamalai",
+      "weekStart": "2026-10-26",
+      "projectName": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1792995158460",
+          "taskName": "AIOI Communication and Sequence Check",
+          "type": "weekly",
+          "assignedDate": "2026-10-26",
+          "status": "not_started",
+          "targetDate": "2026-10-26"
+        },
+        {
+          "id": "t-1792995171737",
+          "taskName": "Conveyor Movement and Elco RFID Communication",
+          "type": "weekly",
+          "assignedDate": "2026-10-26",
+          "status": "not_started",
+          "targetDate": "2026-10-26"
+        },
+        {
+          "id": "t-1792995182882",
+          "taskName": "Station1B Check",
+          "type": "weekly",
+          "assignedDate": "2026-10-26",
+          "status": "not_started",
+          "targetDate": "2026-10-26"
+        },
+        {
+          "id": "t-1792995196376",
+          "taskName": "Station-4 and 5 Support to freelancer team",
+          "type": "weekly",
+          "assignedDate": "2026-10-26",
+          "status": "not_started",
+          "targetDate": "2026-10-26"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-26T06:12:27.120Z"
+  "lastUpdated": "2026-10-26T06:13:26.170Z"
 }
