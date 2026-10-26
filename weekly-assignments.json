@@ -5611,7 +5611,45 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1792995029136",
+      "engineerName": "Susanth K M",
+      "weekStart": "2026-10-26",
+      "projectName": "DK1-25110- ODU Assembly auto line",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1792995004523",
+          "taskName": "ODU Customer MT Trials",
+          "type": "weekly",
+          "assignedDate": "2026-10-26",
+          "status": "not_started",
+          "targetDate": "2026-10-26"
+        },
+        {
+          "id": "t-1792995013074",
+          "taskName": "IOT support for customer",
+          "type": "weekly",
+          "assignedDate": "2026-10-26",
+          "status": "not_started",
+          "targetDate": "2026-10-26"
+        },
+        {
+          "id": "t-1792995019502",
+          "taskName": "Data Saving",
+          "type": "weekly",
+          "assignedDate": "2026-10-26",
+          "status": "not_started",
+          "targetDate": "2026-10-26"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-26T05:56:46.830Z"
+  "lastUpdated": "2026-10-26T06:10:29.136Z"
 }
