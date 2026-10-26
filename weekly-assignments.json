@@ -386,9 +386,9 @@
       "weekStart": "2026-05-25",
       "projectName": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO",
       "resourceLockedFrom": "2026-05-26",
-      "resourceLockedTill": "2026-10-30",
-      "internalTarget": "2026-09-30",
-      "customerTarget": "2026-10-08",
+      "resourceLockedTill": "2026-11-30",
+      "internalTarget": "2026-11-16",
+      "customerTarget": "2026-11-20",
       "tasks": [],
       "currentStatus": "trials_stage",
       "constraint": "DAP Submitted\nBOM in progress.\nDispenser Unit Discussion concluded. Technical Details awaited.\nFurther discussion will held on 20-07-2026\nElectrical Drawing in progress. Expected date of completion :06/08/26 >GA drawing given for mounting plate of all stations.\nComplete IO list station wise derived - 19/08\nElectrical Drawing In progress\nAdditional Siemens IO need to be ordered as per final IO\nStation1A & B Offline Development in progress - Completed\nBurster Meeting conducted on 25-08-26 for Status and hardware \nStation-2 Offline Development in progress - Completed\nMounting Plate Wiring going on - Stationwise GA Completed.Main GA going on\nStation-3 Offline Development in Progress \nPLC,HMI,Festo Drive powered up along with ET200SP in all stations - 23-09. Push button wiring completed for all station-24/09\nStation1A and 1B Servo Configured in Festo Automation Suite - 25/09\nStation1 and 1B not completely ready to take trials - 28-09\nMechanical Assembly pending in station2-5\n08-10-26 - Nutrunner communication completed in 2,3& 5th station. Festo Press configuration done by supplier for station 4 & 5. Communication with PLC yet to be established.\nStation-2 Completed,Station-3 in progress\nStation1A need to run 13-10-26 as per customer commitment. Index drive vibrates after index completion which need to be resolved - Completed\n15-10-26 : Station2 Trials need to be taken\n16-10-26 : Station1A not fully completed due to vision integration. Electric Actuator mounted in OD Inspection station in both 1A and 1B\n20-10-26  - Station1A Completed. All controls provided in HMI to take trials.\n21-10-26 - Station2 trials in progress\n22-10-26 - Station1A Worm Wheel Press not returning home issue , Station-2 not working in auto, HMI not updated\n23-10-26 Sta1A Press issue completed. Auto trials taken.\nStn-2 HMI and auto cycle in progress\n24-10-2026 Stn-2 Completed and given for trials.\n25-10-2026 Stn-3 Completed and given for trials.\n\n"
@@ -5785,5 +5785,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-26T12:16:07.499Z"
+  "lastUpdated": "2026-10-26T12:17:09.835Z"
 }
