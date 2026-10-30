@@ -482,12 +482,12 @@
         },
         "dhanesh m": {
           "displayName": "Dhanesh M",
-          "currentStatus": "fat",
+          "currentStatus": "equipment_dispatched",
           "resourceLockedFrom": "2026-10-01",
           "resourceLockedTill": "2026-10-30",
           "internalTarget": "2026-10-27",
           "customerTarget": "2026-10-30",
-          "updatedAt": "2026-10-26T05:54:26.835Z"
+          "updatedAt": "2026-10-30T11:11:29.418Z"
         }
       }
     },
@@ -547,5 +547,5 @@
       }
     }
   },
-  "lastUpdated": "2026-10-30T11:11:07.917Z"
+  "lastUpdated": "2026-10-30T11:11:29.418Z"
 }
