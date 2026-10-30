@@ -5809,7 +5809,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1793359042143",
+      "engineerName": "Santhosh N",
+      "weekStart": "2026-10-26",
+      "projectName": "3A-DK2-25142_STEP 4 - Dehydration",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1793359040164",
+          "taskName": "N2 Charging station and Cart Handshaking signals verification",
+          "type": "daily",
+          "assignedDate": "2026-10-31",
+          "status": "not_started",
+          "targetDate": "2026-10-31"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-30T11:16:39.291Z"
+  "lastUpdated": "2026-10-30T11:17:22.143Z"
 }
