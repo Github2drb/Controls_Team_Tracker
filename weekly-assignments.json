@@ -5853,7 +5853,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1793362804304",
+      "engineerName": "Indrakumar",
+      "weekStart": "2026-10-26",
+      "projectName": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1793362802807",
+          "taskName": "Station 1B testing with Venkatesh",
+          "type": "daily",
+          "assignedDate": "2026-10-31",
+          "status": "not_started",
+          "targetDate": "2026-10-31"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-30T11:18:02.048Z"
+  "lastUpdated": "2026-10-30T12:20:04.304Z"
 }
