@@ -14,12 +14,12 @@
         },
         "santhosh n": {
           "displayName": "Santhosh N",
-          "currentStatus": "installation_in_progress",
+          "currentStatus": "equipment_dispatched",
           "resourceLockedFrom": "2026-06-15",
           "resourceLockedTill": "2026-10-30",
           "internalTarget": "2026-09-28",
           "customerTarget": "2026-09-29",
-          "updatedAt": "2026-08-25T09:54:02.569Z"
+          "updatedAt": "2026-10-30T11:10:57.874Z"
         },
         "indrakumar": {
           "displayName": "Indrakumar",
@@ -547,5 +547,5 @@
       }
     }
   },
-  "lastUpdated": "2026-10-30T11:10:42.589Z"
+  "lastUpdated": "2026-10-30T11:10:57.874Z"
 }
