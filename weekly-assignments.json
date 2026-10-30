@@ -5875,7 +5875,45 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1793362857567",
+      "engineerName": "Ramkumar Annamalai",
+      "weekStart": "2026-10-26",
+      "projectName": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1793362839133",
+          "taskName": "Station1A,1B,2,3 AIOI inclusion",
+          "type": "daily",
+          "assignedDate": "2026-10-30",
+          "status": "not_started",
+          "targetDate": "2026-10-30"
+        },
+        {
+          "id": "t-1793362849211",
+          "taskName": "Conveyor and Endlifter Checkin",
+          "type": "daily",
+          "assignedDate": "2026-10-30",
+          "status": "not_started",
+          "targetDate": "2026-10-30"
+        },
+        {
+          "id": "t-1793362855204",
+          "taskName": "RFID integration",
+          "type": "daily",
+          "assignedDate": "2026-10-30",
+          "status": "not_started",
+          "targetDate": "2026-10-30"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-30T12:20:04.304Z"
+  "lastUpdated": "2026-10-30T12:20:57.567Z"
 }
