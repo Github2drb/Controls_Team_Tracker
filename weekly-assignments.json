@@ -5733,7 +5733,7 @@
           "taskName": "Station-4 and 5 HMI Screen Check",
           "type": "weekly",
           "assignedDate": "2026-10-26",
-          "status": "not_started",
+          "status": "in_progress",
           "targetDate": "2026-10-26"
         }
       ],
