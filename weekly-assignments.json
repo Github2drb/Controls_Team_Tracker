@@ -5045,10 +5045,10 @@
       "engineerName": "Dhanesh M",
       "weekStart": "2026-10-12",
       "projectName": "3A-GB1-26007_GE_Pressure Tester",
-      "resourceLockedFrom": "",
-      "resourceLockedTill": "",
-      "internalTarget": "",
-      "customerTarget": "",
+      "resourceLockedFrom": "2026-10-05",
+      "resourceLockedTill": "2026-12-11",
+      "internalTarget": "2026-12-07",
+      "customerTarget": "2026-11-06",
       "tasks": [
         {
           "id": "t-1791795567248",
@@ -5060,7 +5060,7 @@
           "completionDate": "2026-10-13"
         }
       ],
-      "currentStatus": "in_progress",
+      "currentStatus": "equipment_dispatched",
       "constraint": ""
     },
     {
@@ -5785,5 +5785,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-30T11:09:57.957Z"
+  "lastUpdated": "2026-10-30T11:10:28.034Z"
 }
