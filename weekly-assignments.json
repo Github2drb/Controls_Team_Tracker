@@ -5831,7 +5831,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1793359082048",
+      "engineerName": "Dhanesh M",
+      "weekStart": "2026-10-26",
+      "projectName": "3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1793359079182",
+          "taskName": "Two PLC communication with GT2000 HMI via Enet Module",
+          "type": "daily",
+          "assignedDate": "2026-10-30",
+          "status": "not_started",
+          "targetDate": "2026-10-30"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-10-30T11:17:22.143Z"
+  "lastUpdated": "2026-10-30T11:18:02.048Z"
 }
