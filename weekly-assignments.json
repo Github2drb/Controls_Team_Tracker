@@ -5687,8 +5687,9 @@
           "taskName": "Production support",
           "type": "weekly",
           "assignedDate": "2026-10-26",
-          "status": "not_started",
-          "targetDate": "2026-10-26"
+          "status": "completed",
+          "targetDate": "2026-10-26",
+          "completionDate": "2026-10-30"
         }
       ],
       "currentStatus": "in_progress",
