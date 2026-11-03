@@ -400,12 +400,12 @@
         },
         "ramkumar annamalai": {
           "displayName": "Ramkumar Annamalai",
-          "currentStatus": "trials_stage",
+          "currentStatus": "fat",
           "resourceLockedFrom": "2026-07-20",
-          "resourceLockedTill": "2026-10-30",
-          "internalTarget": "2026-10-27",
-          "customerTarget": "2026-10-29",
-          "updatedAt": "2026-10-21T10:08:39.785Z"
+          "resourceLockedTill": "2026-11-06",
+          "internalTarget": "2026-11-03",
+          "customerTarget": "2026-11-04",
+          "updatedAt": "2026-11-03T07:07:26.132Z"
         },
         "veeresh m": {
           "displayName": "Veeresh M",
@@ -547,5 +547,5 @@
       }
     }
   },
-  "lastUpdated": "2026-10-30T11:11:29.418Z"
+  "lastUpdated": "2026-11-03T07:07:26.132Z"
 }
