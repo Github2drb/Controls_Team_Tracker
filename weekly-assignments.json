@@ -5956,7 +5956,45 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1793680733492",
+      "engineerName": "Susanth K M",
+      "weekStart": "2026-11-02",
+      "projectName": "3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1793680709206",
+          "taskName": "D8 HMI Both PLC with Single HMI Communication",
+          "type": "weekly",
+          "assignedDate": "2026-11-03",
+          "status": "not_started",
+          "targetDate": "2026-11-03"
+        },
+        {
+          "id": "t-1793680727313",
+          "taskName": "Stn3 Gantry Check after reinstallation",
+          "type": "weekly",
+          "assignedDate": "2026-11-03",
+          "status": "not_started",
+          "targetDate": "2026-11-03"
+        },
+        {
+          "id": "t-1793680732015",
+          "taskName": "MT Trials",
+          "type": "weekly",
+          "assignedDate": "2026-11-03",
+          "status": "not_started",
+          "targetDate": "2026-11-03"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-11-03T04:37:52.506Z"
+  "lastUpdated": "2026-11-03T04:38:53.492Z"
 }
