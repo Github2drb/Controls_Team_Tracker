@@ -99,7 +99,7 @@
     },
     {
       "id": "Eswanth Potnuri-2026-03-30-1775039664482",
-      "engineerName": "Santhosh N, Indrakumar",
+      "engineerName": "Santhosh N",
       "weekStart": "2026-03-30",
       "projectName": "3A-GB1-26007_GE_Pressure Tester",
       "projectTargetDate": "2026-04-30",
@@ -116,9 +116,9 @@
       "notes": "",
       "constraint": "Offline Logic Ready. Electrical Assembly Pending,\nPLC PO not yet created till 31/07/26\nPLC Material Status need to be checked\n17/09 - PLC yet to be received\nMechanical Assembly Completed. Electrical Assembly Pending.\nWaiting for Control Panel receipt(23/09)\nPanel and Electrical Assembly pending(24/09,28/09)-Completed\nPLC and HMI Program need to be downloaded and auto cycle need to be checked.\n10-10-26 - Analog DPS wire not yet connected. Set pressure completed\n15-10-26 - DPS Model mismatches with that of used in GE. Still issue exists\n16-10-26 - SMC inspected DPS but solution not given. Electronic regulator is not responding to current given\n19-10-26  SMC Analog o/p from DPS not on, Electronic Pressure regulator not responding to current signal given - Completed. Still DPS analog signal is not received in PLC(23/10)\nDPS Issue resolved on 24-10-26\nAuto Cycle shown to customer\n29-10-26 - Customer has acknowledged to dispatch the equipment\n30-10-26 Equipment Packed and dispatched to Site",
       "resourceLockedFrom": "2026-08-25",
-      "resourceLockedTill": "2026-10-30",
-      "internalTarget": "2026-10-26",
-      "customerTarget": "2026-10-28"
+      "resourceLockedTill": "2026-11-30",
+      "internalTarget": "2026-11-23",
+      "customerTarget": "2026-11-30"
     },
     {
       "id": "Eswanth Potnuri, Santhosh N, Anand-2026-03-30-1775039981894",
@@ -6056,5 +6056,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-11-03T07:52:33.361Z"
+  "lastUpdated": "2026-11-03T07:54:19.012Z"
 }
