@@ -5994,7 +5994,45 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1793680799346",
+      "engineerName": "Ramkumar Annamalai",
+      "weekStart": "2026-11-02",
+      "projectName": "3A-S02-25054_Surface Hinge Assembly",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1793680762616",
+          "taskName": "Support to identify Line stoppage points and resolve",
+          "type": "daily",
+          "assignedDate": "2026-11-03",
+          "status": "not_started",
+          "targetDate": "2026-11-03"
+        },
+        {
+          "id": "t-1793680779696",
+          "taskName": "Elco Communication with PLC",
+          "type": "daily",
+          "assignedDate": "2026-11-03",
+          "status": "not_started",
+          "targetDate": "2026-11-03"
+        },
+        {
+          "id": "t-1793680797389",
+          "taskName": "DB Block data saving in stn1a,1b,2,3",
+          "type": "weekly",
+          "assignedDate": "2026-11-03",
+          "status": "not_started",
+          "targetDate": "2026-11-03"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-11-03T04:38:53.492Z"
+  "lastUpdated": "2026-11-03T04:39:59.346Z"
 }
