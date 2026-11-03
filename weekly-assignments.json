@@ -5757,8 +5757,9 @@
           "taskName": "AIOI Communication and Sequence Check",
           "type": "weekly",
           "assignedDate": "2026-10-26",
-          "status": "not_started",
-          "targetDate": "2026-10-26"
+          "status": "completed",
+          "targetDate": "2026-10-26",
+          "completionDate": "2026-11-03"
         },
         {
           "id": "t-1792995171737",
