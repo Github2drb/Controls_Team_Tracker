@@ -5918,7 +5918,45 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1793680672506",
+      "engineerName": "Indrakumar",
+      "weekStart": "2026-11-02",
+      "projectName": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1793680637322",
+          "taskName": "Servo Press STO Signal Check in all stations",
+          "type": "daily",
+          "assignedDate": "2026-11-03",
+          "status": "not_started",
+          "targetDate": "2026-11-03"
+        },
+        {
+          "id": "t-1793680660281",
+          "taskName": "All Profinet Device status and Reset Signals in HMI",
+          "type": "daily",
+          "assignedDate": "2026-11-03",
+          "status": "not_started",
+          "targetDate": "2026-11-03"
+        },
+        {
+          "id": "t-1793680670294",
+          "taskName": "Stn1B Trial Support",
+          "type": "daily",
+          "assignedDate": "2026-11-03",
+          "status": "not_started",
+          "targetDate": "2026-11-03"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-11-03T04:33:57.800Z"
+  "lastUpdated": "2026-11-03T04:37:52.506Z"
 }
