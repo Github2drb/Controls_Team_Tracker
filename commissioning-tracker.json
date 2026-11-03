@@ -545,7 +545,7 @@
           "electricalConstraint": "OD Checking Unit Servo Actuator wiring pending",
           "mechanicalConstraint": "1 -Gauss Sensor Enclosure\n2- OD Servo Installation",
           "trialTime": "4 days",
-          "status": "trials_in_progress",
+          "status": "completed",
           "notes": "0- HMI Screen in development (parallelly for manual operating screen working )\n1- Vision Teaching pending\n2 - IR Net Runner configuration\n3 - OD configuration\n4. Annunciator Check\n",
           "images": []
         },
@@ -567,7 +567,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "1- Sensor Mounting",
           "trialTime": "3 days",
-          "status": "trials_in_progress",
+          "status": "completed",
           "notes": "0- HMI Screen not in development (HMI not available)\n1- Vision Teaching pending\n2 - IR Net Runner configuration \n3- I/O check pending\n\n",
           "images": []
         },
@@ -578,7 +578,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "3 days",
-          "status": "ready_for_trials",
+          "status": "completed",
           "notes": "",
           "images": []
         },
@@ -589,7 +589,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": " 3 days",
-          "status": "mechanical_pending",
+          "status": "completed",
           "notes": "",
           "images": []
         },
@@ -600,7 +600,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "5 Days",
-          "status": "mechanical_pending",
+          "status": "completed",
           "notes": "",
           "images": []
         },
@@ -611,7 +611,7 @@
           "electricalConstraint": "",
           "mechanicalConstraint": "",
           "trialTime": "4 days",
-          "status": "mechanical_pending",
+          "status": "trials_in_progress",
           "notes": "",
           "images": []
         },
@@ -632,10 +632,10 @@
           "id": "msyaelj1669imp",
           "label": "1",
           "description": "Conveyor Power Up",
-          "electricalConstraint": "Frame Constructed. Motor not wired.",
+          "electricalConstraint": "Frame Constructed. Motor not wired.\n03-11-26 Both Mechanical and electrical assembly completed",
           "mechanicalConstraint": "Motor Not mounted. Chain not assembled",
           "trialTime": "2",
-          "status": "not_started",
+          "status": "completed",
           "notes": "",
           "images": []
         },
@@ -919,7 +919,7 @@
       ],
       "siteInchargeEmail": "rudramurthy.s@3dcad-global.com",
       "programManagerEmail": "",
-      "lastUpdated": "2026-10-30T12:24:06.158Z",
+      "lastUpdated": "2026-11-03T07:04:15.319Z",
       "updatedBy": "Admin"
     },
     "dk1-25110- odu assembly auto line": {
@@ -1371,5 +1371,5 @@
       "updatedBy": "Admin"
     }
   },
-  "lastUpdated": "2026-10-30T12:24:06.158Z"
+  "lastUpdated": "2026-11-03T07:04:15.319Z"
 }
