@@ -411,10 +411,10 @@
           "displayName": "Veeresh M",
           "currentStatus": "trials_stage",
           "resourceLockedFrom": "2026-08-17",
-          "resourceLockedTill": "2026-10-30",
-          "internalTarget": "2026-10-26",
-          "customerTarget": "2026-10-29",
-          "updatedAt": "2026-10-07T06:50:40.067Z"
+          "resourceLockedTill": "2026-11-07",
+          "internalTarget": "2026-11-05",
+          "customerTarget": "2026-11-06",
+          "updatedAt": "2026-11-03T07:08:10.608Z"
         },
         "indrakumar": {
           "displayName": "Indrakumar",
@@ -547,5 +547,5 @@
       }
     }
   },
-  "lastUpdated": "2026-11-03T07:07:26.132Z"
+  "lastUpdated": "2026-11-03T07:08:10.608Z"
 }
