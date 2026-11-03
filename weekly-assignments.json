@@ -6032,7 +6032,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1793680821930",
+      "engineerName": "Dhanesh M",
+      "weekStart": "2026-11-02",
+      "projectName": "3A-SS1-26012-Sartorius- Glass bead blasting automation",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1793680820197",
+          "taskName": "HMI and Safety Points Clear",
+          "type": "weekly",
+          "assignedDate": "2026-11-03",
+          "status": "not_started",
+          "targetDate": "2026-11-03"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-11-03T04:39:59.346Z"
+  "lastUpdated": "2026-11-03T04:40:21.930Z"
 }
