@@ -288,10 +288,10 @@
           "displayName": "Praveen Kumar C",
           "currentStatus": "fat",
           "resourceLockedFrom": "2025-09-18",
-          "resourceLockedTill": "2026-09-30",
-          "internalTarget": "2026-08-28",
-          "customerTarget": "2026-08-31",
-          "updatedAt": "2026-10-15T12:58:39.206Z"
+          "resourceLockedTill": "2026-11-30",
+          "internalTarget": "2026-11-23",
+          "customerTarget": "2026-11-27",
+          "updatedAt": "2026-11-04T04:09:11.945Z"
         },
         "santhosh n": {
           "displayName": "Santhosh N",
@@ -547,5 +547,5 @@
       }
     }
   },
-  "lastUpdated": "2026-11-03T07:55:12.507Z"
+  "lastUpdated": "2026-11-04T04:09:11.945Z"
 }
