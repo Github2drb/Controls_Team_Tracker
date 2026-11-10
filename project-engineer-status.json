@@ -482,12 +482,12 @@
         },
         "dhanesh m": {
           "displayName": "Dhanesh M",
-          "currentStatus": "equipment_dispatched",
+          "currentStatus": "installation_pending",
           "resourceLockedFrom": "2026-10-01",
           "resourceLockedTill": "2026-11-14",
           "internalTarget": "2026-11-09",
           "customerTarget": "2026-11-12",
-          "updatedAt": "2026-11-03T07:55:12.507Z"
+          "updatedAt": "2026-11-10T04:30:10.678Z"
         }
       }
     },
@@ -547,5 +547,5 @@
       }
     }
   },
-  "lastUpdated": "2026-11-10T04:30:03.007Z"
+  "lastUpdated": "2026-11-10T04:30:10.678Z"
 }
