@@ -5934,8 +5934,9 @@
           "taskName": "Servo Press STO Signal Check in all stations",
           "type": "daily",
           "assignedDate": "2026-11-03",
-          "status": "not_started",
-          "targetDate": "2026-11-03"
+          "status": "completed",
+          "targetDate": "2026-11-03",
+          "completionDate": "2026-11-10"
         },
         {
           "id": "t-1793680660281",
