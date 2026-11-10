@@ -329,10 +329,10 @@
           "displayName": "Veeresh M",
           "currentStatus": "sat",
           "resourceLockedFrom": "2025-11-25",
-          "resourceLockedTill": "2026-10-30",
-          "internalTarget": "2026-08-24",
-          "customerTarget": "2026-09-30",
-          "updatedAt": "2026-10-15T12:57:52.153Z"
+          "resourceLockedTill": "2026-11-30",
+          "internalTarget": "2026-11-16",
+          "customerTarget": "2026-11-20",
+          "updatedAt": "2026-11-10T06:23:26.259Z"
         },
         "indrakumar": {
           "displayName": "Indrakumar",
@@ -547,5 +547,5 @@
       }
     }
   },
-  "lastUpdated": "2026-11-10T06:23:09.483Z"
+  "lastUpdated": "2026-11-10T06:23:26.259Z"
 }
