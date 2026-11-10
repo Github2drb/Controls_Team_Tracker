@@ -409,12 +409,12 @@
         },
         "veeresh m": {
           "displayName": "Veeresh M",
-          "currentStatus": "fat",
+          "currentStatus": "equipment_dispatched",
           "resourceLockedFrom": "2026-08-17",
           "resourceLockedTill": "2026-11-07",
           "internalTarget": "2026-11-05",
           "customerTarget": "2026-11-06",
-          "updatedAt": "2026-11-03T07:08:55.549Z"
+          "updatedAt": "2026-11-10T04:27:52.014Z"
         },
         "indrakumar": {
           "displayName": "Indrakumar",
@@ -547,5 +547,5 @@
       }
     }
   },
-  "lastUpdated": "2026-11-10T04:27:43.599Z"
+  "lastUpdated": "2026-11-10T04:27:52.014Z"
 }
