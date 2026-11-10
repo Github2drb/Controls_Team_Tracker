@@ -464,12 +464,12 @@
       "engineers": {
         "santhosh n": {
           "displayName": "Santhosh N",
-          "currentStatus": "equipment_dispatched",
+          "currentStatus": "installation_pending",
           "resourceLockedFrom": "2026-03-25",
           "resourceLockedTill": "2026-11-14",
           "internalTarget": "2026-11-03",
           "customerTarget": "2026-11-13",
-          "updatedAt": "2026-11-03T07:54:47.477Z"
+          "updatedAt": "2026-11-10T04:30:03.006Z"
         },
         "indrakumar": {
           "displayName": "Indrakumar",
@@ -547,5 +547,5 @@
       }
     }
   },
-  "lastUpdated": "2026-11-10T04:29:53.840Z"
+  "lastUpdated": "2026-11-10T04:30:03.007Z"
 }
