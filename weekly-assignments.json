@@ -5200,8 +5200,9 @@
           "taskName": "Station-3 Station-4 Completion",
           "type": "weekly",
           "assignedDate": "2026-10-13",
-          "status": "not_started",
-          "targetDate": "2026-10-13"
+          "status": "completed",
+          "targetDate": "2026-10-13",
+          "completionDate": "2026-11-10"
         }
       ],
       "currentStatus": "in_progress",
