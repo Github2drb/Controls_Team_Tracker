@@ -6086,7 +6086,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1794285542888",
+      "engineerName": "Susanth K M",
+      "weekStart": "2026-11-09",
+      "projectName": "DK1-25110- ODU Assembly auto line",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1794285540300",
+          "taskName": "Overall Result Display of all Station results in HMI",
+          "type": "weekly",
+          "assignedDate": "2026-11-10",
+          "status": "not_started",
+          "targetDate": "2026-11-10"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-11-10T04:38:33.443Z"
+  "lastUpdated": "2026-11-10T04:39:02.888Z"
 }
