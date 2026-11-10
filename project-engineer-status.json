@@ -402,10 +402,10 @@
           "displayName": "Ramkumar Annamalai",
           "currentStatus": "equipment_dispatched",
           "resourceLockedFrom": "2026-07-20",
-          "resourceLockedTill": "2026-11-06",
-          "internalTarget": "2026-11-03",
-          "customerTarget": "2026-11-04",
-          "updatedAt": "2026-11-10T04:27:33.010Z"
+          "resourceLockedTill": "2026-11-30",
+          "internalTarget": "2026-11-13",
+          "customerTarget": "2026-11-16",
+          "updatedAt": "2026-11-10T06:18:45.073Z"
         },
         "veeresh m": {
           "displayName": "Veeresh M",
@@ -547,5 +547,5 @@
       }
     }
   },
-  "lastUpdated": "2026-11-10T04:30:10.678Z"
+  "lastUpdated": "2026-11-10T06:18:45.073Z"
 }
