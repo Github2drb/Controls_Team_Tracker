@@ -344,8 +344,8 @@
       "projectName": "3A-S02-25054_Surface Hinge Assembly",
       "resourceLockedFrom": "2025-12-09",
       "resourceLockedTill": "2026-11-30",
-      "internalTarget": "2026-11-10",
-      "customerTarget": "2026-11-13",
+      "internalTarget": "2026-11-23",
+      "customerTarget": "2026-11-27",
       "tasks": [],
       "currentStatus": "installation_in_progress",
       "notes": "Hardware Integration in Progress",
@@ -6180,5 +6180,5 @@
       "constraint": "DAP not yet shared by Mechanical Team. Wiring going ON"
     }
   ],
-  "lastUpdated": "2026-11-10T06:19:31.417Z"
+  "lastUpdated": "2026-11-10T06:22:49.140Z"
 }
