@@ -5974,8 +5974,9 @@
           "taskName": "D8 HMI Both PLC with Single HMI Communication",
           "type": "weekly",
           "assignedDate": "2026-11-03",
-          "status": "not_started",
-          "targetDate": "2026-11-03"
+          "status": "completed",
+          "targetDate": "2026-11-03",
+          "completionDate": "2026-11-10"
         },
         {
           "id": "t-1793680727313",
