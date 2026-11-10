@@ -6143,7 +6143,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1794285618496",
+      "engineerName": "Ramkumar Annamalai",
+      "weekStart": "2026-11-09",
+      "projectName": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1794285615858",
+          "taskName": "Pending Points Offline Development for all stations",
+          "type": "weekly",
+          "assignedDate": "2026-11-10",
+          "status": "not_started",
+          "targetDate": "2026-11-10"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-11-10T04:39:51.092Z"
+  "lastUpdated": "2026-11-10T04:40:18.496Z"
 }
