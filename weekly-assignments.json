@@ -6018,14 +6018,6 @@
           "completionDate": "2026-11-10"
         },
         {
-          "id": "t-1793680779696",
-          "taskName": "Elco Communication with PLC",
-          "type": "daily",
-          "assignedDate": "2026-11-03",
-          "status": "not_started",
-          "targetDate": "2026-11-03"
-        },
-        {
           "id": "t-1793680797389",
           "taskName": "DB Block data saving in stn1a,1b,2,3",
           "type": "weekly",
