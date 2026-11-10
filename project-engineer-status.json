@@ -247,10 +247,10 @@
           "displayName": "Susanth K M",
           "currentStatus": "fat",
           "resourceLockedFrom": "2025-08-05",
-          "resourceLockedTill": "2026-10-30",
-          "internalTarget": "2026-09-03",
-          "customerTarget": "2026-10-20",
-          "updatedAt": "2026-10-15T12:58:17.308Z"
+          "resourceLockedTill": "2026-11-30",
+          "internalTarget": "2026-11-09",
+          "customerTarget": "2026-11-20",
+          "updatedAt": "2026-11-10T06:23:45.080Z"
         },
         "veeresh m": {
           "displayName": "Veeresh M",
@@ -547,5 +547,5 @@
       }
     }
   },
-  "lastUpdated": "2026-11-10T06:23:26.259Z"
+  "lastUpdated": "2026-11-10T06:23:45.080Z"
 }
