@@ -5398,8 +5398,9 @@
           "taskName": "Station1B,2 and 3 Completion",
           "type": "weekly",
           "assignedDate": "2026-10-19",
-          "status": "not_started",
-          "targetDate": "2026-10-19"
+          "status": "completed",
+          "targetDate": "2026-10-19",
+          "completionDate": "2026-11-10"
         }
       ],
       "currentStatus": "in_progress",
