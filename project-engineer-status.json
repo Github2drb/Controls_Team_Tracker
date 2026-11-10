@@ -16,10 +16,10 @@
           "displayName": "Santhosh N",
           "currentStatus": "equipment_dispatched",
           "resourceLockedFrom": "2026-06-15",
-          "resourceLockedTill": "2026-10-30",
-          "internalTarget": "2026-09-28",
-          "customerTarget": "2026-09-29",
-          "updatedAt": "2026-10-30T11:10:57.874Z"
+          "resourceLockedTill": "2026-12-30",
+          "internalTarget": "2026-12-14",
+          "customerTarget": "2026-12-18",
+          "updatedAt": "2026-11-10T06:21:11.496Z"
         },
         "indrakumar": {
           "displayName": "Indrakumar",
@@ -547,5 +547,5 @@
       }
     }
   },
-  "lastUpdated": "2026-11-10T06:20:37.472Z"
+  "lastUpdated": "2026-11-10T06:21:11.496Z"
 }
