@@ -6042,7 +6042,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1794285489261",
+      "engineerName": "Dhanesh M",
+      "weekStart": "2026-11-09",
+      "projectName": "3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1794285486645",
+          "taskName": "Screen Migration from 7\" to 10\" HMI",
+          "type": "weekly",
+          "assignedDate": "2026-11-10",
+          "status": "not_started",
+          "targetDate": "2026-11-10"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-11-10T04:31:26.994Z"
+  "lastUpdated": "2026-11-10T04:38:09.261Z"
 }
