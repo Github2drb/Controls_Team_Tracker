@@ -420,10 +420,10 @@
           "displayName": "Indrakumar",
           "currentStatus": "equipment_dispatched",
           "resourceLockedFrom": "2026-10-01",
-          "resourceLockedTill": "2026-11-07",
-          "internalTarget": "2026-11-05",
-          "customerTarget": "2026-11-06",
-          "updatedAt": "2026-11-10T04:28:02.184Z"
+          "resourceLockedTill": "2026-11-30",
+          "internalTarget": "2026-11-13",
+          "customerTarget": "2026-11-16",
+          "updatedAt": "2026-11-10T06:19:17.538Z"
         }
       }
     },
@@ -547,5 +547,5 @@
       }
     }
   },
-  "lastUpdated": "2026-11-10T06:19:05.333Z"
+  "lastUpdated": "2026-11-10T06:19:17.538Z"
 }
