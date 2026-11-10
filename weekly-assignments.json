@@ -6121,7 +6121,29 @@
       "tasks": [],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1794285591092",
+      "engineerName": "Veeresh M",
+      "weekStart": "2026-11-09",
+      "projectName": "3A-CC1-26100 – Classified Cycling-Calibration Test Bench",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1794285588654",
+          "taskName": "E-Plan Drawing Completion",
+          "type": "weekly",
+          "assignedDate": "2026-11-10",
+          "status": "not_started",
+          "targetDate": "2026-11-10"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-11-10T04:39:27.077Z"
+  "lastUpdated": "2026-11-10T04:39:51.092Z"
 }
