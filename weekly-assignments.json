@@ -6165,7 +6165,20 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1794291503541",
+      "engineerName": "Harsha K",
+      "weekStart": "2026-11-09",
+      "projectName": "3A-SL1-26070 - Summit Laemchabang-New Vacuum Cold Press Machine",
+      "resourceLockedFrom": "2026-11-06",
+      "resourceLockedTill": "2026-12-31",
+      "internalTarget": "2026-12-07",
+      "customerTarget": "2026-12-11",
+      "tasks": [],
+      "currentStatus": "in_progress",
+      "constraint": "DAP not yet shared by Mechanical Team. Wiring going ON"
     }
   ],
-  "lastUpdated": "2026-11-10T04:40:18.496Z"
+  "lastUpdated": "2026-11-10T06:18:23.542Z"
 }
