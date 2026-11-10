@@ -466,10 +466,10 @@
           "displayName": "Santhosh N",
           "currentStatus": "installation_pending",
           "resourceLockedFrom": "2026-03-25",
-          "resourceLockedTill": "2026-11-14",
-          "internalTarget": "2026-11-03",
-          "customerTarget": "2026-11-13",
-          "updatedAt": "2026-11-10T04:30:03.006Z"
+          "resourceLockedTill": "2026-11-30",
+          "internalTarget": "2026-11-16",
+          "customerTarget": "2026-11-20",
+          "updatedAt": "2026-11-10T06:21:52.954Z"
         },
         "indrakumar": {
           "displayName": "Indrakumar",
@@ -547,5 +547,5 @@
       }
     }
   },
-  "lastUpdated": "2026-11-10T06:21:29.706Z"
+  "lastUpdated": "2026-11-10T06:21:52.954Z"
 }
