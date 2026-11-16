@@ -6265,7 +6265,15 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1794822074237",
+      "engineerName": "Swapnil Pradip Patil",
+      "weekStart": "2026-11-16",
+      "projectName": "3A-SL1-26070 - Summit Laemchabang-New Vacuum Cold Press Machine",
+      "tasks": [],
+      "currentStatus": "not_started"
     }
   ],
-  "lastUpdated": "2026-11-16T07:49:09.024Z"
+  "lastUpdated": "2026-11-16T09:41:14.237Z"
 }
