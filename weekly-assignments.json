@@ -3973,29 +3973,6 @@
       "constraint": "Electrical DAP submitted.\n05-10-26 - BOM overall generation need to be completed\nE-Plan drawing to start\n"
     },
     {
-      "id": "wa-1789536639995",
-      "engineerName": "Santhosh N",
-      "weekStart": "2026-09-14",
-      "projectName": "3A-JC2-26110-JCB India Limited-Drop Box Assembly Line",
-      "resourceLockedFrom": "",
-      "resourceLockedTill": "",
-      "internalTarget": "",
-      "customerTarget": "",
-      "tasks": [
-        {
-          "id": "t-1789536641755",
-          "taskName": "Electrical DAP",
-          "type": "weekly",
-          "assignedDate": "2026-09-16",
-          "status": "completed",
-          "targetDate": "2026-09-16",
-          "completionDate": "2026-09-28"
-        }
-      ],
-      "currentStatus": "not_started",
-      "constraint": ""
-    },
-    {
       "id": "wa-1789536705329",
       "engineerName": "Santhosh N",
       "weekStart": "2026-09-14",
@@ -6180,5 +6157,5 @@
       "constraint": "DAP not yet shared by Mechanical Team. Wiring going ON"
     }
   ],
-  "lastUpdated": "2026-11-16T06:54:48.810Z"
+  "lastUpdated": "2026-11-16T06:55:00.760Z"
 }
