@@ -6154,7 +6154,7 @@
       "customerTarget": "2026-12-11",
       "tasks": [],
       "currentStatus": "in_progress",
-      "constraint": "DAP not yet shared by Mechanical Team. Wiring going ON\nDAP Shared. Sequence Chart shared to Harsha. Offline Programming in progress."
+      "constraint": "DAP not yet shared by Mechanical Team. \nWiring going ON\nDAP Shared. Sequence Chart shared to Harsha. \n16-11-26 Offline Programming in progress."
     },
     {
       "id": "wa-1794813913026",
@@ -6267,5 +6267,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-11-16T11:16:23.290Z"
+  "lastUpdated": "2026-11-16T11:17:08.417Z"
 }
