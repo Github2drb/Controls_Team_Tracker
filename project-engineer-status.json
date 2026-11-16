@@ -563,7 +563,21 @@
           "updatedAt": "2026-10-26T12:12:54.217Z"
         }
       }
+    },
+    "3a-jc2-26110-jcb india limited-drop box assembly line": {
+      "projectName": "3A-JC2-26110-JCB India Limited-Drop Box Assembly Line",
+      "engineers": {
+        "baskar": {
+          "displayName": "Baskar",
+          "currentStatus": "procurement_stage",
+          "resourceLockedFrom": "2026-09-21",
+          "resourceLockedTill": "2026-12-31",
+          "internalTarget": "2026-11-23",
+          "customerTarget": "2026-11-27",
+          "updatedAt": "2026-11-16T09:43:22.898Z"
+        }
+      }
     }
   },
-  "lastUpdated": "2026-11-16T09:35:38.225Z"
+  "lastUpdated": "2026-11-16T09:43:22.898Z"
 }
