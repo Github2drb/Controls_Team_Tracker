@@ -15753,6 +15753,72 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Baskar",
+      "date": "2026-11-09",
+      "targetTasks": [
+        {
+          "id": "wa-1794822218071-yazj",
+          "text": "[3A-SL1-26070 - Summit Laemchabang-New Vacuum Cold Press Machine] DAP not yet shared by Mechanical Team. Wiring going ON\nDAP Shared. Sequence Chart shared to Harsha. Offline Programming in progress."
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Baskar",
+      "date": "2026-11-10",
+      "targetTasks": [
+        {
+          "id": "wa-1794822218072-mg60",
+          "text": "[3A-SL1-26070 - Summit Laemchabang-New Vacuum Cold Press Machine] DAP not yet shared by Mechanical Team. Wiring going ON\nDAP Shared. Sequence Chart shared to Harsha. Offline Programming in progress."
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Baskar",
+      "date": "2026-11-11",
+      "targetTasks": [
+        {
+          "id": "wa-1794822218072-j8ne",
+          "text": "[3A-SL1-26070 - Summit Laemchabang-New Vacuum Cold Press Machine] DAP not yet shared by Mechanical Team. Wiring going ON\nDAP Shared. Sequence Chart shared to Harsha. Offline Programming in progress."
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Baskar",
+      "date": "2026-11-12",
+      "targetTasks": [
+        {
+          "id": "wa-1794822218072-nss8",
+          "text": "[3A-SL1-26070 - Summit Laemchabang-New Vacuum Cold Press Machine] DAP not yet shared by Mechanical Team. Wiring going ON\nDAP Shared. Sequence Chart shared to Harsha. Offline Programming in progress."
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Baskar",
+      "date": "2026-11-13",
+      "targetTasks": [
+        {
+          "id": "wa-1794822218072-fcs9",
+          "text": "[3A-SL1-26070 - Summit Laemchabang-New Vacuum Cold Press Machine] DAP not yet shared by Mechanical Team. Wiring going ON\nDAP Shared. Sequence Chart shared to Harsha. Offline Programming in progress."
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Baskar",
+      "date": "2026-11-14",
+      "targetTasks": [
+        {
+          "id": "wa-1794822218072-l2pk",
+          "text": "[3A-SL1-26070 - Summit Laemchabang-New Vacuum Cold Press Machine] DAP not yet shared by Mechanical Team. Wiring going ON\nDAP Shared. Sequence Chart shared to Harsha. Offline Programming in progress."
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
