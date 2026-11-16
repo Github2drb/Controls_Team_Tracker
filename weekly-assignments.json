@@ -6171,7 +6171,7 @@
           "taskName": "Station-3 Gantry Check and Full Auto test check",
           "type": "weekly",
           "assignedDate": "2026-11-16",
-          "status": "not_started",
+          "status": "in_progress",
           "targetDate": "2026-11-16"
         }
       ],
