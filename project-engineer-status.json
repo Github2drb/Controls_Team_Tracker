@@ -433,6 +433,15 @@
           "internalTarget": "2026-11-13",
           "customerTarget": "2026-11-16",
           "updatedAt": "2026-11-16T06:53:34.886Z"
+        },
+        "swapnil pradip patil": {
+          "displayName": "Swapnil Pradip Patil",
+          "currentStatus": "installation_in_progress",
+          "resourceLockedFrom": "2026-11-16",
+          "resourceLockedTill": "2026-11-23",
+          "internalTarget": "2026-11-26",
+          "customerTarget": "2026-11-27",
+          "updatedAt": "2026-11-16T09:35:38.225Z"
         }
       }
     },
@@ -556,5 +565,5 @@
       }
     }
   },
-  "lastUpdated": "2026-11-16T06:53:34.886Z"
+  "lastUpdated": "2026-11-16T09:35:38.225Z"
 }
