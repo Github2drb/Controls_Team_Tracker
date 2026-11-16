@@ -6243,7 +6243,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1794815349024",
+      "engineerName": "Swapnil Pradip Patil",
+      "weekStart": "2026-11-16",
+      "projectName": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1794815346350",
+          "taskName": "Site Installation and Epsilon Communication through TCP/Ip",
+          "type": "weekly",
+          "assignedDate": "2026-11-16",
+          "status": "not_started",
+          "targetDate": "2026-11-16"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-11-16T07:47:58.814Z"
+  "lastUpdated": "2026-11-16T07:49:09.024Z"
 }
