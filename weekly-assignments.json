@@ -3883,7 +3883,7 @@
       "internalTarget": "2026-11-23",
       "customerTarget": "2026-11-27",
       "tasks": [],
-      "currentStatus": "design_stage",
+      "currentStatus": "procurement_stage",
       "constraint": "PHD done. DAP Submitted. Design in progress. \nDAP Approved. 25-09 - BOM Generated\nElectrical Design in progress.\n15-10-26 - Material Procurement in progress\n30-10-2026 - Offline Build in progress"
     },
     {
@@ -6180,5 +6180,5 @@
       "constraint": "DAP not yet shared by Mechanical Team. Wiring going ON"
     }
   ],
-  "lastUpdated": "2026-11-16T06:53:08.832Z"
+  "lastUpdated": "2026-11-16T06:54:48.810Z"
 }
