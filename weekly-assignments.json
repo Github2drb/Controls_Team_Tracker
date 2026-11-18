@@ -6296,7 +6296,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1794981408980",
+      "engineerName": "Dhanesh M",
+      "weekStart": "2026-11-16",
+      "projectName": "3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1794981404494",
+          "taskName": "Two PLC with one HMI communication issue",
+          "type": "daily",
+          "assignedDate": "2026-11-18",
+          "status": "not_started",
+          "targetDate": "2026-11-18"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-11-18T05:54:22.244Z"
+  "lastUpdated": "2026-11-18T05:56:48.980Z"
 }
