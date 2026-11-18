@@ -6318,7 +6318,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1794981432220",
+      "engineerName": "Susanth K M",
+      "weekStart": "2026-11-16",
+      "projectName": "3A-DK2-25142_STEP 4 - Dehydration",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1794981427858",
+          "taskName": "Site Plan creation",
+          "type": "weekly",
+          "assignedDate": "2026-11-18",
+          "status": "not_started",
+          "targetDate": "2026-11-18"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-11-18T05:56:48.980Z"
+  "lastUpdated": "2026-11-18T05:57:12.220Z"
 }
