@@ -363,7 +363,7 @@
       "tasks": [],
       "currentStatus": "electrical_assembly",
       "notes": "DAP Completed",
-      "constraint": "Material Procurement in Progress\nUvac Motors received on 10-07-26\nControl Panel wiring Completed\nCart Wiring in Progress - 31-08-26\nConveyor Cart panels in progress - 03/09/26\nConveyor sent to customer site\nUlvac pump to reach on 05/10/26\n30-10-26 Santhosh has been planned to visit for dehydration and step 4 dehyhdration on 01-11 and 02-11 - Completed\nConveyor Pending. All electrical Cart and Main panel completed\n17-11-26 One cart sequence completed and demonstrated to Nithya madam."
+      "constraint": "Material Procurement in Progress\nUvac Motors received on 10-07-26\nControl Panel wiring Completed\nCart Wiring in Progress - 31-08-26\nConveyor Cart panels in progress - 03/09/26\nConveyor sent to customer site\nUlvac pump to reach on 05/10/26\n30-10-26 Santhosh has been planned to visit for dehydration and step 4 dehyhdration on 01-11 and 02-11 - Completed\nConveyor Pending. All electrical Cart and Main panel completed\n17-11-26 One cart sequence completed and demonstrated to Nithya madam.\n18-11-26 Onsite Plan given to Krishna"
     },
     {
       "id": "wa-1779856345294",
@@ -6342,5 +6342,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-11-19T04:36:44.525Z"
+  "lastUpdated": "2026-11-19T04:37:21.459Z"
 }
