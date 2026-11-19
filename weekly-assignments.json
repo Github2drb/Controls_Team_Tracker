@@ -6312,8 +6312,9 @@
           "taskName": "Two PLC with one HMI communication issue",
           "type": "daily",
           "assignedDate": "2026-11-18",
-          "status": "not_started",
-          "targetDate": "2026-11-18"
+          "status": "completed",
+          "targetDate": "2026-11-18",
+          "completionDate": "2026-11-19"
         }
       ],
       "currentStatus": "in_progress",
