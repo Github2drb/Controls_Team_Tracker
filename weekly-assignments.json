@@ -6058,8 +6058,9 @@
           "taskName": "PLC and HMI Closure Points",
           "type": "weekly",
           "assignedDate": "2026-11-10",
-          "status": "not_started",
-          "targetDate": "2026-11-10"
+          "status": "completed",
+          "targetDate": "2026-11-10",
+          "completionDate": "2026-11-19"
         }
       ],
       "currentStatus": "in_progress",
