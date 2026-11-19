@@ -6035,8 +6035,9 @@
           "taskName": "Screen Migration from 7\" to 10\" HMI",
           "type": "weekly",
           "assignedDate": "2026-11-10",
-          "status": "in_progress",
-          "targetDate": "2026-11-10"
+          "status": "completed",
+          "targetDate": "2026-11-10",
+          "completionDate": "2026-11-19"
         }
       ],
       "currentStatus": "in_progress",
