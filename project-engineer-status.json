@@ -102,12 +102,12 @@
         },
         "santhosh n": {
           "displayName": "Santhosh N",
-          "currentStatus": "ready_to_dispatch",
+          "currentStatus": "equipment_dispatched",
           "resourceLockedFrom": "2026-06-01",
           "resourceLockedTill": "2026-09-18",
           "internalTarget": "2026-09-07",
           "customerTarget": "2026-09-11",
-          "updatedAt": "2026-11-18T06:26:13.267Z"
+          "updatedAt": "2026-11-19T04:38:34.928Z"
         },
         "susanth k m": {
           "displayName": "Susanth K M",
@@ -579,5 +579,5 @@
       }
     }
   },
-  "lastUpdated": "2026-11-18T06:26:13.267Z"
+  "lastUpdated": "2026-11-19T04:38:34.928Z"
 }
