@@ -6364,7 +6364,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1795063543372",
+      "engineerName": "Indrakumar",
+      "weekStart": "2026-11-16",
+      "projectName": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1795063541142",
+          "taskName": "Conveyor Alarm in HMI",
+          "type": "daily",
+          "assignedDate": "2026-11-19",
+          "status": "not_started",
+          "targetDate": "2026-11-19"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-11-19T04:43:07.382Z"
+  "lastUpdated": "2026-11-19T04:45:43.372Z"
 }
