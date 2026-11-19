@@ -6342,7 +6342,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1795063387382",
+      "engineerName": "Ramkumar Annamalai",
+      "weekStart": "2026-11-16",
+      "projectName": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1795063385127",
+          "taskName": "Station-2 Flap Sequence and Auto Trials Completion",
+          "type": "daily",
+          "assignedDate": "2026-11-19",
+          "status": "not_started",
+          "targetDate": "2026-11-19"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-11-19T04:39:15.747Z"
+  "lastUpdated": "2026-11-19T04:43:07.382Z"
 }
