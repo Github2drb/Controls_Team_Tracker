@@ -409,12 +409,12 @@
         },
         "ramkumar annamalai": {
           "displayName": "Ramkumar Annamalai",
-          "currentStatus": "installation_in_progress",
+          "currentStatus": "sat",
           "resourceLockedFrom": "2026-07-20",
           "resourceLockedTill": "2026-11-30",
           "internalTarget": "2026-11-13",
           "customerTarget": "2026-11-16",
-          "updatedAt": "2026-11-16T06:53:18.312Z"
+          "updatedAt": "2026-11-24T11:39:42.867Z"
         },
         "veeresh m": {
           "displayName": "Veeresh M",
@@ -579,5 +579,5 @@
       }
     }
   },
-  "lastUpdated": "2026-11-19T04:38:51.691Z"
+  "lastUpdated": "2026-11-24T11:39:42.867Z"
 }
