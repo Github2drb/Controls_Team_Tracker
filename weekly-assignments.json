@@ -6501,7 +6501,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1795500240145",
+      "engineerName": "Harsha K",
+      "weekStart": "2026-11-23",
+      "projectName": "3A-SL1-26070 - Summit Laemchabang-New Vacuum Cold Press Machine",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1795500237786",
+          "taskName": "Offline PLC and HMI Program Completion",
+          "type": "weekly",
+          "assignedDate": "2026-11-24",
+          "status": "not_started",
+          "targetDate": "2026-11-24"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-11-24T06:03:36.771Z"
+  "lastUpdated": "2026-11-24T06:04:00.145Z"
 }
