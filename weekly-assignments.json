@@ -6479,7 +6479,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1795500216771",
+      "engineerName": "Dhanesh M",
+      "weekStart": "2026-11-23",
+      "projectName": "3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1795500214407",
+          "taskName": "Main HMI All screen completion",
+          "type": "weekly",
+          "assignedDate": "2026-11-24",
+          "status": "not_started",
+          "targetDate": "2026-11-24"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-11-24T06:03:13.449Z"
+  "lastUpdated": "2026-11-24T06:03:36.771Z"
 }
