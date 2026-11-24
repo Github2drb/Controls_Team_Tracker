@@ -412,9 +412,9 @@
           "currentStatus": "sat",
           "resourceLockedFrom": "2026-07-20",
           "resourceLockedTill": "2026-11-30",
-          "internalTarget": "2026-11-13",
-          "customerTarget": "2026-11-16",
-          "updatedAt": "2026-11-24T11:39:42.867Z"
+          "internalTarget": "2026-11-27",
+          "customerTarget": "2026-11-30",
+          "updatedAt": "2026-11-24T11:40:51.208Z"
         },
         "veeresh m": {
           "displayName": "Veeresh M",
@@ -579,5 +579,5 @@
       }
     }
   },
-  "lastUpdated": "2026-11-24T11:40:36.343Z"
+  "lastUpdated": "2026-11-24T11:40:51.208Z"
 }
