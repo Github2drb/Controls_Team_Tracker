@@ -6266,8 +6266,9 @@
           "taskName": "Site Installation and Epsilon Communication through TCP/Ip",
           "type": "weekly",
           "assignedDate": "2026-11-16",
-          "status": "in_progress",
-          "targetDate": "2026-11-16"
+          "status": "completed",
+          "targetDate": "2026-11-16",
+          "completionDate": "2026-11-24"
         }
       ],
       "currentStatus": "not_started",
