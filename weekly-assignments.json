@@ -6441,7 +6441,45 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1795500193449",
+      "engineerName": "Susanth K M",
+      "weekStart": "2026-11-23",
+      "projectName": "DK1-25110- ODU Assembly auto line",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1795500164049",
+          "taskName": "Auto Initialization rework in sequence",
+          "type": "daily",
+          "assignedDate": "2026-11-24",
+          "status": "not_started",
+          "targetDate": "2026-11-24"
+        },
+        {
+          "id": "t-1795500178053",
+          "taskName": "Thrust Checking Rexroth Program Modification",
+          "type": "daily",
+          "assignedDate": "2026-11-24",
+          "status": "not_started",
+          "targetDate": "2026-11-24"
+        },
+        {
+          "id": "t-1795500190819",
+          "taskName": "Speed reduction in stator rotor pressing station",
+          "type": "daily",
+          "assignedDate": "2026-11-24",
+          "status": "not_started",
+          "targetDate": "2026-11-24"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-11-24T06:02:16.604Z"
+  "lastUpdated": "2026-11-24T06:03:13.449Z"
 }
