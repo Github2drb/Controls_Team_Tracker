@@ -6296,8 +6296,9 @@
           "taskName": "Conveyor Auto End Lifter and movement issue",
           "type": "weekly",
           "assignedDate": "2026-11-18",
-          "status": "in_progress",
-          "targetDate": "2026-11-18"
+          "status": "completed",
+          "targetDate": "2026-11-18",
+          "completionDate": "2026-11-24"
         }
       ],
       "currentStatus": "in_progress",
