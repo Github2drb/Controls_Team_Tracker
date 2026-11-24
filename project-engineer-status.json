@@ -245,12 +245,12 @@
         },
         "susanth k m": {
           "displayName": "Susanth K M",
-          "currentStatus": "fat",
+          "currentStatus": "completed",
           "resourceLockedFrom": "2025-08-05",
           "resourceLockedTill": "2026-11-30",
           "internalTarget": "2026-11-09",
           "customerTarget": "2026-11-20",
-          "updatedAt": "2026-11-10T06:23:45.080Z"
+          "updatedAt": "2026-11-24T11:44:32.840Z"
         },
         "veeresh m": {
           "displayName": "Veeresh M",
@@ -588,5 +588,5 @@
       }
     }
   },
-  "lastUpdated": "2026-11-24T11:43:31.835Z"
+  "lastUpdated": "2026-11-24T11:44:32.840Z"
 }
