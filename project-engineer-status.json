@@ -569,12 +569,12 @@
       "engineers": {
         "baskar": {
           "displayName": "Baskar",
-          "currentStatus": "procurement_stage",
+          "currentStatus": "mechanical_assembly",
           "resourceLockedFrom": "2026-09-21",
           "resourceLockedTill": "2026-12-31",
-          "internalTarget": "2026-11-23",
-          "customerTarget": "2026-11-27",
-          "updatedAt": "2026-11-16T09:43:22.898Z"
+          "internalTarget": "2026-12-28",
+          "customerTarget": "2026-12-30",
+          "updatedAt": "2026-11-24T11:43:14.092Z"
         },
         "swapnil pradip patil": {
           "displayName": "Swapnil Pradip Patil",
@@ -588,5 +588,5 @@
       }
     }
   },
-  "lastUpdated": "2026-11-24T11:42:56.207Z"
+  "lastUpdated": "2026-11-24T11:43:14.092Z"
 }
