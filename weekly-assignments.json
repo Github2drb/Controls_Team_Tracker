@@ -6287,8 +6287,9 @@
           "taskName": "AIOI Flap Issue",
           "type": "weekly",
           "assignedDate": "2026-11-18",
-          "status": "in_progress",
-          "targetDate": "2026-11-18"
+          "status": "completed",
+          "targetDate": "2026-11-18",
+          "completionDate": "2026-11-24"
         },
         {
           "id": "t-1794981256992",
