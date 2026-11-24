@@ -6523,7 +6523,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1795500267386",
+      "engineerName": "Swapnil Pradip Patil",
+      "weekStart": "2026-11-23",
+      "projectName": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1795500264974",
+          "taskName": "Conveyor Data Indexing support",
+          "type": "daily",
+          "assignedDate": "2026-11-24",
+          "status": "not_started",
+          "targetDate": "2026-11-24"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-11-24T06:04:00.145Z"
+  "lastUpdated": "2026-11-24T06:04:27.386Z"
 }
