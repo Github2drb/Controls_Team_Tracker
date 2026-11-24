@@ -6256,10 +6256,10 @@
       "engineerName": "Swapnil Pradip Patil",
       "weekStart": "2026-11-16",
       "projectName": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO",
-      "resourceLockedFrom": "",
-      "resourceLockedTill": "",
-      "internalTarget": "",
-      "customerTarget": "",
+      "resourceLockedFrom": "2026-11-16",
+      "resourceLockedTill": "2026-11-24",
+      "internalTarget": "2026-11-25",
+      "customerTarget": "2026-11-27",
       "tasks": [
         {
           "id": "t-1794815346350",
@@ -6271,7 +6271,7 @@
           "completionDate": "2026-11-24"
         }
       ],
-      "currentStatus": "not_started",
+      "currentStatus": "sat",
       "constraint": ""
     },
     {
@@ -6547,5 +6547,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-11-24T11:39:31.772Z"
+  "lastUpdated": "2026-11-24T11:40:21.499Z"
 }
