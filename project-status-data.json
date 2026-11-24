@@ -499,11 +499,11 @@
       "ü",
       "ü",
       "ü",
+      "ü",
+      "ü",
+      "ü",
       "PC",
-      "y",
-      "y",
-      "û",
-      "û",
+      "PC",
       "û",
       "û",
       "û",
@@ -538,11 +538,30 @@
       "ü",
       "ü",
       "PC",
+      "PC",
+      "PC",
       "û",
       "û",
       "û",
       "û",
       "û",
+      "û",
+      "û",
+      "û",
+      "û",
+      "û"
+    ],
+    "live-3a-sl1-26070-summit-laemchabang-new-vacuum-cold-press-machine": [
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "ü",
+      "PS",
+      "PS",
       "û",
       "û",
       "û",
@@ -675,7 +694,7 @@
     {
       "id": "live-3a-jc2-26110-jcb-india-limited-drop-box-assembly-line",
       "name": "3A-JC2-26110-JCB India Limited-Drop Box Assembly Line",
-      "engineer": "Swapnil Pradip Patil"
+      "engineer": "Swapnil Pradip Patil, Baskar"
     },
     {
       "id": "live-3a-s02-25054-surface-hinge-assembly",
@@ -686,6 +705,11 @@
       "id": "live-3a-s03-25066-d8-press-in-blind-hole-receptacle-auto-assembly-southco",
       "name": "3A-S03-25066 - D8 Press-in Blind Hole Receptacle - Auto Assembly - SouthCo",
       "engineer": "Susanth K M, Veeresh M"
+    },
+    {
+      "id": "live-3a-sl1-26070-summit-laemchabang-new-vacuum-cold-press-machine",
+      "name": "3A-SL1-26070 - Summit Laemchabang-New Vacuum Cold Press Machine",
+      "engineer": "Harsha K, Baskar"
     },
     {
       "id": "live-3a-so1-25025-bailer-assembly",
@@ -718,5 +742,5 @@
       "engineer": "Dhanesh M"
     }
   ],
-  "lastUpdated": "2026-11-10T04:33:20.074Z"
+  "lastUpdated": "2026-11-24T06:08:11.116Z"
 }
