@@ -6495,7 +6495,7 @@
           "taskName": "Main HMI All screen completion",
           "type": "weekly",
           "assignedDate": "2026-11-24",
-          "status": "not_started",
+          "status": "in_progress",
           "targetDate": "2026-11-24"
         }
       ],
