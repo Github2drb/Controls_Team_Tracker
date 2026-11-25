@@ -16263,6 +16263,72 @@
         }
       ],
       "completedActivities": []
+    },
+    {
+      "engineerName": "Veeresh M",
+      "date": "2026-11-23",
+      "targetTasks": [
+        {
+          "id": "wa-1795596855786-zstg",
+          "text": "[3A-CC1-26100 – Classified Cycling-Calibration Test Bench] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Veeresh M",
+      "date": "2026-11-24",
+      "targetTasks": [
+        {
+          "id": "wa-1795596855786-usnj",
+          "text": "[3A-CC1-26100 – Classified Cycling-Calibration Test Bench] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Veeresh M",
+      "date": "2026-11-25",
+      "targetTasks": [
+        {
+          "id": "wa-1795596855786-2woy",
+          "text": "[3A-CC1-26100 – Classified Cycling-Calibration Test Bench] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Veeresh M",
+      "date": "2026-11-26",
+      "targetTasks": [
+        {
+          "id": "wa-1795596855787-q3kf",
+          "text": "[3A-CC1-26100 – Classified Cycling-Calibration Test Bench] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Veeresh M",
+      "date": "2026-11-27",
+      "targetTasks": [
+        {
+          "id": "wa-1795596855787-wdx3",
+          "text": "[3A-CC1-26100 – Classified Cycling-Calibration Test Bench] Weekly project task"
+        }
+      ],
+      "completedActivities": []
+    },
+    {
+      "engineerName": "Veeresh M",
+      "date": "2026-11-28",
+      "targetTasks": [
+        {
+          "id": "wa-1795596855787-6dfu",
+          "text": "[3A-CC1-26100 – Classified Cycling-Calibration Test Bench] Weekly project task"
+        }
+      ],
+      "completedActivities": []
     }
   ]
 }
