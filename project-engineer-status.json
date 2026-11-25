@@ -586,7 +586,21 @@
           "updatedAt": "2026-11-24T11:42:56.207Z"
         }
       }
+    },
+    "3a-sl1-26070 - summit laemchabang-new vacuum cold press machine": {
+      "projectName": "3A-SL1-26070 - Summit Laemchabang-New Vacuum Cold Press Machine",
+      "engineers": {
+        "harsha k": {
+          "displayName": "Harsha K",
+          "currentStatus": "electrical_assembly",
+          "resourceLockedFrom": "2026-10-12",
+          "resourceLockedTill": "2026-12-31",
+          "internalTarget": "2026-12-21",
+          "customerTarget": "2026-12-24",
+          "updatedAt": "2026-11-25T05:06:05.560Z"
+        }
+      }
     }
   },
-  "lastUpdated": "2026-11-25T05:05:11.705Z"
+  "lastUpdated": "2026-11-25T05:06:05.560Z"
 }
