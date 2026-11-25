@@ -5757,8 +5757,9 @@
           "taskName": "Conveyor Movement and Elco RFID Communication",
           "type": "weekly",
           "assignedDate": "2026-10-26",
-          "status": "not_started",
-          "targetDate": "2026-10-26"
+          "status": "completed",
+          "targetDate": "2026-10-26",
+          "completionDate": "2026-11-25"
         },
         {
           "id": "t-1792995182882",
