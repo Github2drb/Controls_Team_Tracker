@@ -6570,7 +6570,37 @@
       "tasks": [],
       "currentStatus": "in_progress",
       "constraint": "instead of 1 or 2 it should be OK/NG"
+    },
+    {
+      "id": "wa-1795596659405",
+      "engineerName": "Ramkumar Annamalai",
+      "weekStart": "2026-11-23",
+      "projectName": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1795596638083",
+          "taskName": "Provision for Laser Marking and saving laser marked data",
+          "type": "weekly",
+          "assignedDate": "2026-11-25",
+          "status": "not_started",
+          "targetDate": "2026-11-25"
+        },
+        {
+          "id": "t-1795596655296",
+          "taskName": "Provision to store Calibration bench data in main plc",
+          "type": "weekly",
+          "assignedDate": "2026-11-25",
+          "status": "not_started",
+          "targetDate": "2026-11-25"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-11-25T05:07:35.679Z"
+  "lastUpdated": "2026-11-25T08:50:59.405Z"
 }
