@@ -6146,8 +6146,9 @@
           "taskName": "Pending Points Offline Development for all stations",
           "type": "weekly",
           "assignedDate": "2026-11-10",
-          "status": "in_progress",
-          "targetDate": "2026-11-10"
+          "status": "completed",
+          "targetDate": "2026-11-10",
+          "completionDate": "2026-11-25"
         }
       ],
       "currentStatus": "not_started",
