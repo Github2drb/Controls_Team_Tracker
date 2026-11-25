@@ -6638,7 +6638,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1795596854121",
+      "engineerName": "Veeresh M",
+      "weekStart": "2026-11-23",
+      "projectName": "3A-CC1-26100 – Classified Cycling-Calibration Test Bench",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1795596850149",
+          "taskName": "Electrical Drawing handover to Wiring team",
+          "type": "weekly",
+          "assignedDate": "2026-11-25",
+          "status": "not_started",
+          "targetDate": "2026-11-25"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-11-25T08:52:10.403Z"
+  "lastUpdated": "2026-11-25T08:54:14.121Z"
 }
