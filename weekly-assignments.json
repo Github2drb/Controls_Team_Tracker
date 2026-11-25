@@ -6600,7 +6600,45 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1795596730403",
+      "engineerName": "Harsha K",
+      "weekStart": "2026-11-23",
+      "projectName": "3A-SL1-26070 - Summit Laemchabang-New Vacuum Cold Press Machine",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1795596698574",
+          "taskName": "Offline PLC Program development completion",
+          "type": "weekly",
+          "assignedDate": "2026-11-25",
+          "status": "not_started",
+          "targetDate": "2026-11-25"
+        },
+        {
+          "id": "t-1795596710582",
+          "taskName": "Offline HMI screen development completion",
+          "type": "weekly",
+          "assignedDate": "2026-11-25",
+          "status": "not_started",
+          "targetDate": "2026-11-25"
+        },
+        {
+          "id": "t-1795596722528",
+          "taskName": "Configuring 7 Servo in EIP and in PLC",
+          "type": "weekly",
+          "assignedDate": "2026-11-25",
+          "status": "not_started",
+          "targetDate": "2026-11-25"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-11-25T08:50:59.405Z"
+  "lastUpdated": "2026-11-25T08:52:10.403Z"
 }
