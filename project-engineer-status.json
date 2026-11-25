@@ -14,12 +14,12 @@
         },
         "santhosh n": {
           "displayName": "Santhosh N",
-          "currentStatus": "equipment_dispatched",
+          "currentStatus": "electrical_assembly",
           "resourceLockedFrom": "2026-06-15",
           "resourceLockedTill": "2026-12-30",
           "internalTarget": "2026-12-14",
           "customerTarget": "2026-12-18",
-          "updatedAt": "2026-11-24T11:42:18.913Z"
+          "updatedAt": "2026-11-25T05:05:03.447Z"
         },
         "indrakumar": {
           "displayName": "Indrakumar",
@@ -588,5 +588,5 @@
       }
     }
   },
-  "lastUpdated": "2026-11-25T05:04:26.752Z"
+  "lastUpdated": "2026-11-25T05:05:03.447Z"
 }
