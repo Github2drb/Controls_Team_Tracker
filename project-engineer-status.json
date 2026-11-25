@@ -598,9 +598,18 @@
           "internalTarget": "2026-12-21",
           "customerTarget": "2026-12-24",
           "updatedAt": "2026-11-25T05:06:05.560Z"
+        },
+        "baskar": {
+          "displayName": "Baskar",
+          "currentStatus": "electrical_assembly",
+          "resourceLockedFrom": "2026-10-05",
+          "resourceLockedTill": "2026-12-31",
+          "internalTarget": "2026-12-21",
+          "customerTarget": "2026-12-24",
+          "updatedAt": "2026-11-25T05:06:32.805Z"
         }
       }
     }
   },
-  "lastUpdated": "2026-11-25T05:06:05.560Z"
+  "lastUpdated": "2026-11-25T05:06:32.805Z"
 }
