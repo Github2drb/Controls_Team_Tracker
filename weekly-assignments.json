@@ -6421,8 +6421,9 @@
           "taskName": "Conveyor Completion including Part and Data Indexing",
           "type": "weekly",
           "assignedDate": "2026-11-24",
-          "status": "in_progress",
-          "targetDate": "2026-11-24"
+          "status": "completed",
+          "targetDate": "2026-11-24",
+          "completionDate": "2026-11-25"
         }
       ],
       "currentStatus": "in_progress",
