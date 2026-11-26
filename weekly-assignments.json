@@ -357,9 +357,9 @@
       "weekStart": "2026-05-22",
       "projectName": "3A-DK2-25142_STEP 4 - Dehydration",
       "resourceLockedFrom": "2026-03-02",
-      "resourceLockedTill": "2026-11-30",
-      "internalTarget": "2026-11-23",
-      "customerTarget": "2026-11-25",
+      "resourceLockedTill": "2026-12-31",
+      "internalTarget": "2026-12-28",
+      "customerTarget": "2026-12-31",
       "tasks": [],
       "currentStatus": "electrical_assembly",
       "notes": "DAP Completed",
@@ -6663,5 +6663,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-11-26T04:35:32.426Z"
+  "lastUpdated": "2026-11-26T06:33:31.665Z"
 }
