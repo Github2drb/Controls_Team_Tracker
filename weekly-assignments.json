@@ -3884,7 +3884,7 @@
       "customerTarget": "2026-11-27",
       "tasks": [],
       "currentStatus": "procurement_stage",
-      "constraint": "PHD done. DAP Submitted. Design in progress. \nDAP Approved. 25-09 - BOM Generated\nElectrical Design in progress.\n15-10-26 - Material Procurement in progress\n30-10-2026 - Offline Build in progress"
+      "constraint": "PHD done. DAP Submitted. Design in progress. \nDAP Approved. 25-09 - BOM Generated\nElectrical Design in progress.\n15-10-26 - Material Procurement in progress\n30-10-2026 - Offline Build in progress\n25-11-26 Swapnil will be resuming JCB project and hand over to other team"
     },
     {
       "id": "wa-1788946999319",
@@ -6663,5 +6663,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-11-26T04:34:44.355Z"
+  "lastUpdated": "2026-11-26T04:35:32.426Z"
 }
