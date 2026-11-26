@@ -6655,8 +6655,9 @@
           "taskName": "Electrical Drawing handover to Wiring team",
           "type": "weekly",
           "assignedDate": "2026-11-25",
-          "status": "not_started",
-          "targetDate": "2026-11-25"
+          "status": "completed",
+          "targetDate": "2026-11-25",
+          "completionDate": "2026-11-26"
         }
       ],
       "currentStatus": "in_progress",
