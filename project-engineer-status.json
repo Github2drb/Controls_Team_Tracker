@@ -471,9 +471,9 @@
           "currentStatus": "electrical_assembly",
           "resourceLockedFrom": "2026-08-31",
           "resourceLockedTill": "2026-12-30",
-          "internalTarget": "2026-12-07",
-          "customerTarget": "2026-12-11",
-          "updatedAt": "2026-11-10T06:20:37.472Z"
+          "internalTarget": "2026-12-28",
+          "customerTarget": "2026-12-31",
+          "updatedAt": "2026-11-26T06:37:38.351Z"
         }
       }
     },
@@ -611,5 +611,5 @@
       }
     }
   },
-  "lastUpdated": "2026-11-25T05:07:02.981Z"
+  "lastUpdated": "2026-11-26T06:37:38.351Z"
 }
