@@ -6684,7 +6684,29 @@
       ],
       "currentStatus": "not_started",
       "constraint": ""
+    },
+    {
+      "id": "wa-1795764582957",
+      "engineerName": "Ramkumar Annamalai",
+      "weekStart": "2026-11-23",
+      "projectName": "[3A-CC1-26040] Classified Cycling-7SP HUB ASSEMBLY & EO",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1795764567946",
+          "taskName": "S.A.T Completion and Sign off",
+          "type": "weekly",
+          "assignedDate": "2026-11-27",
+          "status": "not_started",
+          "targetDate": "2026-11-27"
+        }
+      ],
+      "currentStatus": "in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-11-27T07:28:55.723Z"
+  "lastUpdated": "2026-11-27T07:29:42.957Z"
 }
