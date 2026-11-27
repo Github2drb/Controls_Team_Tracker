@@ -6587,8 +6587,9 @@
           "taskName": "Provision for Laser Marking and saving laser marked data",
           "type": "weekly",
           "assignedDate": "2026-11-25",
-          "status": "not_started",
-          "targetDate": "2026-11-25"
+          "status": "completed",
+          "targetDate": "2026-11-25",
+          "completionDate": "2026-11-27"
         },
         {
           "id": "t-1795596655296",
