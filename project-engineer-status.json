@@ -453,9 +453,9 @@
           "currentStatus": "electrical_assembly",
           "resourceLockedFrom": "2026-06-09",
           "resourceLockedTill": "2026-12-30",
-          "internalTarget": "2026-12-07",
-          "customerTarget": "2026-11-12",
-          "updatedAt": "2026-11-10T06:20:17.551Z"
+          "internalTarget": "2026-12-28",
+          "customerTarget": "2026-12-31",
+          "updatedAt": "2026-11-27T10:19:07.919Z"
         },
         "harsha k": {
           "displayName": "Harsha K",
@@ -611,5 +611,5 @@
       }
     }
   },
-  "lastUpdated": "2026-11-26T06:37:38.351Z"
+  "lastUpdated": "2026-11-27T10:19:07.922Z"
 }
