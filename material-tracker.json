@@ -89,7 +89,13 @@
           "notes": "Critical item, single vendor",
           "prCreated": "2026-05-04",
           "prApproved": "2026-05-04",
-          "currentStatus": "Received"
+          "currentStatus": "Received",
+          "poApproved": "2026-11-01",
+          "scmCommittedDate": "2026-11-09",
+          "actualReceipt": "2026-11-12",
+          "hwIntegrationTarget": "2026-11-16",
+          "hwIntegrationDone": "2026-11-14",
+          "poCreated": "2026-11-05"
         },
         {
           "id": "mat-1785410420950-2-00k0",
@@ -101,7 +107,13 @@
           "notes": "Confirm resolution with design",
           "prCreated": "2026-05-04",
           "prApproved": "2026-05-04",
-          "currentStatus": "Received"
+          "currentStatus": "Received",
+          "poCreated": "2026-10-05",
+          "poApproved": "2026-10-09",
+          "scmCommittedDate": "2026-10-12",
+          "actualReceipt": "2026-10-14",
+          "hwIntegrationTarget": "2026-10-18",
+          "hwIntegrationDone": "2026-10-15"
         },
         {
           "id": "mat-1785410420950-3-fj54",
@@ -109,11 +121,17 @@
           "qty": "1",
           "unit": "Nos",
           "bomDate": "2026-04-07",
-          "targetReceipt": "2026-07-30",
+          "targetReceipt": "2026-06-12",
           "notes": "Long lead item — order early",
           "prCreated": "2026-05-04",
           "prApproved": "2026-05-04",
-          "currentStatus": "Received"
+          "currentStatus": "Received",
+          "poCreated": "2026-10-05",
+          "poApproved": "2026-10-06",
+          "scmCommittedDate": "2026-10-12",
+          "actualReceipt": "2026-10-13",
+          "hwIntegrationTarget": "2026-10-17",
+          "hwIntegrationDone": "2026-10-15"
         },
         {
           "id": "mat-1785410420950-4-jb29",
@@ -121,11 +139,17 @@
           "qty": "1",
           "unit": "Nos",
           "bomDate": "2026-04-07",
-          "targetReceipt": "2026-07-30",
+          "targetReceipt": "2026-10-07",
           "notes": "Long lead item — order early",
           "prCreated": "2026-05-04",
           "prApproved": "2026-05-04",
-          "currentStatus": "Received"
+          "currentStatus": "Received",
+          "poCreated": "2026-10-05",
+          "poApproved": "2026-10-06",
+          "scmCommittedDate": "2026-10-08",
+          "actualReceipt": "2026-10-09",
+          "hwIntegrationTarget": "2026-10-13",
+          "hwIntegrationDone": "2026-10-10"
         },
         {
           "id": "mat-1785410420950-5-ikv7",
@@ -133,11 +157,17 @@
           "qty": "1",
           "unit": "Nos",
           "bomDate": "2026-04-07",
-          "targetReceipt": "2026-07-30",
+          "targetReceipt": "2026-11-07",
           "notes": "Long lead item — order early",
           "prCreated": "2026-05-04",
-          "prApproved": "2026-05-11",
-          "currentStatus": "Received"
+          "prApproved": "2026-11-04",
+          "currentStatus": "Received",
+          "poCreated": "2026-10-05",
+          "poApproved": "2026-11-06",
+          "scmCommittedDate": "2026-11-08",
+          "actualReceipt": "2026-11-09",
+          "hwIntegrationTarget": "2026-11-13",
+          "hwIntegrationDone": "2026-11-10"
         }
       ]
     },
@@ -473,5 +503,5 @@
       ]
     }
   },
-  "lastUpdated": "2026-10-23T09:41:53.717Z"
+  "lastUpdated": "2026-11-27T10:25:10.343Z"
 }
