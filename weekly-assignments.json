@@ -3879,9 +3879,9 @@
       "weekStart": "2026-09-07",
       "projectName": "3A-JC2-26110-JCB India Limited-Drop Box Assembly Line",
       "resourceLockedFrom": "2026-09-07",
-      "resourceLockedTill": "2026-11-30",
-      "internalTarget": "2026-11-23",
-      "customerTarget": "2026-11-27",
+      "resourceLockedTill": "2026-12-30",
+      "internalTarget": "2026-12-21",
+      "customerTarget": "2026-12-25",
       "tasks": [],
       "currentStatus": "procurement_stage",
       "constraint": "PHD done. DAP Submitted. Design in progress. \nDAP Approved. 25-09 - BOM Generated\nElectrical Design in progress.\n15-10-26 - Material Procurement in progress\n30-10-2026 - Offline Build in progress\n25-11-26 Swapnil will be resuming JCB project and hand over to other team"
@@ -6664,5 +6664,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-11-27T07:23:32.135Z"
+  "lastUpdated": "2026-11-27T07:23:49.226Z"
 }
