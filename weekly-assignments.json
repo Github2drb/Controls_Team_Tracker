@@ -6654,7 +6654,37 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1795764535723",
+      "engineerName": "Susanth K M",
+      "weekStart": "2026-11-23",
+      "projectName": "DK1-25110- ODU Assembly auto line",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1795764491629",
+          "taskName": "FMT Trials with customer part in front of customers",
+          "type": "weekly",
+          "assignedDate": "2026-11-27",
+          "status": "not_started",
+          "targetDate": "2026-11-27"
+        },
+        {
+          "id": "t-1795764514745",
+          "taskName": "Getting Maximum Position and Load from all Rexroth Servo Press",
+          "type": "weekly",
+          "assignedDate": "2026-11-27",
+          "status": "not_started",
+          "targetDate": "2026-11-27"
+        }
+      ],
+      "currentStatus": "not_started",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-11-27T07:25:27.448Z"
+  "lastUpdated": "2026-11-27T07:28:55.723Z"
 }
