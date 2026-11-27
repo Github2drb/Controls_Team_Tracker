@@ -93,9 +93,9 @@
       "notes": "",
       "constraint": "Control Panel Assembled with PLC - 3 no's\nSent to customer site for installation.\nMechanical installation in progress\nIndra Kumar has been planned for line study and gather offline PLC and HMI backup from 29/08 to 03/09. Mechanical integration completed. Electrical integration in progress. Filtration Equipment Wiring Completed pending field wiring and main panel integration. Top Panel Solenoid wiring completed.\nElectrical and mechanical completion closing ON.\n24-11-26 Controls Plan discussed with rakesh and Nithya madam and shared with them\n",
       "resourceLockedFrom": "2026-08-03",
-      "resourceLockedTill": "2026-11-30",
-      "internalTarget": "2026-10-26",
-      "customerTarget": "2026-11-30"
+      "resourceLockedTill": "2026-12-30",
+      "internalTarget": "2026-12-28",
+      "customerTarget": "2026-12-30"
     },
     {
       "id": "Eswanth Potnuri-2026-03-30-1775039664482",
@@ -6664,5 +6664,5 @@
       "constraint": ""
     }
   ],
-  "lastUpdated": "2026-11-27T07:19:03.808Z"
+  "lastUpdated": "2026-11-27T07:23:13.856Z"
 }
