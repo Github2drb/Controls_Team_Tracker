@@ -6706,7 +6706,29 @@
       ],
       "currentStatus": "in_progress",
       "constraint": ""
+    },
+    {
+      "id": "wa-1795764636926",
+      "engineerName": "Swapnil Pradip Patil",
+      "weekStart": "2026-11-23",
+      "projectName": "3A-TC-26039_Assy_Stn_for_46P_and_6P_Connector",
+      "resourceLockedFrom": "",
+      "resourceLockedTill": "",
+      "internalTarget": "",
+      "customerTarget": "",
+      "tasks": [
+        {
+          "id": "t-1795764629464",
+          "taskName": "Equipment power up and installation and commissioning",
+          "type": "daily",
+          "assignedDate": "2026-12-04",
+          "status": "not_started",
+          "targetDate": "2026-12-04"
+        }
+      ],
+      "currentStatus": "installation_in_progress",
+      "constraint": ""
     }
   ],
-  "lastUpdated": "2026-11-27T07:29:42.957Z"
+  "lastUpdated": "2026-11-27T07:30:36.926Z"
 }
